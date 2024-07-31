@@ -1,0 +1,294 @@
+25-May-24 16:51:51 - INFO (fourier_nmr_driver.__main__) - Code running in C:\NMRData\EB\projectGunther\FullRuns\FullRun2.
+25-May-24 16:51:51 - INFO (fourier_nmr_driver.__main__) - Default settings loaded.
+25-May-24 16:51:51 - INFO (fourier_nmr_driver.__main__) - Shim sample in reference rack position 1.
+25-May-24 16:51:51 - INFO (fourier_nmr_driver.__main__) - Shimming every 3.00 hours.
+25-May-24 16:51:51 - INFO (fourier_nmr_driver.__main__) - Shimming time will be 20.00 minutes.
+25-May-24 16:51:51 - INFO (fourier_nmr_driver.__main__) - Acquiring spectra specified in C:\NMRData\EB\projectGunther\FullRuns\FullRun2\batch6.json.
+25-May-24 16:51:51 - INFO (fourier_nmr_driver.__main__) - Data will be saved in C:\NMRData\EB\projectGunther\FullRuns\FullRun2\2024-05-25-batch6-NMR.
+25-May-24 16:51:51 - INFO (fourier_nmr_driver.__main__) - Using PAL racks.
+25-May-24 16:51:52 - INFO (fourier_nmr_driver.__main__) - Fourier80 REST interface connected at localhost:3081.
+25-May-24 16:52:52 - INFO (fourier_nmr_driver.__main__) - Quickshim procedure completed.
+25-May-24 16:52:52 - INFO (fourier_nmr_driver.acquisition) - Loaded 46 sample request(s).
+25-May-24 16:54:04 - INFO (fourier_nmr_driver.acquisition) - Sample batch6-01 inserted from rack position 01.
+25-May-24 16:56:06 - INFO (fourier_nmr_driver.acquisition) - Locking Fourier80 has finished.
+25-May-24 16:56:06 - INFO (fourier_nmr_driver.acquisition) - Number of scans for experiment MULTISUPPDC_f (expno 10) on sample batch6-01 is 8.
+25-May-24 16:56:06 - INFO (fourier_nmr_driver.acquisition) - MULTISUPPDC_f: presaturation of 10 and peak picking threshold 0.008.
+25-May-24 16:58:04 - INFO (fourier_nmr_driver.acquisition) - Experiment MULTISUPPDC_f completed.
+25-May-24 16:58:04 - INFO (fourier_nmr_driver.acquisition) - Experiments on sample batch6-01 completed.
+25-May-24 16:59:16 - INFO (fourier_nmr_driver.acquisition) - Sample batch6-02 inserted from rack position 02.
+25-May-24 17:01:18 - INFO (fourier_nmr_driver.acquisition) - Locking Fourier80 has finished.
+25-May-24 17:01:18 - INFO (fourier_nmr_driver.acquisition) - Number of scans for experiment MULTISUPPDC_f (expno 10) on sample batch6-02 is 8.
+25-May-24 17:01:18 - INFO (fourier_nmr_driver.acquisition) - MULTISUPPDC_f: presaturation of 10 and peak picking threshold 0.008.
+25-May-24 17:03:14 - INFO (fourier_nmr_driver.acquisition) - Experiment MULTISUPPDC_f completed.
+25-May-24 17:03:14 - INFO (fourier_nmr_driver.acquisition) - Experiments on sample batch6-02 completed.
+25-May-24 17:04:25 - INFO (fourier_nmr_driver.acquisition) - Sample batch6-03 inserted from rack position 03.
+25-May-24 17:06:27 - INFO (fourier_nmr_driver.acquisition) - Locking Fourier80 has finished.
+25-May-24 17:06:27 - INFO (fourier_nmr_driver.acquisition) - Number of scans for experiment MULTISUPPDC_f (expno 10) on sample batch6-03 is 8.
+25-May-24 17:06:27 - INFO (fourier_nmr_driver.acquisition) - MULTISUPPDC_f: presaturation of 10 and peak picking threshold 0.008.
+25-May-24 17:08:26 - INFO (fourier_nmr_driver.acquisition) - Experiment MULTISUPPDC_f completed.
+25-May-24 17:08:26 - INFO (fourier_nmr_driver.acquisition) - Experiments on sample batch6-03 completed.
+25-May-24 17:09:37 - INFO (fourier_nmr_driver.acquisition) - Sample batch6-04 inserted from rack position 04.
+25-May-24 17:11:39 - INFO (fourier_nmr_driver.acquisition) - Locking Fourier80 has finished.
+25-May-24 17:11:39 - INFO (fourier_nmr_driver.acquisition) - Number of scans for experiment MULTISUPPDC_f (expno 10) on sample batch6-04 is 8.
+25-May-24 17:11:39 - INFO (fourier_nmr_driver.acquisition) - MULTISUPPDC_f: presaturation of 10 and peak picking threshold 0.008.
+25-May-24 17:13:36 - INFO (fourier_nmr_driver.acquisition) - Experiment MULTISUPPDC_f completed.
+25-May-24 17:13:36 - INFO (fourier_nmr_driver.acquisition) - Experiments on sample batch6-04 completed.
+25-May-24 17:14:47 - INFO (fourier_nmr_driver.acquisition) - Sample batch6-05 inserted from rack position 05.
+25-May-24 17:16:52 - INFO (fourier_nmr_driver.acquisition) - Locking Fourier80 has finished.
+25-May-24 17:16:52 - INFO (fourier_nmr_driver.acquisition) - Number of scans for experiment MULTISUPPDC_f (expno 10) on sample batch6-05 is 8.
+25-May-24 17:16:52 - INFO (fourier_nmr_driver.acquisition) - MULTISUPPDC_f: presaturation of 10 and peak picking threshold 0.008.
+25-May-24 17:18:50 - INFO (fourier_nmr_driver.acquisition) - Experiment MULTISUPPDC_f completed.
+25-May-24 17:18:50 - INFO (fourier_nmr_driver.acquisition) - Experiments on sample batch6-05 completed.
+25-May-24 17:20:02 - INFO (fourier_nmr_driver.acquisition) - Sample batch6-06 inserted from rack position 06.
+25-May-24 17:22:04 - INFO (fourier_nmr_driver.acquisition) - Locking Fourier80 has finished.
+25-May-24 17:22:04 - INFO (fourier_nmr_driver.acquisition) - Number of scans for experiment MULTISUPPDC_f (expno 10) on sample batch6-06 is 8.
+25-May-24 17:22:04 - INFO (fourier_nmr_driver.acquisition) - MULTISUPPDC_f: presaturation of 10 and peak picking threshold 0.008.
+25-May-24 17:24:01 - INFO (fourier_nmr_driver.acquisition) - Experiment MULTISUPPDC_f completed.
+25-May-24 17:24:01 - INFO (fourier_nmr_driver.acquisition) - Experiments on sample batch6-06 completed.
+25-May-24 17:25:12 - INFO (fourier_nmr_driver.acquisition) - Sample batch6-07 inserted from rack position 07.
+25-May-24 17:27:15 - INFO (fourier_nmr_driver.acquisition) - Locking Fourier80 has finished.
+25-May-24 17:27:15 - INFO (fourier_nmr_driver.acquisition) - Number of scans for experiment MULTISUPPDC_f (expno 10) on sample batch6-07 is 8.
+25-May-24 17:27:15 - INFO (fourier_nmr_driver.acquisition) - MULTISUPPDC_f: presaturation of 10 and peak picking threshold 0.008.
+25-May-24 17:29:10 - INFO (fourier_nmr_driver.acquisition) - Experiment MULTISUPPDC_f completed.
+25-May-24 17:29:10 - INFO (fourier_nmr_driver.acquisition) - Experiments on sample batch6-07 completed.
+25-May-24 17:30:21 - INFO (fourier_nmr_driver.acquisition) - Sample batch6-08 inserted from rack position 08.
+25-May-24 17:32:23 - INFO (fourier_nmr_driver.acquisition) - Locking Fourier80 has finished.
+25-May-24 17:32:24 - INFO (fourier_nmr_driver.acquisition) - Number of scans for experiment MULTISUPPDC_f (expno 10) on sample batch6-08 is 8.
+25-May-24 17:32:24 - INFO (fourier_nmr_driver.acquisition) - MULTISUPPDC_f: presaturation of 10 and peak picking threshold 0.008.
+25-May-24 17:34:20 - INFO (fourier_nmr_driver.acquisition) - Experiment MULTISUPPDC_f completed.
+25-May-24 17:34:20 - INFO (fourier_nmr_driver.acquisition) - Experiments on sample batch6-08 completed.
+25-May-24 17:35:33 - INFO (fourier_nmr_driver.acquisition) - Sample batch6-09 inserted from rack position 09.
+25-May-24 17:37:36 - INFO (fourier_nmr_driver.acquisition) - Locking Fourier80 has finished.
+25-May-24 17:37:36 - INFO (fourier_nmr_driver.acquisition) - Number of scans for experiment MULTISUPPDC_f (expno 10) on sample batch6-09 is 8.
+25-May-24 17:37:36 - INFO (fourier_nmr_driver.acquisition) - MULTISUPPDC_f: presaturation of 10 and peak picking threshold 0.008.
+25-May-24 17:39:33 - INFO (fourier_nmr_driver.acquisition) - Experiment MULTISUPPDC_f completed.
+25-May-24 17:39:33 - INFO (fourier_nmr_driver.acquisition) - Experiments on sample batch6-09 completed.
+25-May-24 17:40:45 - INFO (fourier_nmr_driver.acquisition) - Sample batch6-10 inserted from rack position 10.
+25-May-24 17:42:47 - INFO (fourier_nmr_driver.acquisition) - Locking Fourier80 has finished.
+25-May-24 17:42:47 - INFO (fourier_nmr_driver.acquisition) - Number of scans for experiment MULTISUPPDC_f (expno 10) on sample batch6-10 is 8.
+25-May-24 17:42:47 - INFO (fourier_nmr_driver.acquisition) - MULTISUPPDC_f: presaturation of 10 and peak picking threshold 0.008.
+25-May-24 17:44:44 - INFO (fourier_nmr_driver.acquisition) - Experiment MULTISUPPDC_f completed.
+25-May-24 17:44:44 - INFO (fourier_nmr_driver.acquisition) - Experiments on sample batch6-10 completed.
+25-May-24 17:45:56 - INFO (fourier_nmr_driver.acquisition) - Sample batch6-11 inserted from rack position 11.
+25-May-24 17:48:00 - INFO (fourier_nmr_driver.acquisition) - Locking Fourier80 has finished.
+25-May-24 17:48:00 - INFO (fourier_nmr_driver.acquisition) - Number of scans for experiment MULTISUPPDC_f (expno 10) on sample batch6-11 is 8.
+25-May-24 17:48:00 - INFO (fourier_nmr_driver.acquisition) - MULTISUPPDC_f: presaturation of 10 and peak picking threshold 0.008.
+25-May-24 17:49:58 - INFO (fourier_nmr_driver.acquisition) - Experiment MULTISUPPDC_f completed.
+25-May-24 17:49:58 - INFO (fourier_nmr_driver.acquisition) - Experiments on sample batch6-11 completed.
+25-May-24 17:51:09 - INFO (fourier_nmr_driver.acquisition) - Sample batch6-12 inserted from rack position 12.
+25-May-24 17:53:11 - INFO (fourier_nmr_driver.acquisition) - Locking Fourier80 has finished.
+25-May-24 17:53:11 - INFO (fourier_nmr_driver.acquisition) - Number of scans for experiment MULTISUPPDC_f (expno 10) on sample batch6-12 is 8.
+25-May-24 17:53:11 - INFO (fourier_nmr_driver.acquisition) - MULTISUPPDC_f: presaturation of 10 and peak picking threshold 0.008.
+25-May-24 17:55:07 - INFO (fourier_nmr_driver.acquisition) - Experiment MULTISUPPDC_f completed.
+25-May-24 17:55:07 - INFO (fourier_nmr_driver.acquisition) - Experiments on sample batch6-12 completed.
+25-May-24 17:56:18 - INFO (fourier_nmr_driver.acquisition) - Sample batch6-13 inserted from rack position 13.
+25-May-24 17:58:20 - INFO (fourier_nmr_driver.acquisition) - Locking Fourier80 has finished.
+25-May-24 17:58:20 - INFO (fourier_nmr_driver.acquisition) - Number of scans for experiment MULTISUPPDC_f (expno 10) on sample batch6-13 is 8.
+25-May-24 17:58:20 - INFO (fourier_nmr_driver.acquisition) - MULTISUPPDC_f: presaturation of 10 and peak picking threshold 0.008.
+25-May-24 18:00:17 - INFO (fourier_nmr_driver.acquisition) - Experiment MULTISUPPDC_f completed.
+25-May-24 18:00:17 - INFO (fourier_nmr_driver.acquisition) - Experiments on sample batch6-13 completed.
+25-May-24 18:01:27 - INFO (fourier_nmr_driver.acquisition) - Sample batch6-14 inserted from rack position 14.
+25-May-24 18:03:29 - INFO (fourier_nmr_driver.acquisition) - Locking Fourier80 has finished.
+25-May-24 18:03:29 - INFO (fourier_nmr_driver.acquisition) - Number of scans for experiment MULTISUPPDC_f (expno 10) on sample batch6-14 is 8.
+25-May-24 18:03:29 - INFO (fourier_nmr_driver.acquisition) - MULTISUPPDC_f: presaturation of 10 and peak picking threshold 0.008.
+25-May-24 18:05:26 - INFO (fourier_nmr_driver.acquisition) - Experiment MULTISUPPDC_f completed.
+25-May-24 18:05:26 - INFO (fourier_nmr_driver.acquisition) - Experiments on sample batch6-14 completed.
+25-May-24 18:06:39 - INFO (fourier_nmr_driver.acquisition) - Sample batch6-15 inserted from rack position 15.
+25-May-24 18:08:42 - INFO (fourier_nmr_driver.acquisition) - Locking Fourier80 has finished.
+25-May-24 18:08:42 - INFO (fourier_nmr_driver.acquisition) - Number of scans for experiment MULTISUPPDC_f (expno 10) on sample batch6-15 is 8.
+25-May-24 18:08:42 - INFO (fourier_nmr_driver.acquisition) - MULTISUPPDC_f: presaturation of 10 and peak picking threshold 0.008.
+25-May-24 18:10:37 - INFO (fourier_nmr_driver.acquisition) - Experiment MULTISUPPDC_f completed.
+25-May-24 18:10:37 - INFO (fourier_nmr_driver.acquisition) - Experiments on sample batch6-15 completed.
+25-May-24 18:11:49 - INFO (fourier_nmr_driver.acquisition) - Sample batch6-16 inserted from rack position 16.
+25-May-24 18:13:51 - INFO (fourier_nmr_driver.acquisition) - Locking Fourier80 has finished.
+25-May-24 18:13:51 - INFO (fourier_nmr_driver.acquisition) - Number of scans for experiment MULTISUPPDC_f (expno 10) on sample batch6-16 is 8.
+25-May-24 18:13:51 - INFO (fourier_nmr_driver.acquisition) - MULTISUPPDC_f: presaturation of 10 and peak picking threshold 0.008.
+25-May-24 18:15:48 - INFO (fourier_nmr_driver.acquisition) - Experiment MULTISUPPDC_f completed.
+25-May-24 18:15:48 - INFO (fourier_nmr_driver.acquisition) - Experiments on sample batch6-16 completed.
+25-May-24 18:17:00 - INFO (fourier_nmr_driver.acquisition) - Sample batch6-17 inserted from rack position 17.
+25-May-24 18:19:02 - INFO (fourier_nmr_driver.acquisition) - Locking Fourier80 has finished.
+25-May-24 18:19:03 - INFO (fourier_nmr_driver.acquisition) - Number of scans for experiment MULTISUPPDC_f (expno 10) on sample batch6-17 is 8.
+25-May-24 18:19:03 - INFO (fourier_nmr_driver.acquisition) - MULTISUPPDC_f: presaturation of 10 and peak picking threshold 0.008.
+25-May-24 18:20:59 - INFO (fourier_nmr_driver.acquisition) - Experiment MULTISUPPDC_f completed.
+25-May-24 18:20:59 - INFO (fourier_nmr_driver.acquisition) - Experiments on sample batch6-17 completed.
+25-May-24 18:22:10 - INFO (fourier_nmr_driver.acquisition) - Sample batch6-18 inserted from rack position 18.
+25-May-24 18:24:23 - INFO (fourier_nmr_driver.acquisition) - Locking Fourier80 has finished.
+25-May-24 18:24:23 - INFO (fourier_nmr_driver.acquisition) - Number of scans for experiment MULTISUPPDC_f (expno 10) on sample batch6-18 is 8.
+25-May-24 18:24:23 - INFO (fourier_nmr_driver.acquisition) - MULTISUPPDC_f: presaturation of 10 and peak picking threshold 0.008.
+25-May-24 18:26:19 - INFO (fourier_nmr_driver.acquisition) - Experiment MULTISUPPDC_f completed.
+25-May-24 18:26:19 - INFO (fourier_nmr_driver.acquisition) - Experiments on sample batch6-18 completed.
+25-May-24 18:27:29 - INFO (fourier_nmr_driver.acquisition) - Sample batch6-19 inserted from rack position 19.
+25-May-24 18:29:38 - INFO (fourier_nmr_driver.acquisition) - Locking Fourier80 has finished.
+25-May-24 18:29:38 - INFO (fourier_nmr_driver.acquisition) - Number of scans for experiment MULTISUPPDC_f (expno 10) on sample batch6-19 is 8.
+25-May-24 18:29:38 - INFO (fourier_nmr_driver.acquisition) - MULTISUPPDC_f: presaturation of 10 and peak picking threshold 0.008.
+25-May-24 18:31:35 - INFO (fourier_nmr_driver.acquisition) - Experiment MULTISUPPDC_f completed.
+25-May-24 18:31:35 - INFO (fourier_nmr_driver.acquisition) - Experiments on sample batch6-19 completed.
+25-May-24 18:32:46 - INFO (fourier_nmr_driver.acquisition) - Sample batch6-20 inserted from rack position 20.
+25-May-24 18:35:00 - INFO (fourier_nmr_driver.acquisition) - Locking Fourier80 has finished.
+25-May-24 18:35:00 - INFO (fourier_nmr_driver.acquisition) - Number of scans for experiment MULTISUPPDC_f (expno 10) on sample batch6-20 is 8.
+25-May-24 18:35:00 - INFO (fourier_nmr_driver.acquisition) - MULTISUPPDC_f: presaturation of 10 and peak picking threshold 0.008.
+25-May-24 18:36:57 - INFO (fourier_nmr_driver.acquisition) - Experiment MULTISUPPDC_f completed.
+25-May-24 18:36:57 - INFO (fourier_nmr_driver.acquisition) - Experiments on sample batch6-20 completed.
+25-May-24 18:38:07 - INFO (fourier_nmr_driver.acquisition) - Sample batch6-21 inserted from rack position 21.
+25-May-24 18:40:09 - INFO (fourier_nmr_driver.acquisition) - Locking Fourier80 has finished.
+25-May-24 18:40:09 - INFO (fourier_nmr_driver.acquisition) - Number of scans for experiment MULTISUPPDC_f (expno 10) on sample batch6-21 is 8.
+25-May-24 18:40:09 - INFO (fourier_nmr_driver.acquisition) - MULTISUPPDC_f: presaturation of 10 and peak picking threshold 0.008.
+25-May-24 18:42:07 - INFO (fourier_nmr_driver.acquisition) - Experiment MULTISUPPDC_f completed.
+25-May-24 18:42:07 - INFO (fourier_nmr_driver.acquisition) - Experiments on sample batch6-21 completed.
+25-May-24 18:43:15 - INFO (fourier_nmr_driver.acquisition) - Sample batch6-22 inserted from rack position 22.
+25-May-24 18:45:17 - INFO (fourier_nmr_driver.acquisition) - Locking Fourier80 has finished.
+25-May-24 18:45:17 - INFO (fourier_nmr_driver.acquisition) - Number of scans for experiment MULTISUPPDC_f (expno 10) on sample batch6-22 is 8.
+25-May-24 18:45:17 - INFO (fourier_nmr_driver.acquisition) - MULTISUPPDC_f: presaturation of 10 and peak picking threshold 0.008.
+25-May-24 18:47:14 - INFO (fourier_nmr_driver.acquisition) - Experiment MULTISUPPDC_f completed.
+25-May-24 18:47:14 - INFO (fourier_nmr_driver.acquisition) - Experiments on sample batch6-22 completed.
+25-May-24 18:48:21 - INFO (fourier_nmr_driver.acquisition) - Sample batch6-23 inserted from rack position 23.
+25-May-24 18:50:24 - INFO (fourier_nmr_driver.acquisition) - Locking Fourier80 has finished.
+25-May-24 18:50:24 - INFO (fourier_nmr_driver.acquisition) - Number of scans for experiment MULTISUPPDC_f (expno 10) on sample batch6-23 is 8.
+25-May-24 18:50:24 - INFO (fourier_nmr_driver.acquisition) - MULTISUPPDC_f: presaturation of 10 and peak picking threshold 0.008.
+25-May-24 18:52:18 - INFO (fourier_nmr_driver.acquisition) - Experiment MULTISUPPDC_f completed.
+25-May-24 18:52:18 - INFO (fourier_nmr_driver.acquisition) - Experiments on sample batch6-23 completed.
+25-May-24 18:53:27 - INFO (fourier_nmr_driver.acquisition) - Sample batch6-24 inserted from rack position 24.
+25-May-24 18:55:40 - INFO (fourier_nmr_driver.acquisition) - Locking Fourier80 has finished.
+25-May-24 18:55:40 - INFO (fourier_nmr_driver.acquisition) - Number of scans for experiment MULTISUPPDC_f (expno 10) on sample batch6-24 is 8.
+25-May-24 18:55:40 - INFO (fourier_nmr_driver.acquisition) - MULTISUPPDC_f: presaturation of 10 and peak picking threshold 0.008.
+25-May-24 18:57:37 - INFO (fourier_nmr_driver.acquisition) - Experiment MULTISUPPDC_f completed.
+25-May-24 18:57:37 - INFO (fourier_nmr_driver.acquisition) - Experiments on sample batch6-24 completed.
+25-May-24 18:58:47 - INFO (fourier_nmr_driver.acquisition) - Sample batch6-25 inserted from rack position 25.
+25-May-24 19:00:52 - INFO (fourier_nmr_driver.acquisition) - Locking Fourier80 has finished.
+25-May-24 19:00:53 - INFO (fourier_nmr_driver.acquisition) - Number of scans for experiment MULTISUPPDC_f (expno 10) on sample batch6-25 is 8.
+25-May-24 19:00:53 - INFO (fourier_nmr_driver.acquisition) - MULTISUPPDC_f: presaturation of 10 and peak picking threshold 0.008.
+25-May-24 19:02:49 - INFO (fourier_nmr_driver.acquisition) - Experiment MULTISUPPDC_f completed.
+25-May-24 19:02:49 - INFO (fourier_nmr_driver.acquisition) - Experiments on sample batch6-25 completed.
+25-May-24 19:03:58 - INFO (fourier_nmr_driver.acquisition) - Sample batch6-26 inserted from rack position 26.
+25-May-24 19:06:00 - INFO (fourier_nmr_driver.acquisition) - Locking Fourier80 has finished.
+25-May-24 19:06:00 - INFO (fourier_nmr_driver.acquisition) - Number of scans for experiment MULTISUPPDC_f (expno 10) on sample batch6-26 is 8.
+25-May-24 19:06:00 - INFO (fourier_nmr_driver.acquisition) - MULTISUPPDC_f: presaturation of 10 and peak picking threshold 0.008.
+25-May-24 19:07:56 - INFO (fourier_nmr_driver.acquisition) - Experiment MULTISUPPDC_f completed.
+25-May-24 19:07:56 - INFO (fourier_nmr_driver.acquisition) - Experiments on sample batch6-26 completed.
+25-May-24 19:09:02 - INFO (fourier_nmr_driver.acquisition) - Sample batch6-27 inserted from rack position 27.
+25-May-24 19:11:18 - INFO (fourier_nmr_driver.acquisition) - Locking Fourier80 has finished.
+25-May-24 19:11:18 - INFO (fourier_nmr_driver.acquisition) - Number of scans for experiment MULTISUPPDC_f (expno 10) on sample batch6-27 is 8.
+25-May-24 19:11:18 - INFO (fourier_nmr_driver.acquisition) - MULTISUPPDC_f: presaturation of 10 and peak picking threshold 0.008.
+25-May-24 19:13:15 - INFO (fourier_nmr_driver.acquisition) - Experiment MULTISUPPDC_f completed.
+25-May-24 19:13:15 - INFO (fourier_nmr_driver.acquisition) - Experiments on sample batch6-27 completed.
+25-May-24 19:14:24 - INFO (fourier_nmr_driver.acquisition) - Sample batch6-28 inserted from rack position 28.
+25-May-24 19:16:27 - INFO (fourier_nmr_driver.acquisition) - Locking Fourier80 has finished.
+25-May-24 19:16:27 - INFO (fourier_nmr_driver.acquisition) - Number of scans for experiment MULTISUPPDC_f (expno 10) on sample batch6-28 is 8.
+25-May-24 19:16:27 - INFO (fourier_nmr_driver.acquisition) - MULTISUPPDC_f: presaturation of 10 and peak picking threshold 0.008.
+25-May-24 19:18:25 - INFO (fourier_nmr_driver.acquisition) - Experiment MULTISUPPDC_f completed.
+25-May-24 19:18:25 - INFO (fourier_nmr_driver.acquisition) - Experiments on sample batch6-28 completed.
+25-May-24 19:19:34 - INFO (fourier_nmr_driver.acquisition) - Sample batch6-29 inserted from rack position 29.
+25-May-24 19:21:36 - INFO (fourier_nmr_driver.acquisition) - Locking Fourier80 has finished.
+25-May-24 19:21:36 - INFO (fourier_nmr_driver.acquisition) - Number of scans for experiment MULTISUPPDC_f (expno 10) on sample batch6-29 is 8.
+25-May-24 19:21:36 - INFO (fourier_nmr_driver.acquisition) - MULTISUPPDC_f: presaturation of 10 and peak picking threshold 0.008.
+25-May-24 19:23:34 - INFO (fourier_nmr_driver.acquisition) - Experiment MULTISUPPDC_f completed.
+25-May-24 19:23:34 - INFO (fourier_nmr_driver.acquisition) - Experiments on sample batch6-29 completed.
+25-May-24 19:24:43 - INFO (fourier_nmr_driver.acquisition) - Sample batch6-30 inserted from rack position 30.
+25-May-24 19:26:45 - INFO (fourier_nmr_driver.acquisition) - Locking Fourier80 has finished.
+25-May-24 19:26:45 - INFO (fourier_nmr_driver.acquisition) - Number of scans for experiment MULTISUPPDC_f (expno 10) on sample batch6-30 is 8.
+25-May-24 19:26:45 - INFO (fourier_nmr_driver.acquisition) - MULTISUPPDC_f: presaturation of 10 and peak picking threshold 0.008.
+25-May-24 19:28:43 - INFO (fourier_nmr_driver.acquisition) - Experiment MULTISUPPDC_f completed.
+25-May-24 19:28:43 - INFO (fourier_nmr_driver.acquisition) - Experiments on sample batch6-30 completed.
+25-May-24 19:29:51 - INFO (fourier_nmr_driver.acquisition) - Sample batch6-31 inserted from rack position 31.
+25-May-24 19:32:02 - INFO (fourier_nmr_driver.acquisition) - Locking Fourier80 has finished.
+25-May-24 19:32:02 - INFO (fourier_nmr_driver.acquisition) - Number of scans for experiment MULTISUPPDC_f (expno 10) on sample batch6-31 is 8.
+25-May-24 19:32:02 - INFO (fourier_nmr_driver.acquisition) - MULTISUPPDC_f: presaturation of 10 and peak picking threshold 0.008.
+25-May-24 19:33:58 - INFO (fourier_nmr_driver.acquisition) - Experiment MULTISUPPDC_f completed.
+25-May-24 19:33:58 - INFO (fourier_nmr_driver.acquisition) - Experiments on sample batch6-31 completed.
+25-May-24 19:35:07 - INFO (fourier_nmr_driver.acquisition) - Sample batch6-32 inserted from rack position 32.
+25-May-24 19:37:09 - INFO (fourier_nmr_driver.acquisition) - Locking Fourier80 has finished.
+25-May-24 19:37:09 - INFO (fourier_nmr_driver.acquisition) - Number of scans for experiment MULTISUPPDC_f (expno 10) on sample batch6-32 is 8.
+25-May-24 19:37:09 - INFO (fourier_nmr_driver.acquisition) - MULTISUPPDC_f: presaturation of 10 and peak picking threshold 0.008.
+25-May-24 19:39:04 - INFO (fourier_nmr_driver.acquisition) - Experiment MULTISUPPDC_f completed.
+25-May-24 19:39:04 - INFO (fourier_nmr_driver.acquisition) - Experiments on sample batch6-32 completed.
+25-May-24 19:40:14 - INFO (fourier_nmr_driver.acquisition) - Sample batch6-33 inserted from rack position 33.
+25-May-24 19:42:17 - INFO (fourier_nmr_driver.acquisition) - Locking Fourier80 has finished.
+25-May-24 19:42:17 - INFO (fourier_nmr_driver.acquisition) - Number of scans for experiment MULTISUPPDC_f (expno 10) on sample batch6-33 is 8.
+25-May-24 19:42:17 - INFO (fourier_nmr_driver.acquisition) - MULTISUPPDC_f: presaturation of 10 and peak picking threshold 0.008.
+25-May-24 19:44:14 - INFO (fourier_nmr_driver.acquisition) - Experiment MULTISUPPDC_f completed.
+25-May-24 19:44:14 - INFO (fourier_nmr_driver.acquisition) - Experiments on sample batch6-33 completed.
+25-May-24 19:45:23 - INFO (fourier_nmr_driver.acquisition) - Sample batch6-34 inserted from rack position 34.
+25-May-24 19:47:32 - INFO (fourier_nmr_driver.acquisition) - Locking Fourier80 has finished.
+25-May-24 19:47:33 - INFO (fourier_nmr_driver.acquisition) - Number of scans for experiment MULTISUPPDC_f (expno 10) on sample batch6-34 is 8.
+25-May-24 19:47:33 - INFO (fourier_nmr_driver.acquisition) - MULTISUPPDC_f: presaturation of 10 and peak picking threshold 0.008.
+25-May-24 19:49:29 - INFO (fourier_nmr_driver.acquisition) - Experiment MULTISUPPDC_f completed.
+25-May-24 19:49:29 - INFO (fourier_nmr_driver.acquisition) - Experiments on sample batch6-34 completed.
+25-May-24 19:50:37 - INFO (fourier_nmr_driver.acquisition) - Sample batch6-35 inserted from rack position 35.
+25-May-24 19:52:39 - INFO (fourier_nmr_driver.acquisition) - Locking Fourier80 has finished.
+25-May-24 19:52:39 - INFO (fourier_nmr_driver.acquisition) - Number of scans for experiment MULTISUPPDC_f (expno 10) on sample batch6-35 is 8.
+25-May-24 19:52:39 - INFO (fourier_nmr_driver.acquisition) - MULTISUPPDC_f: presaturation of 10 and peak picking threshold 0.008.
+25-May-24 19:54:36 - INFO (fourier_nmr_driver.acquisition) - Experiment MULTISUPPDC_f completed.
+25-May-24 19:54:36 - INFO (fourier_nmr_driver.acquisition) - Experiments on sample batch6-35 completed.
+25-May-24 19:54:36 - INFO (fourier_nmr_driver.acquisition) - Too much time since last shim - reshimming.
+25-May-24 19:55:46 - INFO (fourier_nmr_driver.acquisition) - Shim sample inserted.
+25-May-24 19:57:46 - INFO (fourier_nmr_driver.acquisition) - Shimming procedure started.
+25-May-24 20:18:47 - INFO (fourier_nmr_driver.acquisition) - Quick shim procedure stopped. Resuming acquisition.
+25-May-24 20:19:56 - INFO (fourier_nmr_driver.acquisition) - Sample batch6-36 inserted from rack position 36.
+25-May-24 20:21:58 - INFO (fourier_nmr_driver.acquisition) - Locking Fourier80 has finished.
+25-May-24 20:21:58 - INFO (fourier_nmr_driver.acquisition) - Number of scans for experiment MULTISUPPDC_f (expno 10) on sample batch6-36 is 8.
+25-May-24 20:21:58 - INFO (fourier_nmr_driver.acquisition) - MULTISUPPDC_f: presaturation of 10 and peak picking threshold 0.008.
+25-May-24 20:23:55 - INFO (fourier_nmr_driver.acquisition) - Experiment MULTISUPPDC_f completed.
+25-May-24 20:23:55 - INFO (fourier_nmr_driver.acquisition) - Experiments on sample batch6-36 completed.
+25-May-24 20:25:03 - INFO (fourier_nmr_driver.acquisition) - Sample batch6-37 inserted from rack position 37.
+25-May-24 20:27:05 - INFO (fourier_nmr_driver.acquisition) - Locking Fourier80 has finished.
+25-May-24 20:27:05 - INFO (fourier_nmr_driver.acquisition) - Number of scans for experiment MULTISUPPDC_f (expno 10) on sample batch6-37 is 8.
+25-May-24 20:27:05 - INFO (fourier_nmr_driver.acquisition) - MULTISUPPDC_f: presaturation of 10 and peak picking threshold 0.008.
+25-May-24 20:29:02 - INFO (fourier_nmr_driver.acquisition) - Experiment MULTISUPPDC_f completed.
+25-May-24 20:29:02 - INFO (fourier_nmr_driver.acquisition) - Experiments on sample batch6-37 completed.
+25-May-24 20:30:11 - INFO (fourier_nmr_driver.acquisition) - Sample batch6-39 inserted from rack position 39.
+25-May-24 20:32:13 - INFO (fourier_nmr_driver.acquisition) - Locking Fourier80 has finished.
+25-May-24 20:32:13 - INFO (fourier_nmr_driver.acquisition) - Number of scans for experiment MULTISUPPDC_f (expno 10) on sample batch6-39 is 8.
+25-May-24 20:32:13 - INFO (fourier_nmr_driver.acquisition) - MULTISUPPDC_f: presaturation of 10 and peak picking threshold 0.008.
+25-May-24 20:34:09 - INFO (fourier_nmr_driver.acquisition) - Experiment MULTISUPPDC_f completed.
+25-May-24 20:34:09 - INFO (fourier_nmr_driver.acquisition) - Experiments on sample batch6-39 completed.
+25-May-24 20:35:19 - INFO (fourier_nmr_driver.acquisition) - Sample batch6-40 inserted from rack position 40.
+25-May-24 20:37:22 - INFO (fourier_nmr_driver.acquisition) - Locking Fourier80 has finished.
+25-May-24 20:37:22 - INFO (fourier_nmr_driver.acquisition) - Number of scans for experiment MULTISUPPDC_f (expno 10) on sample batch6-40 is 8.
+25-May-24 20:37:22 - INFO (fourier_nmr_driver.acquisition) - MULTISUPPDC_f: presaturation of 10 and peak picking threshold 0.008.
+25-May-24 20:39:17 - INFO (fourier_nmr_driver.acquisition) - Experiment MULTISUPPDC_f completed.
+25-May-24 20:39:17 - INFO (fourier_nmr_driver.acquisition) - Experiments on sample batch6-40 completed.
+25-May-24 20:40:28 - INFO (fourier_nmr_driver.acquisition) - Sample batch6-42 inserted from rack position 42.
+25-May-24 20:42:30 - INFO (fourier_nmr_driver.acquisition) - Locking Fourier80 has finished.
+25-May-24 20:42:30 - INFO (fourier_nmr_driver.acquisition) - Number of scans for experiment MULTISUPPDC_f (expno 10) on sample batch6-42 is 8.
+25-May-24 20:42:30 - INFO (fourier_nmr_driver.acquisition) - MULTISUPPDC_f: presaturation of 10 and peak picking threshold 0.008.
+25-May-24 20:44:26 - INFO (fourier_nmr_driver.acquisition) - Experiment MULTISUPPDC_f completed.
+25-May-24 20:44:26 - INFO (fourier_nmr_driver.acquisition) - Experiments on sample batch6-42 completed.
+25-May-24 20:45:35 - INFO (fourier_nmr_driver.acquisition) - Sample batch6-43 inserted from rack position 43.
+25-May-24 20:47:38 - INFO (fourier_nmr_driver.acquisition) - Locking Fourier80 has finished.
+25-May-24 20:47:38 - INFO (fourier_nmr_driver.acquisition) - Number of scans for experiment MULTISUPPDC_f (expno 10) on sample batch6-43 is 8.
+25-May-24 20:47:38 - INFO (fourier_nmr_driver.acquisition) - MULTISUPPDC_f: presaturation of 10 and peak picking threshold 0.008.
+25-May-24 20:49:34 - INFO (fourier_nmr_driver.acquisition) - Experiment MULTISUPPDC_f completed.
+25-May-24 20:49:34 - INFO (fourier_nmr_driver.acquisition) - Experiments on sample batch6-43 completed.
+25-May-24 20:50:42 - INFO (fourier_nmr_driver.acquisition) - Sample batch6-44 inserted from rack position 44.
+25-May-24 20:52:44 - INFO (fourier_nmr_driver.acquisition) - Locking Fourier80 has finished.
+25-May-24 20:52:44 - INFO (fourier_nmr_driver.acquisition) - Number of scans for experiment MULTISUPPDC_f (expno 10) on sample batch6-44 is 8.
+25-May-24 20:52:44 - INFO (fourier_nmr_driver.acquisition) - MULTISUPPDC_f: presaturation of 10 and peak picking threshold 0.008.
+25-May-24 20:54:39 - INFO (fourier_nmr_driver.acquisition) - Experiment MULTISUPPDC_f completed.
+25-May-24 20:54:39 - INFO (fourier_nmr_driver.acquisition) - Experiments on sample batch6-44 completed.
+25-May-24 20:55:46 - INFO (fourier_nmr_driver.acquisition) - Sample batch6-45 inserted from rack position 45.
+25-May-24 20:57:48 - INFO (fourier_nmr_driver.acquisition) - Locking Fourier80 has finished.
+25-May-24 20:57:48 - INFO (fourier_nmr_driver.acquisition) - Number of scans for experiment MULTISUPPDC_f (expno 10) on sample batch6-45 is 8.
+25-May-24 20:57:48 - INFO (fourier_nmr_driver.acquisition) - MULTISUPPDC_f: presaturation of 10 and peak picking threshold 0.008.
+25-May-24 20:59:46 - INFO (fourier_nmr_driver.acquisition) - Experiment MULTISUPPDC_f completed.
+25-May-24 20:59:46 - INFO (fourier_nmr_driver.acquisition) - Experiments on sample batch6-45 completed.
+25-May-24 21:00:54 - INFO (fourier_nmr_driver.acquisition) - Sample batch6-46 inserted from rack position 46.
+25-May-24 21:02:56 - INFO (fourier_nmr_driver.acquisition) - Locking Fourier80 has finished.
+25-May-24 21:02:56 - INFO (fourier_nmr_driver.acquisition) - Number of scans for experiment MULTISUPPDC_f (expno 10) on sample batch6-46 is 8.
+25-May-24 21:02:56 - INFO (fourier_nmr_driver.acquisition) - MULTISUPPDC_f: presaturation of 10 and peak picking threshold 0.008.
+25-May-24 21:04:54 - INFO (fourier_nmr_driver.acquisition) - Experiment MULTISUPPDC_f completed.
+25-May-24 21:04:54 - INFO (fourier_nmr_driver.acquisition) - Experiments on sample batch6-46 completed.
+25-May-24 21:06:03 - INFO (fourier_nmr_driver.acquisition) - Sample batch6-47 inserted from rack position 47.
+25-May-24 21:08:15 - INFO (fourier_nmr_driver.acquisition) - Locking Fourier80 has finished.
+25-May-24 21:08:15 - INFO (fourier_nmr_driver.acquisition) - Number of scans for experiment MULTISUPPDC_f (expno 10) on sample batch6-47 is 8.
+25-May-24 21:08:15 - INFO (fourier_nmr_driver.acquisition) - MULTISUPPDC_f: presaturation of 10 and peak picking threshold 0.008.
+25-May-24 21:10:10 - INFO (fourier_nmr_driver.acquisition) - Experiment MULTISUPPDC_f completed.
+25-May-24 21:10:10 - INFO (fourier_nmr_driver.acquisition) - Experiments on sample batch6-47 completed.
+25-May-24 21:11:18 - INFO (fourier_nmr_driver.acquisition) - Sample batch6-48 inserted from rack position 48.
+25-May-24 21:13:21 - INFO (fourier_nmr_driver.acquisition) - Locking Fourier80 has finished.
+25-May-24 21:13:21 - INFO (fourier_nmr_driver.acquisition) - Number of scans for experiment MULTISUPPDC_f (expno 10) on sample batch6-48 is 8.
+25-May-24 21:13:21 - INFO (fourier_nmr_driver.acquisition) - MULTISUPPDC_f: presaturation of 10 and peak picking threshold 0.008.
+25-May-24 21:15:17 - INFO (fourier_nmr_driver.acquisition) - Experiment MULTISUPPDC_f completed.
+25-May-24 21:15:17 - INFO (fourier_nmr_driver.acquisition) - Experiments on sample batch6-48 completed.
+25-May-24 21:15:17 - INFO (fourier_nmr_driver.acquisition) - All spectra acquired for batch 'batch6'.
+25-May-24 21:16:29 - INFO (fourier_nmr_driver.__main__) - Shim sample inserted (position 1).
+25-May-24 21:16:29 - INFO (fourier_nmr_driver.__main__) - Started the quickshim procedure.
