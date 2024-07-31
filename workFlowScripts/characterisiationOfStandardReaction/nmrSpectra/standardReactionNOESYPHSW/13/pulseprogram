@@ -1,0 +1,122 @@
+# 1 "C:/Bruker/TopSpin3.6.5/exp/stan/nmr/lists/pp/noesyph"
+;noesyph
+;avance-version (12/01/11)
+;2D homonuclear correlation via dipolar coupling 
+;dipolar coupling may be due to noe or chemical exchange.
+;phase sensitive
+;
+;$CLASS=HighRes
+;$DIM=2D
+;$TYPE=
+;$SUBTYPE=
+;$COMMENT=
+
+
+# 1 "C:/Bruker/TopSpin3.6.5/exp/stan/nmr/lists/pp/Avance.incl" 1
+;Avance3aqs.incl
+;   for AV III with AQS IPSO
+;
+;avance-version (15/06/05)
+;
+;$CLASS=HighRes Incl
+;$COMMENT=
+# 170 "C:/Bruker/TopSpin3.6.5/exp/stan/nmr/lists/pp/Avance.incl"
+;$Id: Avance3aqs.incl,v 1.1.8.3 2015/03/05 16:46:54 ber Exp $
+# 14 "C:/Bruker/TopSpin3.6.5/exp/stan/nmr/lists/pp/noesyph" 2
+
+
+# 17 "C:/Bruker/TopSpin3.6.5/exp/stan/nmr/lists/pp/noesyph"
+"in0=inf1"
+
+"d0=in0/2-p1*4/3.1416"
+
+# 22 "C:/Bruker/TopSpin3.6.5/exp/stan/nmr/lists/pp/noesyph"
+"acqt0=-p1*2/3.1416"
+
+
+# 1 "mc_line 25 file C:/Bruker/TopSpin3.6.5/exp/stan/nmr/lists/pp/noesyph exp. def. part of mc cmd. before ze"
+; dimension 2D; AQ_mode  (F1) States-TPPI
+define delay MCWRK
+define delay MCREST
+define delay d0orig
+"d0orig=d0"
+define loopcounter t1loop
+"t1loop=0"
+define loopcounter ph1loop
+"ph1loop=0"
+define loopcounter ST1CNT
+"ST1CNT = trunc(td1 / 2)"
+"MCREST = d1 - d1"
+"MCWRK = 0.200000*d1"
+
+    dccorr
+# 25 "C:/Bruker/TopSpin3.6.5/exp/stan/nmr/lists/pp/noesyph"
+1 ze
+# 1 "mc_line 25 file C:/Bruker/TopSpin3.6.5/exp/stan/nmr/lists/pp/noesyph exp. def. of mc cmd. after ze"
+LBLAV, MCWRK
+      "d0=d0orig + t1loop * in0 "
+      "phval1 = (ph1loop % 4) * 90"
+      MCWRK ip1 + phval1
+# 26 "C:/Bruker/TopSpin3.6.5/exp/stan/nmr/lists/pp/noesyph"
+# 1 "mc_line 26 file C:/Bruker/TopSpin3.6.5/exp/stan/nmr/lists/pp/noesyph exp. start label for mc cmd."
+2 MCWRK  * 2
+LBLF1, MCWRK  * 2
+LBLST1, MCWRK
+  MCREST
+# 27 "C:/Bruker/TopSpin3.6.5/exp/stan/nmr/lists/pp/noesyph"
+3 p1 ph1
+  d0
+  p1 ph2
+  d8
+  p1 ph3
+  go=2 ph31
+# 1 "mc_line 33 file C:/Bruker/TopSpin3.6.5/exp/stan/nmr/lists/pp/noesyph exp. mc cmd. in line"
+  MCWRK  wr #0 if #0 zd 
+
+  "ph1loop+=1"
+      "d0=d0orig + t1loop * in0 "
+      "phval1 = (ph1loop % 4) * 90"
+      MCWRK ip1 + phval1
+  lo to LBLF1 times 2
+  MCWRK 
+
+  "t1loop+=1"
+      "d0=d0orig + t1loop * in0 "
+      "phval1 = (ph1loop % 4) * 90"
+      MCWRK ip1 + phval1
+  lo to LBLST1 times ST1CNT
+  MCWRK 
+  "t1loop=0"
+  "ph1loop=0"
+  MCWRK rf #0
+  lo to LBLAV times tdav
+# 34 "C:/Bruker/TopSpin3.6.5/exp/stan/nmr/lists/pp/noesyph"
+exit
+# 37 "C:/Bruker/TopSpin3.6.5/exp/stan/nmr/lists/pp/noesyph"
+ph1=0 2 
+ph2=0 0 0 0 0 0 0 0 2 2 2 2 2 2 2 2
+ph3=0 0 2 2 1 1 3 3
+ph31=0 2 2 0 1 3 3 1 2 0 0 2 3 1 1 3
+
+
+;pl1 : f1 channel - power level for pulse (default)
+;p1 : f1 channel -  90 degree high power pulse
+;d0 : incremented delay (2D)
+;d1 : relaxation delay; 1-5 * T1
+;d8 : mixing time
+;inf1: 1/SW = 2 * DW
+;in0: 1/(1 * SW) = 2 * DW
+;nd0: 1
+;ns: 8 * n
+;ds: 16
+;td1: number of experiments
+;FnMODE: States-TPPI, TPPI, States or QSEQ
+# 57 "C:/Bruker/TopSpin3.6.5/exp/stan/nmr/lists/pp/noesyph"
+;Processing
+
+;PHC0(F1): 90
+;PHC1(F1): -180
+;FCOR(F1): 1
+
+# 65 "C:/Bruker/TopSpin3.6.5/exp/stan/nmr/lists/pp/noesyph"
+;$Id: noesyph,v 1.9 2012/01/31 17:49:28 ber Exp $

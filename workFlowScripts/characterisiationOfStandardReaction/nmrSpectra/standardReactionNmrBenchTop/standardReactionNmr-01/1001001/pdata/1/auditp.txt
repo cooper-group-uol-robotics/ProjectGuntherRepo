@@ -1,0 +1,36 @@
+##TITLE= Audit trail, TopSpin 4.4.0
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH & Co. KG
+##OWNER= nmrsu
+$$ C:\NMRData\EB\projectGunther\chracterisationStandardReaction\2024-07-24-standardReactionNmr-NMR/standardReactionNmr-01/1001001/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2024-07-24T14:36:07.942+0000>,<ACL-NMR\nmrsu>,<ACL-NMR>,<go4>,<TopSpin 4.4.0>,
+      <acquisition in progress>)
+$$ C:/NMRData/EB/projectGunther/chracterisationStandardReaction/2024-07-24-standardReactionNmr-NMR/standardReactionNmr-01/1001001/audita.txt
+(   2,<2024-07-24T14:36:13.995+0000>,<ACL-NMR\nmrsu>,<ACL-NMR>,<go4>,<TopSpin 4.4.0>,
+      <created by zg on 'Fourier' (ACL-NMR) by user 'ACL-NMR\nmrsu'
+       on data set with UUID '103f7e3c-49ca-11ef-beba-0000ad371d11'
+       started at 2024-07-24 14:36:07.941 +0000, POWCHK disabled, PULCHK disabled,
+       completed at 2024-07-24 14:36:13.988 +0000
+       configuration hash MD5:
+       5B 2F B8 A4 6C A7 C8 42 54 23 3E 13 1D 2F D1 8B
+       double data hash MD5: 6450
+       13 12 B7 30 CA 1C D2 3C 21 1F B1 CB D5 2B 58 5D>)
+(   3,<2024-07-24T15:36:14.057+0100>,<nmrsu>,<ACL-NMR>,<proc1d>,<TopSpin 4.4.0>,
+      <Start of raw data processing
+       efp LB = 0.3 FT_mod = 6 PKNL = 1 PHC0 = 0 PHC1 = 0 SI = 64K 
+       data hash MD5: 64K
+       BB 1B B4 26 97 16 5C 58 B6 66 6D 68 79 20 52 B0>)
+$$ C:\NMRData\EB\projectGunther\chracterisationStandardReaction\2024-07-24-standardReactionNmr-NMR/standardReactionNmr-01/1001001/pdata/1/auditp.txt
+(   4,<2024-07-24T15:36:15.624+0100>,<nmrsu>,<ACL-NMR>,<proc1d>,<TopSpin 4.4.0>,
+      <apk0 
+       data hash MD5: 64K
+       6D 45 57 23 B9 59 2E A6 F8 B8 AC 9F 53 9E A9 44>)
+(   5,<2024-07-24T15:36:15.726+0100>,<nmrsu>,<ACL-NMR>,<peak>,<TopSpin 4.4.0>,
+      <1D Peak picking
+       data hash MD5: 64K
+       6D 45 57 23 B9 59 2E A6 F8 B8 AC 9F 53 9E A9 44>)
+##END=
+
+$$ hash MD5
+$$ 66 D1 DE 9D DE FD D0 01 C8 D2 96 AB 69 A1 73 90

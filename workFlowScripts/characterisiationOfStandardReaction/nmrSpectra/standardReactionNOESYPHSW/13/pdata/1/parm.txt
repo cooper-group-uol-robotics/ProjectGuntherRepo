@@ -1,0 +1,57 @@
+
+Current Data Parameters
+NAME     Jul25-2024-AIC_Group              
+EXPNO                13              
+PROCNO                1              
+
+F2 - Acquisition Parameters
+Date_          20240726              
+Time              21.59 h            
+INSTRUM           av400              
+PROBHD   Z163739_1011 (              
+PULPROG         noesyph              
+TD                 2048              
+SOLVENT           CD3CN              
+NS                   16              
+DS                    4              
+SWH            3937.008 Hz           
+FIDRES         3.844734 Hz           
+AQ            0.2600960 sec          
+RG                63.64              
+DW              127.000 usec         
+DE                 6.50 usec         
+TE                298.2 K            
+D0           0.00011681 sec          
+D1           1.99057901 sec          
+D8           0.30000001 sec          
+IN0          0.00025400 sec          
+TDav                  1              
+SFO1        400.1320665 MHz          
+NUC1                 1H              
+P1                 8.00 usec         
+PLW1        22.48500061 W            
+
+F1 - Acquisition parameters
+TD                  256              
+SFO1           400.1321 MHz          
+FIDRES        30.757874 Hz           
+SW                9.839 ppm          
+FnMODE      States-TPPI              
+
+F2 - Processing parameters
+SI                 1024              
+SF          400.1300000 MHz          
+WDW               QSINE              
+SSB                   2              
+LB                    0 Hz           
+GB                    0              
+PC                 1.00              
+
+F1 - Processing parameters
+SI                 1024              
+MC2         States-TPPI              
+SF          400.1300000 MHz          
+WDW               QSINE              
+SSB                   2              
+LB                    0 Hz           
+GB                    0              

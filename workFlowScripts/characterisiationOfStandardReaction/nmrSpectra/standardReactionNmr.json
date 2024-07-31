@@ -1,0 +1,14 @@
+{
+    "1": {
+        "sample_info": "23batch8: [5-Methylpicolinaldehyde, Iron(II) tetrafluoroborate hexahydrate, 4,4'-Methylenedianiline] : [25, 1, 11]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "numScans": 64,
+                "pp_threshold": 0.008,
+                "fieldPresat": 10
+            }
+        ]
+    }
+}

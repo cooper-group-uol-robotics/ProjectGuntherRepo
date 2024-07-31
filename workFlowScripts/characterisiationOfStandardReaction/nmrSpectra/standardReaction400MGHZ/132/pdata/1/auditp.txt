@@ -1,0 +1,107 @@
+##TITLE= Audit trail, TopSpin 3.6.5
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ Z:/Cooper Group/data/AIC_Group/nmr/Jul24-2024-AIC_Group/132/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2024-07-24 18:09:45.382 +0100>,<nmrsu>,<CZC1437Q5R>,<go4>,<TopSpin 3.6.5>,
+      <created by zg on data set with UUID '42fcd80a-49df-11ef-84a1-80e82ce03034'
+       started at 2024-07-24 18:07:52.255 +0100,
+       POWCHK enabled, PULCHK disabled,
+       completed at 2024-07-24 18:09:45.382 +0100
+
+       configuration hash MD5:
+       84 C8 D0 A9 9B 7B 28 D0 36 09 52 18 C6 9B 98 A2
+       data hash MD5: 64K
+       EE 12 07 85 85 73 AB 96 EB AD 7A 03 96 B3 D3 15>)
+(   2,<2024-07-24 18:09:45.503 +0100>,<nmrsu>,<CZC1437Q5R>,<audit>,<TopSpin 3.6.5>,
+      <user comment:
+       ICON-NMR User ID: AIC_Group
+       data hash MD5: 64K
+       EE 12 07 85 85 73 AB 96 EB AD 7A 03 96 B3 D3 15>)
+(   3,<2024-07-24 18:09:46.547 +0100>,<nmrsu>,<CZC1437Q5R>,<proc1d>,<TopSpin 3.6.5>,
+      <Start of raw data processing
+       ef LB = 0.3 FT_mod = 6 PKNL = 1 SI = 32K 
+       data hash MD5: 32K
+       D8 3F 38 03 6F 26 E4 B2 E8 C3 B3 AE AF 45 F0 DF>)
+(   4,<2024-07-24 18:09:46.678 +0100>,<nmrsu>,<CZC1437Q5R>,<proc1d>,<TopSpin 3.6.5>,
+      <apk 
+       data hash MD5: 32K
+       CA 37 D1 D2 45 E9 33 21 1C DB 84 CD 31 A4 BA 96>)
+(   5,<2024-07-24 18:09:46.794 +0100>,<nmrsu>,<CZC1437Q5R>,<proc1d>,<TopSpin 3.6.5>,
+      <abs ABSG = 5 
+       data hash MD5: 32K
+       06 0C 93 3C 23 97 84 2E A3 68 7B D5 A7 58 CC 48>)
+(   6,<2024-07-24 18:09:48.033 +0100>,<nmrsu>,<CZC1437Q5R>,<dirdata>,<TopSpin 3.6.5>,
+      <wrpa from 1 132 "Jul24-2024-AIC_Group" "C:/Bruker/TopSpin3.6.5/data/AIC_Group/nmr"
+       data hash MD5: 32K
+       06 0C 93 3C 23 97 84 2E A3 68 7B D5 A7 58 CC 48>)
+$$ C:/Users/emanuele/Desktop/PlacementEssay/PlacementEssay/backup/characterisiationOfStandardReaction/nmrSpectra/standardReaction400MGHZ/132/pdata/1/auditp.txt
+(   7,<2024-07-24T20:51:00.366+0100>,<LIVAD\emanuele>,<MWS-1048587>,<dataserver>,<TopSpin 4.4.0>,
+      <INTEGRAL DEFINE [8.985;8.869]
+       data hash MD5: 32K
+       06 0C 93 3C 23 97 84 2E A3 68 7B D5 A7 58 CC 48>)
+(   8,<2024-07-24T20:51:00.378+0100>,<LIVAD\emanuele>,<MWS-1048587>,<dataserver>,<TopSpin 4.4.0>,
+      <INTEGRAL DEFINE [8.540;8.380]
+       data hash MD5: 32K
+       06 0C 93 3C 23 97 84 2E A3 68 7B D5 A7 58 CC 48>)
+(   9,<2024-07-24T20:51:00.386+0100>,<LIVAD\emanuele>,<MWS-1048587>,<dataserver>,<TopSpin 4.4.0>,
+      <INTEGRAL DEFINE [8.243;8.199]
+       data hash MD5: 32K
+       06 0C 93 3C 23 97 84 2E A3 68 7B D5 A7 58 CC 48>)
+(  10,<2024-07-24T20:51:00.398+0100>,<LIVAD\emanuele>,<MWS-1048587>,<dataserver>,<TopSpin 4.4.0>,
+      <INTEGRAL DEFINE [8.265;8.155]
+       data hash MD5: 32K
+       06 0C 93 3C 23 97 84 2E A3 68 7B D5 A7 58 CC 48>)
+(  11,<2024-07-24T20:51:00.409+0100>,<LIVAD\emanuele>,<MWS-1048587>,<dataserver>,<TopSpin 4.4.0>,
+      <INTEGRAL DELETE [8.243;8.199]
+       data hash MD5: 32K
+       06 0C 93 3C 23 97 84 2E A3 68 7B D5 A7 58 CC 48>)
+(  12,<2024-07-24T20:51:00.422+0100>,<LIVAD\emanuele>,<MWS-1048587>,<dataserver>,<TopSpin 4.4.0>,
+      <INTEGRAL DELETE [8.265;8.155]
+       data hash MD5: 32K
+       06 0C 93 3C 23 97 84 2E A3 68 7B D5 A7 58 CC 48>)
+(  13,<2024-07-24T20:51:00.441+0100>,<LIVAD\emanuele>,<MWS-1048587>,<dataserver>,<TopSpin 4.4.0>,
+      <INTEGRAL DEFINE [8.269;8.075]
+       data hash MD5: 32K
+       06 0C 93 3C 23 97 84 2E A3 68 7B D5 A7 58 CC 48>)
+(  14,<2024-07-24T20:51:00.452+0100>,<LIVAD\emanuele>,<MWS-1048587>,<dataserver>,<TopSpin 4.4.0>,
+      <INTEGRAL DEFINE [7.244;7.161]
+       data hash MD5: 32K
+       06 0C 93 3C 23 97 84 2E A3 68 7B D5 A7 58 CC 48>)
+(  15,<2024-07-24T20:51:00.470+0100>,<LIVAD\emanuele>,<MWS-1048587>,<dataserver>,<TopSpin 4.4.0>,
+      <INTEGRAL DEFINE [7.238;7.089]
+       data hash MD5: 32K
+       06 0C 93 3C 23 97 84 2E A3 68 7B D5 A7 58 CC 48>)
+(  16,<2024-07-24T20:51:00.483+0100>,<LIVAD\emanuele>,<MWS-1048587>,<dataserver>,<TopSpin 4.4.0>,
+      <INTEGRAL DELETE [7.238;7.089]
+       data hash MD5: 32K
+       06 0C 93 3C 23 97 84 2E A3 68 7B D5 A7 58 CC 48>)
+(  17,<2024-07-24T20:51:00.489+0100>,<LIVAD\emanuele>,<MWS-1048587>,<dataserver>,<TopSpin 4.4.0>,
+      <INTEGRAL DELETE [7.244;7.161]
+       data hash MD5: 32K
+       06 0C 93 3C 23 97 84 2E A3 68 7B D5 A7 58 CC 48>)
+(  18,<2024-07-24T20:51:00.498+0100>,<LIVAD\emanuele>,<MWS-1048587>,<dataserver>,<TopSpin 4.4.0>,
+      <INTEGRAL DEFINE [7.227;7.111]
+       data hash MD5: 32K
+       06 0C 93 3C 23 97 84 2E A3 68 7B D5 A7 58 CC 48>)
+(  19,<2024-07-24T20:51:00.504+0100>,<LIVAD\emanuele>,<MWS-1048587>,<dataserver>,<TopSpin 4.4.0>,
+      <INTEGRAL DEFINE [7.106;6.485]
+       data hash MD5: 32K
+       06 0C 93 3C 23 97 84 2E A3 68 7B D5 A7 58 CC 48>)
+(  20,<2024-07-24T20:51:00.510+0100>,<LIVAD\emanuele>,<MWS-1048587>,<dataserver>,<TopSpin 4.4.0>,
+      <INTEGRAL DEFINE [5.699;5.156]
+       data hash MD5: 32K
+       06 0C 93 3C 23 97 84 2E A3 68 7B D5 A7 58 CC 48>)
+(  21,<2024-07-24T20:51:00.519+0100>,<LIVAD\emanuele>,<MWS-1048587>,<dataserver>,<TopSpin 4.4.0>,
+      <INTEGRAL DEFINE [4.093;3.938]
+       data hash MD5: 32K
+       06 0C 93 3C 23 97 84 2E A3 68 7B D5 A7 58 CC 48>)
+(  22,<2024-07-24T20:51:00.527+0100>,<LIVAD\emanuele>,<MWS-1048587>,<dataserver>,<TopSpin 4.4.0>,
+      <INTEGRAL DEFINE [3.345;3.207]
+       data hash MD5: 32K
+       06 0C 93 3C 23 97 84 2E A3 68 7B D5 A7 58 CC 48>)
+##END=
+
+$$ hash MD5
+$$ AF C5 A2 B1 AA 93 AF BD B7 34 49 ED 09 FD 37 AA

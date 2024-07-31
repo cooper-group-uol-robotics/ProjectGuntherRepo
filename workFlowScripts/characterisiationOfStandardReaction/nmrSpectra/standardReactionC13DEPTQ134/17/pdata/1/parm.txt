@@ -1,0 +1,65 @@
+
+Current Data Parameters
+NAME     Jul25-2024-AIC_Group              
+EXPNO                17              
+PROCNO                1              
+
+F2 - Acquisition Parameters
+Date_          20240726              
+Time              23.44 h            
+INSTRUM           av400              
+PROBHD   Z163739_1011 (              
+PULPROG       deptqgpsp              
+TD                65536              
+SOLVENT           CD3CN              
+NS                  256              
+DS                    8              
+SWH           24038.461 Hz           
+FIDRES         0.733596 Hz           
+AQ            1.3631488 sec          
+RG               209.43              
+DW               20.800 usec         
+DE                 6.50 usec         
+TE                298.2 K            
+CNST2       145.0000000              
+D1           2.00000000 sec          
+D2           0.00344828 sec          
+D12          0.00002000 sec          
+D16          0.00020000 sec          
+TD0                   1              
+SFO1        100.6228298 MHz          
+NUC1                13C              
+P1                 8.00 usec         
+P13             2000.00 usec         
+PLW0                  0 W            
+PLW1       100.87999725 W            
+SPNAM[5]    Crp60comp.4              
+SPOAL5            0.500              
+SPOFFS5               0 Hz           
+SPW5         9.86499977 W            
+SFO2        400.1316005 MHz          
+NUC2                 1H              
+CNST12        1.5000000              
+CPDPRG[2        waltz65              
+P0                12.00 usec         
+P3                 8.00 usec         
+P4                16.00 usec         
+PCPD2             90.00 usec         
+PLW2        22.48500061 W            
+PLW12        0.17766000 W            
+GPNAM[1]     SMSQ10.100              
+GPZ1              31.00 %            
+GPNAM[2]     SMSQ10.100              
+GPZ2              31.00 %            
+GPNAM[3]     SMSQ10.100              
+GPZ3              31.00 %            
+P16             1000.00 usec         
+
+F2 - Processing parameters
+SI                32768              
+SF          100.6127111 MHz          
+WDW                  EM              
+SSB                   0              
+LB                 1.00 Hz           
+GB                    0              
+PC                 1.40              

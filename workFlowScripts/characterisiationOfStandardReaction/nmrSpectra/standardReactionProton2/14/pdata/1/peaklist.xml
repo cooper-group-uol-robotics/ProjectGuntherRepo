@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList>
+  <PeakList1D>
+    <PeakList1DHeader creator="nmrsu" date="2024-07-26T22:02:03.099+01:00" expNo="14" name="Jul25-2024-AIC_Group" owner="" procNo="1" source="C:/Bruker/TopSpin3.6.5/data/AIC_Group/nmr">
+      <PeakPickDetails>F1=14.010220ppm, F2=-2.010215ppm, MI=0.30cm, MAXI=10000.00cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="8.928759" intensity="5.559266e+000" type="0"/>
+    <Peak1D F1="8.473120" intensity="2.764508e+000" type="0"/>
+    <Peak1D F1="8.453364" intensity="3.128986e+000" type="0"/>
+    <Peak1D F1="8.194554" intensity="2.074806e+000" type="0"/>
+    <Peak1D F1="8.174879" intensity="1.797139e+000" type="0"/>
+    <Peak1D F1="7.164953" intensity="3.394081e+000" type="0"/>
+    <Peak1D F1="7.054912" intensity="4.355198e-001" type="0"/>
+    <Peak1D F1="6.954657" intensity="5.030087e-001" type="0"/>
+    <Peak1D F1="5.524003" intensity="6.942402e-001" type="0"/>
+    <Peak1D F1="4.034882" intensity="3.386357e+000" type="0"/>
+    <Peak1D F1="3.474195" intensity="3.606051e-001" type="0"/>
+    <Peak1D F1="3.302048" intensity="9.463080e+000" type="0"/>
+    <Peak1D F1="2.500570" intensity="5.472702e-001" type="0"/>
+    <Peak1D F1="2.440706" intensity="5.948955e-001" type="0"/>
+    <Peak1D F1="2.395275" intensity="1.500000e+001" type="0"/>
+    <Peak1D F1="2.368563" intensity="8.638554e-001" type="0"/>
+    <Peak1D F1="2.342079" intensity="4.940255e-001" type="0"/>
+    <Peak1D F1="2.253685" intensity="4.075107e-001" type="0"/>
+    <Peak1D F1="2.239986" intensity="5.188764e-001" type="0"/>
+    <Peak1D F1="2.160262" intensity="3.006163e-001" type="0"/>
+    <Peak1D F1="1.992064" intensity="1.481810e+001" type="0"/>
+    <Peak1D F1="1.980034" intensity="9.206907e+000" type="0"/>
+    <Peak1D F1="1.973895" intensity="1.605723e+001" type="0"/>
+    <Peak1D F1="1.967783" intensity="2.181430e+001" type="0"/>
+    <Peak1D F1="1.961575" intensity="1.479567e+001" type="0"/>
+    <Peak1D F1="1.955474" intensity="7.347874e+000" type="0"/>
+  </PeakList1D>
+</PeakList>

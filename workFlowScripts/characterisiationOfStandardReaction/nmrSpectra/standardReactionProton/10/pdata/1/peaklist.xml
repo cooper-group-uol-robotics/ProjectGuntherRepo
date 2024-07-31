@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList modified="2024-07-29T17:19:34">
+  <PeakList1D>
+    <PeakList1DHeader creator="emanuele" date="2024-07-29T16:16:54" expNo="10" name="standardReactionProton" owner="" procNo="1" source="C:/Users/emanuele/Desktop/PlacementEssay/PlacementEssay/backup/characterisiationOfStandardReaction/nmrSpectra">
+      <PeakPickDetails>F1=10.328278ppm, F2=7.031462ppm, MI=0.68cm, MAXI=7.10cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="8.89651" intensity="3.77757" type="0"/>
+    <Peak1D F1="8.440865" intensity="1.849881" type="0"/>
+    <Peak1D F1="8.421112" intensity="2.098616" type="0"/>
+    <Peak1D F1="8.162018" intensity="1.259007" type="0"/>
+    <Peak1D F1="8.142431" intensity="1.08006" type="0"/>
+    <Peak1D F1="7.132151" intensity="2.051522" type="0"/>
+  </PeakList1D>
+  <PeakList1D>
+    <PeakList1DHeader creator="emanuele" date="2024-07-29T16:16:54" expNo="10" name="standardReactionProton" owner="" procNo="1" source="C:/Users/emanuele/Desktop/PlacementEssay/PlacementEssay/backup/characterisiationOfStandardReaction/nmrSpectra">
+      <PeakPickDetails>F1=7.031462ppm, F2=5.345838ppm, MI=0.21cm, MAXI=0.67cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="6.914983" intensity="0.2780132" type="0"/>
+    <Peak1D F1="5.489089" intensity="0.3880454" type="0"/>
+  </PeakList1D>
+  <PeakList1D>
+    <PeakList1DHeader creator="emanuele" date="2024-07-29T16:16:54" expNo="10" name="standardReactionProton" owner="" procNo="1" source="C:/Users/emanuele/Desktop/PlacementEssay/PlacementEssay/backup/characterisiationOfStandardReaction/nmrSpectra">
+      <PeakPickDetails>F1=5.345838ppm, F2=2.630367ppm, MI=0.68cm, MAXI=7.10cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="4.002168" intensity="2.091876" type="0"/>
+    <Peak1D F1="3.269314" intensity="6.099073" type="0"/>
+  </PeakList1D>
+  <PeakList1D>
+    <PeakList1DHeader creator="emanuele" date="2024-07-29T16:16:54" expNo="10" name="standardReactionProton" owner="" procNo="1" source="C:/Users/emanuele/Desktop/PlacementEssay/PlacementEssay/backup/characterisiationOfStandardReaction/nmrSpectra">
+      <PeakPickDetails>F1=2.418995ppm, F2=1.868403ppm, MI=4.97cm, MAXI=18.05cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="2.362688" intensity="9.507103" type="0"/>
+    <Peak1D F1="1.959661" intensity="11.20887" type="0"/>
+    <Peak1D F1="1.947705" intensity="5.487007" type="0"/>
+    <Peak1D F1="1.941522" intensity="10.47787" type="0"/>
+    <Peak1D F1="1.935336" intensity="15.0" type="0"/>
+    <Peak1D F1="1.929164" intensity="10.19327" type="0"/>
+    <Peak1D F1="1.923028" intensity="5.201916" type="0"/>
+  </PeakList1D>
+</PeakList>

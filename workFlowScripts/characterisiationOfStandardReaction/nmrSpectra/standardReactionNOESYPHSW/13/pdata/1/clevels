@@ -1,0 +1,27 @@
+##TITLE= Parameter file, TopSpin 3.6.5
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 1	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ 2024-07-26 21:59:09.170 +0100  nmrsu@CZC1437Q5R
+$$ Z:/Cooper Group/data/AIC_Group/nmr/Jul25-2024-AIC_Group/13/pdata/1/clevels
+$$ process C:\Bruker\TopSpin3.6.5\prog\mod\dirdata.exe
+##$LEVELS= (0..255)
+22071.87 -22071.87 97157.07 -97157.07 427670.82 -427670.82 1882542.67 -1882542.67
+8286669.74 -8286669.74 36476674 -36476674 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0
+##$LEVSIGN= 3
+##$MAXLEV= 6
+##$METHOD= 0
+##$NEGBASE= -22071.87
+##$NEGINCR= 1.8
+##$POSBASE= 22071.87
+##$POSINCR= 1.8
+##END=

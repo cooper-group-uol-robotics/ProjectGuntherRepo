@@ -1,0 +1,42 @@
+##TITLE= Audit trail, TopSpin 3.6.5
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ Z:/Cooper Group/data/AIC_Group/nmr/Jul24-2024-AIC_Group/30/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2024-07-24 09:44:20.513 +0100>,<nmrsu>,<CZC1437Q5R>,<go4>,<TopSpin 3.6.5>,
+      <created by zg on data set with UUID 'a8017f04-4998-11ef-a5c9-80e82ce03034'
+       started at 2024-07-24 09:42:27.468 +0100,
+       POWCHK enabled, PULCHK disabled,
+       completed at 2024-07-24 09:44:20.505 +0100
+
+       configuration hash MD5:
+       84 C8 D0 A9 9B 7B 28 D0 36 09 52 18 C6 9B 98 A2
+       data hash MD5: 64K
+       BC 69 DF 46 CA 45 70 28 AD 65 FA E1 43 11 FF A2>)
+(   2,<2024-07-24 09:44:20.617 +0100>,<nmrsu>,<CZC1437Q5R>,<audit>,<TopSpin 3.6.5>,
+      <user comment:
+       ICON-NMR User ID: AIC_Group
+       data hash MD5: 64K
+       BC 69 DF 46 CA 45 70 28 AD 65 FA E1 43 11 FF A2>)
+(   3,<2024-07-24 09:44:21.951 +0100>,<nmrsu>,<CZC1437Q5R>,<proc1d>,<TopSpin 3.6.5>,
+      <Start of raw data processing
+       ef LB = 0.3 FT_mod = 6 PKNL = 1 SI = 32K 
+       data hash MD5: 32K
+       75 5F 02 E2 9C C6 5B 1C 1B D6 6C E9 CD 4C E6 28>)
+(   4,<2024-07-24 09:44:22.163 +0100>,<nmrsu>,<CZC1437Q5R>,<proc1d>,<TopSpin 3.6.5>,
+      <apk 
+       data hash MD5: 32K
+       6D 70 96 35 F6 7E F8 2A E5 EF AE 23 FA 2F 39 5E>)
+(   5,<2024-07-24 09:44:22.629 +0100>,<nmrsu>,<CZC1437Q5R>,<proc1d>,<TopSpin 3.6.5>,
+      <abs ABSG = 5 
+       data hash MD5: 32K
+       7A 58 D1 9E 22 86 90 AB 80 F9 9E AC 0A 0C AE 43>)
+(   6,<2024-07-24 09:44:24.817 +0100>,<nmrsu>,<CZC1437Q5R>,<dirdata>,<TopSpin 3.6.5>,
+      <wrpa from 1 30 "Jul24-2024-AIC_Group" "C:/Bruker/TopSpin3.6.5/data/AIC_Group/nmr"
+       data hash MD5: 32K
+       7A 58 D1 9E 22 86 90 AB 80 F9 9E AC 0A 0C AE 43>)
+##END=
+
+$$ hash MD5
+$$ 16 9A 32 7B 17 C4 FD 89 4E 1F 7A F4 18 BB 81 36

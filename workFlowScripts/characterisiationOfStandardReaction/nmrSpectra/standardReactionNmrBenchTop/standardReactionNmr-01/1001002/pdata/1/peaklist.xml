@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList>
+  <PeakList1D>
+    <PeakList1DHeader creator="nmrsu" date="2024-07-24T15:36:26.618+01:00" expNo="1001002" name="standardReactionNmr-01" owner="" procNo="1" source="C:\NMRData\EB\projectGunther\chracterisationStandardReaction\2024-07-24-standardReactionNmr-NMR">
+      <PeakPickDetails>F1=1000.000000ppm, F2=-1000.000000ppm, MI=0.01cm, MAXI=1.50cm, PC=5.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="1.091510" intensity="1.000000e+00" type="0"/>
+  </PeakList1D>
+</PeakList>

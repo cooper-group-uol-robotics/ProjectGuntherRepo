@@ -1,0 +1,42 @@
+##TITLE= Audit trail, TopSpin 3.6.5
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ Z:/Cooper Group/data/AIC_Group/nmr/Jul25-2024-AIC_Group/13/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2024-07-26 21:59:04.040 +0100>,<nmrsu>,<CZC1437Q5R>,<go4>,<TopSpin 3.6.5>,
+      <created by zg on data set with UUID '58af39ea-4b79-11ef-8d1c-80e82ce03034'
+       started at 2024-07-26 19:03:22.330 +0100,
+       POWCHK enabled, PULCHK disabled,
+       completed at 2024-07-26 21:59:04.032 +0100
+
+       configuration hash MD5:
+       84 C8 D0 A9 9B 7B 28 D0 36 09 52 18 C6 9B 98 A2
+       data hash MD5: 2K * 256
+       55 37 FB 77 6A D4 0F E6 67 7E 48 B5 DA 6D E4 52>)
+(   2,<2024-07-26 21:59:04.181 +0100>,<nmrsu>,<CZC1437Q5R>,<audit>,<TopSpin 3.6.5>,
+      <user comment:
+       ICON-NMR User ID: AIC_Group
+       data hash MD5: 2K * 256
+       55 37 FB 77 6A D4 0F E6 67 7E 48 B5 DA 6D E4 52>)
+(   3,<2024-07-26 21:59:06.767 +0100>,<nmrsu>,<CZC1437Q5R>,<proc2d>,<TopSpin 3.6.5>,
+      <Start of raw data processing
+       xfb same F2: SI = 1K WDW = 4 SSB = 2 FT_mod = 6 PKNL = 1 PHC0 = 17.28512 PHC1 = -20.24153 F1: SI = 1K WDW = 4 SSB = 2 FT_mod = 4 FCOR = 1 PHC0 = 90 PHC1 = -180
+       data hash MD5: 1K * 1K
+       16 85 25 EE 5F C5 04 C8 D5 DE 47 EC 8F 06 1B 4D>)
+(   4,<2024-07-26 21:59:06.973 +0100>,<nmrsu>,<CZC1437Q5R>,<proc2d>,<TopSpin 3.6.5>,
+      <abs2 F2: ABSG = 5 ABSF1 = 10.08425 ABSF2 = 0.2449285
+       data hash MD5: 1K * 1K
+       E9 DF E7 96 CF F2 CC AF D9 70 DD E6 04 47 EC 4E>)
+(   5,<2024-07-26 21:59:07.050 +0100>,<nmrsu>,<CZC1437Q5R>,<proc2d>,<TopSpin 3.6.5>,
+      <abs1 F1: ABSG = 5 ABSF1 = 10.08425 ABSF2 = 0.2449285
+       data hash MD5: 1K * 1K
+       F3 2F F7 84 B9 DD F8 E9 DC BE 5F 09 77 AD 66 6C>)
+(   6,<2024-07-26 21:59:09.371 +0100>,<nmrsu>,<CZC1437Q5R>,<dirdata>,<TopSpin 3.6.5>,
+      <wrpa from 1 13 "Jul25-2024-AIC_Group" "C:/Bruker/TopSpin3.6.5/data/AIC_Group/nmr"
+       data hash MD5: 1K * 1K
+       F3 2F F7 84 B9 DD F8 E9 DC BE 5F 09 77 AD 66 6C>)
+##END=
+
+$$ hash MD5
+$$ 3D 53 CC 37 9D 5D 75 89 41 99 CB CD F5 EF D7 97

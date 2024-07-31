@@ -1,0 +1,71 @@
+
+Current Data Parameters
+NAME     Jul25-2024-AIC_Group              
+EXPNO                15              
+PROCNO                1              
+
+F2 - Acquisition Parameters
+Date_          20240726              
+Time              22.27 h            
+INSTRUM           av400              
+PROBHD   Z163739_1011 (              
+PULPROG      hmbcgpndqf              
+TD                 1024              
+SOLVENT           CD3CN              
+NS                    8              
+DS                   16              
+SWH            3787.879 Hz           
+FIDRES         7.398201 Hz           
+AQ            0.1351680 sec          
+RG               209.43              
+DW              132.000 usec         
+DE                 6.50 usec         
+TE                298.2 K            
+CNST13        8.0000000              
+D0           0.00000300 sec          
+D1           1.17477798 sec          
+D6           0.06250000 sec          
+D16          0.00020000 sec          
+IN0          0.00002160 sec          
+TDav                  1              
+SFO1        400.1320516 MHz          
+NUC1                 1H              
+P1                 8.00 usec         
+P2                16.00 usec         
+PLW1        22.48500061 W            
+SFO2        100.6233329 MHz          
+NUC2                13C              
+P3                 8.00 usec         
+PLW2       100.87999725 W            
+GPNAM[1]       SINE.100              
+GPZ1              50.00 %            
+GPNAM[2]       SINE.100              
+GPZ2              30.00 %            
+GPNAM[3]       SINE.100              
+GPZ3              40.10 %            
+P16             1000.00 usec         
+
+F1 - Acquisition parameters
+TD                  128              
+SFO1           100.6233 MHz          
+FIDRES       361.689819 Hz           
+SW              230.048 ppm          
+FnMODE               QF              
+
+F2 - Processing parameters
+SI                 1024              
+SF          400.1300000 MHz          
+WDW                SINE              
+SSB                   0              
+LB                    0 Hz           
+GB                    0              
+PC                 1.40              
+
+F1 - Processing parameters
+SI                 1024              
+MC2                  QF              
+SF          100.6127685 MHz          
+WDW                SINE              
+SSB                   0              
+LB                    0 Hz           
+GB                    0              

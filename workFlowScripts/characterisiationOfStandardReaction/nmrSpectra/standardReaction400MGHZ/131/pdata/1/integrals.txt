@@ -1,0 +1,15 @@
+   Current data set:
+   NAME =	standardReaction400MGHZ	EXPNO =	131	PROCNO = 1
+   DU   =	C:/Users/emanuele/Desktop/PlacementEssay/PlacementEssay/backup/characterisiationOfStandardReaction/nmrSpectra
+
+   Number   Integrated Region     Integral
+     1      8.998      8.825         1.00000
+     2      8.515      8.417         0.98613
+     3      8.268      8.078         1.15287
+     4      7.221      7.106         1.38793
+     5      7.078      6.543         2.50375
+     6      5.698      5.238         1.81884
+     7      4.105      3.961         1.00640
+     8      3.346      3.243         0.92726
+     9      2.438      2.329         3.39023
+    10      2.064      1.903         7.22955

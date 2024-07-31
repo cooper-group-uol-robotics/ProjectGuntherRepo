@@ -1,0 +1,30 @@
+
+New TopShim run:
+
+version = topshim 2.0.0
+date = 2024-07-24
+time = 18:00:48.026
+command = topshim 
+
+FINE SHIMMING
+
+Parameters:
+
+probe = Z163739_1011
+solvent = CH3CN
+shim nucleus = 1H
+nucleus optimised for = 1H
+o1p (from lock) = 1.93 ppm
+
+Results:
+
+shim changes: none
+
+duration = 3 sec
+completed with failure
+finished Wed Jul 24 18:00:49 2024
+
+TopshimCheckLockAndSample - lock is pending: please fully lock out prior to shimming
+
+
+========================================================================

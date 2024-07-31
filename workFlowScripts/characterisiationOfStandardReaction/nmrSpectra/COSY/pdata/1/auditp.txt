@@ -1,0 +1,46 @@
+##TITLE= Audit trail, TopSpin 3.6.5
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ Z:/Cooper Group/data/AIC_Group/nmr/Jul25-2024-AIC_Group/11/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2024-07-25 11:04:45.785 +0100>,<nmrsu>,<CZC1437Q5R>,<go4>,<TopSpin 3.6.5>,
+      <created by zg on data set with UUID 'c541b460-4a6c-11ef-a597-80e82ce03034'
+       started at 2024-07-25 11:00:49.873 +0100,
+       POWCHK enabled, PULCHK disabled,
+       completed at 2024-07-25 11:04:45.785 +0100
+
+       configuration hash MD5:
+       84 C8 D0 A9 9B 7B 28 D0 36 09 52 18 C6 9B 98 A2
+       data hash MD5: 2K * 128
+       06 61 8C 87 B5 CE B8 64 73 FA D9 C7 81 E9 57 77>)
+(   2,<2024-07-25 11:04:45.896 +0100>,<nmrsu>,<CZC1437Q5R>,<audit>,<TopSpin 3.6.5>,
+      <user comment:
+       ICON-NMR User ID: AIC_Group
+       data hash MD5: 2K * 128
+       06 61 8C 87 B5 CE B8 64 73 FA D9 C7 81 E9 57 77>)
+(   3,<2024-07-25 11:04:46.995 +0100>,<nmrsu>,<CZC1437Q5R>,<proc2d>,<TopSpin 3.6.5>,
+      <Start of raw data processing
+       xfb same F2: SI = 1K WDW = 3 SSB = 0 FT_mod = 6 PKNL = 1 F1: SI = 1K ME_mod = 2 NCOEF = 32 WDW = 3 SSB = 0 FT_mod = 6 FCOR = 0.5 PH_mod = 2
+       data hash MD5: 1K * 1K
+       94 71 A1 83 A6 69 1E 91 AF 39 FF 83 30 11 E0 6E>)
+(   4,<2024-07-25 11:04:47.311 +0100>,<nmrsu>,<CZC1437Q5R>,<proc2d>,<TopSpin 3.6.5>,
+      <abs2 F2: ABSG = 5 ABSF1 = 10.08425 ABSF2 = 0.2449285
+       data hash MD5: 1K * 1K
+       7C 0A A1 F7 28 68 C7 B6 91 A7 EB 51 60 E0 00 BF>)
+(   5,<2024-07-25 11:04:47.408 +0100>,<nmrsu>,<CZC1437Q5R>,<proc2d>,<TopSpin 3.6.5>,
+      <abs1 F1: ABSG = 5 ABSF1 = 10.08425 ABSF2 = 0.2449285
+       data hash MD5: 1K * 1K
+       88 E6 3A 67 3C 0C 80 45 95 92 A1 54 51 C9 22 86>)
+(   6,<2024-07-25 11:04:47.470 +0100>,<nmrsu>,<CZC1437Q5R>,<proc2d>,<TopSpin 3.6.5>,
+      <sym
+       data hash MD5: 1K * 1K
+       0C 46 70 D3 0D 74 77 47 96 A5 17 86 BD E0 21 27>)
+(   7,<2024-07-25 11:04:48.798 +0100>,<nmrsu>,<CZC1437Q5R>,<dirdata>,<TopSpin 3.6.5>,
+      <wrpa from 1 11 "Jul25-2024-AIC_Group" "C:/Bruker/TopSpin3.6.5/data/AIC_Group/nmr"
+       data hash MD5: 1K * 1K
+       0C 46 70 D3 0D 74 77 47 96 A5 17 86 BD E0 21 27>)
+##END=
+
+$$ hash MD5
+$$ 2A ED 7C D1 C6 F8 C5 B7 0A 57 48 52 61 F9 DD 7F

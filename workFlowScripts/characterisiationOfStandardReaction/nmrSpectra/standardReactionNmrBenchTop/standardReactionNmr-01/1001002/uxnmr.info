@@ -1,0 +1,111 @@
+CONFIGURATION INFORMATION
+=========================
+
+Path         : /opt/topspin/conf/instr/spect/uxnmr.info
+Date         : Fri Jul  5 15:03:03 2024
+Release      : TopSpin 4.4.0
+Installed in : /opt/topspin
+Host         : fourier80.bruker.lan
+OS           : Linux 6.1.14-19800101-1 #1 SMP PREEMPT Mon Mar  6 11:13:46 UTC 2023
+CPU          : ARMv7 Processor rev 1 (v7l) (2 cores)
+User         : root (root)
+System       : CMR 80 NMR spectrometer
+1H-frequency : 80.13 MHz
+Description  : Fourier
+Configured in: fourier80.bruker.lan:/opt/topspin/conf/instr/spect
+
+AQ-Rack:
+- {EPU}: Fourier80 EPU H162300/000081 ECL 2.0
+- GTU: Fourier80 GTU H162300/000081 ECL 2.0
+  Connection: at IP 127.0.0.1 via PCIe #0
+  Firmware Version: ?
+  - Gradient resolution: 1.0 us
+  Sequencer: TCube, GCube
+  - GCube1
+  - TCube1
+- TRX: Fourier80 TRX H162300/000081 ECL 2.0
+  Connection: at IP 127.0.0.1 via PCIe #1
+  Firmware Version: ?
+  Devices: DRX at /dev/bbu/drx1.1
+  Sequencer: FCube
+  - FCube1
+- TRX: Fourier80 TRX H162300/000081 ECL 2.0
+  Connection: at IP 127.0.0.1 via PCIe #2
+  Firmware Version: ?
+  Devices: DRX at /dev/bbu/drx1.1
+  Sequencer: FCube
+  - FCube2
+- BLA: Fourier80 Amp+Preamp Unit H163261/000224 ECL 12
+- BLA: Fourier80 Amp+Preamp Unit H163261/000228 ECL 12
+- Preamp: Fourier80 Amp+Preamp Unit H163261/000224 ECL 12
+  HPPR2: - HPPR/2 preamplifier connected via AqRack
+      Type      : HPPR/2
+      Controller: no Cover
+                  no LED display for tuning and matching
+      Module  1 : 1H/13C
+                  PN=H163261, SN=000224 from 20211109
+      Module  2 : 1H/13C
+                  PN=H163261, SN=000228 from 20211109
+  
+- Preamp: Fourier80 Amp+Preamp Unit H163261/000228 ECL 12
+- Main board: Fourier80 Mainboard H162300/000081 ECL 2.0
+  Main board: Fourier80 Mainboard H162300/000081 ECL2.0
+  - Gradient resolution: 10.0 us
+- RF board: Fourier80 RFBoard H168435F1/000129 ECL 2.0
+  RF board: Fourier80 RFBoard H168435F1/000129 ECL2.0
+- Gradient Amplifier: Fourier80 Gradient Amplifier H174410/000053 ECL 2.0
+  Gradient Amplifier: Fourier80 Gradient Amplifier H174410/000053 ECL2.0
+  - Current limits: 0.0/X, 0.0/Y, 5.0/Z- BOARD
+- BOARD
+- BOARD
+- BOARD: Fourier80 Lock Board H163263F1/000174 ECL 03
+
+Amplifiers (AQS configuration):
+  Amplifier  Module  Nucleus  Power/W  Switchbox Name PN/SN/FW
+      1         1        B       20    N         Fourier80 Amp+Preamp Unit H163261/224/-
+      2         1        B       20    N         Fourier80 Amp+Preamp Unit H163261/228/-
+
+
+BSMS: BSMS/2 functionality available
+- virtual ELCB module active (no physical ELCB)
+- ELCB firmware version = 20240201
+- SLCB functionality: Not available
+- BSMS has CMR features.
+- Shim System = BFSS1-B
+- SCB channels = 34
+- Shim matrix file: bfss1b.dat
+- Active shims: Y Z X XY YZ Z2 XZ (X2-Y2) X3Z XYZ YZ2 Z3 XZ2 YZ4 X3 Y3Z XYZ2 YZ3 Z4 XZ3 (X2-Y2)Z2 Y3 XYZ3 (X2-Y2)Z Z5 XZ4 (X2-Y2)Z3 XYZ4 YZ5 Z6 XZ5 (X2-Y2)Z4 XYZ5 (X2-Y2)Z5
+- Magnet polarity: SN (Bruker), uses standard H0 polarity
+- Lock: Installed, supports 19F
+-  = SHIMCOILD BFSS1-B: Z181703/000044 ECL 1
+
+CMR spectrometer: FSPEC_HSPECT-08_000090
+- TCP/IP address   = 192.168.80.9
+- Port   = 80
+
+Sample Changers at the spectrometer subnet:
+-------------------------------------------------
+Sample Changer 1: SAMCHG_W180162_NONE
+- TCP/IP address   = 192.168.80.106
+- Protocol types   = SOAP
+
+Magnet System:
+- Polarity: SN (Bruker)
+
+
+RF cable connections (assumed)
+--------------------------------------------------------------------
+TRX1 NORM output -> input 1 of transmitter 1 (Fourier80 Amp+Preamp Unit H163261/224)
+TRX1 AUX  output -> open
+TRX2 NORM output -> input 1 of transmitter 2 (Fourier80 Amp+Preamp Unit H163261/228)
+TRX2 AUX  output -> open
+
+Blanking cable connections (assumed)
+--------------------------------------------------------------------
+transmitter 1 = Fourier80 Amp+Preamp Unit H163261/224:
+- amplifier B-20W uses blanking 1
+
+transmitter 2 = Fourier80 Amp+Preamp Unit H163261/228:
+- amplifier B-20W uses blanking 2
+
+

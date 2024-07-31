@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList>
+  <PeakList1D>
+    <PeakList1DHeader creator="nmrsu" date="2024-07-24T18:03:03.657+01:00" expNo="130" name="Jul24-2024-AIC_Group" owner="" procNo="1" source="C:/Bruker/TopSpin3.6.5/data/AIC_Group/nmr">
+      <PeakPickDetails>F1=13.771230ppm, F2=-2.249201ppm, MI=0.30cm, MAXI=10000.00cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="8.916934" intensity="4.973181e+000" type="0"/>
+    <Peak1D F1="8.598814" intensity="3.766082e-001" type="0"/>
+    <Peak1D F1="8.460625" intensity="3.464576e+000" type="0"/>
+    <Peak1D F1="8.441611" intensity="2.966435e+000" type="0"/>
+    <Peak1D F1="8.181757" intensity="3.444832e+000" type="0"/>
+    <Peak1D F1="8.162769" intensity="2.580894e+000" type="0"/>
+    <Peak1D F1="7.153258" intensity="4.921748e+000" type="0"/>
+    <Peak1D F1="7.048686" intensity="8.281406e-001" type="0"/>
+    <Peak1D F1="6.936785" intensity="1.558925e+000" type="0"/>
+    <Peak1D F1="6.795280" intensity="5.669761e-001" type="0"/>
+    <Peak1D F1="5.514438" intensity="1.939681e+000" type="0"/>
+    <Peak1D F1="4.023083" intensity="4.246215e+000" type="0"/>
+    <Peak1D F1="3.852200" intensity="5.543226e-001" type="0"/>
+    <Peak1D F1="3.466398" intensity="3.999553e-001" type="0"/>
+    <Peak1D F1="3.288486" intensity="5.131903e+000" type="0"/>
+    <Peak1D F1="2.500599" intensity="1.111168e+000" type="0"/>
+    <Peak1D F1="2.383193" intensity="1.500000e+001" type="0"/>
+    <Peak1D F1="2.264374" intensity="4.783950e-001" type="0"/>
+    <Peak1D F1="2.240668" intensity="4.434466e-001" type="0"/>
+    <Peak1D F1="2.226019" intensity="4.409369e-001" type="0"/>
+    <Peak1D F1="2.148202" intensity="3.192838e-001" type="0"/>
+    <Peak1D F1="1.978163" intensity="1.844565e+001" type="0"/>
+    <Peak1D F1="1.959755" intensity="2.170207e+001" type="0"/>
+    <Peak1D F1="1.817820" intensity="4.302960e-001" type="0"/>
+    <Peak1D F1="1.288843" intensity="3.692708e-001" type="0"/>
+  </PeakList1D>
+</PeakList>

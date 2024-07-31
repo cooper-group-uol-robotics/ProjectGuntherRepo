@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList>
+  <PeakList1D>
+    <PeakList1DHeader creator="nmrsu" date="2024-07-26T23:27:55.381+01:00" expNo="16" name="Jul25-2024-AIC_Group" owner="" procNo="1" source="C:/Bruker/TopSpin3.6.5/data/AIC_Group/nmr">
+      <PeakPickDetails>F1=219.989807ppm, F2=-18.930914ppm, MI=0.10cm, MAXI=10000.00cm, PC=1.400
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="174.424149" intensity="6.406729e+000" type="0"/>
+    <Peak1D F1="156.882584" intensity="7.226746e+000" type="0"/>
+    <Peak1D F1="156.056519" intensity="5.052653e+000" type="0"/>
+    <Peak1D F1="150.034592" intensity="5.454432e+000" type="0"/>
+    <Peak1D F1="142.249100" intensity="5.290207e+000" type="0"/>
+    <Peak1D F1="142.094238" intensity="7.971589e+000" type="0"/>
+    <Peak1D F1="140.277771" intensity="6.920393e+000" type="0"/>
+    <Peak1D F1="131.118683" intensity="7.677563e+000" type="0"/>
+    <Peak1D F1="130.595215" intensity="7.986211e+000" type="0"/>
+    <Peak1D F1="130.069229" intensity="3.144868e+000" type="0"/>
+    <Peak1D F1="122.186691" intensity="1.500000e+001" type="0"/>
+    <Peak1D F1="117.896187" intensity="5.802484e+002" type="0"/>
+    <Peak1D F1="39.705959" intensity="3.481917e+000" type="0"/>
+    <Peak1D F1="19.147621" intensity="1.067673e+001" type="0"/>
+    <Peak1D F1="1.515720" intensity="9.883388e+001" type="0"/>
+    <Peak1D F1="1.307677" intensity="3.076040e+002" type="0"/>
+    <Peak1D F1="1.102111" intensity="6.539815e+002" type="0"/>
+    <Peak1D F1="0.896389" intensity="7.039129e+002" type="0"/>
+    <Peak1D F1="0.688259" intensity="6.035919e+002" type="0"/>
+    <Peak1D F1="0.482509" intensity="3.280946e+002" type="0"/>
+    <Peak1D F1="0.389246" intensity="6.897193e+000" type="0"/>
+    <Peak1D F1="0.276986" intensity="1.024494e+002" type="0"/>
+  </PeakList1D>
+</PeakList>

@@ -1,0 +1,15 @@
+   Current data set:
+   NAME =	standardReactionProton	EXPNO =	10	PROCNO = 1
+   DU   =	C:/Users/emanuele/Desktop/PlacementEssay/PlacementEssay/backup/characterisiationOfStandardReaction/nmrSpectra
+
+   Number   Integrated Region     Integral
+     1      8.936      8.870         1.81670
+     2      8.484      8.406         1.85225
+     3      8.196      8.119         1.85350
+     4      7.180      7.114         2.05703
+     5      7.108      6.650         4.75530
+     6      5.650      5.330         3.21865
+     7      4.043      3.949         1.83197
+     8      3.314      3.225         1.67808
+     9      2.391      2.334         6.00000
+    10      1.973      1.905        12.36344

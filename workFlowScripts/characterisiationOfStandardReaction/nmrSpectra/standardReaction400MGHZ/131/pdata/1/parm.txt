@@ -1,0 +1,39 @@
+
+Current Data Parameters
+NAME     Jul24-2024-AIC_Group              
+EXPNO               131              
+PROCNO                1              
+
+F2 - Acquisition Parameters
+Date_          20240724              
+Time              18.06 h            
+INSTRUM           av400              
+PROBHD   Z163739_1011 (              
+PULPROG            zg30              
+TD                65536              
+SOLVENT           CH3CN              
+NS                   16              
+DS                    2              
+SWH            6410.256 Hz           
+FIDRES         0.195625 Hz           
+AQ            5.1118078 sec          
+RG                185.2              
+DW               78.000 usec         
+DE                 6.50 usec         
+TE                298.2 K            
+D1           1.00000000 sec          
+TD0                   1              
+SFO1        400.1324008 MHz          
+NUC1                 1H              
+P0                 2.67 usec         
+P1                 8.00 usec         
+PLW1        22.48500061 W            
+
+F2 - Processing parameters
+SI                32768              
+SF          400.1300959 MHz          
+WDW                  EM              
+SSB                   0              
+LB                 0.30 Hz           
+GB                    0              
+PC                 1.00              

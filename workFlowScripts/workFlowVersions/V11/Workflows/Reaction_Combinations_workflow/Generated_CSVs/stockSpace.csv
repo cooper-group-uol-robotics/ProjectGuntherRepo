@@ -1,0 +1,33 @@
+chemicalIdx,Chemical,Mass to measure (in grams),Actual mass measured,CH3CN,CCl2H2
+1,Iron(II) tetrafluoroborate hexahydrate,0.04786459,0.0584,5767.046857255715,0.0
+2,Zinc tetrafluoroborate,0.0319304,0.0349,4867.503486750349,0.0
+3,Yittrium(III) trifluoromethanesulfonate,0.071624296,0.0722,4489.128474877668,0.0
+4,Tetrakis(acetonitrile)copper(I) tetrafluoroborate,0.0,0.0,0.0,0.0
+5,Silver tetrafluoroborate,0.0363838229999999,0.0438,7499.871577541481,0.0
+6,"1,10-Phenanthroline-2,9-dicarbaldehyde",0.0,0.0,0.0,0.0
+7,"Pyridine-2,6-dicarbaldehyde",0.0,0.0,0.0,0.0
+8,"2,2'-(Ethane-1,2-diyl)dianiline",0.0268768,0.0274,2868.099355567384,0.0
+9,"2,2'-(Ethane-1,2-diylbis(oxy))diethanamine",0.018763386,0.0259,970.8446723492942,2912.5340170478826
+10,"2,2'-Oxydiethanamine",0.02343375,0.0277,5910.278977969809,0.0
+11,"4,4'-Methylenedianiline",0.0250997159999999,0.0251,2813.365165831624,0.0
+12,",3-Benzenedimethanamine",0.017241654,0.0173,2822.8536929616307,0.0
+13,"Adamantane-1,3-diamine",0.0,0.0,0.0,0.0
+14,"4,4'-(9H-AdamantaeFlurene-9,9diyl)dianiline",0.044112504,0.0451,2876.312197859667,0.0
+15,"(S)-4,5,6,7-Tetrahydro-benzothiazole-2,6-diamine",0.0,0.0,0.0,0.0
+16,"[2,2'-Bipyridine]-4,4'-diamine",0.0,0.0,0.0,0.0
+17,"Naphthalene-1,8-diamine",0.0200281199999999,0.0223,3132.462424497823,0.0
+18,"4,4'-Oxydianiline",0.025350384,0.0254,2818.8396146846007,0.0
+19,"6-Methyl-1,3,5-triazine-2,4-diamine",0.0,0.0,0.0,0.0
+20,"(R)-(+)-1,1'-Binaphthyl-2,2'-diamine",0.0,0.0,0.0,0.0
+21,6-Methylpyridine-2-carboxaldehyde,0.0247125599999999,0.0247,2265.5146478821566,0.0
+22,6-Phenylpicolinaldehyde,0.0,0.0,0.0,0.0
+23,"[2,2'-Bipyridine]-6-carbaldehyde",0.0,0.0,0.0,0.0
+24,2-Quinolinecarboxaldehyde,0.1519205219999999,0.1541,0.0,10894.077891596502
+25,5-Methylpicolinaldehyde,0.027692604,0.0307,2815.8420927118304,0.0
+26,8-methoxyquinoline-2-carbaldehyde,0.0,0.0,0.0,0.0
+27,"[1,8]Naphthyridine-2-carbaldehyde",0.0,0.0,0.0,0.0
+28,4-Formyl-2-methylthiazole,0.0196843679999999,0.0209,1826.2206843521724,0.0
+29,6-Methoxypyridine-2-carbaldehyde,0.0279765599999999,0.0289,2341.4839661011456,0.0
+30,1-Methyl-2-imidazolecarboxaldehyde,0.0224624399999999,0.026,2623.6389872753507,0.0
+31,1-Methyl-1H-benzimidazole-2-carbaldehyde,0.0,0.0,0.0,0.0
+32,"4-Methyl-1,3-thiazole-2-carbaldehyde",0.0,0.0,0.0,0.0

@@ -1,0 +1,578 @@
+{
+    "1": {
+        "sample_info": "1batch1: [6-Methylpyridine-2-carboxaldehyde, Zinc tetrafluoroborate, 4,4'-Methylenedianiline]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "2": {
+        "sample_info": "48: [1-Methyl-2-imidazolecarboxaldehyde, Naphthalene-1,8-diamine, Iron(II) tetrafluoroborate hexahydrate]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "3": {
+        "sample_info": "49: [1-Methyl-2-imidazolecarboxaldehyde, 4,4'-(9H-Fluorene-9,9-diyl)dianiline, Iron(II) tetrafluoroborate hexahydrate]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "4": {
+        "sample_info": "50: [2,2'-(Ethane-1,2-diyl)dianiline, 6-Methoxypyridine-2-carbaldehyde, Iron(II) tetrafluoroborate hexahydrate]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "5": {
+        "sample_info": "51: [2,2'-(Ethane-1,2-diyl)dianiline, 5-Methylpicolinaldehyde, Zinc tetrafluoroborate]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "6": {
+        "sample_info": "52: [2,2'-(Ethane-1,2-diyl)dianiline, 5-Methylpicolinaldehyde, Iron(II) tetrafluoroborate hexahydrate]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "7": {
+        "sample_info": "53: [1-Methyl-2-imidazolecarboxaldehyde, 1,3-Benzenedimethanamine, Zinc tetrafluoroborate]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "8": {
+        "sample_info": "54: [1-Methyl-2-imidazolecarboxaldehyde, 1,3-Benzenedimethanamine, Iron(II) tetrafluoroborate hexahydrate]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "9": {
+        "sample_info": "55: [2,2'-(Ethane-1,2-diyl)dianiline, 1-Methyl-2-imidazolecarboxaldehyde, Zinc tetrafluoroborate]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "10": {
+        "sample_info": "56: [2,2'-(Ethane-1,2-diyl)dianiline, 1-Methyl-2-imidazolecarboxaldehyde, Iron(II) tetrafluoroborate hexahydrate]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "11": {
+        "sample_info": "57: [Yittrium(III) trifluoromethanesulfonate, 6-Methylpyridine-2-carboxaldehyde, 4,4'-Methylenedianiline]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "12": {
+        "sample_info": "58: [Yittrium(III) trifluoromethanesulfonate, 6-Methylpyridine-2-carboxaldehyde, 2,2'-(Ethane-1,2-diylbis(oxy))diethanamine]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "13": {
+        "sample_info": "59: [Yittrium(III) trifluoromethanesulfonate, 6-Methylpyridine-2-carboxaldehyde, 4,4'-Oxydianiline]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "14": {
+        "sample_info": "60: [Yittrium(III) trifluoromethanesulfonate, 6-Methoxypyridine-2-carbaldehyde, 4,4'-Methylenedianiline]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "15": {
+        "sample_info": "61: [Yittrium(III) trifluoromethanesulfonate, 6-Methoxypyridine-2-carbaldehyde, 2,2'-(Ethane-1,2-diylbis(oxy))diethanamine]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "16": {
+        "sample_info": "62: [Yittrium(III) trifluoromethanesulfonate, 6-Methoxypyridine-2-carbaldehyde, 4,4'-Oxydianiline]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "17": {
+        "sample_info": "63: [Yittrium(III) trifluoromethanesulfonate, Naphthalene-1,8-diamine, 6-Methylpyridine-2-carboxaldehyde]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "18": {
+        "sample_info": "64: [Yittrium(III) trifluoromethanesulfonate, 4,4'-(9H-Fluorene-9,9-diyl)dianiline, 6-Methylpyridine-2-carboxaldehyde]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "19": {
+        "sample_info": "65: [Yittrium(III) trifluoromethanesulfonate, Naphthalene-1,8-diamine, 6-Methoxypyridine-2-carbaldehyde]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "20": {
+        "sample_info": "66: [Yittrium(III) trifluoromethanesulfonate, 4,4'-(9H-Fluorene-9,9-diyl)dianiline, 6-Methoxypyridine-2-carbaldehyde]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "21": {
+        "sample_info": "67: [Yittrium(III) trifluoromethanesulfonate, 5-Methylpicolinaldehyde, 4,4'-Methylenedianiline]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "22": {
+        "sample_info": "68: [Yittrium(III) trifluoromethanesulfonate, 5-Methylpicolinaldehyde, 2,2'-(Ethane-1,2-diylbis(oxy))diethanamine]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "23": {
+        "sample_info": "69: [Yittrium(III) trifluoromethanesulfonate, 5-Methylpicolinaldehyde, 4,4'-Oxydianiline]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "24": {
+        "sample_info": "70: [Yittrium(III) trifluoromethanesulfonate, 5-Methylpicolinaldehyde, Naphthalene-1,8-diamine]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "25": {
+        "sample_info": "71: [Yittrium(III) trifluoromethanesulfonate, 5-Methylpicolinaldehyde, 4,4'-(9H-Fluorene-9,9-diyl)dianiline]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "26": {
+        "sample_info": "72: [Yittrium(III) trifluoromethanesulfonate, 1,3-Benzenedimethanamine, 6-Methylpyridine-2-carboxaldehyde]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "27": {
+        "sample_info": "73: [Yittrium(III) trifluoromethanesulfonate, 1,3-Benzenedimethanamine, 6-Methoxypyridine-2-carbaldehyde]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "28": {
+        "sample_info": "74: [Yittrium(III) trifluoromethanesulfonate, 1,3-Benzenedimethanamine, 5-Methylpicolinaldehyde]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "29": {
+        "sample_info": "75: [Yittrium(III) trifluoromethanesulfonate, 1-Methyl-2-imidazolecarboxaldehyde, 4,4'-Methylenedianiline]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "30": {
+        "sample_info": "76: [Yittrium(III) trifluoromethanesulfonate, 1-Methyl-2-imidazolecarboxaldehyde, 2,2'-(Ethane-1,2-diylbis(oxy))diethanamine]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "31": {
+        "sample_info": "77: [Yittrium(III) trifluoromethanesulfonate, 1-Methyl-2-imidazolecarboxaldehyde, 4,4'-Oxydianiline]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "32": {
+        "sample_info": "78: [Yittrium(III) trifluoromethanesulfonate, 2,2'-(Ethane-1,2-diyl)dianiline, 6-Methylpyridine-2-carboxaldehyde]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "33": {
+        "sample_info": "79: [Yittrium(III) trifluoromethanesulfonate, 1-Methyl-2-imidazolecarboxaldehyde, Naphthalene-1,8-diamine]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "34": {
+        "sample_info": "80: [Yittrium(III) trifluoromethanesulfonate, 1-Methyl-2-imidazolecarboxaldehyde, 4,4'-(9H-Fluorene-9,9-diyl)dianiline]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "35": {
+        "sample_info": "81: [Yittrium(III) trifluoromethanesulfonate, 2,2'-(Ethane-1,2-diyl)dianiline, 6-Methoxypyridine-2-carbaldehyde]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "36": {
+        "sample_info": "82: [Yittrium(III) trifluoromethanesulfonate, 2,2'-(Ethane-1,2-diyl)dianiline, 5-Methylpicolinaldehyde]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "37": {
+        "sample_info": "83: [Yittrium(III) trifluoromethanesulfonate, 1-Methyl-2-imidazolecarboxaldehyde, 1,3-Benzenedimethanamine]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "38": {
+        "sample_info": "84: [Yittrium(III) trifluoromethanesulfonate, 2,2'-(Ethane-1,2-diyl)dianiline, 1-Methyl-2-imidazolecarboxaldehyde]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "39": {
+        "sample_info": "85: [4-Formyl-2-methylthiazole, Zinc tetrafluoroborate, 4,4'-Methylenedianiline]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "40": {
+        "sample_info": "86: [4-Formyl-2-methylthiazole, Zinc tetrafluoroborate, 2,2'-(Ethane-1,2-diylbis(oxy))diethanamine]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "41": {
+        "sample_info": "87: [4-Formyl-2-methylthiazole, Zinc tetrafluoroborate, 4,4'-Oxydianiline]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "42": {
+        "sample_info": "88: [4-Formyl-2-methylthiazole, Iron(II) tetrafluoroborate hexahydrate, 4,4'-Methylenedianiline]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "43": {
+        "sample_info": "89: [4-Formyl-2-methylthiazole, Iron(II) tetrafluoroborate hexahydrate, 2,2'-(Ethane-1,2-diylbis(oxy))diethanamine]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "44": {
+        "sample_info": "90: [4-Formyl-2-methylthiazole, Iron(II) tetrafluoroborate hexahydrate, 4,4'-Oxydianiline]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "45": {
+        "sample_info": "91: [4-Formyl-2-methylthiazole, Naphthalene-1,8-diamine, Zinc tetrafluoroborate]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "46": {
+        "sample_info": "92: [4-Formyl-2-methylthiazole, 4,4'-(9H-Fluorene-9,9-diyl)dianiline, Zinc tetrafluoroborate]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "47": {
+        "sample_info": "93: [4-Formyl-2-methylthiazole, Naphthalene-1,8-diamine, Iron(II) tetrafluoroborate hexahydrate]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "48": {
+        "sample_info": "94: [4-Formyl-2-methylthiazole, 4,4'-(9H-Fluorene-9,9-diyl)dianiline, Iron(II) tetrafluoroborate hexahydrate]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    }
+}

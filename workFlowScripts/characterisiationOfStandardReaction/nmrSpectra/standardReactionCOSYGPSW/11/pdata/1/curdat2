@@ -1,0 +1,33 @@
+##TITLE= Parameter file, TopSpin 3.6.5
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 4	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ 2024-07-25 11:04:47.533 +0100  nmrsu@CZC1437Q5R
+$$ C:/Bruker/TopSpin3.6.5/data/AIC_Group/nmr/Jul25-2024-AIC_Group/11/pdata/1/curdat2
+$$ process C:\Bruker\TopSpin3.6.5\prog\au\bin\proc_2dsym.exe
+##$CUREXP= <>
+##$DATPATH= <>
+##$DATPATH2= <C:/Bruker/TopSpin3.6.5/data/AIC_Group/nmr>
+##$DATPATH3= <C:/Bruker/TopSpin3.6.5/data/AIC_Group/nmr>
+##$DETAILS= <>
+##$DU= </u>
+##$DU2= <C:\Bruker\TopSpin3.6.5>
+##$DU3= <>
+##$EXPNO= 1
+##$EXPNO2= 10
+##$EXPNO3= 10
+##$NAME= <>
+##$NAME2= <Jul25-2024-AIC_Group>
+##$NAME3= <Jul25-2024-AIC_Group>
+##$PROCNO= 1
+##$PROCNO2= 1
+##$PROCNO3= 1
+##$SCALE2= 1
+##$SCALE3= 1
+##$TYPE= <nmr>
+##$USER= <>
+##$USER2= <AIC_Group>
+##$USER3= <>
+##END=

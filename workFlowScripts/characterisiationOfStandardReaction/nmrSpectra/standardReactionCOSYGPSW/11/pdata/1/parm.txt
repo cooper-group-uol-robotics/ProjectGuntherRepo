@@ -1,0 +1,62 @@
+
+Current Data Parameters
+NAME     Jul25-2024-AIC_Group              
+EXPNO                11              
+PROCNO                1              
+
+F2 - Acquisition Parameters
+Date_          20240725              
+Time              11.04 h            
+INSTRUM           av400              
+PROBHD   Z163739_1011 (              
+PULPROG        cosygpqf              
+TD                 2048              
+SOLVENT           CD3CN              
+NS                    1              
+DS                    8              
+SWH            3937.008 Hz           
+FIDRES         3.844734 Hz           
+AQ            0.2600960 sec          
+RG                63.64              
+DW              127.000 usec         
+DE                 6.50 usec         
+TE                298.2 K            
+D0           0.00000300 sec          
+D1           1.41848898 sec          
+D13          0.00000400 sec          
+D16          0.00020000 sec          
+IN0          0.00025400 sec          
+TDav                  1              
+SFO1        400.1320665 MHz          
+NUC1                 1H              
+P0                 8.00 usec         
+P1                 8.00 usec         
+PLW1        22.48500061 W            
+GPNAM[1]       SINE.100              
+GPZ1              10.00 %            
+P16             1000.00 usec         
+
+F1 - Acquisition parameters
+TD                  128              
+SFO1           400.1321 MHz          
+FIDRES        61.515747 Hz           
+SW                9.839 ppm          
+FnMODE               QF              
+
+F2 - Processing parameters
+SI                 1024              
+SF          400.1300000 MHz          
+WDW                SINE              
+SSB                   0              
+LB                    0 Hz           
+GB                    0              
+PC                 1.40              
+
+F1 - Processing parameters
+SI                 1024              
+MC2                  QF              
+SF          400.1300000 MHz          
+WDW                SINE              
+SSB                   0              
+LB                    0 Hz           
+GB                    0              

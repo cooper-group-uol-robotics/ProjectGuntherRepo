@@ -1,0 +1,4 @@
+# 2024-07-24 20:59:54 +0100 emanuele@MWS-1048587
+# TOPSPIN Molecule to PPM ranges correlations
+# C:/Users/emanuele/Desktop/PlacementEssay/PlacementEssay/backup/characterisiationOfStandardReaction/nmrSpectra/standardReaction400MGHZ/131/pdata/1
+# Start [PPM]     End [PPM]     Atom Numbers

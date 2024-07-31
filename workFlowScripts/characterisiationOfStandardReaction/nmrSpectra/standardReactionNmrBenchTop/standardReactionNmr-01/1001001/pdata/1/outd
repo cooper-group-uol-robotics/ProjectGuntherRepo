@@ -1,0 +1,16 @@
+##TITLE= Parameter file, TopSpin 4.4.0
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 2	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH & Co. KG
+##OWNER= nmrsu
+$$ 2024-07-24 15:36:06.680 +0100  nmrsu@ACL-NMR
+$$ C:\NMRData\EB\projectGunther\chracterisationStandardReaction\2024-07-24-standardReactionNmr-NMR/standardReactionNmr-01/1001001/pdata/1/outd
+$$ process C:\Bruker\TopSpin4.4.0\prog\mod\edparproc.exe
+##$CURPLOT= <>
+##$CURPRIN= <$>
+##$DFORMAT= <normdp>
+##$LAYOUT= <+/1D_H.xwp>
+##$LFORMAT= <normlp>
+##$PFORMAT= <normpl>
+##END=
