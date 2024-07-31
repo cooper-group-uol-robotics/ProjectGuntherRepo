@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="AcquityELSD-PrintMethod-r101.xsl"?>
+<AcquityELSDMethod xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="AcquityELSD-Method-r100.xsd" version="1">
+	<RunTime>1.0</RunTime>
+	<Comment/>
+	<LampOn>true</LampOn>
+	<GasPressure>40.0</GasPressure>
+	<GasPressureEnable>false</GasPressureEnable>
+	<DataRate>10</DataRate>
+	<Gain>500.0</Gain>
+	<TimeConstant>0.100</TimeConstant>
+	<SignalOutputFullScale_LSU>2000</SignalOutputFullScale_LSU>
+	<SignalOutputFullScale_mV>2000</SignalOutputFullScale_mV>
+	<SignalOutputOffset>0</SignalOutputOffset>
+	<SignalOutputPolarity>AnalogOutputPolarity_1</SignalOutputPolarity>
+	<TemperatureOutputOffset>0</TemperatureOutputOffset>
+	<TemperatureOutputSource>AnalogOutTemperatureSource_1</TemperatureOutputSource>
+	<AnalogOutputMode>AnalogOutputMode_1</AnalogOutputMode>
+	<SignalMbfEnable>false</SignalMbfEnable>
+	<SignalEnable>true</SignalEnable>
+	<NebulizerSetPoint>0.0</NebulizerSetPoint>
+	<NebulizerEnable>false</NebulizerEnable>
+	<NebulizerMode>HeaterCoolerCooling_2</NebulizerMode>
+	<DriftTubeSetPoint>50.0</DriftTubeSetPoint>
+	<DriftTubeLimit>25.0</DriftTubeLimit>
+	<DriftTubeEnable>false</DriftTubeEnable>
+	<ColumnSetPoint>HeaterOff_-1</ColumnSetPoint>
+	<ColumnLimit>5.0</ColumnLimit>
+	<ColumnEnable>false</ColumnEnable>
+	<AuxilarySwitch>AuxilarySwitch_0</AuxilarySwitch>
+	<AutozeroOnInject>true</AutozeroOnInject>
+	<AutozeroOnGainChange>AutozeroOnGainChange_2</AutozeroOnGainChange>
+	<PulseWidth>0.1</PulseWidth>
+	<RectWavePeriod>0.2</RectWavePeriod>
+	<Threshold>
+		<ThresholdLevel>1.0000</ThresholdLevel>
+		<ThresholdEvent>ThresholdEventOff_0</ThresholdEvent>
+		<ThresholdParameter1>ThresholdAction_2</ThresholdParameter1>
+		<ThresholdParameter2>ThresholdAction_2</ThresholdParameter2>
+	</Threshold>
+	<EventTable/>
+	<ColumnHeaterHardwarePresent>false</ColumnHeaterHardwarePresent>
+	<InstrumentType>InstrumentType_-1A</InstrumentType>
+</AcquityELSDMethod>

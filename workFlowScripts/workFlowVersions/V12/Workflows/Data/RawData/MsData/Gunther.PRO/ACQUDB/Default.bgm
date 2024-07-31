@@ -1,0 +1,203 @@
+<WPrepMethod version="1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="WPrep-Method-r101.xsd">
+	<!-- Overall -->
+	<RunTime>1</RunTime>
+	<!-- Primary (analytical) BGM -->
+	<BGM1 version="1">
+		<FlowSourceA>1</FlowSourceA>
+		<FlowSourceB>1</FlowSourceB>
+		<LowPressureLimit>0</LowPressureLimit>
+		<HighPressureLimit>6000</HighPressureLimit>
+		<SolventNameA>A1</SolventNameA>
+		<SolventNameB>B1</SolventNameB>
+		<VentValve>System</VentValve>
+		<InitialSwitch1>No Change</InitialSwitch1>
+		<InitialSwitch2>No Change</InitialSwitch2>
+		<InitialSwitch3>No Change</InitialSwitch3>
+		<InitialSwitch4>No Change</InitialSwitch4>
+		<SealWashPeriod>5</SealWashPeriod>
+		<Analog1>Pressure</Analog1>
+		<Analog2>%B</Analog2>
+		<GradientTable>
+			<GradientRow>
+				<Time>Initial</Time>
+				<Flow>1</Flow>
+				<CompositionB>0</CompositionB>
+				<Curve>Initial</Curve>
+			</GradientRow>
+		</GradientTable>
+		<RunEvents>yes</RunEvents>
+		<EventTable/>
+	</BGM1>
+	<!-- Secondary (regeneration) BGM -->
+	<BGM2 version="1">
+		<FlowSourceA>1</FlowSourceA>
+		<FlowSourceB>1</FlowSourceB>
+		<LowPressureLimit>0</LowPressureLimit>
+		<HighPressureLimit>6000</HighPressureLimit>
+		<SolventNameA>A1</SolventNameA>
+		<SolventNameB>B1</SolventNameB>
+		<VentValve>System</VentValve>
+		<InitialSwitch1>No Change</InitialSwitch1>
+		<InitialSwitch2>No Change</InitialSwitch2>
+		<InitialSwitch3>No Change</InitialSwitch3>
+		<InitialSwitch4>No Change</InitialSwitch4>
+		<SealWashPeriod>5</SealWashPeriod>
+		<Analog1>%A</Analog1>
+		<Analog2>Pressure</Analog2>
+		<GradientTable>
+			<GradientRow>
+				<Time>Initial</Time>
+				<Flow>1</Flow>
+				<CompositionB>0</CompositionB>
+				<Curve>Initial</Curve>
+			</GradientRow>
+		</GradientTable>
+		<RunEvents>yes</RunEvents>
+		<EventTable/>
+	</BGM2>
+	<!-- CFO (Column/fluidic organizer) -->
+	<CFO version="1">
+		<InitialSwitch1>No Change</InitialSwitch1>
+		<InitialSwitch2>No Change</InitialSwitch2>
+		<InitialSwitch3>No Change</InitialSwitch3>
+		<InitialSwitch4>No Change</InitialSwitch4>
+		<InitialSwitch5>No Change</InitialSwitch5>
+		<InitialSwitch6>No Change</InitialSwitch6>
+		<InitialValve1>No Change</InitialValve1>
+		<InitialValve2>No Change</InitialValve2>
+		<InitialValve3>No Change</InitialValve3>
+		<RunEvents>yes</RunEvents>
+		<EventTable/>
+	</CFO>
+	<!-- PCM (Pump Control Module -->
+	<PCM version="1">
+		<FlowA>0</FlowA>
+		<SolventNameA>A</SolventNameA>
+		<LowPressureLimitA>0</LowPressureLimitA>
+		<HighPressureLimitA>5000</HighPressureLimitA>
+		<FlowB>0</FlowB>
+		<SolventNameB>B</SolventNameB>
+		<LowPressureLimitB>0</LowPressureLimitB>
+		<HighPressureLimitB>5000</HighPressureLimitB>
+		<FlowC>0</FlowC>
+		<SolventNameC>C</SolventNameC>
+		<LowPressureLimitC>0</LowPressureLimitC>
+		<HighPressureLimitC>5000</HighPressureLimitC>
+		<InitialSwitch1>Off</InitialSwitch1>
+		<InitialSwitch2>Off</InitialSwitch2>
+		<InitialSwitch3>Off</InitialSwitch3>
+		<InitialSwitch4>Off</InitialSwitch4>
+		<RunEvents>no</RunEvents>
+		<EventTable></EventTable>
+	</PCM>
+	<W600-1>
+		<LowPressureLimit>0</LowPressureLimit>
+		<HighPressureLimit>6000</HighPressureLimit>
+		<SolventNameA>A</SolventNameA>
+		<SolventNameB>B</SolventNameB>
+		<SolventNameC>C</SolventNameC>
+		<SolventNameD>D</SolventNameD>
+		<SpargeA>Off</SpargeA>
+		<SpargeB>Off</SpargeB>
+		<SpargeC>Off</SpargeC>
+		<SpargeD>Off</SpargeD>
+		<SpargeRate>33</SpargeRate>
+		<InitialSwitch1>No Change</InitialSwitch1>
+		<InitialSwitch2>No Change</InitialSwitch2>
+		<InitialSwitch3>No Change</InitialSwitch3>
+		<InitialSwitch4>No Change</InitialSwitch4>
+		<ColumnTemperature>0</ColumnTemperature>
+		<ColumnTemperatureLimit>3</ColumnTemperatureLimit>
+		<Analog>Flow Rate</Analog>
+		<GradientTable>
+			<GradientRow>
+				<Time>Initial</Time>
+				<Flow>1.00</Flow>
+				<CompositionB>0</CompositionB>
+				<CompositionC>0</CompositionC>
+				<CompositionD>0</CompositionD>
+				<Curve>Initial</Curve>
+			</GradientRow>
+		</GradientTable>
+		<RunEvents>yes</RunEvents>
+		<EventTable/>
+	</W600-1>
+	<W600-2>
+		<LowPressureLimit>0</LowPressureLimit>
+		<HighPressureLimit>6000</HighPressureLimit>
+		<SolventNameA>A</SolventNameA>
+		<SolventNameB>B</SolventNameB>
+		<SolventNameC>C</SolventNameC>
+		<SolventNameD>D</SolventNameD>
+		<SpargeA>Off</SpargeA>
+		<SpargeB>Off</SpargeB>
+		<SpargeC>Off</SpargeC>
+		<SpargeD>Off</SpargeD>
+		<SpargeRate>33</SpargeRate>
+		<InitialSwitch1>No Change</InitialSwitch1>
+		<InitialSwitch2>No Change</InitialSwitch2>
+		<InitialSwitch3>No Change</InitialSwitch3>
+		<InitialSwitch4>No Change</InitialSwitch4>
+		<ColumnTemperature>0</ColumnTemperature>
+		<ColumnTemperatureLimit>3</ColumnTemperatureLimit>
+		<Analog>Flow Rate</Analog>
+		<GradientTable>
+			<GradientRow>
+				<Time>Initial</Time>
+				<Flow>1.00</Flow>
+				<CompositionB>0</CompositionB>
+				<CompositionC>0</CompositionC>
+				<CompositionD>0</CompositionD>
+				<Curve>Initial</Curve>
+			</GradientRow>
+		</GradientTable>
+		<RunEvents>yes</RunEvents>
+		<EventTable/>
+	</W600-2>
+	<W1525-1>
+		<LowPressureLimit>0</LowPressureLimit>
+		<HighPressureLimit>4000</HighPressureLimit>
+		<SolventNameA>A</SolventNameA>
+		<SolventNameB>B</SolventNameB>
+		<InitialSwitch1>Off</InitialSwitch1>
+		<InitialSwitch2>Off</InitialSwitch2>
+		<InitialSwitch3>Off</InitialSwitch3>
+		<InitialSwitch4>Off</InitialSwitch4>
+		<GradientTable>
+			<GradientRow>
+				<Time>Initial</Time>
+				<Flow>1.00</Flow>
+				<CompositionB>0</CompositionB>
+				<Curve>Initial</Curve>
+			</GradientRow>
+		</GradientTable>
+		<RunEvents>yes</RunEvents>
+		<EventTable/>
+	</W1525-1>
+	<W1525-2>
+		<LowPressureLimit>0</LowPressureLimit>
+		<HighPressureLimit>4000</HighPressureLimit>
+		<SolventNameA>A</SolventNameA>
+		<SolventNameB>B</SolventNameB>
+		<InitialSwitch1>Off</InitialSwitch1>
+		<InitialSwitch2>Off</InitialSwitch2>
+		<InitialSwitch3>Off</InitialSwitch3>
+		<InitialSwitch4>Off</InitialSwitch4>
+		<GradientTable>
+			<GradientRow>
+				<Time>Initial</Time>
+				<Flow>1.00</Flow>
+				<CompositionB>0</CompositionB>
+				<Curve>Initial</Curve>
+			</GradientRow>
+		</GradientTable>
+		<RunEvents>yes</RunEvents>
+		<EventTable/>
+	</W1525-2>
+	<W1500>
+		<Enable>false</Enable>
+		<Temperature>30</Temperature>
+		<LowTemperatureLimit>20.0</LowTemperatureLimit>
+		<HighTemperatureLimit>60.0</HighTemperatureLimit>
+	</W1500>
+</WPrepMethod>

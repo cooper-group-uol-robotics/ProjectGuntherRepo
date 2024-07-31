@@ -1,0 +1,221 @@
+
+ACE Experimental Record
+
+
+Inlet Method File: d:\projects\gunther.pro\acqudb\suprachemcage
+
+---------------------   Run method parameters   ----------------
+
+-- PUMP --
+
+Waters ACQUITY QSM
+ Solvent A Name: Acetonitrile + 0.1 % Formic acid 
+ Solvent B Name: Acetonitrile + 0.1 % Formic acid 
+ Solvent C Name:  
+ Solvent D Name:  
+ Low Pressure Limit: 0.000 psi
+ High Pressure Limit: 15000.000 psi
+ Seal Wash Period: 5.00 min
+ [Gradient Table]
+  Time(min) Flow Rate(mL/min) %A %B %C %D Curve 
+ 1. Initial 0.600 100.0 0.0 0.0 0.0 Initial 
+ 2. 0.50 0.600 100.0 0.0 0.0 0.0 6 
+ Comment:  
+ Flow Ramp Rate: 0.45 min
+ D Solvent Selection (if supported): No Change 
+ System Pressure Data Channel: Yes 
+ Flow Rate Data Channel: No 
+ %A Data Channel: No 
+ %B Data Channel: No 
+ %C Data Channel: No 
+ %D Data Channel: No 
+ Primary Data Channel: No 
+ Accumulator Data Channel: No 
+ Degasser Data Channel: No 
+ Gradient Start: At Injection 
+ Gradient Start Volume: 0 uL
+ Gradient Start Time: 0.00 min
+ Participate in pre-analysis: No 
+
+-- END PUMP --
+
+-- DETECTOR -- 
+
+Waters Acquity PDA
+
+ Run Time: 0.50 min
+ PDA Detector Type: UPLC LG 500 nm 
+ Lamp: On 
+ Sampling Rate: 20 points/sec
+ Filter Time Constant: 0.1000 sec
+ Exposure Time: Auto msec
+ Negative Absorbance Margin: -0.07 AU
+ Interpolate 2nd order filter Region: No 
+ Use UV Blocking Filter: No 
+3D Channel...
+ Range: 210  - 500  
+ Resolution: 1.2 nm
+Channel 1...
+ Data Mode: Absorbance -MBF at 254  
+ Resolution: 4.8 nm
+ Initial Switch 1: No Change 
+ Initial Switch 2: No Change 
+ Pulse Width: 1.0 sec
+ Rect Wave Period: 0.2 sec
+
+
+-- END DETECTOR -- 
+
+-- DETECTOR -- 
+
+Waters Acquity CM
+
+ Target Column Temperature: Off °C
+ Temperature Alarm Band: 5.0 °C
+ Shutdown all columns: No 
+ Column Valve Position: Bypass 
+ Equilibration Time: 0.1 min
+ Active Preheater: Enabled 
+ External Valve 1: No Change 
+ External Valve 2: No Change 
+ External Valve 3: No Change 
+ Comment:  
+ Column Temperature Data Channel: No 
+ Preheater Temperature Data Channel: No 
+
+
+-- END DETECTOR -- 
+
+-- AUTOSAMPLER --
+
+Waters ACQUITY FTN AutoSampler 
+ Run Time: 0.50 min
+ Comment:  
+ Load Ahead: Disabled 
+ Loop Offline: Disabled 
+ Wash Solvent Name: Acetonitrile 
+ Pre-Inject Wash Time: 0.0 sec
+ Post-Inject Wash Time: 6.0 sec
+ Purge Solvent Name: 50:50 Water:ACN 
+ Dilution: Disabled 
+ Dilution Volume: 0 uL
+ Delay Time: 0 min
+ Dilution Needle Placement: Automatic mm
+ Target Column Temperature: Off °C
+ Target Sample Temperature: Off °C
+ Syringe Draw Rate: Automatic 
+ Needle Placement: Automatic 
+ Pre-Aspirate Air Gap: Automatic 
+ Post-Aspirate Air Gap: Automatic 
+ Column Temperature Data Channel: No 
+ Room Temperature Data Channel: No 
+ Sample Temperature Data Channel: No 
+ Sample Organizer Temperature Data Channel: No 
+ Sample Pressure Data Channel: No 
+ Preheater Temperature Data Channel: No 
+ Seal Force Data Channel: No 
+ No Injection Mode Enabled: No 
+ Autoaddition Mix Stroke Cycles: Automatic 
+ Autoaddition Mix Stroke Volume: Automatic uL
+ Active Preheater: Disabled 
+ Run Events: No 
+
+
+Sample Run Injection Parameter
+
+Injection Volume (ul)   -   1.00
+-- END AUTOSAMPLER --
+
+----------------------------  oOo  -----------------------------
+
+
+End of experimental record.
+
+
+
+------------------- Waters ACQUITY QSM Postrun Report  ---------------
+
+
+
+ Firmware Version: 1.72.415 (Aug  7 2018) 
+ Software Version: 1.73.3205 
+ Checksum: 0x93efe762 
+ Serial Number: E21QSP309A 
+ Minimum System Pressure: 473.9 psi
+ Maximum System Pressure: 557.5 psi
+ Average System Pressure: 548.1 psi
+
+----------------------------  oOo  -----------------------------
+
+
+
+------------------- Waters ACQUITY FTN Postrun Report  ---------------
+
+
+
+ Software Version: 1.74.2662 
+ Firmware Version: 1.71.395 (Feb 14 2018) 
+ Checksum: 0x285858d7 
+ Serial Number: D21FTP238G 
+ Sample Syringe Size: 100.0 
+ Extension Loop Size: 0.0 
+ Needle Size: 15.0 
+ Auto-defrost Enabled: No 
+ Minimum Sample Temperature: 25.7 °C
+ Maximum Sample Temperature: 25.7 °C
+ Average Sample Temperature: 25.7 °C
+ Minimum Column Temperature: 0.0 °C
+ Maximum Column Temperature: 0.0 °C
+ Average Column Temperature: 0.0 °C
+
+----------------------------  oOo  -----------------------------
+
+
+
+------------------- Generic Instrument Postrun Report  ---------------
+
+
+ Software Version: 1.70.2074 
+ Firmware Version: 1.70.6367 (Jan 25 2018) 
+ Checksum: 0xdf9b3a2e 
+ Serial Number: C21UPD509A 
+ Lamp On/Off Event: No 
+ Lamp Life: 523.00 hours
+ Lamp Serial Number: 371CEA78 
+ Exposure Time: 16.667 msec
+ Lambda1: 186.871 
+ Lambda512: 502.543 
+ Flow Cell Type: Analytical LG 
+ Flow Cell Path Length: 10.000 mm
+ Flow Cell Volume: 0.500 microliters
+ Flow Cell Serial Number: 230605601M 
+ Flow Cell Part Number: 205015017 
+ Optics Temperature Stabilzation Setting: Normal Temperature 
+
+----------------------------  oOo  -----------------------------
+
+---------------Failed to get IECordHost2 Interface ---------
+
+
+
+------------------- Waters Acquity CM Postrun Report  ---------------
+
+
+
+ Software Version: 1.73.3359 
+ Firmware Version: 1.69.154 (Feb 17 2017) 
+ Checksum: 0x17ac4a76 
+ Serial Number: D21CMP129G 
+ Valve Position: -2 
+ Minimum Column Temperature: 25.7 °C
+ Maximum Column Temperature: 25.7 °C
+ Average Column Temperature: 25.7 °C
+
+----------------------------  oOo  -----------------------------
+
+------------------- Active eCord Data ---------------
+
+Failed to retrive current Column Position
+
+----------------------------  oOo  -----------------------------
+

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="AcquityQSM-PrintMethod-r100.xsl"?>
+<AcquityQSMMethod xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="AcquityQSM-Method-r100.xsd" version="1" modified="false">
+	<RunTime>1.00</RunTime>
+	<SolventNameA>Water</SolventNameA>
+	<SolventNameB>Acetonitrile</SolventNameB>
+	<SolventNameC>Unknown</SolventNameC>
+	<SolventNameD>Unknown</SolventNameD>
+	<SolventTypeA>Water</SolventTypeA>
+	<SolventTypeB>Acetonitrile</SolventTypeB>
+	<SolventTypeC>Unknown</SolventTypeC>
+	<SolventTypeD>Unknown</SolventTypeD>
+	<LowPressureLimit>0</LowPressureLimit>
+	<HighPressureLimit>15000</HighPressureLimit>
+	<SealWashPeriod>5.00</SealWashPeriod>
+	<VentValvePosition>System</VentValvePosition>
+	<GradientTable>
+		<GradientRow>
+			<Time>Initial</Time>
+			<Flow>0.500</Flow>
+			<CompositionA>100.0</CompositionA>
+			<CompositionB>0.0</CompositionB>
+			<CompositionC>0.0</CompositionC>
+			<CompositionD>0.0</CompositionD>
+			<Curve>Initial</Curve>
+		</GradientRow>
+	</GradientTable>
+	<Comment/>
+	<FlowRampRate>0.45</FlowRampRate>
+	<PreInjectorVolume>0</PreInjectorVolume>
+	<StrokeVolume>50 uL   (flow &lt;= 2 mL/min)</StrokeVolume>
+	<SystemReequilibrationVolume>0</SystemReequilibrationVolume>
+	<SystemReequilibrationVentPoint>Solvent Manager</SystemReequilibrationVentPoint>
+	<SystemReequilibrationFlowRate>2.000</SystemReequilibrationFlowRate>
+	<ColumnReequilibrationVolume>0</ColumnReequilibrationVolume>
+	<SolventSelectionValveAPosition>0</SolventSelectionValveAPosition>
+	<SolventSelectionValveBPosition>0</SolventSelectionValveBPosition>
+	<SolventSelectionValveCPosition>0</SolventSelectionValveCPosition>
+	<SolventSelectionValveDPosition>0</SolventSelectionValveDPosition>
+	<IsICSInExclusiveMode>false</IsICSInExclusiveMode>
+	<SystemPressureDataEnable>false</SystemPressureDataEnable>
+	<FlowRateDataEnable>false</FlowRateDataEnable>
+	<PercentADataEnable>false</PercentADataEnable>
+	<PercentBDataEnable>false</PercentBDataEnable>
+	<PercentCDataEnable>false</PercentCDataEnable>
+	<PercentDDataEnable>false</PercentDDataEnable>
+	<PrimaryDataEnable>false</PrimaryDataEnable>
+	<AccumulatorDataEnable>false</AccumulatorDataEnable>
+	<DegasserDataEnable>false</DegasserDataEnable>
+</AcquityQSMMethod>

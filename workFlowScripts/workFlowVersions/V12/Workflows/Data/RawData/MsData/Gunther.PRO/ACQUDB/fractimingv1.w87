@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<W2487Method xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="W2487-Method-r101.xsd" version="2">
+	<RunTime>3.00</RunTime>
+	<WavelengthMode>1</WavelengthMode>
+	<wavelengthsAvailable value="1"/>
+	<CompatibilityChannels>
+		<Channel>
+			<chWavelength value="220"/>
+			<chDataRate value="1"/>
+			<channelId value="1"/>
+		</Channel>
+		<Channel>
+			<chWavelength value="220"/>
+			<chDataRate value="1"/>
+			<channelId value="2"/>
+		</Channel>
+	</CompatibilityChannels>
+	<Lamp>true</Lamp>
+	<ChannelA>
+		<Description></Description>
+		<Wavelength>220</Wavelength>
+		<DataRate>1</DataRate>
+		<DataMode>Absorbance</DataMode>
+		<FilterType>Hamming</FilterType>
+		<TimeConstant>1.0</TimeConstant>
+		<RatioMinimum>0.0001</RatioMinimum>
+		<AutoZeroWavelength>true</AutoZeroWavelength>
+		<AutoZeroInjectStart>true</AutoZeroInjectStart>
+		<AutoZeroEventOrKey>true</AutoZeroEventOrKey>
+	</ChannelA>
+	<ChannelB>
+		<Description/>
+		<Wavelength>220</Wavelength>
+		<DataRate>1</DataRate>
+		<DataMode>Absorbance</DataMode>
+		<FilterType>Hamming</FilterType>
+		<TimeConstant>1.0</TimeConstant>
+		<RatioMinimum>0.0001</RatioMinimum>
+		<AutoZeroWavelength>true</AutoZeroWavelength>
+		<AutoZeroInjectStart>true</AutoZeroInjectStart>
+		<AutoZeroEventOrKey>true</AutoZeroEventOrKey>
+	</ChannelB>
+	<AnalogA>
+		<Sensitivity>2.0000</Sensitivity>
+		<Polarity>Positive (+)</Polarity>
+		<AbsorbanceOffset>0.000</AbsorbanceOffset>
+		<VoltageOffset>0</VoltageOffset>
+		<RatioMinimum>0.0</RatioMinimum>
+		<RatioMaximum>2.0</RatioMaximum>
+		<ChartMarkEnable>true</ChartMarkEnable>
+	</AnalogA>
+	<AnalogB>
+		<Sensitivity>2.0000</Sensitivity>
+		<Polarity>Positive (+)</Polarity>
+		<AbsorbanceOffset>0.000</AbsorbanceOffset>
+		<VoltageOffset>0</VoltageOffset>
+		<RatioMinimum>0.0</RatioMinimum>
+		<RatioMaximum>2.0</RatioMaximum>
+		<ChartMarkEnable>true</ChartMarkEnable>
+	</AnalogB>
+	<RunEvents>false</RunEvents>
+	<EventTable/>
+	<ThresholdA>
+		<Enable>false</Enable>
+		<Threshold>1.0000</Threshold>
+		<Event>Switch 1</Event>
+		<Action>On</Action>
+	</ThresholdA>
+	<ThresholdB>
+		<Enable>false</Enable>
+		<Threshold>1.0000</Threshold>
+		<Event>Switch 2</Event>
+		<Action>On</Action>
+	</ThresholdB>
+	<PulseWidth>1.0</PulseWidth>
+	<RectWavePeriod>0.2</RectWavePeriod>
+</W2487Method>

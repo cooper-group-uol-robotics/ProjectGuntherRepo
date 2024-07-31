@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AcquityCMMethod xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="..\AcquityCM-Method-r100.xsd" version="1" modified="true">
+	<RunTime>45.00</RunTime>
+	<Comment/>
+	<ColumnManager>
+		<ValvePosition>ValvePosition_1</ValvePosition>
+		<SetColumnTemperature>40.0</SetColumnTemperature>
+		<EquilibrationTime>0.1</EquilibrationTime>
+		<EnableColumnTempDataChannel>false</EnableColumnTempDataChannel>
+		<EnableAlarmBand>true</EnableAlarmBand>
+		<SetAlarmBandDegC>5.0</SetAlarmBandDegC>
+		<Switch1>InitialSwitchState_5</Switch1>
+		<Switch2>InitialSwitchState_5</Switch2>
+		<Switch3>InitialSwitchState_5</Switch3>
+		<Switch4>InitialSwitchState_5</Switch4>
+		<RunEvents>false</RunEvents>
+	</ColumnManager>
+</AcquityCMMethod>

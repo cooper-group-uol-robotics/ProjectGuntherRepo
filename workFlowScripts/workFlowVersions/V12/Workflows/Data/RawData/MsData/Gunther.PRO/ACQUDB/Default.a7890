@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<A7890Method xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="A7890-Method-R100.xsd">
+
+	<Column1On>true</Column1On>
+
+	<Column2On>false</Column2On>
+
+	<Col1InjPort>Front_0</Col1InjPort>
+
+	<Col2InjPort>None</Col2InjPort>
+
+	<PressureUnits>psi</PressureUnits>
+
+	<AuxThermal>true</AuxThermal>
+
+	<AuxPCMA>false</AuxPCMA>
+
+	<AuxPCMB>false</AuxPCMB>
+
+	<AuxPCMC>false</AuxPCMC>
+
+	<Oven>
+
+		<SetPoint>24</SetPoint>
+
+		<MaxTemp>450</MaxTemp>
+
+		<EquilTime>0.00</EquilTime>
+
+		<CryoOn>false</CryoOn>
+
+		<CryoUsesCO2>false</CryoUsesCO2>
+
+		<QuickCoolingOn>false</QuickCoolingOn>
+
+		<CryoAmbiant>20</CryoAmbiant>
+
+		<CryoTimeoutDetection>false</CryoTimeoutDetection>
+
+		<CryoTimout>2</CryoTimout>
+
+		<CryoFaultDetection>false</CryoFaultDetection>
+
+		<OvenInitTime>0.00</OvenInitTime>
+
+
+		<PostRunEnable>false</PostRunEnable>
+
+    <PostRunTime>0.01</PostRunTime>
+
+		<PostRunTemp>0</PostRunTemp>
+
+		<PostRunPress>0.0</PostRunPress>
+    <OvenRamp/>
+
+	</Oven>
+
+	<FrontInjInlet>
+
+		<InletMode>None_0</InletMode>
+
+		<InletType>None_0</InletType>
+
+		<InletHeaterSetPoint>24</InletHeaterSetPoint>
+
+		<InletPulsedTime>0.00</InletPulsedTime>
+
+		<InletSplitRatio>0.1</InletSplitRatio>
+
+		<InletPulsedPressure>0.0</InletPulsedPressure>
+
+		<InletPurgeFlow>0.0</InletPurgeFlow>
+
+		<InletPurgeTime>0.00</InletPurgeTime>
+
+		<InletGasSaver>false</InletGasSaver>
+
+		<InletSaverFlow>15.0</InletSaverFlow>
+
+		<InletSaverTime>0.00</InletSaverTime>
+
+    <InletVentPres>0.0</InletVentPres>
+
+		<InletVentFlow>0.0</InletVentFlow>
+
+		<InletVentEndTime>0.00</InletVentEndTime>
+
+		<InletSeptumPurgeFlow>3.0</InletSeptumPurgeFlow>
+    <InletThermRampInitialTime>0.00</InletThermRampInitialTime>
+    <InletCryoOn>false</InletCryoOn>
+
+		<InletQuickCoolOn>false</InletQuickCoolOn>
+
+		<InletCryoFaultOn>false</InletCryoFaultOn>
+
+		<InletCryoTimeOutOn>false</InletCryoTimeOutOn>
+
+		<InletCryoTimeOut>5</InletCryoTimeOut>
+
+		<CryoMethod>AIR</CryoMethod>
+
+		<InletAmbTemp>24</InletAmbTemp>
+    <InletThermRamp/>
+
+	</FrontInjInlet>
+
+	<BackInjInlet>
+
+		<InletMode>None_0</InletMode>
+
+		<InletType>None_0</InletType>
+
+		<InletHeaterSetPoint>24</InletHeaterSetPoint>
+
+		<InletPulsedTime>0.00</InletPulsedTime>
+
+		<InletSplitRatio>0.1</InletSplitRatio>
+
+		<InletPulsedPressure>0.0</InletPulsedPressure>
+
+		<InletPurgeFlow>0.0</InletPurgeFlow>
+
+		<InletPurgeTime>0.00</InletPurgeTime>
+
+		<InletGasSaver>false</InletGasSaver>
+
+		<InletSaverFlow>15.0</InletSaverFlow>
+
+		<InletSaverTime>0.00</InletSaverTime>
+
+		<InletVentPres>0.0</InletVentPres>
+
+		<InletVentFlow>0.0</InletVentFlow>
+
+		<InletVentEndTime>0.00</InletVentEndTime>
+
+		<InletSeptumPurgeFlow>3.0</InletSeptumPurgeFlow>
+    <InletThermRampInitialTime>0.00</InletThermRampInitialTime>
+		<InletCryoOn>false</InletCryoOn>
+
+		<InletQuickCoolOn>false</InletQuickCoolOn>
+
+		<InletCryoFaultOn>false</InletCryoFaultOn>
+
+		<InletCryoTimeOutOn>false</InletCryoTimeOutOn>
+
+		<InletCryoTimeOut>5</InletCryoTimeOut>
+
+		<CryoMethod>AIR</CryoMethod>
+
+		<InletAmbTemp>24</InletAmbTemp>
+    <InletThermRamp/>
+
+	</BackInjInlet>
+
+	<Column1>
+
+		<InletOpMode>ConstantPressure_0</InletOpMode>
+
+		<InletInitialTime>0.00</InletInitialTime>
+
+		<InletInitialFlow>1.0</InletInitialFlow>
+
+		<InletInitialPress>68948.0</InletInitialPress>
+
+		<InletGas>He_2</InletGas>
+
+		<ColumnLength>25.00</ColumnLength>
+
+		<ColumnDiameter>250.00</ColumnDiameter>
+
+		<ColumnFilmThickness>0.25</ColumnFilmThickness>
+
+		<InletRamp>
+
+			<InletRampLine>
+
+				<Rate>68948.00</Rate>
+
+				<NextSetPt>68948.00</NextSetPt>
+
+				<HoldTime>1.00</HoldTime>
+
+				<TotalTime>3.00</TotalTime>
+
+			</InletRampLine></InletRamp>
+
+	</Column1>
+
+	<Column2>
+
+    <InletOpMode>ConstantPressure_0</InletOpMode>
+
+    <InletInitialTime>0.00</InletInitialTime>
+
+    <InletInitialFlow>1.0</InletInitialFlow>
+
+    <InletInitialPress>68948.0</InletInitialPress>
+
+    <InletGas>He_2</InletGas>
+
+    <ColumnLength>25.00</ColumnLength>
+
+    <ColumnDiameter>250.00</ColumnDiameter>
+
+    <ColumnFilmThickness>0.25</ColumnFilmThickness>
+
+    <InletRamp>
+
+      <InletRampLine>
+
+        <Rate>68948.00</Rate>
+
+        <NextSetPt>68948.00</NextSetPt>
+
+        <HoldTime>1.00</HoldTime>
+
+        <TotalTime>3.00</TotalTime>
+
+      </InletRampLine>
+    </InletRamp>
+
+  </Column2>
+
+  <Detector>
+
+		<DetHeaterEnable>true</DetHeaterEnable>
+
+		<DetType>No Detector</DetType>
+
+		<DetHeaterSetPoint>150</DetHeaterSetPoint>
+
+		<DetFlowMode>Constant Plus Column</DetFlowMode>
+
+		<DetFlowMkUpRate>10.0</DetFlowMkUpRate>
+
+		<DetGasMkUp>N2</DetGasMkUp>
+
+		<FID>
+
+			<DetFIDPolVEnable>true</DetFIDPolVEnable>
+
+			<DetFIDFlameEnable>false</DetFIDFlameEnable>
+
+			<DetFIDLitOffset>2.0</DetFIDLitOffset>
+
+			<DetFIDFlowFuelRate>40.0</DetFIDFlowFuelRate>
+
+			<DetFIDFlowUtilRate>400.0</DetFIDFlowUtilRate>
+
+		</FID>
+
+		<TCD>
+
+			<DetTCDFilementEnable>false</DetTCDFilementEnable>
+
+			<DetTCDNegPol>Off</DetTCDNegPol>
+
+			<DetTCDReferenceFlow>1.0</DetTCDReferenceFlow>
+
+		</TCD>
+
+		<EnableMakeUpGas>false</EnableMakeUpGas>
+
+	</Detector>
+
+	<Signal>
+
+		<SignalSource>Detector</SignalSource>
+
+		<SignalDataRate>5.0</SignalDataRate>
+
+		<SignalDescription/>
+
+		<SignalDataSensitivity>MEDIUM</SignalDataSensitivity>
+
+		<SignalAnalogFastPeaks>false</SignalAnalogFastPeaks>
+
+		<SignalAnalogRange>0</SignalAnalogRange>
+
+		<SignalAnalogZero>false</SignalAnalogZero>
+
+		<AnalogSignalZeroOffset>0.0</AnalogSignalZeroOffset>
+
+		<AnalogSignalAttnEnable>false</AnalogSignalAttnEnable>
+
+		<AnalogSignalAttnValue>0</AnalogSignalAttnValue>
+
+	</Signal>
+
+	<Injector>
+
+		<Injector1>Front_0</Injector1>
+
+		<SamplePumps>NumOp_6</SamplePumps>
+
+		<InjectorViscosity>Vis_0</InjectorViscosity>
+
+    <PlungerMode>Fast_1</PlungerMode>
+
+		<VarPlungerSpeed>10</VarPlungerSpeed>
+
+		<AllowSamplingOffset>false</AllowSamplingOffset>
+
+		<SamplingOffset>10</SamplingOffset>
+
+		<InjectorSampWash>NumOp_0</InjectorSampWash>
+
+		<InjectorPostWashA>NumOp_0</InjectorPostWashA>
+
+		<InjectorPostWashB>NumOp_0</InjectorPostWashB>
+
+		<WashMode>UseAB_0</WashMode>
+
+		<InjectorPreDwell>0</InjectorPreDwell>
+
+		<InjectorPostDwell>0</InjectorPostDwell>
+
+		<InjectorPreWashA>NumOp_0</InjectorPreWashA>
+
+		<InjectorPreWashB>NumOp_0</InjectorPreWashB>
+
+	</Injector>
+
+	<Events>
+
+    <RunTableEnable>false</RunTableEnable>
+    <RunTable/>
+
+  </Events>
+
+	<Valves>
+
+		<Valve1Type>Not Installed</Valve1Type>
+
+		<Valve2Type>Not Installed</Valve2Type>
+
+		<Valve5Type>Not Installed</Valve5Type>
+
+		<Valve6Type>Not Installed</Valve6Type>
+
+		<ValveLoopVolume>1.000</ValveLoopVolume>
+
+		<ValveLoadTime>0.50</ValveLoadTime>
+
+		<ValveInjectTime>0.50</ValveInjectTime>
+
+		<ValveInlet>FroInlet_0</ValveInlet>
+
+		<Valve1InitialPos>Off</Valve1InitialPos>
+
+		<Valve2InitialPos>Off</Valve2InitialPos>
+
+		<Valve5InitialPos>Off</Valve5InitialPos>
+
+		<Valve6InitialPos>Off</Valve6InitialPos>
+
+		<ValveSwitchTime>1.0</ValveSwitchTime>
+
+		<ValveInjectTime>0.50</ValveInjectTime>
+
+		<ValveInvertBCD>false</ValveInvertBCD>
+
+		<UseGSVInject>false</UseGSVInject>
+
+	</Valves>
+
+	<Aux0>
+
+		<ThermalAuxEnable>false</ThermalAuxEnable>
+
+		<ThermalAuxSetpoint>50</ThermalAuxSetpoint>
+
+		<ThermalAuxType>Unknown </ThermalAuxType>
+
+	</Aux0>
+
+	<Aux1>
+
+		<ThermalAuxEnable>false</ThermalAuxEnable>
+
+		<ThermalAuxSetpoint>50</ThermalAuxSetpoint>
+
+		<ThermalAuxType>Unknown </ThermalAuxType>
+
+	</Aux1>
+
+	<Aux2>
+
+		<PressureAuxEnable>false</PressureAuxEnable>
+
+		<PressureAuxSetpoint>68947.6</PressureAuxSetpoint>
+
+		<PressureAuxType>He_2</PressureAuxType>
+
+		<PressureAuxInitTime>0.50</PressureAuxInitTime>
+
+		<PressureAuxRamp/>
+
+	</Aux2>
+
+	<Aux3>
+
+		<PressureAuxEnable>false</PressureAuxEnable>
+
+		<PressureAuxSetpoint>68947.6</PressureAuxSetpoint>
+
+		<PressureAuxType>He_2</PressureAuxType>
+
+		<PressureAuxInitTime>0.50</PressureAuxInitTime>
+
+		<PressureAuxRamp/>
+
+	</Aux3>
+
+	<Aux4>
+
+		<PressureAuxEnable>false</PressureAuxEnable>
+
+		<PressureAuxSetpoint>68947.6</PressureAuxSetpoint>
+
+		<PressureAuxType>He_2</PressureAuxType>
+
+		<PressureAuxInitTime>0.50</PressureAuxInitTime>
+
+		<PressureAuxRamp/>
+
+	</Aux4>
+
+	<Aux5>
+
+		<PressureAuxEnable>false</PressureAuxEnable>
+
+		<PressureAuxSetpoint>68947.6</PressureAuxSetpoint>
+
+		<PressureAuxType>He_2</PressureAuxType>
+
+		<PressureAuxInitTime>0.50</PressureAuxInitTime>
+
+		<PressureAuxRamp/>
+
+	</Aux5>
+
+	<Aux6>
+
+		<PressureAuxEnable>false</PressureAuxEnable>
+
+		<PressureAuxSetpoint>68947.6</PressureAuxSetpoint>
+
+		<PressureAuxType>He_2</PressureAuxType>
+
+		<PressureAuxInitTime>0.50</PressureAuxInitTime>
+
+		<PressureAuxRamp/>
+
+	</Aux6>
+
+	<Aux7>
+
+		<PressureAuxEnable>false</PressureAuxEnable>
+
+		<PressureAuxSetpoint>68947.6</PressureAuxSetpoint>
+
+		<PressureAuxType>He_2</PressureAuxType>
+
+		<PressureAuxInitTime>0.50</PressureAuxInitTime>
+
+		<PressureAuxRamp/>
+
+	</Aux7>
+
+	<Aux8>
+
+		<PressureAuxEnable>false</PressureAuxEnable>
+
+		<PressureAuxSetpoint>68947.6</PressureAuxSetpoint>
+
+		<PressureAuxType>He_2</PressureAuxType>
+
+		<PressureAuxInitTime>0.50</PressureAuxInitTime>
+
+		<PressureAuxRamp/>
+
+	</Aux8>
+
+	<Aux9>
+
+		<PressureAuxEnable>false</PressureAuxEnable>
+
+		<PressureAuxSetpoint>68947.6</PressureAuxSetpoint>
+
+		<PressureAuxType>He_2</PressureAuxType>
+
+		<PressureAuxInitTime>0.50</PressureAuxInitTime>
+
+		<PressureAuxRamp/>
+
+	</Aux9>
+
+	<Aux10>
+
+		<PressureAuxEnable>false</PressureAuxEnable>
+
+		<PressureAuxSetpoint>68947.6</PressureAuxSetpoint>
+
+		<PressureAuxType>He_2</PressureAuxType>
+
+		<PressureAuxInitTime>0.50</PressureAuxInitTime>
+
+		<PressureAuxRamp/>
+
+	</Aux10>
+
+	<Aux11>
+
+		<PressureAuxEnable>false</PressureAuxEnable>
+
+		<PressureAuxSetpoint>68947.6</PressureAuxSetpoint>
+
+		<PressureAuxType>He_2</PressureAuxType>
+
+		<PressureAuxInitTime>0.50</PressureAuxInitTime>
+
+		<PressureAuxRamp/>
+
+	</Aux11>
+
+	<Aux12>
+
+		<PressureAuxEnable>false</PressureAuxEnable>
+
+		<PressureAuxSetpoint>68947.6</PressureAuxSetpoint>
+
+		<PressureAuxType>He_2</PressureAuxType>
+
+		<PressureAuxInitTime>0.50</PressureAuxInitTime>
+
+		<PressureAuxRamp/>
+
+	</Aux12>
+
+	<Aux13>
+
+		<PressureAuxEnable>false</PressureAuxEnable>
+
+		<PressureAuxSetpoint>68947.6</PressureAuxSetpoint>
+
+		<PressureAuxType>He_2</PressureAuxType>
+
+		<PressureAuxInitTime>0.50</PressureAuxInitTime>
+
+		<PressureAuxRamp/>
+
+	</Aux13>
+
+</A7890Method>

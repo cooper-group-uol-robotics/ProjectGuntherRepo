@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AcquitySMMethod language="English" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="AcquitySM-Method-R100.xsd" modified="true">
+	<RunTime>45.00</RunTime>
+	<Comment/>
+	<Mode>ModeSequential_0</Mode>
+	<LoopOption>LoopOptionFull_0</LoopOption>
+	<LoopOffline>LoopOfflineDisable_0</LoopOffline>
+	<WeakWashSolvent>90:10 Water:Acetonitrile + 0.01%FA</WeakWashSolvent>
+	<WeakWashVolume>800</WeakWashVolume>
+	<StrongWashSolvent>Acetonitrile +0.01%FA</StrongWashSolvent>
+	<StrongWashVolume>200</StrongWashVolume>
+	<ColumnTemperature>40.0</ColumnTemperature>
+	<ColumnTemperatureLimit>5.0</ColumnTemperatureLimit>
+	<SampleTemperature>10.0</SampleTemperature>
+	<SampleTemperatureLimit>5</SampleTemperatureLimit>
+	<Overfill>CustomDisable_-1</Overfill>
+	<ColumnReequilibration>1.0</ColumnReequilibration>
+	<DrawRate>DrawRateMedium_1</DrawRate>
+	<CustomRate>CustomDisable_-1</CustomRate>
+	<Illumination>IlluminationOff_0</Illumination>
+	<NeedleDepth>CustomDisable_-1</NeedleDepth>
+	<PreAspirateAir>CustomDisable_-1</PreAspirateAir>
+	<PostAspirateAir>CustomDisable_-1</PostAspirateAir>
+	<ColumnTemperatureDataEnable>false</ColumnTemperatureDataEnable>
+	<AmbientTemperatureDataEnable>false</AmbientTemperatureDataEnable>
+	<SampleTemperatureDataEnable>false</SampleTemperatureDataEnable>
+	<ElevatorTemperatureDataEnable>false</ElevatorTemperatureDataEnable>
+	<SamplePressureDataEnable>false</SamplePressureDataEnable>
+	<Switch1>InitialSwitchState_5</Switch1>
+	<Switch2>InitialSwitchState_5</Switch2>
+	<Switch3>InitialSwitchState_5</Switch3>
+	<Switch4>InitialSwitchState_5</Switch4>
+	<Switch5>InitialSwitchState_5</Switch5>
+	<Switch6>InitialSwitchState_5</Switch6>
+	<HighPressureLimit>5000</HighPressureLimit>
+	<LowPressureLimit>0</LowPressureLimit>
+	<ChartOut>ChartOut_1</ChartOut>
+	<SampleTempAlarmEnable>true</SampleTempAlarmEnable>
+	<ColumnTempAlarmEnable>true</ColumnTempAlarmEnable>
+	<RunEvents>true</RunEvents>
+	<EventTable/>
+	<Function>FunctionNone</Function>
+	<ColumnManagerPresent>false</ColumnManagerPresent>
+	<ColumnManager>
+		<ValvePosition>ValvePosition_1</ValvePosition>
+		<SetColumnTemperature>HeaterOff_-1</SetColumnTemperature>
+		<EquilibrationTime>0.1</EquilibrationTime>
+		<EnableColumnTempDataChannel>false</EnableColumnTempDataChannel>
+		<EnableAlarmBand>true</EnableAlarmBand>
+		<SetAlarmBandDegC>5.0</SetAlarmBandDegC>
+		<Switch1>InitialSwitchState_5</Switch1>
+		<Switch2>InitialSwitchState_5</Switch2>
+		<Switch3>InitialSwitchState_5</Switch3>
+		<Switch4>InitialSwitchState_5</Switch4>
+		<RunEvents>false</RunEvents>
+	</ColumnManager>
+	<NeedleOverfillFlush>CustomDisable_-1</NeedleOverfillFlush>
+	<SampleLoop>0.0</SampleLoop>
+</AcquitySMMethod>

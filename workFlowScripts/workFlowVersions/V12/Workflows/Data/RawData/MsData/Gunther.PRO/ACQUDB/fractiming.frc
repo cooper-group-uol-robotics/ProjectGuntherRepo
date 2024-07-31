@@ -1,0 +1,63 @@
+Fraction Description File
+
+Device,On
+MaxFractions,10
+PeakType,Analytical
+MaxVessels,10
+EnableMaxFractions,1
+EnableMaxVessels,1
+Span,0.2
+RinseTime,0
+MassSpecToFracCollectorDelay,6
+AuxToMSDelay,0
+SolventFrontDelay,1
+
+MinPeakValue,5
+MaxPeakValue,100
+MinPeakType,Time
+MaxPeakType,Time
+MaxTubeFill,90
+
+NegAdducts,
+NegThreshold,0
+NegStartType,Leading Edge Gradient
+NegRise,0
+NegEndType,Below Gradient
+NegEndUnits,0
+
+PosAdducts,
+PosThreshold,0
+PosStartType,Leading Edge Gradient
+PosRise,0
+PosEndType,Below Gradient
+PosEndUnits,0
+
+PDASpan,3
+PDAThreshold,30000
+PDAStartType,Use MIT Only
+PDARise,0
+PDAEndType,Use Max Peak Width
+PDAEndUnits,0
+
+AnalogThreshold,0
+AnalogStartType,Leading Edge Gradient
+AnalogRise,0
+AnalogEndType,Below Gradient
+AnalogEndUnits,0
+
+UVThreshold,30000
+UVStartType,Use MIT Only
+UVRise,0
+UVEndType,Use MIT Only
+UVEndUnits,0
+
+NumberOfEvents,0
+UseExternalEvents,0
+CustomTriggersEnabled,
+CustomTriggersFile,
+
+
+SecondaryEnableMaxFractions,1
+SecondaryEnableMaxVessels,1
+SecondaryMaxFractions,10
+SecondaryMaxVessels,10

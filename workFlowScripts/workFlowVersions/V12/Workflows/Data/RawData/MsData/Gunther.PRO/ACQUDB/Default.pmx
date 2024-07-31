@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<Method LastModifiedTimestamp="825797875" DigestValue="049054221173231232007043163068249057120198056196038063" DigestAlgorithm="MD5">
+	<Description/><Syringe>
+		<SyringeSize>10ul</SyringeSize>
+	</Syringe>
+	<Macros>
+		<MacroVariable>
+			<MacroValues>LC-Inj(0,0,0,0,5,1,LC Vlv1,10,500,500,1,1,1,1)</MacroValues>
+		</MacroVariable>
+		<MacroData>
+			<MacroName><![CDATA[[MACRO LC-Inj]]]></MacroName>
+			<MacroLine><![CDATA[Air Volume (µl);0;0;SYR.Max Volume]]></MacroLine>
+			<MacroLine><![CDATA[Pre Clean with Solvent 1 ();0;0;99]]></MacroLine>
+			<MacroLine><![CDATA[Pre Clean with Solvent 2 ();0;0;99]]></MacroLine>
+			<MacroLine><![CDATA[Pre Clean with Sample ();0;0;99]]></MacroLine>
+			<MacroLine><![CDATA[Filling Speed (µl/s);SYR.Fill Speed;SYR.Min Speed;SYR.Max Speed]]></MacroLine>
+			<MacroLine><![CDATA[Filling Strokes ();1;0;99]]></MacroLine>
+			<MacroLine><![CDATA[Inject to;INJECTOR]]></MacroLine>
+			<MacroLine><![CDATA[Injection Speed (µl/s);SYR.Inject Speed;SYR.Min Speed;SYR.Max Speed]]></MacroLine>
+			<MacroLine><![CDATA[Pre Inject Delay (ms);500;0;99000]]></MacroLine>
+			<MacroLine><![CDATA[Post Inject Delay (ms);500;0;99000]]></MacroLine>
+			<MacroLine><![CDATA[Post Clean with Solvent 1 ();1;0;99]]></MacroLine>
+			<MacroLine><![CDATA[Post Clean with Solvent 2 ();1;0;99]]></MacroLine>
+			<MacroLine><![CDATA[Valve Clean with Solvent 1 ();1;0;99]]></MacroLine>
+			<MacroLine><![CDATA[Valve Clean with Solvent 2 ();1;0;99]]></MacroLine>
+		</MacroData>
+	</Macros>
+	<ATOMLINE>
+		<ATOM>CLEANUP(Wash1,Off,Off,On,Off,On,Off,Off,)</ATOM>
+		<ATOM>WAIT_SYNC_SIG(Start,)</ATOM>
+		<ATOM>CLEAN_SYR(Wash1,Pre Clean with Solvent 1,,,,,,,)</ATOM>
+		<ATOM>CLEAN_SYR(Wash2,Pre Clean with Solvent 2,,,,,,,)</ATOM>
+		<ATOM>REPEAT(Pre Clean with Sample,)</ATOM>
+		<ATOM>GET_SAMPLE(SL.tray,SL.index,SL.volume,,,,Filling Speed,,,0,Off,,,)</ATOM>
+		<ATOM>PUT_SAMPLE(Waste,1,,,,,)</ATOM>
+		<ATOM>END()</ATOM>
+		<ATOM>GET_SAMPLE(SL.tray,SL.index,SL.volume,Air Volume,,,Filling Speed,,,Filling Strokes,Off,,,)</ATOM>
+		<ATOM>MOVETO_OBJECT(Inject to,1,,)</ATOM>
+		<ATOM>WAIT_FOR_DS()</ATOM>
+		<ATOM>INJ_SAMPLE(Inject to,Inject,Injected,,,Pre Inject Delay,Injection Speed,Post Inject Delay,1,)</ATOM>
+		<ATOM>SET_INJECTED()</ATOM>
+		<ATOM>CLEAN_SYR(Wash1,Post Clean with Solvent 1,,,,,,,)</ATOM>
+		<ATOM>CLEAN_SYR(Wash2,Post Clean with Solvent 2,,,,,,,)</ATOM>
+		<ATOM>CLEAN_INJ(Wash1,Inject to,Valve Clean with Solvent 1,,,,,,,,Injection Speed,)</ATOM>
+		<ATOM>CLEAN_INJ(Wash2,Inject to,Valve Clean with Solvent 2,,,,,,,,Injection Speed,)</ATOM>
+		<ATOM>CLEANUP(Wash1,Off,Off,Off,On,Off,Off,On,)</ATOM>
+	</ATOMLINE>
+	<Arguments/><VERSION>03</VERSION>
+</Method>

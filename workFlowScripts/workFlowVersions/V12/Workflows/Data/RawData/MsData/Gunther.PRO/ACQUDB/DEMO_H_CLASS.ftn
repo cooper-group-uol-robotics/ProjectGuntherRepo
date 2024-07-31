@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AcquitySMDIMethod language="English" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="AcquityFTN-Method-R100.xsd" modified="true">
+	<RunTime>2.50</RunTime>
+	<Comment/>
+	<LoadAhead>ModeSequential_0</LoadAhead>
+	<LoopOfflineEnabled>false</LoopOfflineEnabled>
+	<LoopOffline>LoopOfflineAutomatic_-1</LoopOffline>
+	<WashSolvent>Methanol</WashSolvent>
+	<WashSolventXml>&lt;Solvent version="1" permanent="true" context="all" enabled="true" date="5/1/2010 12:00:00 AM"&gt;&lt;Id&gt;8133CE3B-C77F-4e48-9884-7385E53ABE01&lt;/Id&gt;&lt;Type&gt;Modifier&lt;/Type&gt;&lt;NameId&gt;PermanentSolventMethanol&lt;/NameId&gt;&lt;Name&gt;Methanol&lt;/Name&gt;&lt;Comment /&gt;&lt;Concentration&gt;100&lt;/Concentration&gt;&lt;Viscosity&gt;0.550&lt;/Viscosity&gt;&lt;/Solvent&gt;</WashSolventXml>
+	<WashSolventType>SolventType_1</WashSolventType>
+	<InsertionWashTime>0</InsertionWashTime>
+	<WashTime>6</WashTime>
+	<PurgeSolvent>Water</PurgeSolvent>
+	<PurgeSolventXml>&lt;Solvent version="1" permanent="true" context="all" enabled="true" date="5/1/2010 12:00:00 AM"&gt;&lt;Id&gt;144FE7DA-582C-436f-BEED-9B9B3A6EE0D0&lt;/Id&gt;&lt;Type&gt;Aqueous&lt;/Type&gt;&lt;NameId&gt;PermanentSolventWater&lt;/NameId&gt;&lt;Name&gt;Water&lt;/Name&gt;&lt;Comment /&gt;&lt;Concentration&gt;0&lt;/Concentration&gt;&lt;Viscosity&gt;1.000&lt;/Viscosity&gt;&lt;/Solvent&gt;</PurgeSolventXml>
+	<PurgeSolventType>SolventType_2</PurgeSolventType>
+	<ValveCycles>CustomDisable_-1</ValveCycles>
+	<DoDilution>false</DoDilution>
+	<DilutionVolume>0</DilutionVolume>
+	<DelayTime>0</DelayTime>
+	<NeedlePosition>4.0</NeedlePosition>
+	<ColumnTemperature>40.0</ColumnTemperature>
+	<ColumnTemperatureLimit>5.0</ColumnTemperatureLimit>
+	<SampleTemperature>HeaterOff_-1</SampleTemperature>
+	<SampleTemperatureLimit>5.0</SampleTemperatureLimit>
+	<CustomRate>CustomDisable_-1</CustomRate>
+	<NeedleDepth>CustomDisable_-1</NeedleDepth>
+	<PreAspirateAir>CustomDisable_-1</PreAspirateAir>
+	<PostAspirateAir>CustomDisable_-1</PostAspirateAir>
+	<ColumnTemperatureDataEnable>false</ColumnTemperatureDataEnable>
+	<AmbientTemperatureDataEnable>false</AmbientTemperatureDataEnable>
+	<SampleTemperatureDataEnable>false</SampleTemperatureDataEnable>
+	<ElevatorTemperatureDataEnable>false</ElevatorTemperatureDataEnable>
+	<SamplePressureDataEnable>false</SamplePressureDataEnable>
+	<PreheaterTemperatureDataEnable>false</PreheaterTemperatureDataEnable>
+	<SealForceDataEnable>false</SealForceDataEnable>
+	<SampleTempAlarmEnable>false</SampleTempAlarmEnable>
+	<ColumnTempAlarmEnable>false</ColumnTempAlarmEnable>
+	<NoInject>false</NoInject>
+	<AutoAddMixStrokeCycles>CustomDisable_-1</AutoAddMixStrokeCycles>
+	<AutoAddMixStokeVolUl>CustomDisable_-1</AutoAddMixStokeVolUl>
+	<PreHeaterMode>MethodPreHeaterMode_3</PreHeaterMode>
+	<RunEvents>false</RunEvents>
+	<EventTable/>
+</AcquitySMDIMethod>

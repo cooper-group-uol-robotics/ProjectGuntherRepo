@@ -1,0 +1,181 @@
+GENERAL INFORMATION
+ExperimentName,Default Experiment
+ExperimentCreationTime,Fri 02 Jul 2021 11:36:45
+VersionNumber,1.0
+ExperimentDuration,2.5
+AnalogChannelDescription1,Channel 1,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled
+AnalogChannelDescription2,Channel 2,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled
+AnalogChannelDescription3,Channel 3,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled
+AnalogChannelDescription4,Channel 4,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled
+AnalogChannelDescription5,Channel 5,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled
+AnalogChannelDescription6,Channel 6,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled
+AnalogChannelDescription7,Channel 7,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled
+AnalogChannelDescription8,Channel 8,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled
+MUXAnalogOffset1,0.0000
+MUXAnalogOffset2,0.0000
+MUXAnalogOffset3,0.0000
+MUXAnalogOffset4,0.0000
+MUXAnalogOffset5,0.0000
+MUXAnalogOffset6,0.0000
+MUXAnalogOffset7,0.0000
+MUXAnalogOffset8,0.0000
+ExperimentCalibrationFilename,C:\MassLynx\IntelliStart\Results\Unit Resolution\Calibration_20210701_2.cal,Enabled
+ExperimentNegCalibrationFilename,,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled
+SolventDelayStart1,0.0000
+SolventDelayEnd1,0.0000
+SolventDelayTemp1,0.0000
+SolventDelayStart2,0.0000
+SolventDelayEnd2,0.0000
+SolventDelayTemp2,0.0000
+SolventDelayStart3,0.0000
+SolventDelayEnd3,0.0000
+SolventDelayTemp3,0.0000
+SolventDelayStart4,0.0000
+SolventDelayEnd4,0.0000
+SolventDelayTemp4,0.0000
+SolventDelayDivertValveEnabled,0
+ReferenceFrequency,0
+ReferenceConeVoltage,35
+ReferenceScanTime,0
+ReferenceCentroidAverage,1
+ReferenceSetMass,0
+ReferenceCollisionEnergy,0
+PositivePolarity,1
+WMode,0
+DREExtended,0
+ExperimentExtension,TIMED_EVENTS_EXTENSION
+ExperimentExtensionData,No Change,No Change,No Change,No Change,No Change,LC,50,No Action,No Action,200,1,0
+NumberOfFunctions,1
+FunctionTypes,SIR
+
+FUNCTION 1
+FunctionType,SIR
+FunctionDataFormat,Continuum
+FunctionIonMode,ES Mode
+FunctionPolarity,Positive
+FunctionInstrumentConditions,c:\masslynx\default.pro\acqudb\default.ipr
+FunctionStartMass,50
+FunctionEndMass,650
+FunctionStartTime(min),0
+FunctionEndTime(min),2.5
+FunctionScanTime(sec),1
+FunctionInterScanTime(sec),-1
+Scans To Sum,1000000
+NumFunctions,1
+Resolution,1000
+PrimaryScanLock,2
+SecondaryScanLock,2
+ThresholdLock,100
+StepLock,0.02
+FunctionOnOffState,1
+FunctionExclusiveState,0
+PeakDisplayTuneMode,0
+SIRMode,Peak Top
+NumSIRMasses,4
+SIRMass1,152.0300
+SIRMass_2_1,0.0000
+SIRAutoDwell1,0
+SIRDwellTime1,0.0250
+SIRDelay1,-1.0000
+UseAsLockMass1,0
+UseSampleList1,0
+UseSampleList_21,0
+SIRMass2,195.0500
+SIRMass_2_2,0.0000
+SIRAutoDwell2,0
+SIRDwellTime2,0.0250
+SIRDelay2,-1.0000
+UseAsLockMass2,0
+UseSampleList2,0
+UseSampleList_22,0
+SIRMass3,311.1100
+SIRMass_2_3,0.0000
+SIRAutoDwell3,0
+SIRDwellTime3,0.0250
+SIRDelay3,-1.0000
+UseAsLockMass3,0
+UseSampleList3,0
+UseSampleList_23,0
+SIRMass4,455.2500
+SIRMass_2_4,0.0000
+SIRAutoDwell4,0
+SIRDwellTime4,0.0250
+SIRDelay4,-1.0000
+UseAsLockMass4,0
+UseSampleList4,0
+UseSampleList_24,0
+FastLockOn,1
+UseWMode,0
+ConeVoltage,30
+UseTunePageConeVoltage,0
+UseCVRamp,0
+CVRampStart,20
+CVRampEnd,70
+CVRampStartMass,100
+CVRampEndMass,1000
+UseTuneProbeTemp,1
+ProbeTemp,20
+SwitchToUseDeisotopePeakDetect,0
+ProbeTempRampStart,20
+ProbeTempRampEnd,650
+ProbeTempRampInc,10
+Gain,1
+PointsPerAMU,16
+StoreZeros,false
+NoOfChannels,4
+Span,0
+UseSLMasses_1,0
+Mass(amu)_1,152.0300
+ AutoDwell_1,0
+Dwell(s)_1,0.0250
+ConeVoltage(V)_1,34.0000
+InterChannelDelay(s)_1,-1.0000
+CompoundName_1,Acetominophen
+CompoundFormula_1,30
+CompoundComment_1,
+UseSLMasses_2,0
+Mass(amu)_2,195.0500
+ AutoDwell_2,0
+Dwell(s)_2,0.0250
+ConeVoltage(V)_2,40.0000
+InterChannelDelay(s)_2,-1.0000
+CompoundName_2,Caffeine
+CompoundFormula_2,32
+CompoundComment_2,
+UseSLMasses_3,0
+Mass(amu)_3,311.1100
+ AutoDwell_3,0
+Dwell(s)_3,0.0250
+ConeVoltage(V)_3,42.0000
+InterChannelDelay(s)_3,-1.0000
+CompoundName_3,Sulfadimethoxine
+CompoundFormula_3,30
+CompoundComment_3,
+UseSLMasses_4,0
+Mass(amu)_4,455.2500
+ AutoDwell_4,0
+Dwell(s)_4,0.0250
+ConeVoltage(V)_4,50.0000
+InterChannelDelay(s)_4,-1.0000
+CompoundName_4,Verapamil
+CompoundFormula_4,41
+CompoundComment_4,
+EnableMRMSmooth,0
+MRMSmoothWidth,3
+MRMSmoothRepeats,2
+DefaultPICScanType,ScanWave DS
+DefaultPICActThreshold,20
+DefaultPICMinimumActThreshold,500000
+DefaultPICResetThreshold,50
+DefaultPICMassAboveParent,10
+DefaultPICMinimumMass,40
+DefaultPICCollisionEnergy,20.0000
+DefaultPICDataFormat,Continuum
+DefaultPICScanDuration,0.4000
+DefaultPICScanSpeed,10000.0000
+FractionLowMassIndex,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FractionHighMassIndex,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FractionMultiplier,1
+FractionMode,0
+PointsPerPeakWidth,6.0000
+RequiredPointsPerPeak,15

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AcquitySMDIMethod language="English" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="AcquityFTN-Method-R100.xsd" modified="true">
+	<RunTime>2.50</RunTime>
+	<Comment/>
+	<LoadAhead>ModeSequential_0</LoadAhead>
+	<LoopOfflineEnabled>false</LoopOfflineEnabled>
+	<LoopOffline>LoopOfflineAutomatic_-1</LoopOffline>
+	<WashSolvent>Acetonitrile + 0.1 % formic acid</WashSolvent>
+	<WashSolventType>SolventType_1</WashSolventType>
+	<InsertionWashTime>0</InsertionWashTime>
+	<WashTime>6</WashTime>
+	<PurgeSolvent>Water + 0.1 % formic acid</PurgeSolvent>
+	<PurgeSolventType>SolventType_1</PurgeSolventType>
+	<ValveCycles>CustomDisable_-1</ValveCycles>
+	<DoDilution>false</DoDilution>
+	<DilutionVolume>0</DilutionVolume>
+	<DelayTime>0</DelayTime>
+	<NeedlePosition>4</NeedlePosition>
+	<ColumnTemperature>40.0</ColumnTemperature>
+	<ColumnTemperatureLimit>5.0</ColumnTemperatureLimit>
+	<SampleTemperature>15.0</SampleTemperature>
+	<SampleTemperatureLimit>5</SampleTemperatureLimit>
+	<CustomRate>CustomDisable_-1</CustomRate>
+	<NeedleDepth>CustomDisable_-1</NeedleDepth>
+	<PreAspirateAir>CustomDisable_-1</PreAspirateAir>
+	<PostAspirateAir>CustomDisable_-1</PostAspirateAir>
+	<ColumnTemperatureDataEnable>false</ColumnTemperatureDataEnable>
+	<AmbientTemperatureDataEnable>true</AmbientTemperatureDataEnable>
+	<SampleTemperatureDataEnable>true</SampleTemperatureDataEnable>
+	<ElevatorTemperatureDataEnable>false</ElevatorTemperatureDataEnable>
+	<SamplePressureDataEnable>false</SamplePressureDataEnable>
+	<PreheaterTemperatureDataEnable>false</PreheaterTemperatureDataEnable>
+	<SealForceDataEnable>false</SealForceDataEnable>
+	<SampleTempAlarmEnable>false</SampleTempAlarmEnable>
+	<ColumnTempAlarmEnable>false</ColumnTempAlarmEnable>
+	<RunEvents>false</RunEvents>
+	<EventTable/>
+</AcquitySMDIMethod>

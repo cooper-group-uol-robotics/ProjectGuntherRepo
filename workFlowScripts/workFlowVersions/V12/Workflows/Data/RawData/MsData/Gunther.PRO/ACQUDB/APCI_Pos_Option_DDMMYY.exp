@@ -1,0 +1,141 @@
+GENERAL INFORMATION
+ExperimentName,Default Experiment
+ExperimentCreationTime,Tue 22 Sep 2009 15:02:00
+VersionNumber,1.0
+ExperimentDuration,23
+AnalogChannelDescription1,Channel 1,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled
+AnalogChannelDescription2,Channel 2,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled
+AnalogChannelDescription3,Channel 3,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled
+AnalogChannelDescription4,Channel 4,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled
+AnalogChannelDescription5,Channel 5,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled
+AnalogChannelDescription6,Channel 6,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled
+AnalogChannelDescription7,Channel 7,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled
+AnalogChannelDescription8,Channel 8,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled
+MUXAnalogOffset1,0.0000
+MUXAnalogOffset2,0.0000
+MUXAnalogOffset3,0.0000
+MUXAnalogOffset4,0.0000
+MUXAnalogOffset5,0.0000
+MUXAnalogOffset6,0.0000
+MUXAnalogOffset7,0.0000
+MUXAnalogOffset8,0.0000
+ExperimentCalibrationFilename,C:\MassLynx\IntelliStart\Results\Unit Mass Resolution\Calibration_20090519_1.cal,Enabled
+ExperimentNegCalibrationFilename,,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled
+SolventDelayStart1,0.0000
+SolventDelayEnd1,0.0000
+SolventDelayTemp1,0.0000
+SolventDelayStart2,0.0000
+SolventDelayEnd2,0.0000
+SolventDelayTemp2,0.0000
+SolventDelayStart3,0.0000
+SolventDelayEnd3,0.0000
+SolventDelayTemp3,0.0000
+SolventDelayStart4,0.0000
+SolventDelayEnd4,0.0000
+SolventDelayTemp4,0.0000
+SolventDelayDivertValveEnabled,0
+ReferenceFrequency,0
+ReferenceConeVoltage,35
+ReferenceScanTime,0
+ReferenceCentroidAverage,1
+ReferenceSetMass,0
+ReferenceCollisionEnergy,0
+PositivePolarity,1
+WMode,0
+DREExtended,0
+ExperimentExtension,TIMED_EVENTS_EXTENSION
+ExperimentExtensionData,No Change,No Change,No Change,No Change,No Change,LC,400,No Action,No Action,250,20,1,16,0,Reservoir,A,120,Injection,Injection,240,Refill,Refill,264,Injection,Injection,384,Refill,Refill,408,Injection,Injection,438,Reservoir,B,558,Injection,Injection,678,Refill,Refill,702,Injection,Injection,822,Refill,Refill,846,Injection,Injection,966,Refill,Refill,990,Injection,Injection,1110,Refill,Refill,1134,Injection,Injection
+NumberOfFunctions,1
+FunctionTypes,MRM
+
+FUNCTION 1
+FunctionType,MRM
+FunctionDataFormat,Continuum
+FunctionIonMode,API Mode
+FunctionPolarity,Positive
+FunctionInstrumentConditions,c:\masslynx\default.pro\acqudb\default.ipr
+FunctionStartMass,50
+FunctionEndMass,650
+FunctionStartTime(min),0
+FunctionEndTime(min),23
+FunctionScanTime(sec),1
+FunctionInterScanTime(sec),-1
+Scans To Sum,1000000
+NumFunctions,1
+Resolution,1000
+PrimaryScanLock,2
+SecondaryScanLock,2
+ThresholdLock,100
+StepLock,0.02
+FunctionOnOffState,1
+PeakDisplayTuneMode,0
+SIRMode,Peak Top
+NumSIRMasses,1
+SIRMass1,331.2000
+SIRMass_2_1,109.1000
+SIRAutoDwell1,0
+SIRDwellTime1,0.1000
+SIRDelay1,-1.0000
+UseAsLockMass1,0
+UseSampleList1,0
+UseSampleList_21,0
+FastLockOn,1
+UseWMode,0
+ConeVoltage,30
+UseTunePageConeVoltage,1
+UseCVRamp,0
+CVRampStart,20
+CVRampEnd,70
+CVRampStartMass,100
+CVRampEndMass,1000
+UseTuneProbeTemp,0
+ProbeTemp,600
+Gain,1
+PointsPerAMU,16
+StoreZeros,false
+SetMass,50
+CollisionEnergy,0
+UseTunePageCE,1
+UseCERamp,0
+CERampStart,5
+CERampEnd,60
+CERampStartMass,100
+CERampEndMass,1000
+Enhanced,0
+Enhanced Scan Duration,0
+NoOfChannels,1
+Span,0
+PICChannelNum,-1
+PICActThreshold,20
+PICScanFunc,ScanWave DS
+UseDefPICActThreshold,1
+UseDefPICScanFuncType,1
+UseSLMassesP_1,0
+UseSLMassesD_1,0
+Mass(amu)_1,331.2000
+Mass2(amu)_1,109.1000
+ AutoDwell_1,0
+Dwell(s)_1,0.1000
+ConeVoltage(V)_1,-1.0000
+CollisionEnergy(V)_1,-1.0000
+InterChannelDelay(s)_1,-1.0000
+CompoundName_1,17-a-Hydroxyprogesterone
+CompoundFormula_1,
+CompoundComment_1,
+EnableMRMSmooth,0
+MRMSmoothWidth,3
+MRMSmoothRepeats,2
+FractionLowMassIndex,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FractionHighMassIndex,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FractionMultiplier,1
+FractionMode,0
+PointsPerPeakWidth,4.0000
+RequiredPointsPerPeak,12
+DefaultPICScanType,ScanWave DS
+DefaultPICActThreshold,20
+DefaultPICResetThreshold,50
+DefaultPICMassAboveParent,10
+DefaultPICMinimumMass,40
+DefaultPICDataFormat,Continuum
+DefaultPICScanDuration,0.4
+DefaultPICScanSpeed,5000

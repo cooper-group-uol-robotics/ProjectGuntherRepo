@@ -1,0 +1,98 @@
+[VERSION]
+VERSION=2
+[QUAD1 (Static)]
+Polynomial=0 1 0 + 1x^1
+StdDev=0.00
+DwellTime=0.000000
+Span=0.000000
+LowMass=0.000000
+HighMass=0.000000
+LMRes=0.000000
+HMRes=0.000000
+IonEnergy=0.000000
+ReferenceFile=
+AcquisitionFile=
+[QUAD1 (Dynamic)]
+Polynomial=0 1 0 + 1x^1
+StdDev=0.00
+LowMass=0.000000
+HighMass=0.000000
+ScanTime=0.000000
+InterScanDelay=0.000000
+LMRes=0.000000
+HMRes=0.000000
+IonEnergy=0.000000
+ReferenceFile=
+AcquisitionFile=
+[QUAD1 (Fast)]
+Polynomial=0 1 0 + 1x^1
+StdDev=0.00
+LowMass=0.000000
+HighMass=0.000000
+ScanTime=0.000000
+InterScanDelay=0.000000
+LMRes=0.000000
+HMRes=0.000000
+IonEnergy=0.000000
+ReferenceFile=
+AcquisitionFile=
+[QUAD1]
+DACSeparation=0.000000
+LagTime=240
+[QUAD2 (Static)]
+Polynomial=0 1 0 + 1x^1
+StdDev=0.00
+DwellTime=0.000000
+Span=0.000000
+LowMass=0.000000
+HighMass=0.000000
+LMRes=0.000000
+HMRes=0.000000
+IonEnergy=0.000000
+ReferenceFile=
+AcquisitionFile=
+[QUAD2 (Dynamic)]
+Polynomial=0 1 0 + 1x^1
+StdDev=0.00
+LowMass=0.000000
+HighMass=0.000000
+ScanTime=0.000000
+InterScanDelay=0.000000
+LMRes=0.000000
+HMRes=0.000000
+IonEnergy=0.000000
+ReferenceFile=
+AcquisitionFile=
+[QUAD2 (Fast)]
+Polynomial=0 1 0 + 1x^1
+StdDev=0.00
+LowMass=0.000000
+HighMass=0.000000
+ScanTime=0.000000
+InterScanDelay=0.000000
+LMRes=0.000000
+HMRes=0.000000
+IonEnergy=0.000000
+ReferenceFile=
+AcquisitionFile=
+[QUAD2]
+DACSeparation=0.000000
+LagTime=240
+[TOF]
+Polynomial001=1 1 0 + 1x^1
+Reflectron=0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 
+NumSegments=12
+InstrumentMode=0
+SourceVoltage=0.0000000
+FocusVoltage=0.0000000
+ExtractionVoltage=0.0000000
+SamplingRate=0.0000000
+IonisationMode=0
+PrecursorMass=0.0000000
+LowMass=0.0000000
+HighMass=0.0000000
+[DateTime]
+Time=09:25
+Date=03/01/06
+[FUNCTIONS]
+NumberOfFunctions=0

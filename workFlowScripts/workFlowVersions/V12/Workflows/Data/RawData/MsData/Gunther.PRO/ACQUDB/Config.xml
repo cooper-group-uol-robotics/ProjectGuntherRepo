@@ -1,0 +1,34 @@
+<!DOCTYPE Config [
+<!ELEMENT Arguments (OBJECT+)>
+<!ELEMENT Config (Param+, Arguments)>
+<!ELEMENT OBJECT (OBJECTNAME, UDON+)>
+<!ELEMENT OBJECTNAME (#PCDATA)>
+<!ELEMENT Param (ParamName, ParamValue)>
+<!ELEMENT ParamName (#PCDATA)>
+<!ELEMENT ParamValue (#PCDATA)>
+<!ELEMENT UDON (#PCDATA)>
+]>
+<Config>
+	<Param>
+		<ParamName>Dir</ParamName>
+		<ParamValue>C:\MassLynx\Default.PRO\Acqudb</ParamValue>
+	</Param>
+	<Param>
+		<ParamName>Comport</ParamName>
+		<ParamValue>1</ParamValue>
+	</Param>
+	<Param>
+		<ParamName>TrayHolders</ParamName>
+		<ParamValue></ParamValue>
+	</Param>
+	<Param>
+		<ParamName>ID</ParamName>
+		<ParamValue>{4604653A-41BA-4037-9E78-D5EEEACA7D20}</ParamValue>
+	</Param>
+	<Arguments>
+		<OBJECT>
+			<OBJECTNAME></OBJECTNAME>
+			<UDON></UDON>
+		</OBJECT>
+	</Arguments>
+</Config>

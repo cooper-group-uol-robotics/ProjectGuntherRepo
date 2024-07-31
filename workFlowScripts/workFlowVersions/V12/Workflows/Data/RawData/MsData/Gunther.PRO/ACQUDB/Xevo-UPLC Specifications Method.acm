@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AcquityCMMethod xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="..\AcquityCM-Method-r100.xsd" version="1" modified="true">
+	<RunTime>2.50</RunTime>
+	<Comment/>
+	<ColumnManager>
+		<ValvePosition>ValvePosition_1</ValvePosition>
+		<ValvePos1>ValvePositionAdv_1</ValvePos1>
+		<ValvePos2>ValvePositionAdv_1</ValvePos2>
+		<ValvePos3>ValvePositionAdv_1</ValvePos3>
+		<SetColumnTemperature>40.0</SetColumnTemperature>
+		<TemperatureZone1>HeaterOff_-1</TemperatureZone1>
+		<TemperatureZone2>HeaterOff_-1</TemperatureZone2>
+		<TemperatureZone3>HeaterOff_-1</TemperatureZone3>
+		<TemperatureZone4>HeaterOff_-1</TemperatureZone4>
+		<TemperatureZone5>HeaterOff_-1</TemperatureZone5>
+		<TemperatureZone6>HeaterOff_-1</TemperatureZone6>
+		<EquilibrationTime>0.1</EquilibrationTime>
+		<EnablePreheaterTempDataChannel>false</EnablePreheaterTempDataChannel>
+		<EnableValvePositionDataChannel>false</EnableValvePositionDataChannel>
+		<EnableAmbientTempDataChannel>false</EnableAmbientTempDataChannel>
+		<EnableColumnTempDataChannel>true</EnableColumnTempDataChannel>
+		<EnableColumnTempDataChannel1>false</EnableColumnTempDataChannel1>
+		<EnableColumnTempDataChannel2>false</EnableColumnTempDataChannel2>
+		<EnableColumnTempDataChannel3>false</EnableColumnTempDataChannel3>
+		<EnableColumnTempDataChannel4>false</EnableColumnTempDataChannel4>
+		<EnableColumnTempDataChannel5>false</EnableColumnTempDataChannel5>
+		<EnableColumnTempDataChannel6>false</EnableColumnTempDataChannel6>
+		<EnableAlarmBand>false</EnableAlarmBand>
+		<SetAlarmBandDegC>5.0</SetAlarmBandDegC>
+		<Switch1>InitialSwitchState_5</Switch1>
+		<Switch2>InitialSwitchState_5</Switch2>
+		<Switch3>InitialSwitchState_5</Switch3>
+		<Switch4>InitialSwitchState_5</Switch4>
+		<RunEvents>false</RunEvents>
+		<PreAnalysisTime>false</PreAnalysisTime>
+		<ShutDownAllColumns>false</ShutDownAllColumns>
+		<Mode>0</Mode>
+		<!--<EventTable/>-->
+	</ColumnManager>
+</AcquityCMMethod>

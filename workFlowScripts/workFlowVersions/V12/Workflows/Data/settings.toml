@@ -1,0 +1,76 @@
+[dry]
+
+    dry = true
+
+    [tcp]
+
+    HOST      = "tcp://172.31.1.17:5558"
+    NMR       = "tcp://172.31.1.15:5552"
+    CHEMSPEED = "tcp://172.31.1.16:5553"
+    LCMS      = "tcp://172.31.1.18:5554"
+
+    [paths]
+
+    LCMS_archive   = "."    # Path to archive from LCMS PC
+    LCMS_queue     = "."    # Path to LCMS queue for MassLynx
+    LCMS_data      = "DATA/SUPRAMOL-SCREENING/DATA/LCMS"    # Raw LCMS data on LCMS control PC
+    LCMS_to_NMR    = "."    # Path to NMR data from LCMS PC
+    NMR_data       = "."    # Raw NMR data on NMR control PC
+    NMR_archive    = "."    # Path to archive from NMR PC
+    CS_csv_supra   = "."    # CSV on ChemSpeed Computer
+
+    [defaults.NMR]
+
+    num_scans    = 64
+    pp_threshold = 0.02
+    field_presat = 10
+    l30          = 2
+    parameters   = "MULTISUPPDC_f"
+    solvent      = "CH3CN"
+    wait_time    = 120
+    shim_time    = 1200
+    reshim_time  = 14400
+    shim_sample  = 1
+    rack_layout  = "KUKA"
+    owner        = "Filip T. Szczypinski"
+    origin       = "AIC Group, University of Liverpool"
+
+    [defaults.MS]
+    injection_volume = 0.5
+    peak_match_tolerance = 0.4
+    tic_peak_params      = { "height" = 0.2, "distance" = 50 }
+    ms_peak_params       = { "height" = 0.5, "distance" = 10 }
+
+    [workflows.PREFIX]
+
+    Supramol_Screening   = "SUPRAMOL-SCREENING"
+    Supramol_Replication = "SUPRAMOL-REPLICATION"
+    Supramol_HostGuest   = "SUPRAMOL-HOST-GUEST"
+
+    [workflows.NMR]
+
+    Supramol_Screening   = "synthesis_bots.workflows.nmr.supramol.screening"
+    Supramol_Replication = "synthesis_bots.workflows.nmr.supramol.replication"
+    Supramol_HostGuest   = "synthesis_bots.workflows.nmr.supramol.host_guest"
+
+    [workflows.LCMS]
+
+    InsertRack1  = "synthesis_bots.workflows.ms.insert_rack_one"
+    InsertRack2  = "synthesis_bots.workflows.ms.insert_rack_two"
+    ExtractRack1 = "synthesis_bots.workflows.ms.eject_rack_one"
+    ExtractRack2 = "synthesis_bots.workflows.ms.eject_rack_two"
+    Supra1       = "synthesis_bots.workflows.ms.supramol.screening"
+    Supra2       = "synthesis_bots.workflows.ms.supramol.replication"
+
+    [workflows.decision]
+
+    peak_number = 3
+    shifted_proportion = 0.5 # What proportion of peaks needs to have shifted.
+    metals_mz =  [3, 1] # [x, y] if x metals, required at least y m/z peaks.
+    dtw_threshold = 20 # Distance threshold for dynamic time warp.
+    ppm_range_lower = [11, 3] # Lower PPM range of interest
+    ppm_range_higher = [1.5, 0] # Upper PPM range of interest    
+    hg_shift = 0.005 # PPM shift to trigget host-guest identification
+    hg_lb = 1.8 # Hz exponential multiplication line broadening
+
+    

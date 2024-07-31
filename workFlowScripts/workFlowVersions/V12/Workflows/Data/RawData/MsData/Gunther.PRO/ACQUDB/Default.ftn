@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AcquitySMDIMethod language="English" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="AcquityFTN-Method-R100.xsd" modified="true">
+	<RunTime>1.0</RunTime>
+	<Comment/>
+	<LoadAhead>ModeSequential_0</LoadAhead>
+  <LoopOfflineEnabled>false</LoopOfflineEnabled>
+  <LoopOffline>LoopOfflineAutomatic_-1</LoopOffline>
+  <WashSolvent>water</WashSolvent>
+  <WashSolventType>SolventType_2</WashSolventType>
+	<InsertionWashTime>0</InsertionWashTime>
+	<WashTime>6</WashTime>
+	<PurgeSolvent>water</PurgeSolvent>
+  <PurgeSolventType>SolventType_2</PurgeSolventType>
+	<ValveCycles>CustomDisable_-1</ValveCycles>
+	<DoDilution>false</DoDilution>
+	<DilutionVolume>0</DilutionVolume>
+	<DelayTime>0</DelayTime>
+	<NeedlePosition>CustomDisable_-1</NeedlePosition>
+	<ColumnTemperature>HeaterOff_-1</ColumnTemperature>
+	<ColumnTemperatureLimit>5.0</ColumnTemperatureLimit>
+	<SampleTemperature>HeaterOff_-1</SampleTemperature>
+	<SampleTemperatureLimit>5</SampleTemperatureLimit>
+	<CustomRate>CustomDisable_-1</CustomRate>
+	<NeedleDepth>CustomDisable_-1</NeedleDepth>
+	<PreAspirateAir>CustomDisable_-1</PreAspirateAir>
+	<PostAspirateAir>CustomDisable_-1</PostAspirateAir>
+	<ColumnTemperatureDataEnable>false</ColumnTemperatureDataEnable>
+	<AmbientTemperatureDataEnable>false</AmbientTemperatureDataEnable>
+	<SampleTemperatureDataEnable>false</SampleTemperatureDataEnable>
+	<ElevatorTemperatureDataEnable>false</ElevatorTemperatureDataEnable>
+	<SamplePressureDataEnable>false</SamplePressureDataEnable>
+	<PreheaterTemperatureDataEnable>false</PreheaterTemperatureDataEnable>
+	<SealForceDataEnable>false</SealForceDataEnable>
+	<SampleTempAlarmEnable>false</SampleTempAlarmEnable>
+	<ColumnTempAlarmEnable>false</ColumnTempAlarmEnable>
+	<RunEvents>false</RunEvents>
+	<EventTable/>
+</AcquitySMDIMethod>

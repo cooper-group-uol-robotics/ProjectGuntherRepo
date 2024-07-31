@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AcquityBSMMethod xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="AcquityBSM-Method-R100.xsd" version="2">
+	<Scale>Normal</Scale>
+	<AuxPump>false</AuxPump>
+	<HTM>false</HTM>
+	<NanoParameters>
+		<VariableFlowFactor>0.00</VariableFlowFactor>
+		<TrappingMode>None</TrappingMode>
+		<EnablePeakParking>false</EnablePeakParking>
+		<SampleLoadingTime>0.10</SampleLoadingTime>
+		<BSMTrappingFlowRate>0.000</BSMTrappingFlowRate>
+		<BSMTrappingCompositionA>0.0</BSMTrappingCompositionA>
+		<BSMTrappingCompositionB>0.0</BSMTrappingCompositionB>
+		<TrappingLowPressureLimit>0</TrappingLowPressureLimit>
+		<TrappingHighPressureLimit>0</TrappingHighPressureLimit>
+		<FlowRateADataEnable>false</FlowRateADataEnable>
+		<FlowRateBDataEnable>false</FlowRateBDataEnable>
+		<TemperatureADataEnable>false</TemperatureADataEnable>
+		<TemperatureBDataEnable>false</TemperatureBDataEnable>
+	</NanoParameters>
+	<AuxPumpAParameters>
+		<AuxPumpRole></AuxPumpRole>
+		<AuxSolventName></AuxSolventName>
+		<AuxSolventType>Unknown</AuxSolventType>
+		<AuxFlow>0.000</AuxFlow>
+		<AuxFlowSource>1</AuxFlowSource>
+		<AuxLowPressureLimit>0</AuxLowPressureLimit>
+		<AuxHighPressureLimit>0</AuxHighPressureLimit>
+		<AuxPressureDataEnable>false</AuxPressureDataEnable>
+		<AuxFlowRateDataEnable>false</AuxFlowRateDataEnable>
+	</AuxPumpAParameters>
+	<AuxPumpBParameters>
+		<AuxPumpRole></AuxPumpRole>
+		<AuxSolventName></AuxSolventName>
+		<AuxSolventType>Unknown</AuxSolventType>
+		<AuxFlow>0.000</AuxFlow>
+		<AuxFlowSource>1</AuxFlowSource>
+		<AuxLowPressureLimit>0</AuxLowPressureLimit>
+		<AuxHighPressureLimit>0</AuxHighPressureLimit>
+		<AuxPressureDataEnable>false</AuxPressureDataEnable>
+		<AuxFlowRateDataEnable>false</AuxFlowRateDataEnable>
+	</AuxPumpBParameters>
+	<RunTime>2.00</RunTime>
+	<Comment></Comment>
+	<FlowSourceA>1</FlowSourceA>
+	<FlowSourceB>1</FlowSourceB>
+	<LowPressureLimit>1000</LowPressureLimit>
+	<HighPressureLimit>15000</HighPressureLimit>
+	<SolventNameA>Water</SolventNameA>
+	<SolventNameB>Acetonitrile</SolventNameB>
+	<SolventTypeA>Water</SolventTypeA>
+	<SolventTypeB>Acetonitrile</SolventTypeB>
+	<VentValve>System</VentValve>
+	<DegasserEnable>true</DegasserEnable>
+	<InitialSwitch1>No Change</InitialSwitch1>
+	<InitialSwitch2>No Change</InitialSwitch2>
+	<InitialSwitch3>No Change</InitialSwitch3>
+	<SealWashPeriod>5.0</SealWashPeriod>
+	<Analog1>System Pressure</Analog1>
+	<Analog2>%B</Analog2>
+	<SystemPressureDataEnable>true</SystemPressureDataEnable>
+	<FlowRateDataEnable>false</FlowRateDataEnable>
+	<PercentADataEnable>false</PercentADataEnable>
+	<PercentBDataEnable>false</PercentBDataEnable>
+	<LeftAPressureDataEnable>false</LeftAPressureDataEnable>
+	<RightAPressureDataEnable>false</RightAPressureDataEnable>
+	<LeftBPressureDataEnable>false</LeftBPressureDataEnable>
+	<RightBPressureDataEnable>false</RightBPressureDataEnable>
+	<DegasserPressureDataEnable>true</DegasserPressureDataEnable>
+	<GradientTable>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			<GradientRow>
+				<Time>Initial</Time>
+				<Flow>0.400</Flow>
+				<CompositionA>90.0</CompositionA>
+				<CompositionB>10.0</CompositionB>
+				<Curve>Initial</Curve>
+			</GradientRow>
+			<GradientRow>
+				<Time>2.00</Time>
+				<Flow>0.400</Flow>
+				<CompositionA>90.0</CompositionA>
+				<CompositionB>10.0</CompositionB>
+				<Curve>11</Curve>
+			</GradientRow>
+			<GradientRow>
+				<Time>30.00</Time>
+				<Flow>0.000</Flow>
+				<CompositionA>90.0</CompositionA>
+				<CompositionB>10.0</CompositionB>
+				<Curve>11</Curve>
+			</GradientRow></GradientTable>
+	<RunEvents>no</RunEvents>
+	<EventTable/>
+</AcquityBSMMethod>

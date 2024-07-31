@@ -1,0 +1,44 @@
+<W2488Method xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="W2488-Method-r101.xsd" version="2">
+	<RunTime>1.00</RunTime>
+	<WavelengthMode>1</WavelengthMode>
+	<wavelengthsAvailable value="1"/>
+	<CompatibilityChannels>
+		<Channel>
+			<chWavelength value="254"/>
+			<chDataRate value="1"/>
+			<channelId value="1"/>
+		</Channel>
+		<Channel>
+			<chWavelength value="254"/>
+			<chDataRate value="1"/>
+			<channelId value="2"/>
+		</Channel>
+	</CompatibilityChannels>
+	<Lamp>true</Lamp>
+	<ChannelA>
+		<Description/>
+		<Wavelength>254</Wavelength>
+		<DataRate>1</DataRate>
+		<DataMode>Absorbance A</DataMode>
+		<FilterType>Hamming</FilterType>
+		<TimeConstant>1.0</TimeConstant>
+		<AutoZeroWavelength>true</AutoZeroWavelength>
+		<AutoZeroInjectStart>true</AutoZeroInjectStart>
+		<AutoZeroEventOrKey>true</AutoZeroEventOrKey>
+	</ChannelA>
+	<ChannelB>
+		<Description/>
+		<Wavelength>254</Wavelength>
+		<DataRate>1</DataRate>
+		<DataMode>Absorbance B</DataMode>
+		<FilterType>Hamming</FilterType>
+		<TimeConstant>1.0</TimeConstant>
+		<AutoZeroWavelength>true</AutoZeroWavelength>
+		<AutoZeroInjectStart>true</AutoZeroInjectStart>
+		<AutoZeroEventOrKey>true</AutoZeroEventOrKey>
+	</ChannelB>
+	<RunEvents>yes</RunEvents>
+	<EventTable/>
+	<PulseWidth>1.0</PulseWidth>
+	<RectWavePeriod>0.2</RectWavePeriod>
+</W2488Method>

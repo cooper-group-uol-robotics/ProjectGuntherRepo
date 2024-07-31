@@ -1,0 +1,4 @@
+Sample	Vial	ID	File	Date	Time		
+34 	1:1		PTM 125 Test 24	22-Jun-2022	14:23:52		
+
+

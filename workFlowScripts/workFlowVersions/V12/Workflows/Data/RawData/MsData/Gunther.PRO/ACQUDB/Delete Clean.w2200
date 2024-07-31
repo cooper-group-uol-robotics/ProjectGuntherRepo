@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AcquitySMMethod xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="AcquitySM-Method-R100.xsd">
+	<RunTime>5.00</RunTime>
+	<Comment></Comment>
+	<Mode>Sequential</Mode>
+	<LoopOffline>Disable</LoopOffline>
+	<LoopOption>Partial Loop With Needle Overfill</LoopOption>
+	<Overfill>Automatic</Overfill>
+	<ColumnReequilibration>1.0</ColumnReequilibration>
+	<DrawRate>Custom</DrawRate>
+	<CustomRate>100</CustomRate>
+	<Illumination>Off</Illumination>
+	<NeedleDepth>Automatic</NeedleDepth>
+	<WeakWashSolvent>5/95 Acetonitrile/Water</WeakWashSolvent>
+	<WeakWashVolume>500</WeakWashVolume>
+	<StrongWashSolvent>50/50 Acetonitrile/Water</StrongWashSolvent>
+	<StrongWashVolume>500</StrongWashVolume>
+	<PreAspirateAir>4.0</PreAspirateAir>
+	<PostAspirateAir>4.0</PostAspirateAir>
+	<SampleTemperature>7.0</SampleTemperature>
+	<SampleTemperatureLimit>2</SampleTemperatureLimit>
+	<SampleTemperatureDataEnable>false</SampleTemperatureDataEnable>
+	<ElevatorTemperatureDataEnable>false</ElevatorTemperatureDataEnable>
+	<ColumnTemperature>40.0</ColumnTemperature>
+	<ColumnTemperatureLimit>2.0</ColumnTemperatureLimit>
+	<ColumnTemperatureDataEnable>false</ColumnTemperatureDataEnable>
+	<AmbientTemperatureDataEnable>true</AmbientTemperatureDataEnable>
+	<SamplePressureDataEnable>true</SamplePressureDataEnable>
+	<Switch1>No Change</Switch1>
+	<Switch2>No Change</Switch2>
+	<Switch3>No Change</Switch3>
+	<Switch4>No Change</Switch4>
+	<Switch5>No Change</Switch5>
+	<Switch6>No Change</Switch6>
+	<HighPressureLimit>5000</HighPressureLimit>
+	<LowPressureLimit>0</LowPressureLimit>
+	<ChartOut>Sample Pressure</ChartOut>
+	<SampleTempAlarmEnable>false</SampleTempAlarmEnable>
+	<ColumnTempAlarmEnable>false</ColumnTempAlarmEnable>
+	<RunEvents>yes</RunEvents>
+	<EventTable/>
+</AcquitySMMethod>

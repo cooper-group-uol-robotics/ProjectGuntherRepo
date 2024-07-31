@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AcquityBSMMethod xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="AcquityBSM-Method-R100.xsd" version="2" modified="true">
+	<Scale>ScaleNormal_0</Scale>
+	<AuxPump>false</AuxPump>
+	<HTM>false</HTM>
+	<NanoParameters>
+		<VariableFlowFactor>0.10</VariableFlowFactor>
+		<TrappingMode>TrappingMode_0</TrappingMode>
+		<EnablePeakParking>false</EnablePeakParking>
+		<SampleLoadingTime>0.10</SampleLoadingTime>
+		<BSMTrappingFlowRate>0.000</BSMTrappingFlowRate>
+		<BSMTrappingCompositionA>100.0</BSMTrappingCompositionA>
+		<BSMTrappingCompositionB>0.0</BSMTrappingCompositionB>
+		<TrappingLowPressureLimit>0</TrappingLowPressureLimit>
+		<TrappingHighPressureLimit>10000</TrappingHighPressureLimit>
+		<FlowRateADataEnable>false</FlowRateADataEnable>
+		<FlowRateBDataEnable>false</FlowRateBDataEnable>
+		<TemperatureADataEnable>false</TemperatureADataEnable>
+		<TemperatureBDataEnable>false</TemperatureBDataEnable>
+	</NanoParameters>
+	<AuxPumpAParameters>
+		<AuxPumpRole>Auxiliary</AuxPumpRole>
+		<AuxSolventName>Water</AuxSolventName>
+		<AuxSolventType>SolventType_2</AuxSolventType>
+		<AuxFlow>0.000</AuxFlow>
+		<AuxFlowSource>1</AuxFlowSource>
+		<AuxLowPressureLimit>0</AuxLowPressureLimit>
+		<AuxHighPressureLimit>10000</AuxHighPressureLimit>
+		<AuxPressureDataEnable>false</AuxPressureDataEnable>
+		<AuxFlowRateDataEnable>false</AuxFlowRateDataEnable>
+	</AuxPumpAParameters>
+	<AuxPumpBParameters>
+		<AuxPumpRole>Lock Mass</AuxPumpRole>
+		<AuxSolventName>Water</AuxSolventName>
+		<AuxSolventType>SolventType_2</AuxSolventType>
+		<AuxFlow>0.000</AuxFlow>
+		<AuxFlowSource>1</AuxFlowSource>
+		<AuxLowPressureLimit>0</AuxLowPressureLimit>
+		<AuxHighPressureLimit>10000</AuxHighPressureLimit>
+		<AuxPressureDataEnable>false</AuxPressureDataEnable>
+		<AuxFlowRateDataEnable>false</AuxFlowRateDataEnable>
+	</AuxPumpBParameters>
+	<RunTime>2.50</RunTime>
+	<Comment/>
+	<FlowSourceA>1</FlowSourceA>
+	<FlowSourceB>1</FlowSourceB>
+	<LowPressureLimit>0</LowPressureLimit>
+	<HighPressureLimit>15000</HighPressureLimit>
+	<SolventNameA>Water</SolventNameA>
+	<SolventNameB>Acetonitrile</SolventNameB>
+	<SolventTypeA>SolventType_2</SolventTypeA>
+	<SolventTypeB>SolventType_3</SolventTypeB>
+	<VentValve>VentValveSystem_2</VentValve>
+	<DegasserEnable>true</DegasserEnable>
+	<InitialSwitch1>SwitchNoChange_4</InitialSwitch1>
+	<InitialSwitch2>SwitchNoChange_4</InitialSwitch2>
+	<InitialSwitch3>SwitchNoChange_4</InitialSwitch3>
+	<SealWashPeriod>1.0</SealWashPeriod>
+	<Analog1>AnalogPressure_2</Analog1>
+	<Analog2>AnalogB_4</Analog2>
+	<SystemPressureDataEnable>false</SystemPressureDataEnable>
+	<FlowRateDataEnable>false</FlowRateDataEnable>
+	<PercentADataEnable>false</PercentADataEnable>
+	<PercentBDataEnable>false</PercentBDataEnable>
+	<LeftAPressureDataEnable>false</LeftAPressureDataEnable>
+	<RightAPressureDataEnable>false</RightAPressureDataEnable>
+	<LeftBPressureDataEnable>false</LeftBPressureDataEnable>
+	<RightBPressureDataEnable>false</RightBPressureDataEnable>
+	<DegasserPressureDataEnable>false</DegasserPressureDataEnable>
+	<GradientTable>
+			
+			
+			
+			
+			
+			
+			
+			<GradientRow>
+				<Time>Initial</Time>
+				<Flow>0.800</Flow>
+				<CompositionA>90.0</CompositionA>
+				<CompositionB>10.0</CompositionB>
+				<Curve/>
+			</GradientRow>
+			<GradientRow>
+				<Time>0.20</Time>
+				<Flow>0.800</Flow>
+				<CompositionA>90.0</CompositionA>
+				<CompositionB>10.0</CompositionB>
+				<Curve>6</Curve>
+			</GradientRow>
+			<GradientRow>
+				<Time>1.50</Time>
+				<Flow>0.800</Flow>
+				<CompositionA>30.0</CompositionA>
+				<CompositionB>70.0</CompositionB>
+				<Curve>6</Curve>
+			</GradientRow>
+			<GradientRow>
+				<Time>1.80</Time>
+				<Flow>0.800</Flow>
+				<CompositionA>30.0</CompositionA>
+				<CompositionB>70.0</CompositionB>
+				<Curve>6</Curve>
+			</GradientRow>
+			<GradientRow>
+				<Time>2.00</Time>
+				<Flow>0.800</Flow>
+				<CompositionA>90.0</CompositionA>
+				<CompositionB>10.0</CompositionB>
+				<Curve>6</Curve>
+			</GradientRow>
+			<GradientRow>
+				<Time>2.50</Time>
+				<Flow>0.800</Flow>
+				<CompositionA>90.0</CompositionA>
+				<CompositionB>10.0</CompositionB>
+				<Curve>6</Curve>
+			</GradientRow></GradientTable>
+	<RunEvents>true</RunEvents>
+	<EventTable/>
+</AcquityBSMMethod>
