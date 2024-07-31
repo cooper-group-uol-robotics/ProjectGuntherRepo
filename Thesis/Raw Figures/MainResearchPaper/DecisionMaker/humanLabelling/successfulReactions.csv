@@ -1,0 +1,27 @@
+,reactionNumber,metal,amine,aldehdye
+0,7,Zinc tetrafluoroborate,"4,4'-Methylenedianiline",6-Methoxypyridine-2-carbaldehyde
+1,9,Zinc tetrafluoroborate,"4,4'-Oxydianiline",6-Methoxypyridine-2-carbaldehyde
+2,11,Zinc tetrafluoroborate,"4,4'-(9H-AdamantaeFlurene-9,9diyl)dianiline",6-Methylpyridine-2-carboxaldehyde
+3,18,Zinc tetrafluoroborate,"4,4'-(9H-AdamantaeFlurene-9,9diyl)dianiline",6-Methoxypyridine-2-carbaldehyde
+4,21,Zinc tetrafluoroborate,"4,4'-Methylenedianiline",5-Methylpicolinaldehyde
+5,23,Zinc tetrafluoroborate,"4,4'-Oxydianiline",5-Methylpicolinaldehyde
+6,24,Iron(II) tetrafluoroborate hexahydrate,"4,4'-Methylenedianiline",5-Methylpicolinaldehyde
+7,26,Iron(II) tetrafluoroborate hexahydrate,"4,4'-Oxydianiline",5-Methylpicolinaldehyde
+8,28,Zinc tetrafluoroborate,"4,4'-(9H-AdamantaeFlurene-9,9diyl)dianiline",5-Methylpicolinaldehyde
+9,30,Iron(II) tetrafluoroborate hexahydrate,"4,4'-(9H-AdamantaeFlurene-9,9diyl)dianiline",5-Methylpicolinaldehyde
+10,37,Zinc tetrafluoroborate,"4,4'-Methylenedianiline",1-Methyl-2-imidazolecarboxaldehyde
+11,39,Zinc tetrafluoroborate,"4,4'-Oxydianiline",1-Methyl-2-imidazolecarboxaldehyde
+12,49,Iron(II) tetrafluoroborate hexahydrate,"4,4'-(9H-AdamantaeFlurene-9,9diyl)dianiline",1-Methyl-2-imidazolecarboxaldehyde
+13,92,Zinc tetrafluoroborate,"4,4'-(9H-AdamantaeFlurene-9,9diyl)dianiline",4-Formyl-2-methylthiazole
+14,94,Iron(II) tetrafluoroborate hexahydrate,"4,4'-(9H-AdamantaeFlurene-9,9diyl)dianiline",4-Formyl-2-methylthiazole
+15,106,Silver tetrafluoroborate,"4,4'-Methylenedianiline",6-Methylpyridine-2-carboxaldehyde
+16,107,Silver tetrafluoroborate,"2,2'-(Ethane-1,2-diylbis(oxy))diethanamine",6-Methylpyridine-2-carboxaldehyde
+17,110,Silver tetrafluoroborate,"2,2'-(Ethane-1,2-diylbis(oxy))diethanamine",6-Methoxypyridine-2-carbaldehyde
+18,117,Silver tetrafluoroborate,"2,2'-(Ethane-1,2-diylbis(oxy))diethanamine",5-Methylpicolinaldehyde
+19,123,Silver tetrafluoroborate,m-Xylylenediamine,5-Methylpicolinaldehyde
+20,127,Silver tetrafluoroborate,"2,2'-(Ethane-1,2-diyl)dianiline",6-Methylpyridine-2-carboxaldehyde
+21,131,Silver tetrafluoroborate,"2,2'-(Ethane-1,2-diyl)dianiline",5-Methylpicolinaldehyde
+22,132,Silver tetrafluoroborate,m-Xylylenediamine,1-Methyl-2-imidazolecarboxaldehyde
+23,133,Silver tetrafluoroborate,"2,2'-(Ethane-1,2-diyl)dianiline",1-Methyl-2-imidazolecarboxaldehyde
+24,135,Silver tetrafluoroborate,"2,2'-(Ethane-1,2-diylbis(oxy))diethanamine",4-Formyl-2-methylthiazole
+25,140,Silver tetrafluoroborate,"2,2'-(Ethane-1,2-diyl)dianiline",4-Formyl-2-methylthiazole

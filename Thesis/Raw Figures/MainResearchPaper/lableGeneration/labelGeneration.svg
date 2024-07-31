@@ -1,0 +1,2472 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="462.20126mm"
+   height="473.29462mm"
+   viewBox="0 0 462.20126 473.29462"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="labelGeneration.svg"
+   inkscape:export-filename="labelGeneration.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.125"
+     inkscape:cx="-903.99999"
+     inkscape:cy="716"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g100" />
+  <defs
+     id="defs1">
+    <rect
+       x="4040"
+       y="3384"
+       width="160"
+       height="904"
+       id="rect5" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-2351.983,204.10565)">
+    <g
+       id="g1"
+       inkscape:label="original"
+       style="display:none"
+       transform="translate(643.46666,-429.68333)">
+      <rect
+         style="fill:#0000ff;fill-opacity:0.0470588;stroke:#000000;stroke-width:0"
+         id="rect1-4"
+         width="189.73239"
+         height="352.21085"
+         x="1945.5311"
+         y="-169.18065"
+         ry="17.711746"
+         rx="17.711748" />
+      <text
+         xml:space="preserve"
+         style="font-size:6.3686px;line-height:1.1;text-align:center;text-anchor:middle;display:inline;fill:#1a1a1a;stroke-width:0.265358"
+         x="2067.5488"
+         y="-151.12633"
+         id="text18-0"
+         inkscape:label="text3-1"
+         transform="scale(0.99708006,1.0029285)"><tspan
+           sodipodi:role="line"
+           style="line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+           x="2067.5488"
+           y="-151.12633"
+           id="tspan19-1">Label Generation</tspan><tspan
+           sodipodi:role="line"
+           style="line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+           x="2067.5488"
+           y="-144.12086"
+           id="tspan1-6">Program</tspan></text>
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+         id="rect2-3"
+         width="112.49596"
+         height="0.16981889"
+         x="2005.2994"
+         y="136.70285"
+         ry="0"
+         rx="0"
+         transform="scale(1,-1)" />
+      <g
+         id="g2-6-0-6-8"
+         inkscape:label="ML Interpretable Chemical Space"
+         transform="translate(1321.3059,-596.04114)">
+        <rect
+           style="fill:#00ff00;fill-opacity:0.0470588;stroke:#000000;stroke-width:0"
+           id="rect1-1-16-9-7-3"
+           width="215.54776"
+           height="66.404831"
+           x="404.34799"
+           y="434.15421"
+           ry="12.651262"
+           rx="11.639132" />
+        <text
+           xml:space="preserve"
+           style="font-size:6.3686px;line-height:1.1;text-align:center;text-anchor:middle;display:inline;fill:#1a1a1a;stroke-width:0.265358"
+           x="514.43011"
+           y="445.59052"
+           id="text18-8-07-1-7-0"
+           inkscape:label="text3-1"
+           transform="scale(0.99708006,1.0029285)"><tspan
+             sodipodi:role="line"
+             style="line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+             x="514.43011"
+             y="445.59052"
+             id="tspan37-4">ML Interpretable </tspan><tspan
+             sodipodi:role="line"
+             style="line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+             x="514.43011"
+             y="452.59598"
+             id="tspan38-3">Chemical Space</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:4.93889px;line-height:1.1;text-align:center;text-anchor:middle;display:inline;fill:#1a1a1a;stroke-width:0.265358"
+           x="513.58905"
+           y="467.49905"
+           id="text18-8-0-9-6-3-6"
+           inkscape:label="text3-1"
+           transform="scale(0.99708006,1.0029285)"><tspan
+             sodipodi:role="line"
+             style="font-size:4.93889px;line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+             x="513.58905"
+             y="467.49905"
+             id="tspan2-0-0-8-4">Reaction 1: {Metal:{Feature1...}, Aldehyde{Feature1...}, Amine:{Feature 1}}</tspan><tspan
+             sodipodi:role="line"
+             style="font-size:4.93889px;line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+             x="513.58905"
+             y="472.93182"
+             id="tspan3-7-4-4">.</tspan><tspan
+             sodipodi:role="line"
+             style="font-size:4.93889px;line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+             x="513.58905"
+             y="478.36462"
+             id="tspan4-8-3-5">.</tspan><tspan
+             sodipodi:role="line"
+             style="font-size:4.93889px;line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+             x="513.58905"
+             y="483.79739"
+             id="tspan5-2-0-1">.</tspan><tspan
+             sodipodi:role="line"
+             style="font-size:4.93889px;line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+             x="513.58905"
+             y="489.23016"
+             id="tspan6-0-59-6">Reaction 720: {Metal:{Feature1...}, Aldehyde{Feature1...}, Amine:{Feature 1}}</tspan></text>
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+           id="rect2-6-9-9-3-6"
+           width="40.392944"
+           height="0.060975388"
+           x="491.92542"
+           y="460.83072"
+           ry="0"
+           rx="0" />
+      </g>
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+         id="rect2-2-2-6-0-38-7-0-28-1"
+         width="11.460257"
+         height="0.38864464"
+         x="1941.2017"
+         y="12.924453"
+         ry="0"
+         rx="0"
+         transform="scale(1,-1)" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+         id="rect2-2-2-6-0-38-7-0-28-1-4"
+         width="11.708771"
+         height="0.38864464"
+         x="1941.2017"
+         y="-49.932842"
+         ry="0"
+         rx="0"
+         transform="scale(1,-1)" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+         id="rect2-2-2-6-0-38-7-0-28"
+         width="11.553802"
+         height="0.38864464"
+         x="1941.2017"
+         y="128.4902"
+         ry="0"
+         rx="0"
+         transform="scale(1,-1)" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+         id="rect2-2-2-6-0-38-7-0-28-6"
+         width="11.647346"
+         height="0.38864464"
+         x="1941.2017"
+         y="64.66925"
+         ry="0"
+         rx="0"
+         transform="scale(1,-1)" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+         id="rect2-2-2-6-0-38-7-0-2"
+         width="178.80284"
+         height="0.38864464"
+         x="-128.87206"
+         y="1952.5219"
+         ry="0"
+         rx="0"
+         transform="matrix(0,1,1,0,0,0)" />
+      <path
+         sodipodi:type="star"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+         id="path18-1-2-7-8-7"
+         inkscape:flatsided="false"
+         sodipodi:sides="3"
+         sodipodi:cx="554.12463"
+         sodipodi:cy="205.96231"
+         sodipodi:r1="2.7947519"
+         sodipodi:r2="1.3973759"
+         sodipodi:arg1="1.5707963"
+         sodipodi:arg2="2.6179939"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 554.12463,208.75706 -1.21016,-2.09606 -1.21016,-2.09607 2.42032,0 2.42033,0 -1.21016,2.09607 z"
+         inkscape:transform-center-x="-0.56728586"
+         inkscape:transform-center-y="2.673178e-05"
+         transform="matrix(0,-0.81191023,0.81191023,0,1806.005,362.24208)" />
+      <path
+         sodipodi:type="star"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+         id="path18-1-2-7-8-7-8"
+         inkscape:flatsided="false"
+         sodipodi:sides="3"
+         sodipodi:cx="554.12463"
+         sodipodi:cy="205.96231"
+         sodipodi:r1="2.7947519"
+         sodipodi:r2="1.3973759"
+         sodipodi:arg1="1.5707963"
+         sodipodi:arg2="2.6179939"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 554.12463,208.75706 -1.21016,-2.09606 -1.21016,-2.09607 2.42032,0 2.42033,0 -1.21016,2.09607 z"
+         inkscape:transform-center-x="3.4313484e-05"
+         inkscape:transform-center-y="0.56728458"
+         transform="matrix(0.81191023,0,0,0.81191023,1609.0207,-220.54561)" />
+      <g
+         id="g2-39"
+         transform="translate(1889.6483,-626.68315)"
+         inkscape:label="MassSpectraData"
+         style="display:inline">
+        <rect
+           style="display:inline;fill:#ff0000;fill-opacity:0.0470588;stroke:#000000;stroke-width:0"
+           id="rect1-1-16-9-7-4"
+           width="155.42688"
+           height="49.73608"
+           x="-103.87351"
+           y="536.95154"
+           ry="12.651261"
+           rx="11.63913" />
+        <text
+           xml:space="preserve"
+           style="font-size:6.3686px;line-height:1.1;text-align:center;text-anchor:middle;display:inline;fill:#1a1a1a;stroke-width:0.265358"
+           x="-26.272444"
+           y="545.84418"
+           id="text18-8-07-1-7-25"
+           inkscape:label="text3-1"
+           transform="scale(0.99708006,1.0029285)"><tspan
+             sodipodi:role="line"
+             style="line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+             x="-26.272444"
+             y="545.84418"
+             id="tspan38-1">NMR Spectra Data</tspan></text>
+        <rect
+           style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+           id="rect2-6-9-9-3-3"
+           width="40.392944"
+           height="0.060975388"
+           x="-46.356544"
+           y="561.37793"
+           ry="0"
+           rx="0" />
+        <text
+           xml:space="preserve"
+           style="font-size:4.93889px;line-height:1.1;text-align:center;text-anchor:middle;display:inline;fill:#1a1a1a;stroke-width:0.265358"
+           x="-26.269238"
+           y="569.63495"
+           id="text18-8-0-9-6-3-6-8"
+           inkscape:label="text3-1"
+           transform="scale(0.99708006,1.0029285)"><tspan
+             sodipodi:role="line"
+             style="font-size:4.93889px;line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+             x="-26.269236"
+             y="569.63495"
+             id="tspan26">Metal 1: {nmr spectra}, ... Reagent 22: {nmr spectra}</tspan><tspan
+             sodipodi:role="line"
+             style="font-size:4.93889px;line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+             x="-26.269236"
+             y="575.06775"
+             id="tspan45">Reaction 1: {nmr spectra}, ... Reaction 720 {nmr spectra}</tspan></text>
+      </g>
+      <g
+         id="g2-39-5"
+         transform="translate(1885.5323,-571.19658)"
+         inkscape:label="MassSpectraData"
+         style="display:inline">
+        <rect
+           style="display:inline;fill:#ff0000;fill-opacity:0.0470588;stroke:#000000;stroke-width:0"
+           id="rect1-1-16-9-7-4-2"
+           width="166.65221"
+           height="42.252533"
+           x="-110.98288"
+           y="536.95154"
+           ry="12.651261"
+           rx="11.639131" />
+        <text
+           xml:space="preserve"
+           style="font-size:6.3686px;line-height:1.1;text-align:center;text-anchor:middle;display:inline;fill:#1a1a1a;stroke-width:0.265358"
+           x="-27.773531"
+           y="545.84418"
+           id="text18-8-07-1-7-25-9"
+           inkscape:label="text3-1"
+           transform="scale(0.99708006,1.0029285)"><tspan
+             sodipodi:role="line"
+             style="line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+             x="-27.773531"
+             y="545.84418"
+             id="tspan38-1-7">Mass Spectra Data</tspan></text>
+        <rect
+           style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+           id="rect2-6-9-9-3-3-8"
+           width="40.392944"
+           height="0.060975388"
+           x="-47.853249"
+           y="561.37793"
+           ry="0"
+           rx="0" />
+        <text
+           xml:space="preserve"
+           style="font-size:4.93889px;line-height:1.1;text-align:center;text-anchor:middle;display:inline;fill:#1a1a1a;stroke-width:0.265358"
+           x="-27.770325"
+           y="569.63495"
+           id="text18-8-0-9-6-3-6-8-4"
+           inkscape:label="text3-1"
+           transform="scale(0.99708006,1.0029285)"><tspan
+             sodipodi:role="line"
+             style="font-size:4.93889px;line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+             x="-27.770325"
+             y="569.63495"
+             id="tspan45-9">Reaction 1: {mass spectra }, ... Reaction 720 {mass spectra}</tspan></text>
+      </g>
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+         id="rect2-2-2-6-0-38-7-0"
+         width="36.40947"
+         height="0.38864464"
+         x="2022.705"
+         y="87.463081"
+         ry="0"
+         rx="0"
+         transform="scale(1,-1)" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+         id="rect2-2-2-6-0-38-7-0-6"
+         width="36.40947"
+         height="0.38864464"
+         x="-87.463081"
+         y="2058.7258"
+         ry="0"
+         rx="0"
+         transform="matrix(0,1,1,0,0,0)" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+         id="rect2-2-2-6-0-38-7-0-3"
+         width="19.571489"
+         height="0.38864464"
+         x="1952.5219"
+         y="87.463058"
+         ry="0"
+         rx="0"
+         transform="scale(1,-1)" />
+      <g
+         id="g11-0-9"
+         transform="rotate(90,1449.479,757.4139)">
+        <path
+           sodipodi:type="star"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+           id="path18-1-6-9-4-6"
+           inkscape:flatsided="false"
+           sodipodi:sides="3"
+           sodipodi:cx="554.12463"
+           sodipodi:cy="205.96231"
+           sodipodi:r1="2.7947519"
+           sodipodi:r2="1.3973759"
+           sodipodi:arg1="1.5707963"
+           sodipodi:arg2="2.6179939"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m 554.12463,208.75706 -1.21016,-2.09606 -1.21016,-2.09607 2.42032,0 2.42033,0 -1.21016,2.09607 z"
+           inkscape:transform-center-x="2.4312233e-05"
+           inkscape:transform-center-y="-0.56728344"
+           transform="matrix(0.81191023,0,0,-0.81191023,135.51337,376.87827)" />
+        <circle
+           style="fill:#0000ff;fill-opacity:0;stroke:#000000;stroke-width:0.4;stroke-dasharray:none"
+           id="path19-7-1"
+           cx="604.39301"
+           cy="209.0881"
+           r="19.083044"
+           inkscape:label="Iteration Features" />
+        <path
+           sodipodi:type="star"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+           id="path18-1-6-8-4"
+           inkscape:flatsided="false"
+           sodipodi:sides="3"
+           sodipodi:cx="554.12463"
+           sodipodi:cy="205.96231"
+           sodipodi:r1="2.7947519"
+           sodipodi:r2="1.3973759"
+           sodipodi:arg1="1.5707963"
+           sodipodi:arg2="2.6179939"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m 554.12463,208.75706 -1.21016,-2.09606 -1.21016,-2.09607 2.42032,0 2.42033,0 -1.21016,2.09607 z"
+           inkscape:transform-center-x="2.4312233e-05"
+           inkscape:transform-center-y="0.56728458"
+           transform="matrix(0.81191023,0,0,0.81191023,173.50315,41.297924)" />
+      </g>
+      <g
+         id="g2-6-0-3-4-8-7-6-9"
+         inkscape:label="Reaction Number"
+         transform="translate(1500.5562,-562.38972)"
+         style="display:inline">
+        <rect
+           style="fill:#000000;fill-opacity:0.0470588;stroke:#000000;stroke-width:0"
+           id="rect1-1-16-9-71-4-5-7-5-1"
+           width="72.21032"
+           height="12.792992"
+           x="476.06165"
+           y="438.38754"
+           ry="3.7860985"
+           rx="3.7860985" />
+        <text
+           xml:space="preserve"
+           style="font-size:6.3686px;line-height:1.1;text-align:center;text-anchor:middle;display:inline;fill:#1a1a1a;stroke-width:0.265358"
+           x="507.09756"
+           y="445.59052"
+           id="text18-8-07-1-75-6-3-6-1-0"
+           inkscape:label="text3-1"
+           transform="scale(0.99708006,1.0029285)"><tspan
+             sodipodi:role="line"
+             style="line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+             x="507.09756"
+             y="445.59052"
+             id="tspan1-1-2-2-7-9-8-7-7-0">Reaction Number</tspan></text>
+        <rect
+           style="fill:#00ff00;fill-opacity:0;stroke:#000000;stroke-width:0.355;stroke-dasharray:none"
+           id="rect1-1-16-9-71-4-5-5-5-9-6"
+           width="7.5538964"
+           height="6.7060585"
+           x="536.58557"
+           y="441.16437"
+           ry="1.2604414"
+           rx="1.2604414" />
+        <text
+           xml:space="preserve"
+           style="font-size:4.93889px;line-height:1.1;text-align:center;text-anchor:middle;display:inline;fill:#1a1a1a;stroke-width:0.265358"
+           x="541.92932"
+           y="445.01483"
+           id="text18-8-0-9-6-1-4-7-3-7-3"
+           inkscape:label="text3-1"
+           transform="scale(0.99708006,1.0029285)"><tspan
+             sodipodi:role="line"
+             style="font-size:4.93889px;line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+             x="541.92932"
+             y="445.01483"
+             id="tspan19-7-1-0-5">11</tspan></text>
+      </g>
+      <g
+         id="g48"
+         transform="translate(1853.9295,-523.19356)"
+         inkscape:label="Expected m/z peaks data"
+         style="display:inline">
+        <rect
+           style="display:inline;fill:#ff0000;fill-opacity:0.0470588;stroke:#000000;stroke-width:0"
+           id="rect45"
+           width="228.45187"
+           height="71.961082"
+           x="-141.17976"
+           y="536.95154"
+           ry="12.651261"
+           rx="11.639131" />
+        <text
+           xml:space="preserve"
+           style="font-size:6.3686px;line-height:1.1;text-align:center;text-anchor:middle;display:inline;fill:#1a1a1a;stroke-width:0.265358"
+           x="-27.068521"
+           y="545.84418"
+           id="text46"
+           inkscape:label="text3-1"
+           transform="scale(0.99708006,1.0029285)"><tspan
+             sodipodi:role="line"
+             style="line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+             x="-27.068521"
+             y="545.84418"
+             id="tspan46">Expected m/z peaks Data</tspan></text>
+        <rect
+           style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+           id="rect46"
+           width="40.392944"
+           height="0.060975388"
+           x="-47.150299"
+           y="561.37793"
+           ry="0"
+           rx="0" />
+        <text
+           xml:space="preserve"
+           style="font-size:4.93889px;line-height:1.1;text-align:center;text-anchor:middle;display:inline;fill:#1a1a1a;stroke-width:0.265358"
+           x="-27.065315"
+           y="569.63495"
+           id="text48"
+           inkscape:label="text3-1"
+           transform="scale(0.99708006,1.0029285)"><tspan
+             sodipodi:role="line"
+             style="font-size:4.93889px;line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+             x="-27.065315"
+             y="569.63495"
+             id="tspan47" /><tspan
+             sodipodi:role="line"
+             style="font-size:4.93889px;line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+             x="-27.065313"
+             y="575.06775"
+             id="tspan48">Reaction 1: {Possible Complex 1 : {peak 1 ...}, ... Possible Complex 4 : {peak 1 ...}}</tspan><tspan
+             sodipodi:role="line"
+             style="font-size:4.93889px;line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+             x="-27.065315"
+             y="580.50049"
+             id="tspan50">.</tspan><tspan
+             sodipodi:role="line"
+             style="font-size:4.93889px;line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+             x="-27.065315"
+             y="585.93329"
+             id="tspan51">.</tspan><tspan
+             sodipodi:role="line"
+             style="font-size:4.93889px;line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+             x="-27.065315"
+             y="591.36609"
+             id="tspan52">.</tspan><tspan
+             sodipodi:role="line"
+             style="font-size:4.93889px;line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+             x="-27.065317"
+             y="596.79883"
+             id="tspan53">Reaction 720 {Possible Complex 1 : {peak 1 ...}, ... Possible Complex 4 : {peak 1 ...}}</tspan></text>
+      </g>
+      <g
+         id="g2-6-0-6-8-5"
+         inkscape:label="Reaction Data"
+         transform="translate(1588.4773,-485.20782)"
+         style="display:inline">
+        <rect
+           style="fill:#ffff00;fill-opacity:0.0470588;stroke:#000000;stroke-width:0"
+           id="rect1-1-16-9-7-3-4"
+           width="110.24359"
+           height="229.65274"
+           x="414.93134"
+           y="434.15421"
+           ry="12.651262"
+           rx="11.639132" />
+        <text
+           xml:space="preserve"
+           style="font-size:6.3686px;line-height:1.1;text-align:center;text-anchor:middle;display:inline;fill:#1a1a1a;stroke-width:0.265358"
+           x="471.39392"
+           y="445.59052"
+           id="text18-8-07-1-7-0-4"
+           inkscape:label="text3-1"
+           transform="scale(0.99708006,1.0029285)"><tspan
+             sodipodi:role="line"
+             style="line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+             x="471.39392"
+             y="445.59052"
+             id="tspan38-3-8">Reaction Specific data</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:4.93889px;line-height:1.1;text-align:center;text-anchor:middle;display:inline;fill:#1a1a1a;stroke-width:0.265358"
+           x="513.58905"
+           y="467.49905"
+           id="text18-8-0-9-6-3-6-3"
+           inkscape:label="text3-1"
+           transform="scale(0.99708006,1.0029285)"><tspan
+             sodipodi:role="line"
+             style="font-size:4.93889px;line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+             x="513.58905"
+             y="467.49905"
+             id="tspan6-0-59-6-5" /></text>
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+           id="rect2-6-9-9-3-6-8"
+           width="40.392944"
+           height="0.060975388"
+           x="449.85666"
+           y="460.83072"
+           ry="0"
+           rx="0" />
+        <g
+           id="g64"
+           inkscape:label="NMR Spectra Data"
+           transform="translate(23.954037,6.093205)">
+          <rect
+             style="fill:#000000;fill-opacity:0.0470588;stroke:#000000;stroke-width:0"
+             id="rect1-1-16-9-7-3-4-8"
+             width="68.121895"
+             height="60.60508"
+             x="412.03815"
+             y="466.18948"
+             ry="12.651262"
+             rx="11.639132" />
+          <g
+             id="g61"
+             inkscape:label="Aldehdye NMR"
+             transform="translate(-104.20176,16.404167)">
+            <rect
+               style="fill:#00ff00;fill-opacity:0.0936455;stroke:#000000;stroke-width:0"
+               id="rect1-1-16-9-7-3-4-8-7"
+               width="52.001003"
+               height="8.4326"
+               x="524.30035"
+               y="472.39038"
+               ry="3.5032227"
+               rx="3.5032227" />
+            <text
+               xml:space="preserve"
+               style="font-size:4.93889px;line-height:1.1;text-align:center;text-anchor:middle;display:inline;fill:#1a1a1a;stroke-width:0.265358"
+               x="553.38489"
+               y="476.59442"
+               id="text18-8-0-9-6-3-6-37-4"
+               inkscape:label="text3-1"
+               transform="scale(0.99708006,1.0029285)"><tspan
+                 sodipodi:role="line"
+                 style="font-size:4.93889px;line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+                 x="553.38489"
+                 y="476.59442"
+                 id="tspan6-0-59-6-4-2">Aldehyde NMR</tspan></text>
+          </g>
+          <g
+             id="g62"
+             inkscape:label="Amine NMR"
+             transform="translate(-101.99686,19.76236)">
+            <rect
+               style="fill:#00ff00;fill-opacity:0.0936455;stroke:#000000;stroke-width:0"
+               id="rect1-1-16-9-7-3-4-8-7-9"
+               width="52.001003"
+               height="8.4326"
+               x="522.09546"
+               y="480.72476"
+               ry="3.5032227"
+               rx="3.5032227" />
+            <text
+               xml:space="preserve"
+               style="font-size:4.93889px;line-height:1.1;text-align:center;text-anchor:middle;display:inline;fill:#1a1a1a;stroke-width:0.265358"
+               x="549.66003"
+               y="485.30118"
+               id="text18-8-0-9-6-3-6-37-4-9"
+               inkscape:label="text3-1"
+               transform="scale(0.99708006,1.0029285)"><tspan
+                 sodipodi:role="line"
+                 style="font-size:4.93889px;line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+                 x="549.66003"
+                 y="485.30118"
+                 id="tspan6-0-59-6-4-2-0">Amine NMR</tspan></text>
+          </g>
+          <g
+             id="g63"
+             inkscape:label="Reaction NMR"
+             transform="translate(-96.8375,21.268472)">
+            <rect
+               style="fill:#00ff00;fill-opacity:0.0936455;stroke:#000000;stroke-width:0"
+               id="rect1-1-16-9-7-3-4-8-7-4"
+               width="52.001003"
+               height="8.4326"
+               x="516.9361"
+               y="490.91122"
+               ry="3.5032227"
+               rx="3.5032227" />
+            <text
+               xml:space="preserve"
+               style="font-size:4.93889px;line-height:1.1;text-align:center;text-anchor:middle;display:inline;fill:#1a1a1a;stroke-width:0.265358"
+               x="544.27576"
+               y="495.45187"
+               id="text18-8-0-9-6-3-6-37-4-9-8"
+               inkscape:label="text3-1"
+               transform="scale(0.99708006,1.0029285)"><tspan
+                 sodipodi:role="line"
+                 style="font-size:4.93889px;line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+                 x="544.27576"
+                 y="495.45187"
+                 id="tspan6-0-59-6-4-2-0-1">Reaction NMR</tspan></text>
+          </g>
+          <text
+             xml:space="preserve"
+             style="font-size:4.93889px;line-height:1.1;text-align:center;text-anchor:middle;display:inline;fill:#1a1a1a;stroke-width:0.265358"
+             x="447.37778"
+             y="477.33752"
+             id="text18-8-0-9-6-3-6-37-0"
+             inkscape:label="text3-1"
+             transform="scale(0.99708006,1.0029285)"><tspan
+               sodipodi:role="line"
+               style="font-size:4.93889px;line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+               x="447.37778"
+               y="477.33752"
+               id="tspan6-0-59-6-4-4">NMR Spectra Data</tspan></text>
+          <rect
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+             id="rect2-6-9-9-3-6-8-4"
+             width="40.392944"
+             height="0.060975388"
+             x="425.90262"
+             y="485.33618"
+             ry="0"
+             rx="0" />
+        </g>
+        <g
+           id="g64-5"
+           inkscape:label="Mass Spectra Data"
+           transform="translate(16.803802,72.703916)"
+           style="display:inline">
+          <rect
+             style="fill:#00ff00;fill-opacity:0.0470588;stroke:#000000;stroke-width:0"
+             id="rect1-1-16-9-7-3-4-8-3"
+             width="75.044174"
+             height="44.422382"
+             x="415.72723"
+             y="466.18948"
+             ry="12.651262"
+             rx="11.639132" />
+          <text
+             xml:space="preserve"
+             style="font-size:4.93889px;line-height:1.1;text-align:center;text-anchor:middle;display:inline;fill:#1a1a1a;stroke-width:0.265358"
+             x="454.54892"
+             y="496.11743"
+             id="text18-8-0-9-6-3-6-37-4-9-3"
+             inkscape:label="text3-1"
+             transform="scale(0.99708006,1.0029285)"><tspan
+               sodipodi:role="line"
+               style="font-size:4.93889px;line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+               x="454.54892"
+               y="496.11743"
+               id="tspan6-0-59-6-4-2-0-7">Reaction Mass Spectra</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:4.93889px;line-height:1.1;text-align:center;text-anchor:middle;display:inline;fill:#1a1a1a;stroke-width:0.265358"
+             x="454.54892"
+             y="477.33752"
+             id="text18-8-0-9-6-3-6-37-0-0"
+             inkscape:label="text3-1"
+             transform="scale(0.99708006,1.0029285)"><tspan
+               sodipodi:role="line"
+               style="font-size:4.93889px;line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+               x="454.54892"
+               y="477.33752"
+               id="tspan6-0-59-6-4-4-2">Mass Spectra Data</tspan></text>
+          <rect
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+             id="rect2-6-9-9-3-6-8-4-3"
+             width="40.392944"
+             height="0.060975388"
+             x="433.05286"
+             y="485.33618"
+             ry="0"
+             rx="0" />
+        </g>
+        <g
+           id="g64-5-5"
+           inkscape:label="Expected m/z peaks Data"
+           transform="translate(16.242554,123.13193)"
+           style="display:inline">
+          <rect
+             style="fill:#00ff00;fill-opacity:0.0470588;stroke:#000000;stroke-width:0"
+             id="rect1-1-16-9-7-3-4-8-3-6"
+             width="98.243164"
+             height="62.008717"
+             x="404.689"
+             y="466.18948"
+             ry="12.651263"
+             rx="11.639132" />
+          <text
+             xml:space="preserve"
+             style="font-size:4.93889px;line-height:1.1;text-align:center;text-anchor:middle;display:inline;fill:#1a1a1a;stroke-width:0.265358"
+             x="455.32947"
+             y="496.11743"
+             id="text18-8-0-9-6-3-6-37-4-9-3-3"
+             inkscape:label="text3-1"
+             transform="scale(0.99708006,1.0029285)"><tspan
+               sodipodi:role="line"
+               style="font-size:4.93889px;line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+               x="455.32947"
+               y="496.11743"
+               id="tspan6-0-59-6-4-2-0-7-0">Possible Complex 1 : {peak 1 ...},</tspan><tspan
+               sodipodi:role="line"
+               style="font-size:4.93889px;line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+               x="455.32947"
+               y="501.5502"
+               id="tspan66">.</tspan><tspan
+               sodipodi:role="line"
+               style="font-size:4.93889px;line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+               x="455.32947"
+               y="506.983"
+               id="tspan67">.</tspan><tspan
+               sodipodi:role="line"
+               style="font-size:4.93889px;line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+               x="455.32947"
+               y="512.41577"
+               id="tspan68">.</tspan><tspan
+               sodipodi:role="line"
+               style="font-size:4.93889px;line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+               x="455.32947"
+               y="517.84857"
+               id="tspan69"> Possible Complex 4 : {peak 1 ...}</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:4.93889px;line-height:1.1;text-align:center;text-anchor:middle;display:inline;fill:#1a1a1a;stroke-width:0.265358"
+             x="455.11182"
+             y="477.33752"
+             id="text18-8-0-9-6-3-6-37-0-0-4"
+             inkscape:label="text3-1"
+             transform="scale(0.99708006,1.0029285)"><tspan
+               sodipodi:role="line"
+               style="font-size:4.93889px;line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+               x="455.11182"
+               y="477.33752"
+               id="tspan6-0-59-6-4-4-2-3">Expected m/z peaks Data</tspan></text>
+          <rect
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+             id="rect2-6-9-9-3-6-8-4-3-1"
+             width="40.392944"
+             height="0.060975388"
+             x="433.61411"
+             y="485.33618"
+             ry="0"
+             rx="0" />
+        </g>
+      </g>
+      <g
+         id="g2-6-0-6-8-2"
+         inkscape:label="Updated ML Interpretable Chemical Space"
+         transform="translate(1679.3203,-333.33132)">
+        <rect
+           style="fill:#00ff00;fill-opacity:0.0470588;stroke:#000000;stroke-width:0"
+           id="rect1-1-16-9-7-3-6"
+           width="107.41051"
+           height="66.404831"
+           x="460.84875"
+           y="434.15421"
+           ry="12.651262"
+           rx="11.639131" />
+        <text
+           xml:space="preserve"
+           style="font-size:6.3686px;line-height:1.1;text-align:center;text-anchor:middle;display:inline;fill:#1a1a1a;stroke-width:0.265358"
+           x="516.90363"
+           y="445.59052"
+           id="text18-8-07-1-7-0-0"
+           inkscape:label="text3-1"
+           transform="scale(0.99708006,1.0029285)"><tspan
+             sodipodi:role="line"
+             style="line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+             x="516.90363"
+             y="445.59052"
+             id="tspan37-4-8">Updated ML Interpretable </tspan><tspan
+             sodipodi:role="line"
+             style="line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+             x="516.90363"
+             y="452.59598"
+             id="tspan38-3-1">Chemical Space</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:4.93889px;line-height:1.1;text-align:center;text-anchor:middle;display:inline;fill:#1a1a1a;stroke-width:0.265358"
+           x="516.02832"
+           y="467.49905"
+           id="text18-8-0-9-6-3-6-4"
+           inkscape:label="text3-1"
+           transform="scale(0.99708006,1.0029285)"><tspan
+             sodipodi:role="line"
+             style="font-size:4.93889px;line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+             x="516.02832"
+             y="467.49905"
+             id="tspan2-0-0-8-4-8">Reaction 1: {Features, Label}</tspan><tspan
+             sodipodi:role="line"
+             style="font-size:4.93889px;line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+             x="516.02832"
+             y="472.93182"
+             id="tspan3-7-4-4-1">.</tspan><tspan
+             sodipodi:role="line"
+             style="font-size:4.93889px;line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+             x="516.02832"
+             y="478.36462"
+             id="tspan4-8-3-5-3">.</tspan><tspan
+             sodipodi:role="line"
+             style="font-size:4.93889px;line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+             x="516.02832"
+             y="483.79739"
+             id="tspan5-2-0-1-6">.</tspan><tspan
+             sodipodi:role="line"
+             style="font-size:4.93889px;line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+             x="516.02832"
+             y="489.23016"
+             id="tspan6-0-59-6-7">Reaction 2: {Features, Label}</tspan></text>
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+           id="rect2-6-9-9-3-6-0"
+           width="40.392944"
+           height="0.060975388"
+           x="494.35754"
+           y="460.83072"
+           ry="0"
+           rx="0" />
+      </g>
+      <rect
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+         id="rect2-2-2-6-0-7-1-6-3-2-2-9-9-6"
+         width="24.496315"
+         height="0.56147641"
+         x="-100.82289"
+         y="-2194.155"
+         ry="0"
+         rx="0"
+         transform="matrix(0,-1,-1,0,0,0)" />
+      <path
+         sodipodi:type="star"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+         id="path18-1-2-3-8"
+         inkscape:flatsided="false"
+         sodipodi:sides="3"
+         sodipodi:cx="554.12463"
+         sodipodi:cy="205.96231"
+         sodipodi:r1="2.7947519"
+         sodipodi:r2="1.3973759"
+         sodipodi:arg1="1.5707963"
+         sodipodi:arg2="2.6179939"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 554.12463,208.75706 -1.21016,-2.09606 -1.21016,-2.09607 2.42032,0 2.42033,0 -1.21016,2.09607 z"
+         inkscape:transform-center-x="2.4312233e-05"
+         inkscape:transform-center-y="0.56728458"
+         transform="matrix(0.81191023,0,0,0.81191023,1743.9749,-68.669107)" />
+      <g
+         id="g72"
+         inkscape:label="DecisionMaker"
+         transform="translate(-117.07965,59.179213)">
+        <rect
+           style="fill:#0000ff;fill-opacity:0.0470588;stroke:#000000;stroke-width:0"
+           id="rect1-1-1-2"
+           width="76.353798"
+           height="33.220154"
+           x="2274.5928"
+           y="-27.186325"
+           ry="8.3186893"
+           rx="5.9032974" />
+        <text
+           xml:space="preserve"
+           style="font-size:6.3686px;line-height:1.1;text-align:center;text-anchor:middle;display:inline;fill:#1a1a1a;stroke-width:0.265358"
+           x="2319.2192"
+           y="-14.402933"
+           id="text18-8-5-7"
+           inkscape:label="text3-1"
+           transform="scale(0.99708006,1.0029285)"><tspan
+             sodipodi:role="line"
+             style="line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+             x="2319.2192"
+             y="-14.402933"
+             id="tspan1-1-0-40">Decision Maker</tspan></text>
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+           id="rect2-6-2-71"
+           width="40.392944"
+           height="0.060975388"
+           x="2292.5732"
+           y="-8.5994406"
+           ry="0"
+           rx="0" />
+        <g
+           id="g71"
+           inkscape:label="inRepr">
+          <circle
+             style="display:inline;fill:#0000ff;fill-opacity:0;stroke:#000000;stroke-width:1.1;stroke-dasharray:none;stroke-opacity:1"
+             id="path9149-1-7-6-3-1-38"
+             cx="2268.6875"
+             cy="-34.297958"
+             r="4.826333" />
+          <circle
+             style="display:inline;fill:#0000ff;fill-opacity:0;stroke:#000000;stroke-width:1.1;stroke-dasharray:none;stroke-opacity:1"
+             id="path9149-1-7-6-3-1-4"
+             cx="2268.6875"
+             cy="13.145461"
+             r="4.826333" />
+          <circle
+             style="display:inline;fill:#0000ff;fill-opacity:0;stroke:#000000;stroke-width:1.1;stroke-dasharray:none;stroke-opacity:1"
+             id="path9149-1-7-6-3-1"
+             cx="2265.2896"
+             cy="-10.57628"
+             r="4.826333" />
+          <circle
+             style="display:inline;fill:#0000ff;fill-opacity:0;stroke:#000000;stroke-width:1.1;stroke-dasharray:none;stroke-opacity:1"
+             id="path9149-1-7-6-3"
+             cx="2270.947"
+             cy="1.6714005"
+             r="4.826333" />
+          <circle
+             style="display:inline;fill:#0000ff;fill-opacity:0;stroke:#000000;stroke-width:1.1;stroke-dasharray:none;stroke-opacity:1"
+             id="path9149-1-7-6-3-1-3"
+             cx="2270.947"
+             cy="-22.823961"
+             r="4.826333" />
+          <rect
+             style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.240725;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
+             id="rect9189-1"
+             width="1.1701953"
+             height="9.6766415"
+             x="-11.161454"
+             y="-2279.6689"
+             transform="rotate(90)" />
+          <rect
+             style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.369521;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
+             id="rect9189-1-0"
+             width="1.0413996"
+             height="25.621283"
+             x="-2215.3445"
+             y="-539.96259"
+             transform="rotate(166.04418)" />
+          <rect
+             style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.369521;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
+             id="rect9189-1-0-0"
+             width="1.0413996"
+             height="25.621283"
+             x="-2210.2871"
+             y="-559.82318"
+             transform="matrix(-0.97048198,-0.24117364,-0.24117364,0.97048198,0,0)" />
+        </g>
+        <g
+           id="g9153-7-6"
+           transform="rotate(90,1939.032,1328.1541)"
+           inkscape:label="outRepr"
+           style="display:inline">
+          <circle
+             style="fill:#0000ff;fill-opacity:0;stroke:#000000;stroke-width:1.1;stroke-dasharray:none;stroke-opacity:1"
+             id="path9149-1-8-5-7"
+             cx="623.03021"
+             cy="956.23218"
+             r="4.826333" />
+          <g
+             id="g9152-5-1">
+            <rect
+               style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.709354;stroke-dasharray:none"
+               id="rect2-2-2-6-0-7-1-6-3-8-3-8-8"
+               width="21.085732"
+               height="0.55710191"
+               x="-958.49084"
+               y="-893.47748"
+               ry="0"
+               rx="0"
+               transform="matrix(0.29148536,-0.95657529,-0.99779834,-0.06632103,0,0)" />
+            <rect
+               style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.709354;stroke-dasharray:none"
+               id="rect2-2-2-6-0-7-1-6-3-8-8-3-2-1"
+               width="21.085732"
+               height="0.55710191"
+               x="1001.1121"
+               y="-321.16168"
+               ry="0"
+               rx="0"
+               transform="matrix(0.29148536,0.95657529,-0.99779834,0.06632103,0,0)" />
+          </g>
+        </g>
+      </g>
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+         id="rect2-2-2-6-0-38-7-0-7-0"
+         width="11.710434"
+         height="0.38864464"
+         x="-48.796139"
+         y="-2124.4358"
+         ry="0"
+         rx="0"
+         transform="matrix(0,-1,-1,0,0,0)" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+         id="rect2-2-2-6-0-38-7-0-7-0-42"
+         width="15.436217"
+         height="0.38864464"
+         x="-76.091209"
+         y="-2124.4358"
+         ry="0"
+         rx="0"
+         transform="matrix(0,-1,-1,0,0,0)" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+         id="rect2-2-2-6-0-38-7-0-7-0-8"
+         width="63.023556"
+         height="0.38864464"
+         x="-135.15446"
+         y="-2128.8582"
+         ry="0"
+         rx="0"
+         transform="matrix(0,-1,-1,0,0,0)" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+         id="rect2-2-2-6-0-38-7-0-7-0-4"
+         width="11.156883"
+         height="0.38864464"
+         x="-36.550705"
+         y="-2128.8582"
+         ry="0"
+         rx="0"
+         transform="matrix(0,-1,-1,0,0,0)" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+         id="rect2-2-2-6-0-38-7-0-7-0-40"
+         width="11.370621"
+         height="0.38864464"
+         x="-25.072592"
+         y="-2133.2808"
+         ry="0"
+         rx="0"
+         transform="matrix(0,-1,-1,0,0,0)" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+         id="rect2-2-2-6-0-38-7-0-7-0-2-6"
+         width="14.976489"
+         height="0.20155597"
+         x="-2128.6289"
+         y="134.92363"
+         ry="0"
+         rx="0"
+         transform="scale(-1,1)" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+         id="rect2-2-2-6-0-38-7-0-7-0-2-6-6"
+         width="10.777835"
+         height="0.38864464"
+         x="-2124.4302"
+         y="75.702454"
+         ry="0"
+         rx="0"
+         transform="scale(-1,1)" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+         id="rect2-2-2-6-0-38-7-0-7-0-2-6-6-9"
+         width="18.377703"
+         height="0.38864464"
+         x="-2146.8489"
+         y="72.130348"
+         ry="0"
+         rx="0"
+         transform="scale(-1,1)" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+         id="rect2-2-2-6-0-38-7-0-7-0-2-6-6-4"
+         width="25.033327"
+         height="0.38864464"
+         x="-2149.0823"
+         y="60.656292"
+         ry="0"
+         rx="0"
+         transform="scale(-1,1)" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+         id="rect2-2-2-6-0-38-7-0-7-0-2-6-6-46"
+         width="19.3263"
+         height="0.38864464"
+         x="-2143.3801"
+         y="48.408611"
+         ry="0"
+         rx="0"
+         transform="scale(-1,1)" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+         id="rect2-2-2-6-0-38-7-0-7-0-2-6-6-7"
+         width="20.574512"
+         height="0.38864464"
+         x="-2149.0452"
+         y="36.160931"
+         ry="0"
+         rx="0"
+         transform="scale(-1,1)" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+         id="rect2-2-2-6-0-38-7-0-7-0-2-6-6-0"
+         width="13.969468"
+         height="0.38864464"
+         x="-2146.863"
+         y="24.686934"
+         ry="0"
+         rx="0"
+         transform="scale(-1,1)" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+         id="rect2-2-2-6-0-38-7-0-7-0-2-6-6-2"
+         width="48.687527"
+         height="0.38864464"
+         x="-2133.2185"
+         y="13.701914"
+         ry="0"
+         rx="0"
+         transform="scale(-1,1)" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+         id="rect2-2-2-6-0-38-7-0-7-0-2-6-6-2-5"
+         width="44.150627"
+         height="0.38864464"
+         x="-2128.6816"
+         y="25.394487"
+         ry="0"
+         rx="0"
+         transform="scale(-1,1)" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+         id="rect2-2-2-6-0-38-7-0-7-0-2-6-6-2-0"
+         width="39.847588"
+         height="0.38864464"
+         x="-2124.3784"
+         y="37.087063"
+         ry="0"
+         rx="0"
+         transform="scale(-1,1)" />
+    </g>
+    <g
+       id="g100"
+       inkscape:label="compact">
+      <rect
+         style="fill:#0000ff;fill-opacity:0.0470588;stroke:#000000;stroke-width:0"
+         id="rect1"
+         width="229.41989"
+         height="322.57751"
+         x="2584.7644"
+         y="-204.10565"
+         ry="17.711746"
+         rx="17.711748" />
+      <text
+         xml:space="preserve"
+         style="font-size:6.3686px;line-height:1.1;text-align:center;text-anchor:middle;display:inline;fill:#1a1a1a;stroke-width:0.265358"
+         x="2707.344"
+         y="-185.94936"
+         id="text2"
+         inkscape:label="text3-1"
+         transform="scale(0.99708006,1.0029285)"><tspan
+           sodipodi:role="line"
+           style="line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+           x="2707.344"
+           y="-185.94936"
+           id="tspan1">Label Generation</tspan><tspan
+           sodipodi:role="line"
+           style="line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+           x="2707.344"
+           y="-178.94389"
+           id="tspan2">Program</tspan></text>
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+         id="rect2"
+         width="112.49596"
+         height="0.16981889"
+         x="2643.2263"
+         y="171.62785"
+         ry="0"
+         rx="0"
+         transform="scale(1,-1)" />
+      <g
+         id="g9"
+         inkscape:label="ML Interpretable Chemical Space"
+         transform="translate(1960.5392,-630.96614)">
+        <rect
+           style="fill:#00ff00;fill-opacity:0.0470588;stroke:#000000;stroke-width:0"
+           id="rect3"
+           width="215.54776"
+           height="66.404831"
+           x="404.34799"
+           y="434.15421"
+           ry="12.651262"
+           rx="11.639132" />
+        <text
+           xml:space="preserve"
+           style="font-size:6.3686px;line-height:1.1;text-align:center;text-anchor:middle;display:inline;fill:#1a1a1a;stroke-width:0.265358"
+           x="514.43011"
+           y="445.59052"
+           id="text5"
+           inkscape:label="text3-1"
+           transform="scale(0.99708006,1.0029285)"><tspan
+             sodipodi:role="line"
+             style="line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+             x="514.43011"
+             y="445.59052"
+             id="tspan3">ML Interpretable </tspan><tspan
+             sodipodi:role="line"
+             style="line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+             x="514.43011"
+             y="452.59598"
+             id="tspan4">Chemical Space</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:4.93889px;line-height:1.1;text-align:center;text-anchor:middle;display:inline;fill:#1a1a1a;stroke-width:0.265358"
+           x="513.58905"
+           y="467.49905"
+           id="text9"
+           inkscape:label="text3-1"
+           transform="scale(0.99708006,1.0029285)"><tspan
+             sodipodi:role="line"
+             style="font-size:4.93889px;line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+             x="513.58905"
+             y="467.49905"
+             id="tspan5">Reaction 1: {Metal:{Feature1...}, Aldehyde{Feature1...}, Amine:{Feature 1}}</tspan><tspan
+             sodipodi:role="line"
+             style="font-size:4.93889px;line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+             x="513.58905"
+             y="472.93182"
+             id="tspan6">.</tspan><tspan
+             sodipodi:role="line"
+             style="font-size:4.93889px;line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+             x="513.58905"
+             y="478.36462"
+             id="tspan7">.</tspan><tspan
+             sodipodi:role="line"
+             style="font-size:4.93889px;line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+             x="513.58905"
+             y="483.79739"
+             id="tspan8">.</tspan><tspan
+             sodipodi:role="line"
+             style="font-size:4.93889px;line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+             x="513.58905"
+             y="489.23016"
+             id="tspan9">Reaction 720: {Metal:{Feature1...}, Aldehyde{Feature1...}, Amine:{Feature 1}}</tspan></text>
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+           id="rect9"
+           width="40.392944"
+           height="0.060975388"
+           x="491.92542"
+           y="460.83072"
+           ry="0"
+           rx="0" />
+      </g>
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+         id="rect10"
+         width="11.460257"
+         height="0.38864464"
+         x="2580.4351"
+         y="47.849453"
+         ry="0"
+         rx="0"
+         transform="scale(1,-1)" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+         id="rect11"
+         width="11.708771"
+         height="0.38864464"
+         x="2580.4351"
+         y="-15.007842"
+         ry="0"
+         rx="0"
+         transform="scale(1,-1)" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+         id="rect12"
+         width="11.553802"
+         height="0.38864464"
+         x="2580.4351"
+         y="163.41521"
+         ry="0"
+         rx="0"
+         transform="scale(1,-1)" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+         id="rect13"
+         width="11.647346"
+         height="0.38864464"
+         x="2580.4351"
+         y="99.594254"
+         ry="0"
+         rx="0"
+         transform="scale(1,-1)" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+         id="rect14"
+         width="178.80284"
+         height="0.38864464"
+         x="-163.79706"
+         y="2591.7551"
+         ry="0"
+         rx="0"
+         transform="matrix(0,1,1,0,0,0)" />
+      <path
+         sodipodi:type="star"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+         id="path14"
+         inkscape:flatsided="false"
+         sodipodi:sides="3"
+         sodipodi:cx="554.12463"
+         sodipodi:cy="205.96231"
+         sodipodi:r1="2.7947519"
+         sodipodi:r2="1.3973759"
+         sodipodi:arg1="1.5707963"
+         sodipodi:arg2="2.6179939"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 554.12463,208.75706 -1.21016,-2.09606 -1.21016,-2.09607 2.42032,0 2.42033,0 -1.21016,2.09607 z"
+         inkscape:transform-center-x="-0.56728586"
+         inkscape:transform-center-y="2.673178e-05"
+         transform="matrix(0,-0.81191023,0.81191023,0,2445.2383,327.31708)" />
+      <path
+         sodipodi:type="star"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+         id="path15"
+         inkscape:flatsided="false"
+         sodipodi:sides="3"
+         sodipodi:cx="554.12463"
+         sodipodi:cy="205.96231"
+         sodipodi:r1="2.7947519"
+         sodipodi:r2="1.3973759"
+         sodipodi:arg1="1.5707963"
+         sodipodi:arg2="2.6179939"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 554.12463,208.75706 -1.21016,-2.09606 -1.21016,-2.09607 2.42032,0 2.42033,0 -1.21016,2.09607 z"
+         inkscape:transform-center-x="3.4313484e-05"
+         inkscape:transform-center-y="0.56728458"
+         transform="matrix(0.81191023,0,0,0.81191023,2248.254,-255.47061)" />
+      <g
+         id="g17"
+         transform="translate(2528.8816,-661.60815)"
+         inkscape:label="MassSpectraData"
+         style="display:inline">
+        <rect
+           style="display:inline;fill:#ff0000;fill-opacity:0.0470588;stroke:#000000;stroke-width:0"
+           id="rect15"
+           width="155.42688"
+           height="49.73608"
+           x="-103.87351"
+           y="536.95154"
+           ry="12.651261"
+           rx="11.63913" />
+        <text
+           xml:space="preserve"
+           style="font-size:6.3686px;line-height:1.1;text-align:center;text-anchor:middle;display:inline;fill:#1a1a1a;stroke-width:0.265358"
+           x="-26.272444"
+           y="545.84418"
+           id="text15"
+           inkscape:label="text3-1"
+           transform="scale(0.99708006,1.0029285)"><tspan
+             sodipodi:role="line"
+             style="line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+             x="-26.272444"
+             y="545.84418"
+             id="tspan15">NMR Spectra Data</tspan></text>
+        <rect
+           style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+           id="rect16"
+           width="40.392944"
+           height="0.060975388"
+           x="-46.356544"
+           y="561.37793"
+           ry="0"
+           rx="0" />
+        <text
+           xml:space="preserve"
+           style="font-size:4.93889px;line-height:1.1;text-align:center;text-anchor:middle;display:inline;fill:#1a1a1a;stroke-width:0.265358"
+           x="-26.269238"
+           y="569.63495"
+           id="text17"
+           inkscape:label="text3-1"
+           transform="scale(0.99708006,1.0029285)"><tspan
+             sodipodi:role="line"
+             style="font-size:4.93889px;line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+             x="-26.269236"
+             y="569.63495"
+             id="tspan16">Metal 1: {nmr spectra}, ... Reagent 22: {nmr spectra}</tspan><tspan
+             sodipodi:role="line"
+             style="font-size:4.93889px;line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+             x="-26.269236"
+             y="575.06775"
+             id="tspan17">Reaction 1: {nmr spectra}, ... Reaction 720 {nmr spectra}</tspan></text>
+      </g>
+      <g
+         id="g19"
+         transform="translate(2524.7656,-606.12158)"
+         inkscape:label="MassSpectraData"
+         style="display:inline">
+        <rect
+           style="display:inline;fill:#ff0000;fill-opacity:0.0470588;stroke:#000000;stroke-width:0"
+           id="rect17"
+           width="166.65221"
+           height="42.252533"
+           x="-110.98288"
+           y="536.95154"
+           ry="12.651261"
+           rx="11.639131" />
+        <text
+           xml:space="preserve"
+           style="font-size:6.3686px;line-height:1.1;text-align:center;text-anchor:middle;display:inline;fill:#1a1a1a;stroke-width:0.265358"
+           x="-27.773531"
+           y="545.84418"
+           id="text18"
+           inkscape:label="text3-1"
+           transform="scale(0.99708006,1.0029285)"><tspan
+             sodipodi:role="line"
+             style="line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+             x="-27.773531"
+             y="545.84418"
+             id="tspan18">Mass Spectra Data</tspan></text>
+        <rect
+           style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+           id="rect18"
+           width="40.392944"
+           height="0.060975388"
+           x="-47.853249"
+           y="561.37793"
+           ry="0"
+           rx="0" />
+        <text
+           xml:space="preserve"
+           style="font-size:4.93889px;line-height:1.1;text-align:center;text-anchor:middle;display:inline;fill:#1a1a1a;stroke-width:0.265358"
+           x="-27.770325"
+           y="569.63495"
+           id="text19"
+           inkscape:label="text3-1"
+           transform="scale(0.99708006,1.0029285)"><tspan
+             sodipodi:role="line"
+             style="font-size:4.93889px;line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+             x="-27.770325"
+             y="569.63495"
+             id="tspan19">Reaction 1: {mass spectra }, ... Reaction 720 {mass spectra}</tspan></text>
+      </g>
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+         id="rect19"
+         width="36.40947"
+         height="0.38864464"
+         x="2661.9382"
+         y="122.38808"
+         ry="0"
+         rx="0"
+         transform="scale(1,-1)" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+         id="rect20"
+         width="36.40947"
+         height="0.38864464"
+         x="-122.38808"
+         y="2697.9592"
+         ry="0"
+         rx="0"
+         transform="matrix(0,1,1,0,0,0)" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+         id="rect21"
+         width="19.571489"
+         height="0.38864464"
+         x="2591.7551"
+         y="122.38806"
+         ry="0"
+         rx="0"
+         transform="scale(1,-1)" />
+      <g
+         id="g22"
+         transform="rotate(90,1786.5582,1059.5681)">
+        <path
+           sodipodi:type="star"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+           id="path21"
+           inkscape:flatsided="false"
+           sodipodi:sides="3"
+           sodipodi:cx="554.12463"
+           sodipodi:cy="205.96231"
+           sodipodi:r1="2.7947519"
+           sodipodi:r2="1.3973759"
+           sodipodi:arg1="1.5707963"
+           sodipodi:arg2="2.6179939"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m 554.12463,208.75706 -1.21016,-2.09606 -1.21016,-2.09607 2.42032,0 2.42033,0 -1.21016,2.09607 z"
+           inkscape:transform-center-x="2.4312233e-05"
+           inkscape:transform-center-y="-0.56728344"
+           transform="matrix(0.81191023,0,0,-0.81191023,135.51337,376.87827)" />
+        <circle
+           style="fill:#0000ff;fill-opacity:0;stroke:#000000;stroke-width:0.4;stroke-dasharray:none"
+           id="circle21"
+           cx="604.39301"
+           cy="209.0881"
+           r="19.083044"
+           inkscape:label="Iteration Features" />
+        <path
+           sodipodi:type="star"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+           id="path22"
+           inkscape:flatsided="false"
+           sodipodi:sides="3"
+           sodipodi:cx="554.12463"
+           sodipodi:cy="205.96231"
+           sodipodi:r1="2.7947519"
+           sodipodi:r2="1.3973759"
+           sodipodi:arg1="1.5707963"
+           sodipodi:arg2="2.6179939"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m 554.12463,208.75706 -1.21016,-2.09606 -1.21016,-2.09607 2.42032,0 2.42033,0 -1.21016,2.09607 z"
+           inkscape:transform-center-x="2.4312233e-05"
+           inkscape:transform-center-y="0.56728458"
+           transform="matrix(0.81191023,0,0,0.81191023,173.50315,41.297924)" />
+      </g>
+      <g
+         id="g23"
+         inkscape:label="Reaction Number"
+         transform="translate(2139.7895,-597.31472)"
+         style="display:inline">
+        <rect
+           style="fill:#000000;fill-opacity:0.0470588;stroke:#000000;stroke-width:0"
+           id="rect22"
+           width="72.21032"
+           height="12.792992"
+           x="476.06165"
+           y="438.38754"
+           ry="3.7860985"
+           rx="3.7860985" />
+        <text
+           xml:space="preserve"
+           style="font-size:6.3686px;line-height:1.1;text-align:center;text-anchor:middle;display:inline;fill:#1a1a1a;stroke-width:0.265358"
+           x="507.09756"
+           y="445.59052"
+           id="text22"
+           inkscape:label="text3-1"
+           transform="scale(0.99708006,1.0029285)"><tspan
+             sodipodi:role="line"
+             style="line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+             x="507.09756"
+             y="445.59052"
+             id="tspan22">Reaction Number</tspan></text>
+        <rect
+           style="fill:#00ff00;fill-opacity:0;stroke:#000000;stroke-width:0.355;stroke-dasharray:none"
+           id="rect23"
+           width="7.5538964"
+           height="6.7060585"
+           x="536.58557"
+           y="441.16437"
+           ry="1.2604414"
+           rx="1.2604414" />
+        <text
+           xml:space="preserve"
+           style="font-size:4.93889px;line-height:1.1;text-align:center;text-anchor:middle;display:inline;fill:#1a1a1a;stroke-width:0.265358"
+           x="541.92932"
+           y="445.01483"
+           id="text23"
+           inkscape:label="text3-1"
+           transform="scale(0.99708006,1.0029285)"><tspan
+             sodipodi:role="line"
+             style="font-size:4.93889px;line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+             x="541.92932"
+             y="445.01483"
+             id="tspan23">11</tspan></text>
+      </g>
+      <g
+         id="g31"
+         transform="translate(2493.1628,-558.11856)"
+         inkscape:label="Expected m/z peaks data"
+         style="display:inline">
+        <rect
+           style="display:inline;fill:#ff0000;fill-opacity:0.0470588;stroke:#000000;stroke-width:0"
+           id="rect24"
+           width="228.45187"
+           height="71.961082"
+           x="-141.17976"
+           y="536.95154"
+           ry="12.651261"
+           rx="11.639131" />
+        <text
+           xml:space="preserve"
+           style="font-size:6.3686px;line-height:1.1;text-align:center;text-anchor:middle;display:inline;fill:#1a1a1a;stroke-width:0.265358"
+           x="-27.068521"
+           y="545.84418"
+           id="text24"
+           inkscape:label="text3-1"
+           transform="scale(0.99708006,1.0029285)"><tspan
+             sodipodi:role="line"
+             style="line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+             x="-27.068521"
+             y="545.84418"
+             id="tspan24">Expected m/z peaks Data</tspan></text>
+        <rect
+           style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+           id="rect25"
+           width="40.392944"
+           height="0.060975388"
+           x="-47.150299"
+           y="561.37793"
+           ry="0"
+           rx="0" />
+        <text
+           xml:space="preserve"
+           style="font-size:4.93889px;line-height:1.1;text-align:center;text-anchor:middle;display:inline;fill:#1a1a1a;stroke-width:0.265358"
+           x="-27.065315"
+           y="569.63495"
+           id="text31"
+           inkscape:label="text3-1"
+           transform="scale(0.99708006,1.0029285)"><tspan
+             sodipodi:role="line"
+             style="font-size:4.93889px;line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+             x="-27.065315"
+             y="569.63495"
+             id="tspan25" /><tspan
+             sodipodi:role="line"
+             style="font-size:4.93889px;line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+             x="-27.065313"
+             y="575.06775"
+             id="tspan27">Reaction 1: {Possible Complex 1 : {peak 1 ...}, ... Possible Complex 4 : {peak 1 ...}}</tspan><tspan
+             sodipodi:role="line"
+             style="font-size:4.93889px;line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+             x="-27.065315"
+             y="580.50049"
+             id="tspan28">.</tspan><tspan
+             sodipodi:role="line"
+             style="font-size:4.93889px;line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+             x="-27.065315"
+             y="585.93329"
+             id="tspan29">.</tspan><tspan
+             sodipodi:role="line"
+             style="font-size:4.93889px;line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+             x="-27.065315"
+             y="591.36609"
+             id="tspan30">.</tspan><tspan
+             sodipodi:role="line"
+             style="font-size:4.93889px;line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+             x="-27.065317"
+             y="596.79883"
+             id="tspan31">Reaction 720 {Possible Complex 1 : {peak 1 ...}, ... Possible Complex 4 : {peak 1 ...}}</tspan></text>
+      </g>
+      <g
+         id="g99"
+         transform="translate(0,-12.038544)">
+        <g
+           id="g65"
+           inkscape:label="Updated ML Interpretable Chemical Space"
+           transform="translate(2199.1668,-219.33153)">
+          <rect
+             style="fill:#00ff00;fill-opacity:0.0470588;stroke:#000000;stroke-width:0"
+             id="rect55"
+             width="107.41051"
+             height="66.404831"
+             x="460.84875"
+             y="434.15421"
+             ry="12.651262"
+             rx="11.639131" />
+          <text
+             xml:space="preserve"
+             style="font-size:6.3686px;line-height:1.1;text-align:center;text-anchor:middle;display:inline;fill:#1a1a1a;stroke-width:0.265358"
+             x="516.90363"
+             y="445.59052"
+             id="text56"
+             inkscape:label="text3-1"
+             transform="scale(0.99708006,1.0029285)"><tspan
+               sodipodi:role="line"
+               style="line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+               x="516.90363"
+               y="445.59052"
+               id="tspan55">Updated ML Interpretable </tspan><tspan
+               sodipodi:role="line"
+               style="line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+               x="516.90363"
+               y="452.59598"
+               id="tspan56">Chemical Space</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:4.93889px;line-height:1.1;text-align:center;text-anchor:middle;display:inline;fill:#1a1a1a;stroke-width:0.265358"
+             x="516.02832"
+             y="467.49905"
+             id="text61"
+             inkscape:label="text3-1"
+             transform="scale(0.99708006,1.0029285)"><tspan
+               sodipodi:role="line"
+               style="font-size:4.93889px;line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+               x="516.02832"
+               y="467.49905"
+               id="tspan57">Reaction 1: {Features, Label}</tspan><tspan
+               sodipodi:role="line"
+               style="font-size:4.93889px;line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+               x="516.02832"
+               y="472.93182"
+               id="tspan58">.</tspan><tspan
+               sodipodi:role="line"
+               style="font-size:4.93889px;line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+               x="516.02832"
+               y="478.36462"
+               id="tspan59">.</tspan><tspan
+               sodipodi:role="line"
+               style="font-size:4.93889px;line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+               x="516.02832"
+               y="483.79739"
+               id="tspan60">.</tspan><tspan
+               sodipodi:role="line"
+               style="font-size:4.93889px;line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+               x="516.02832"
+               y="489.23016"
+               id="tspan61">Reaction 2: {Features, Label}</tspan></text>
+          <rect
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+             id="rect61"
+             width="40.392944"
+             height="0.060975388"
+             x="494.35754"
+             y="460.83072"
+             ry="0"
+             rx="0" />
+        </g>
+        <rect
+           style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+           id="rect65"
+           width="12.457773"
+           height="0.56147641"
+           x="-214.82269"
+           y="-2714.0017"
+           ry="0"
+           rx="0"
+           transform="matrix(0,-1,-1,0,0,0)" />
+        <path
+           sodipodi:type="star"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+           id="path65"
+           inkscape:flatsided="false"
+           sodipodi:sides="3"
+           sodipodi:cx="554.12463"
+           sodipodi:cy="205.96231"
+           sodipodi:r1="2.7947519"
+           sodipodi:r2="1.3973759"
+           sodipodi:arg1="1.5707963"
+           sodipodi:arg2="2.6179939"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m 554.12463,208.75706 -1.21016,-2.09606 -1.21016,-2.09607 2.42032,0 2.42033,0 -1.21016,2.09607 z"
+           inkscape:transform-center-x="2.4312233e-05"
+           inkscape:transform-center-y="0.56728458"
+           transform="matrix(0.81191023,0,0,0.81191023,2263.8214,45.33068)" />
+      </g>
+      <g
+         id="g96"
+         inkscape:label="reaction Specific Data Chip"
+         transform="translate(0,-6.3499986)">
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+           id="rect19-6"
+           width="26.470383"
+           height="0.38864464"
+           x="2609.1875"
+           y="-0.59776521"
+           ry="0"
+           rx="0"
+           transform="scale(1,-1)" />
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+           id="rect19-6-5"
+           width="80.330383"
+           height="0.38864464"
+           x="-103.92792"
+           y="-2617.1797"
+           ry="0"
+           rx="0"
+           transform="matrix(0,-1,-1,0,0,0)" />
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+           id="rect19-6-5-0"
+           width="99.20871"
+           height="0.38864464"
+           x="-111.11308"
+           y="-2613.3633"
+           ry="0"
+           rx="0"
+           transform="matrix(0,-1,-1,0,0,0)" />
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+           id="rect19-6-5-03"
+           width="118.06127"
+           height="0.38864464"
+           x="-118.27632"
+           y="-2609.5466"
+           ry="0"
+           rx="0"
+           transform="matrix(0,-1,-1,0,0,0)" />
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+           id="rect19-6-9"
+           width="22.681839"
+           height="0.38864464"
+           x="2612.9761"
+           y="-12.290339"
+           ry="0"
+           rx="0"
+           transform="scale(1,-1)" />
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+           id="rect19-6-97"
+           width="18.865948"
+           height="0.38864464"
+           x="2616.792"
+           y="-23.982914"
+           ry="0"
+           rx="0"
+           transform="scale(1,-1)" />
+        <g
+           id="g55"
+           inkscape:label="Reaction Data"
+           transform="translate(2199.6648,-512.19532)"
+           style="display:inline">
+          <rect
+             style="fill:#ffff00;fill-opacity:0.0470588;stroke:#000000;stroke-width:0"
+             id="rect31"
+             width="179.94638"
+             height="174.61942"
+             x="421.54593"
+             y="432.56671"
+             ry="12.651262"
+             rx="11.639132" />
+          <text
+             xml:space="preserve"
+             style="font-size:6.3686px;line-height:1.1;text-align:center;text-anchor:middle;display:inline;fill:#1a1a1a;stroke-width:0.265358"
+             x="512.98132"
+             y="445.59052"
+             id="text32"
+             inkscape:label="text3-1"
+             transform="scale(0.99708006,1.0029285)"><tspan
+               sodipodi:role="line"
+               style="line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+               x="512.98132"
+               y="445.59052"
+               id="tspan32">Reaction Specific data</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:4.93889px;line-height:1.1;text-align:center;text-anchor:middle;display:inline;fill:#1a1a1a;stroke-width:0.265358"
+             x="513.58905"
+             y="467.49905"
+             id="text33"
+             inkscape:label="text3-1"
+             transform="scale(0.99708006,1.0029285)"><tspan
+               sodipodi:role="line"
+               style="font-size:4.93889px;line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+               x="513.58905"
+               y="467.49905"
+               id="tspan33" /></text>
+          <rect
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+             id="rect33"
+             width="40.392944"
+             height="0.060975388"
+             x="491.32263"
+             y="460.83072"
+             ry="0"
+             rx="0" />
+          <g
+             id="g38"
+             inkscape:label="NMR Spectra Data"
+             transform="translate(15.894554,19.587915)">
+            <rect
+               style="fill:#000000;fill-opacity:0.0470588;stroke:#000000;stroke-width:0"
+               id="rect34"
+               width="68.121895"
+               height="60.60508"
+               x="412.03815"
+               y="466.18948"
+               ry="12.651262"
+               rx="11.639132" />
+            <g
+               id="g35"
+               inkscape:label="Aldehdye NMR"
+               transform="translate(-104.20176,16.404167)">
+              <rect
+                 style="fill:#00ff00;fill-opacity:0.0936455;stroke:#000000;stroke-width:0"
+                 id="rect35"
+                 width="52.001003"
+                 height="8.4326"
+                 x="524.30035"
+                 y="472.39038"
+                 ry="3.5032227"
+                 rx="3.5032227" />
+              <text
+                 xml:space="preserve"
+                 style="font-size:4.93889px;line-height:1.1;text-align:center;text-anchor:middle;display:inline;fill:#1a1a1a;stroke-width:0.265358"
+                 x="553.38489"
+                 y="476.59442"
+                 id="text35"
+                 inkscape:label="text3-1"
+                 transform="scale(0.99708006,1.0029285)"><tspan
+                   sodipodi:role="line"
+                   style="font-size:4.93889px;line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+                   x="553.38489"
+                   y="476.59442"
+                   id="tspan35">Aldehyde NMR</tspan></text>
+            </g>
+            <g
+               id="g36"
+               inkscape:label="Amine NMR"
+               transform="translate(-101.99686,19.76236)">
+              <rect
+                 style="fill:#00ff00;fill-opacity:0.0936455;stroke:#000000;stroke-width:0"
+                 id="rect36"
+                 width="52.001003"
+                 height="8.4326"
+                 x="522.09546"
+                 y="480.72476"
+                 ry="3.5032227"
+                 rx="3.5032227" />
+              <text
+                 xml:space="preserve"
+                 style="font-size:4.93889px;line-height:1.1;text-align:center;text-anchor:middle;display:inline;fill:#1a1a1a;stroke-width:0.265358"
+                 x="549.66003"
+                 y="485.30118"
+                 id="text36"
+                 inkscape:label="text3-1"
+                 transform="scale(0.99708006,1.0029285)"><tspan
+                   sodipodi:role="line"
+                   style="font-size:4.93889px;line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+                   x="549.66003"
+                   y="485.30118"
+                   id="tspan36">Amine NMR</tspan></text>
+            </g>
+            <g
+               id="g37"
+               inkscape:label="Reaction NMR"
+               transform="translate(-96.8375,21.268472)">
+              <rect
+                 style="fill:#00ff00;fill-opacity:0.0936455;stroke:#000000;stroke-width:0"
+                 id="rect37"
+                 width="52.001003"
+                 height="8.4326"
+                 x="516.9361"
+                 y="490.91122"
+                 ry="3.5032227"
+                 rx="3.5032227" />
+              <text
+                 xml:space="preserve"
+                 style="font-size:4.93889px;line-height:1.1;text-align:center;text-anchor:middle;display:inline;fill:#1a1a1a;stroke-width:0.265358"
+                 x="544.27576"
+                 y="495.45187"
+                 id="text37"
+                 inkscape:label="text3-1"
+                 transform="scale(0.99708006,1.0029285)"><tspan
+                   sodipodi:role="line"
+                   style="font-size:4.93889px;line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+                   x="544.27576"
+                   y="495.45187"
+                   id="tspan37">Reaction NMR</tspan></text>
+            </g>
+            <text
+               xml:space="preserve"
+               style="font-size:4.93889px;line-height:1.1;text-align:center;text-anchor:middle;display:inline;fill:#1a1a1a;stroke-width:0.265358"
+               x="447.37778"
+               y="477.33752"
+               id="text38"
+               inkscape:label="text3-1"
+               transform="scale(0.99708006,1.0029285)"><tspan
+                 sodipodi:role="line"
+                 style="font-size:4.93889px;line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+                 x="447.37778"
+                 y="477.33752"
+                 id="tspan38">NMR Spectra Data</tspan></text>
+            <rect
+               style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+               id="rect38"
+               width="40.392944"
+               height="0.060975388"
+               x="425.90262"
+               y="485.33618"
+               ry="0"
+               rx="0" />
+          </g>
+          <g
+             id="g40"
+             inkscape:label="Mass Spectra Data"
+             transform="translate(94.46933,9.6875974)"
+             style="display:inline">
+            <rect
+               style="fill:#00ff00;fill-opacity:0.0470588;stroke:#000000;stroke-width:0"
+               id="rect39"
+               width="75.044174"
+               height="44.422382"
+               x="415.72723"
+               y="466.18948"
+               ry="12.651262"
+               rx="11.639132" />
+            <text
+               xml:space="preserve"
+               style="font-size:4.93889px;line-height:1.1;text-align:center;text-anchor:middle;display:inline;fill:#1a1a1a;stroke-width:0.265358"
+               x="454.54892"
+               y="496.11743"
+               id="text39"
+               inkscape:label="text3-1"
+               transform="scale(0.99708006,1.0029285)"><tspan
+                 sodipodi:role="line"
+                 style="font-size:4.93889px;line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+                 x="454.54892"
+                 y="496.11743"
+                 id="tspan39">Reaction Mass Spectra</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-size:4.93889px;line-height:1.1;text-align:center;text-anchor:middle;display:inline;fill:#1a1a1a;stroke-width:0.265358"
+               x="454.54892"
+               y="477.33752"
+               id="text40"
+               inkscape:label="text3-1"
+               transform="scale(0.99708006,1.0029285)"><tspan
+                 sodipodi:role="line"
+                 style="font-size:4.93889px;line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+                 x="454.54892"
+                 y="477.33752"
+                 id="tspan40">Mass Spectra Data</tspan></text>
+            <rect
+               style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+               id="rect40"
+               width="40.392944"
+               height="0.060975388"
+               x="433.05286"
+               y="485.33618"
+               ry="0"
+               rx="0" />
+          </g>
+          <g
+             id="g54"
+             inkscape:label="Expected m/z peaks Data"
+             transform="translate(93.908074,60.690263)"
+             style="display:inline">
+            <rect
+               style="fill:#00ff00;fill-opacity:0.0470588;stroke:#000000;stroke-width:0"
+               id="rect41"
+               width="98.243164"
+               height="62.008717"
+               x="404.689"
+               y="466.18948"
+               ry="12.651263"
+               rx="11.639132" />
+            <text
+               xml:space="preserve"
+               style="font-size:4.93889px;line-height:1.1;text-align:center;text-anchor:middle;display:inline;fill:#1a1a1a;stroke-width:0.265358"
+               x="455.32947"
+               y="496.11743"
+               id="text49"
+               inkscape:label="text3-1"
+               transform="scale(0.99708006,1.0029285)"><tspan
+                 sodipodi:role="line"
+                 style="font-size:4.93889px;line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+                 x="455.32947"
+                 y="496.11743"
+                 id="tspan41">Possible Complex 1 : {peak 1 ...},</tspan><tspan
+                 sodipodi:role="line"
+                 style="font-size:4.93889px;line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+                 x="455.32947"
+                 y="501.5502"
+                 id="tspan42">.</tspan><tspan
+                 sodipodi:role="line"
+                 style="font-size:4.93889px;line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+                 x="455.32947"
+                 y="506.983"
+                 id="tspan43">.</tspan><tspan
+                 sodipodi:role="line"
+                 style="font-size:4.93889px;line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+                 x="455.32947"
+                 y="512.41577"
+                 id="tspan44">.</tspan><tspan
+                 sodipodi:role="line"
+                 style="font-size:4.93889px;line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+                 x="455.32947"
+                 y="517.84857"
+                 id="tspan49"> Possible Complex 4 : {peak 1 ...}</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-size:4.93889px;line-height:1.1;text-align:center;text-anchor:middle;display:inline;fill:#1a1a1a;stroke-width:0.265358"
+               x="455.11182"
+               y="477.33752"
+               id="text54"
+               inkscape:label="text3-1"
+               transform="scale(0.99708006,1.0029285)"><tspan
+                 sodipodi:role="line"
+                 style="font-size:4.93889px;line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+                 x="455.11182"
+                 y="477.33752"
+                 id="tspan54">Expected m/z peaks Data</tspan></text>
+            <rect
+               style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+               id="rect54"
+               width="40.392944"
+               height="0.060975388"
+               x="433.61411"
+               y="485.33618"
+               ry="0"
+               rx="0" />
+          </g>
+        </g>
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+           id="rect19-6-6"
+           width="22.939085"
+           height="0.38864464"
+           x="2784.9055"
+           y="13.912725"
+           ry="0"
+           rx="0"
+           transform="scale(1,-1)" />
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+           id="rect19-6-7"
+           width="7.784903"
+           height="0.38864464"
+           x="2796.5051"
+           y="-45.883106"
+           ry="0"
+           rx="0"
+           transform="scale(1,-1)" />
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+           id="rect95"
+           width="58.03931"
+           height="0.38864464"
+           x="-103.92242"
+           y="2803.9014"
+           ry="0"
+           rx="0"
+           transform="rotate(-90)" />
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+           id="rect96"
+           width="125.40492"
+           height="0.38864464"
+           x="-111.10357"
+           y="2807.4561"
+           ry="0"
+           rx="0"
+           transform="rotate(-90)" />
+      </g>
+      <g
+         id="g98"
+         inkscape:label="decision Maker Chip"
+         transform="translate(7.0352038)">
+        <g
+           id="g80"
+           inkscape:label="DecisionMaker"
+           transform="translate(395.73167,172.79773)">
+          <rect
+             style="fill:#0000ff;fill-opacity:0.0470588;stroke:#000000;stroke-width:0"
+             id="rect66"
+             width="76.353798"
+             height="36.130569"
+             x="2274.5928"
+             y="-30.096743"
+             ry="8.3186893"
+             rx="5.9032974" />
+          <text
+             xml:space="preserve"
+             style="font-size:6.3686px;line-height:1.1;text-align:center;text-anchor:middle;display:inline;fill:#1a1a1a;stroke-width:0.265358"
+             x="2319.2192"
+             y="-14.402933"
+             id="text70"
+             inkscape:label="text3-1"
+             transform="scale(0.99708006,1.0029285)"><tspan
+               sodipodi:role="line"
+               style="line-height:1.1;fill:#1a1a1a;stroke-width:0.265358"
+               x="2319.2192"
+               y="-14.402933"
+               id="tspan70">Decision Maker</tspan></text>
+          <rect
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+             id="rect70"
+             width="40.392944"
+             height="0.060975388"
+             x="2292.5732"
+             y="-8.5994406"
+             ry="0"
+             rx="0" />
+          <g
+             id="g76"
+             inkscape:label="inRepr"
+             transform="rotate(90,2304.2026,-2.0092011)">
+            <circle
+               style="display:inline;fill:#0000ff;fill-opacity:0;stroke:#000000;stroke-width:1.1;stroke-dasharray:none;stroke-opacity:1"
+               id="circle70"
+               cx="2268.6875"
+               cy="-34.297958"
+               r="4.826333" />
+            <circle
+               style="display:inline;fill:#0000ff;fill-opacity:0;stroke:#000000;stroke-width:1.1;stroke-dasharray:none;stroke-opacity:1"
+               id="circle71"
+               cx="2268.6875"
+               cy="13.145461"
+               r="4.826333" />
+            <circle
+               style="display:inline;fill:#0000ff;fill-opacity:0;stroke:#000000;stroke-width:1.1;stroke-dasharray:none;stroke-opacity:1"
+               id="circle72"
+               cx="2265.2896"
+               cy="-10.57628"
+               r="4.826333" />
+            <circle
+               style="display:inline;fill:#0000ff;fill-opacity:0;stroke:#000000;stroke-width:1.1;stroke-dasharray:none;stroke-opacity:1"
+               id="circle73"
+               cx="2270.947"
+               cy="1.6714005"
+               r="4.826333" />
+            <circle
+               style="display:inline;fill:#0000ff;fill-opacity:0;stroke:#000000;stroke-width:1.1;stroke-dasharray:none;stroke-opacity:1"
+               id="circle74"
+               cx="2270.947"
+               cy="-22.823961"
+               r="4.826333" />
+            <rect
+               style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.240725;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
+               id="rect74"
+               width="1.1701953"
+               height="9.6766415"
+               x="-11.161454"
+               y="-2279.6689"
+               transform="rotate(90)" />
+            <rect
+               style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.369521;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
+               id="rect75"
+               width="1.0413996"
+               height="25.621283"
+               x="-2215.3445"
+               y="-539.96259"
+               transform="rotate(166.04418)" />
+            <rect
+               style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.369521;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
+               id="rect76"
+               width="1.0413996"
+               height="25.621283"
+               x="-2210.2871"
+               y="-559.82318"
+               transform="matrix(-0.97048198,-0.24117364,-0.24117364,0.97048198,0,0)" />
+          </g>
+          <g
+             id="g79"
+             transform="rotate(90,1939.032,1328.1541)"
+             inkscape:label="outRepr"
+             style="display:inline">
+            <circle
+               style="fill:#0000ff;fill-opacity:0;stroke:#000000;stroke-width:1.1;stroke-dasharray:none;stroke-opacity:1"
+               id="circle76"
+               cx="623.03021"
+               cy="956.23218"
+               r="4.826333" />
+            <g
+               id="g78">
+              <rect
+                 style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.709354;stroke-dasharray:none"
+                 id="rect77"
+                 width="21.085732"
+                 height="0.55710191"
+                 x="-958.49084"
+                 y="-893.47748"
+                 ry="0"
+                 rx="0"
+                 transform="matrix(0.29148536,-0.95657529,-0.99779834,-0.06632103,0,0)" />
+              <rect
+                 style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.709354;stroke-dasharray:none"
+                 id="rect78"
+                 width="21.085732"
+                 height="0.55710191"
+                 x="1001.1121"
+                 y="-321.16168"
+                 ry="0"
+                 rx="0"
+                 transform="matrix(0.29148536,0.95657529,-0.99779834,0.06632103,0,0)" />
+            </g>
+          </g>
+        </g>
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+           id="rect84-0"
+           width="18.996077"
+           height="0.38864464"
+           x="-130.54041"
+           y="-2684.9739"
+           ry="0"
+           rx="0"
+           transform="matrix(0,-1,-1,0,0,0)" />
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+           id="rect84-4"
+           width="28.600262"
+           height="0.38864464"
+           x="-132.96704"
+           y="-2696.448"
+           ry="0"
+           rx="0"
+           transform="matrix(0,-1,-1,0,0,0)" />
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+           id="rect84-1"
+           width="29.413963"
+           height="0.38864464"
+           x="-126.60375"
+           y="-2708.6956"
+           ry="0"
+           rx="0"
+           transform="matrix(0,-1,-1,0,0,0)" />
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+           id="rect84-42"
+           width="35.476643"
+           height="0.38864464"
+           x="-132.67314"
+           y="-2720.9434"
+           ry="0"
+           rx="0"
+           transform="matrix(0,-1,-1,0,0,0)" />
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+           id="rect84-2"
+           width="26.001251"
+           height="0.38864464"
+           x="-130.36935"
+           y="-2732.4172"
+           ry="0"
+           rx="0"
+           transform="matrix(0,-1,-1,0,0,0)" />
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+           id="rect84-44"
+           width="98.705009"
+           height="0.38864464"
+           x="2609.9885"
+           y="-97.57814"
+           ry="0"
+           rx="0"
+           transform="scale(1,-1)" />
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+           id="rect84-44-4"
+           width="90.442314"
+           height="0.38864464"
+           x="2606.0012"
+           y="-104.75452"
+           ry="0"
+           rx="0"
+           transform="scale(1,-1)" />
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+           id="rect84-44-2"
+           width="82.839279"
+           height="0.38864464"
+           x="2602.1277"
+           y="-111.93091"
+           ry="0"
+           rx="0"
+           transform="scale(1,-1)" />
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+           id="rect97"
+           width="76.700996"
+           height="0.38864464"
+           x="2720.5557"
+           y="-97.57814"
+           ry="0"
+           rx="0"
+           transform="scale(1,-1)" />
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0"
+           id="rect98"
+           width="68.780037"
+           height="0.38864464"
+           x="2732.0276"
+           y="-104.75452"
+           ry="0"
+           rx="0"
+           transform="scale(1,-1)" />
+      </g>
+    </g>
+  </g>
+</svg>
