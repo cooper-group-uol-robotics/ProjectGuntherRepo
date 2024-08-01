@@ -1,0 +1,57 @@
+$$ Version: 01.00
+$$ Acquired Name: 245
+$$ Acquired Date: 22-May-2024
+$$ Acquired Time: 15:05:26
+$$ Job Code: batch5
+$$ Task Code: 
+$$ User Name: 
+$$ Instrument: ACQ-SQD2#LCB0545
+$$ Conditions: 
+$$ Laboratory Name: 
+$$ Sample Description: 245
+$$ Solvent Delay: 0.0000
+$$ Submitter: 
+$$ SampleID: 
+$$ Bottle Number: 1:11
+$$ Plate Desc: 01TL,XY,SD,1: 6,2: 8,3:140.0,4:140.0,5:  0.0,6:  0.0,7:O,8:O,9:1280.0,10:860.0,11:320.0,12:120.0,13:150.0,14: 83.0
+$$ Cal MS1 Static: 7.684383538686908e-2,1.000460447004249e0,-7.197607502449584e-8,2.825661010252635e-11,-5.793506438470555e-15,T0
+$$ Cal MS2 Static: ,T0
+$$ Associated Datafile: 
+$$ Cal MS1 Static Params: 20,3023,0.00,5.00,11.6,14.4,0.8,Naics,STAT
+$$ Cal MS1 Dynamic Params: 10,3072,30.6200,-1.00,11.6,14.4,0.8,Naics,SCN
+$$ Cal MS1 Fast Params: 10,3072,0.2041,-1.00,11.6,14.4,0.8,Naics,FAST
+$$ Cal MS2 Static Params: 0,0,0.00,0.00,0.0,0.0,0.0,,
+$$ Cal MS2 Dynamic Params: 0,0,0.0000,0.00,0.0,0.0,0.0,,
+$$ Cal MS2 Fast Params: 0,0,0.0000,0.00,0.0,0.0,0.0,,
+$$ Cal Time: 15:41
+$$ Cal Date: 09/26/23
+$$ Analog Channel 1 Offset: 0.000
+$$ Analog Channel 2 Offset: 0.000
+$$ Analog Channel 3 Offset: 0.000
+$$ Analog Channel 4 Offset: 0.000
+$$ Mux Stream: 0
+$$ Cal Temperature: 0.0000000
+$$ Inlet Method: D:\Projects\Gunther.PRO\ACQUDB\SupraChemCage
+$$ Inlet Prerun Method: 
+$$ Inlet Postrun Method: 
+$$ Inlet Switch Method: 
+$$ HPLC Method: 
+$$ MS Method: D:\Projects\Gunther.PRO\ACQUDB\SupraChemCage.EXP
+$$ Tune Method: D:\Projects\Gunther.PRO\ACQUDB\SupraChemCage.IPR
+$$ FractionLynx Method: 
+$$ Spare1: 
+$$ Spare2: 
+$$ Spare3: 
+$$ Spare4: 
+$$ Spare5: 
+$$ Reinjections: 0
+$$ PIC MRM Function:  
+$$ PIC Scan Function: 0,0
+$$ ScanWave Func List: 
+$$ Calibration File: C:\MassLynx\IntelliStart\Results\Unit Resolution\Calibration_20230926.cal
+$$ Cal Function 1: 7.609393337025471e-2,9.998751634923384e-1,4.546067594288794e-7,-1.755722762144841e-10,2.273757099193098e-14,T0
+$$ Cal Function 2: 7.268533972442786e-2,9.995829396367480e-1,7.185492549475010e-7,-2.748182669777588e-10,3.603053583671104e-14,T0
+$$ Cal StdDev Function 1: 4.937995040799907e-2
+$$ Cal StdDev Function 2: 6.036782133970053e-2
+$$ Cal CoVar 1: 0.000000000000000e0,0.000000000000000e0,0.000000000000000e0,0.000000000000000e0,0.000000000000000e0,0.000000000000000e0,0.000000000000000e0,0.000000000000000e0,0.000000000000000e0,0.000000000000000e0,0.000000000000000e0,0.000000000000000e0,0.000000000000000e0,0.000000000000000e0,0.000000000000000e0
+$$ Cal CoVar 2: 0.000000000000000e0,0.000000000000000e0,0.000000000000000e0,0.000000000000000e0,0.000000000000000e0,0.000000000000000e0,0.000000000000000e0,0.000000000000000e0,0.000000000000000e0,0.000000000000000e0,0.000000000000000e0,0.000000000000000e0,0.000000000000000e0,0.000000000000000e0,0.000000000000000e0
