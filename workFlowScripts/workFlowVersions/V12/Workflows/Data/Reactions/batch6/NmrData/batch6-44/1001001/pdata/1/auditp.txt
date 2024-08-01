@@ -1,0 +1,35 @@
+##TITLE= Audit trail, TopSpin 4.3.0
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ C:\NMRData\EB\projectGunther\FullRuns\FullRun2\2024-05-25-batch6-NMR/batch6-44/1001001/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2024-05-25T19:52:50.154+0000>,<4CE1161FJM\nmrsu>,<4CE1161FJM>,<go4>,<TopSpin 4.3.0>,
+      <acquisition in progress>)
+$$ C:/NMRData/EB/projectGunther/FullRuns/FullRun2/2024-05-25-batch6-NMR/batch6-44/1001001/audita.txt
+(   2,<2024-05-25T19:52:55.183+0000>,<4CE1161FJM\nmrsu>,<4CE1161FJM>,<go4>,<TopSpin 4.3.0>,
+      <created by zg on 'Fourier' (4CE1161FJM) by user '4CE1161FJM\nmrsu'
+       on data set with UUID '5da58a6e-1ad0-11ef-8f86-0000ad371d11'
+       started at 2024-05-25 19:52:50.154 +0000, POWCHK disabled, PULCHK disabled,
+       completed at 2024-05-25 19:52:55.175 +0000
+       configuration hash MD5:
+       63 31 42 D0 10 AE A8 AF 9C 7E E2 52 A7 E2 89 DB
+       double data hash MD5: 6450
+       17 13 71 57 5B ED CB 05 04 82 E0 26 DC DF C8 F4>)
+(   3,<2024-05-25T20:52:51.928+0100>,<nmrsu>,<4CE1161FJM>,<proc1d>,<TopSpin 4.3.0>,
+      <Start of raw data processing
+       efp LB = 0.3 FT_mod = 6 PKNL = 1 PHC0 = 0 PHC1 = 0 SI = 64K 
+       data hash MD5: 64K
+       6C 49 2A A6 00 9D 9B F3 64 48 57 40 B5 1F CE 50>)
+(   4,<2024-05-25T20:52:52.662+0100>,<nmrsu>,<4CE1161FJM>,<proc1d>,<TopSpin 4.3.0>,
+      <apk0 
+       data hash MD5: 64K
+       C4 50 1B 6F 5A DE F7 CF BC A1 58 6A B1 40 C6 AA>)
+(   5,<2024-05-25T20:52:52.756+0100>,<nmrsu>,<4CE1161FJM>,<peak>,<TopSpin 4.3.0>,
+      <1D Peak picking
+       data hash MD5: 64K
+       C4 50 1B 6F 5A DE F7 CF BC A1 58 6A B1 40 C6 AA>)
+##END=
+
+$$ hash MD5
+$$ C2 EF D0 57 3A 9D 21 25 86 82 3E C5 4B 7A 79 0D

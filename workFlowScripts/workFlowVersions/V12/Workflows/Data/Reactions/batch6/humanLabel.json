@@ -1,0 +1,38 @@
+{
+    "batch6-01": {
+        "label": 0
+    },
+    "batch6-02": {
+        "label": 1
+    },
+    "batch6-03": {
+        "label": 1
+    },
+    "batch6-04": {
+        "label": 4
+    },
+    "batch6-05": {
+        "label": 4
+    },
+    "batch6-06": {
+        "label": 1
+    },
+    "batch6-07": {
+        "label": 1
+    },
+    "batch6-08": {
+        "label": 1
+    },
+    "batch6-09": {
+        "label": 1
+    },
+    "batch6-10": {
+        "label": 4
+    },
+    "batch6-11": {
+        "label": 4
+    },
+    "batch6-12": {
+        "label": 1
+    }
+}

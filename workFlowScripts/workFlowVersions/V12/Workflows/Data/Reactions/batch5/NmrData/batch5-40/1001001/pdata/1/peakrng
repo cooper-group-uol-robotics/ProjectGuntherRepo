@@ -1,0 +1,4 @@
+P    #regions in PPM
+# 2024-05-23 12:29:27 +0100  nmrsu@4CE1161FJM
+# low field   high field   mi   maxi
+  1000.0  -1000.0  0.008  1.500  # for region 1
