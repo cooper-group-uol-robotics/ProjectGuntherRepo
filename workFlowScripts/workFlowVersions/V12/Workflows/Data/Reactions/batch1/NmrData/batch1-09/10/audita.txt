@@ -1,0 +1,29 @@
+##TITLE= Audit trail, TopSpin 4.4.0
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH & Co. KG
+##OWNER= emanuele
+$$ C:/Users/emanuele/Desktop/PlacementEssay/PlacementEssay/backup/ChemspeedPlatformAllVersions/V12/Workflows/Data/Reactions/batch1/NmrData/batch1-09/10/audita.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2024-02-29T11:33:43.336+0000>,<nmrsu>,<4CE1161FJM>,<cprserver>,<TopSpin 4.3.0>,
+      <changed parameter F1 SOLVENT to CH3CN>)
+(   2,<2024-02-29T11:33:44.727+0000>,<nmrsu>,<4CE1161FJM>,<cprserver>,<TopSpin 4.3.0>,
+      <changed parameter F1 NS to 64>)
+(   3,<2024-02-29T11:34:15.022+0000>,<4CE1161FJM\nmrsu>,<4CE1161FJM>,<go4>,<TopSpin 4.3.0>,
+      <acquisition in progress>)
+(   4,<2024-02-29T11:41:38.724+0000>,<4CE1161FJM\nmrsu>,<4CE1161FJM>,<go4>,<TopSpin 4.3.0>,
+      <created by zg on 'Fourier' (4CE1161FJM) by user '4CE1161FJM\nmrsu'
+       on data set with UUID '737924a4-d6f6-11ee-b234-0000ad371d11'
+       started at 2024-02-29 11:34:15.022 +0000, POWCHK disabled, PULCHK disabled,
+       completed at 2024-02-29 11:41:38.717 +0000
+       configuration hash MD5:
+       63 31 42 D0 10 AE A8 AF 9C 7E E2 52 A7 E2 89 DB
+       double data hash MD5: 8K
+       B7 D4 BC 41 6F 9E 8E 05 69 0A 6A 97 47 92 B1 40>)
+(   5,<2024-06-28T11:10:47.918+0100>,<LIVAD\emanuele>,<MWS-1048587>,<dirdata>,<TopSpin 4.4.0>,
+      <wrpa from 1 10 "batch1-09" "C:\Users\emanuele\Desktop\PlacementEssay\PlacementEssay\backup\ChemspeedPlatformAllVersions\V12\Workflows\Data\RawData\NmrData\2024-02-29-batch1-NMR" overriding existing data
+       double data hash MD5: 8K
+       B7 D4 BC 41 6F 9E 8E 05 69 0A 6A 97 47 92 B1 40>)
+##END=
+
+$$ hash MD5
+$$ 6E 8F 41 0A 4B 6E 0B 35 7C EF 12 E8 F9 86 B5 1E

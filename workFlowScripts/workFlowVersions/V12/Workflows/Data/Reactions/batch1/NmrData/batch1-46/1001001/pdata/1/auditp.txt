@@ -1,0 +1,40 @@
+##TITLE= Audit trail, TopSpin 4.3.0
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ C:\NMRData\EB\projectGunther\2024-02-29-batch1-NMR/batch1-46/1001001/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2024-02-29T19:13:51.703+0000>,<4CE1161FJM\nmrsu>,<4CE1161FJM>,<go4>,<TopSpin 4.3.0>,
+      <acquisition in progress>)
+$$ C:/NMRData/EB/projectGunther/2024-02-29-batch1-NMR/batch1-46/1001001/audita.txt
+(   2,<2024-02-29T19:13:57.098+0000>,<4CE1161FJM\nmrsu>,<4CE1161FJM>,<go4>,<TopSpin 4.3.0>,
+      <created by zg on 'Fourier' (4CE1161FJM) by user '4CE1161FJM\nmrsu'
+       on data set with UUID 'ac4a6a5a-d736-11ee-b52f-0000ad371d11'
+       started at 2024-02-29 19:13:51.703 +0000, POWCHK disabled, PULCHK disabled,
+       completed at 2024-02-29 19:13:57.091 +0000
+       configuration hash MD5:
+       63 31 42 D0 10 AE A8 AF 9C 7E E2 52 A7 E2 89 DB
+       double data hash MD5: 6450
+       AA 42 52 58 6A 23 E4 6D 3C 17 A5 8E 6B 17 9F E0>)
+(   3,<2024-02-29T19:13:58.467+0000>,<nmrsu>,<4CE1161FJM>,<proc1d>,<TopSpin 4.3.0>,
+      <Start of raw data processing
+       efp LB = 0.3 FT_mod = 6 PKNL = 1 PHC0 = 0 PHC1 = 0 SI = 64K 
+       data hash MD5: 64K
+       D8 16 DA 5B 9C 33 54 36 D5 37 8C 16 F0 FE 77 56>)
+(   4,<2024-02-29T19:13:59.201+0000>,<nmrsu>,<4CE1161FJM>,<proc1d>,<TopSpin 4.3.0>,
+      <apk0 
+       data hash MD5: 64K
+       BA 34 E2 C8 B6 EF A2 FD B2 FA E7 46 4E C1 D8 C2>)
+(   5,<2024-02-29T19:13:59.296+0000>,<nmrsu>,<4CE1161FJM>,<peak>,<TopSpin 4.3.0>,
+      <1D Peak picking
+       data hash MD5: 64K
+       BA 34 E2 C8 B6 EF A2 FD B2 FA E7 46 4E C1 D8 C2>)
+$$ C:\Users\emanuele\Desktop\PlacementEssay\PlacementEssay\backup\ChemspeedPlatformAllVersions\V12\Workflows\Data\Reactions\batch1\NmrData/batch1-46/1001001//pdata/1/auditp.txt
+(   6,<2024-06-26T14:05:18.772+0100>,<LIVAD\emanuele>,<MWS-1048587>,<sref>,<TopSpin 4.4.0>,
+      <sref
+       data hash MD5: 64K
+       BA 34 E2 C8 B6 EF A2 FD B2 FA E7 46 4E C1 D8 C2>)
+##END=
+
+$$ hash MD5
+$$ 44 52 13 C6 CE 91 32 71 38 60 10 F0 E8 54 53 A7

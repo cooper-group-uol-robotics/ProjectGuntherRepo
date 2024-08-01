@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList>
+  <PeakList1D>
+    <PeakList1DHeader creator="emanuele" date="2024-07-23T21:48:31.630+01:00" expNo="10" name="batch1-41" owner="" procNo="1" source="C:\Users\emanuele\Desktop\PlacementEssay\PlacementEssay\backup\ChemspeedPlatformAllVersions\V12\Workflows\Data\Reactions\batch1\NmrData">
+      <PeakPickDetails>F1=12.499880ppm, F2=-3.099771ppm, MI=0.00cm, MAXI=10000.00cm, PC=5.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="8.688117" intensity="2.529586e+00" type="0"/>
+    <Peak1D F1="8.582141" intensity="2.638889e+00" type="0"/>
+    <Peak1D F1="7.021574" intensity="1.561625e+00" type="0"/>
+    <Peak1D F1="6.913539" intensity="2.461215e+00" type="0"/>
+    <Peak1D F1="6.305929" intensity="2.048580e+00" type="0"/>
+    <Peak1D F1="6.197388" intensity="1.782281e+00" type="0"/>
+    <Peak1D F1="2.326989" intensity="6.536415e-01" type="0"/>
+    <Peak1D F1="2.123652" intensity="2.000000e+02" type="0"/>
+    <Peak1D F1="0.242796" intensity="4.106444e+00" type="0"/>
+  </PeakList1D>
+</PeakList>
