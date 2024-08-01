@@ -1,0 +1,505 @@
+{
+    "100": {
+        "criteria1and2_pass": 1,
+        "criteria3_pass": 1,
+        "criteria1and2_number_of_hits": 2,
+        "criteria3_number_of_ions_hits": 2,
+        "label": 1,
+        "mz_peaks": [
+            {
+                "mz_value": 258.3344421386719,
+                "mode": "ES+",
+                "formula": "metal_(6)_carbonyl_(18)_amine_(9)",
+                "charge": "16",
+                "mz_expected": 257.96,
+                "time": 0.07703333333333333
+            },
+            {
+                "mz_value": 665.244140625,
+                "mode": "ES+",
+                "formula": "metal_(6)_carbonyl_(18)_amine_(9)",
+                "charge": "8",
+                "mz_expected": 664.88,
+                "time": 0.07703333333333333
+            }
+        ]
+    },
+    "101": {
+        "criteria1and2_pass": 0,
+        "criteria3_pass": 0,
+        "criteria1and2_number_of_hits": 0,
+        "criteria3_number_of_ions_hits": 0,
+        "label": 0,
+        "mz_peaks": []
+    },
+    "102": {
+        "criteria1and2_pass": 0,
+        "criteria3_pass": 0,
+        "criteria1and2_number_of_hits": 0,
+        "criteria3_number_of_ions_hits": 0,
+        "label": 0,
+        "mz_peaks": []
+    },
+    "103": {
+        "criteria1and2_pass": 0,
+        "criteria3_pass": 0,
+        "criteria1and2_number_of_hits": 0,
+        "criteria3_number_of_ions_hits": 0,
+        "label": 0,
+        "mz_peaks": []
+    },
+    "104": {
+        "criteria1and2_pass": 1,
+        "criteria3_pass": 0,
+        "criteria1and2_number_of_hits": 1,
+        "criteria3_number_of_ions_hits": 0,
+        "label": 0,
+        "mz_peaks": []
+    },
+    "105": {
+        "criteria1and2_pass": 0,
+        "criteria3_pass": 0,
+        "criteria1and2_number_of_hits": 0,
+        "criteria3_number_of_ions_hits": 0,
+        "label": 0,
+        "mz_peaks": []
+    },
+    "106": {
+        "criteria1and2_pass": 1,
+        "criteria3_pass": 1,
+        "criteria1and2_number_of_hits": 3,
+        "criteria3_number_of_ions_hits": 1,
+        "label": 1,
+        "mz_peaks": [
+            {
+                "mz_value": 512.4188842773438,
+                "mode": "ES+",
+                "formula": "metal_(2)_carbonyl_(4)_amine_(2)",
+                "charge": "2",
+                "mz_expected": 512.11,
+                "time": 0.07703333333333333
+            }
+        ]
+    },
+    "107": {
+        "criteria1and2_pass": 1,
+        "criteria3_pass": 1,
+        "criteria1and2_number_of_hits": 3,
+        "criteria3_number_of_ions_hits": 1,
+        "label": 1,
+        "mz_peaks": [
+            {
+                "mz_value": 462.0043029785156,
+                "mode": "ES+",
+                "formula": "metal_(2)_carbonyl_(4)_amine_(2)",
+                "charge": "2",
+                "mz_expected": 462.11,
+                "time": 0.07703333333333333
+            }
+        ]
+    },
+    "108": {
+        "criteria1and2_pass": 0,
+        "criteria3_pass": 0,
+        "criteria1and2_number_of_hits": 0,
+        "criteria3_number_of_ions_hits": 0,
+        "label": 0,
+        "mz_peaks": []
+    },
+    "109": {
+        "criteria1and2_pass": 0,
+        "criteria3_pass": 0,
+        "criteria1and2_number_of_hits": 0,
+        "criteria3_number_of_ions_hits": 0,
+        "label": 0,
+        "mz_peaks": []
+    },
+    "110": {
+        "criteria1and2_pass": 1,
+        "criteria3_pass": 1,
+        "criteria1and2_number_of_hits": 3,
+        "criteria3_number_of_ions_hits": 1,
+        "label": 1,
+        "mz_peaks": [
+            {
+                "mz_value": 494.263427734375,
+                "mode": "ES+",
+                "formula": "metal_(2)_carbonyl_(4)_amine_(2)",
+                "charge": "2",
+                "mz_expected": 494.1,
+                "time": 0.07703333333333333
+            }
+        ]
+    },
+    "111": {
+        "criteria1and2_pass": 1,
+        "criteria3_pass": 1,
+        "criteria1and2_number_of_hits": 3,
+        "criteria3_number_of_ions_hits": 1,
+        "label": 1,
+        "mz_peaks": [
+            {
+                "mz_value": 546.3291015625,
+                "mode": "ES+",
+                "formula": "metal_(2)_carbonyl_(4)_amine_(2)",
+                "charge": "2",
+                "mz_expected": 546.07,
+                "time": 0.08603333333333334
+            }
+        ]
+    },
+    "113": {
+        "criteria1and2_pass": 1,
+        "criteria3_pass": 1,
+        "criteria1and2_number_of_hits": 3,
+        "criteria3_number_of_ions_hits": 1,
+        "label": 1,
+        "mz_peaks": [
+            {
+                "mz_value": 662.4680786132812,
+                "mode": "ES+",
+                "formula": "metal_(2)_carbonyl_(4)_amine_(2)",
+                "charge": "2",
+                "mz_expected": 662.15,
+                "time": 0.07703333333333333
+            }
+        ]
+    },
+    "114": {
+        "criteria1and2_pass": 0,
+        "criteria3_pass": 0,
+        "criteria1and2_number_of_hits": 0,
+        "criteria3_number_of_ions_hits": 0,
+        "label": 0,
+        "mz_peaks": []
+    },
+    "115": {
+        "criteria1and2_pass": 0,
+        "criteria3_pass": 0,
+        "criteria1and2_number_of_hits": 0,
+        "criteria3_number_of_ions_hits": 0,
+        "label": 0,
+        "mz_peaks": []
+    },
+    "116": {
+        "criteria1and2_pass": 0,
+        "criteria3_pass": 0,
+        "criteria1and2_number_of_hits": 0,
+        "criteria3_number_of_ions_hits": 0,
+        "label": 0,
+        "mz_peaks": []
+    },
+    "117": {
+        "criteria1and2_pass": 1,
+        "criteria3_pass": 1,
+        "criteria1and2_number_of_hits": 3,
+        "criteria3_number_of_ions_hits": 1,
+        "label": 1,
+        "mz_peaks": [
+            {
+                "mz_value": 462.15435791015625,
+                "mode": "ES+",
+                "formula": "metal_(2)_carbonyl_(4)_amine_(2)",
+                "charge": "2",
+                "mz_expected": 462.11,
+                "time": 0.08603333333333334
+            }
+        ]
+    },
+    "118": {
+        "criteria1and2_pass": 0,
+        "criteria3_pass": 0,
+        "criteria1and2_number_of_hits": 0,
+        "criteria3_number_of_ions_hits": 0,
+        "label": 0,
+        "mz_peaks": []
+    },
+    "119": {
+        "criteria1and2_pass": 0,
+        "criteria3_pass": 0,
+        "criteria1and2_number_of_hits": 0,
+        "criteria3_number_of_ions_hits": 0,
+        "label": 0,
+        "mz_peaks": []
+    },
+    "120": {
+        "criteria1and2_pass": 0,
+        "criteria3_pass": 0,
+        "criteria1and2_number_of_hits": 0,
+        "criteria3_number_of_ions_hits": 0,
+        "label": 0,
+        "mz_peaks": []
+    },
+    "123": {
+        "criteria1and2_pass": 1,
+        "criteria3_pass": 1,
+        "criteria1and2_number_of_hits": 3,
+        "criteria3_number_of_ions_hits": 1,
+        "label": 1,
+        "mz_peaks": [
+            {
+                "mz_value": 450.0760803222656,
+                "mode": "ES+",
+                "formula": "metal_(2)_carbonyl_(4)_amine_(2)",
+                "charge": "2",
+                "mz_expected": 450.09,
+                "time": 0.07703333333333333
+            }
+        ]
+    },
+    "124": {
+        "criteria1and2_pass": 0,
+        "criteria3_pass": 0,
+        "criteria1and2_number_of_hits": 0,
+        "criteria3_number_of_ions_hits": 0,
+        "label": 0,
+        "mz_peaks": []
+    },
+    "126": {
+        "criteria1and2_pass": 0,
+        "criteria3_pass": 0,
+        "criteria1and2_number_of_hits": 0,
+        "criteria3_number_of_ions_hits": 0,
+        "label": 0,
+        "mz_peaks": []
+    },
+    "127": {
+        "criteria1and2_pass": 1,
+        "criteria3_pass": 1,
+        "criteria1and2_number_of_hits": 3,
+        "criteria3_number_of_ions_hits": 1,
+        "label": 1,
+        "mz_peaks": [
+            {
+                "mz_value": 526.0729370117188,
+                "mode": "ES+",
+                "formula": "metal_(2)_carbonyl_(4)_amine_(2)",
+                "charge": "2",
+                "mz_expected": 526.12,
+                "time": 0.07703333333333333
+            }
+        ]
+    },
+    "128": {
+        "criteria1and2_pass": 0,
+        "criteria3_pass": 0,
+        "criteria1and2_number_of_hits": 0,
+        "criteria3_number_of_ions_hits": 0,
+        "label": 0,
+        "mz_peaks": []
+    },
+    "129": {
+        "criteria1and2_pass": 0,
+        "criteria3_pass": 0,
+        "criteria1and2_number_of_hits": 0,
+        "criteria3_number_of_ions_hits": 0,
+        "label": 0,
+        "mz_peaks": []
+    },
+    "131": {
+        "criteria1and2_pass": 1,
+        "criteria3_pass": 1,
+        "criteria1and2_number_of_hits": 3,
+        "criteria3_number_of_ions_hits": 1,
+        "label": 1,
+        "mz_peaks": [
+            {
+                "mz_value": 526.14794921875,
+                "mode": "ES+",
+                "formula": "metal_(2)_carbonyl_(4)_amine_(2)",
+                "charge": "2",
+                "mz_expected": 526.12,
+                "time": 0.07703333333333333
+            }
+        ]
+    },
+    "132": {
+        "criteria1and2_pass": 0,
+        "criteria3_pass": 0,
+        "criteria1and2_number_of_hits": 0,
+        "criteria3_number_of_ions_hits": 0,
+        "label": 0,
+        "mz_peaks": []
+    },
+    "133": {
+        "criteria1and2_pass": 1,
+        "criteria3_pass": 1,
+        "criteria1and2_number_of_hits": 3,
+        "criteria3_number_of_ions_hits": 1,
+        "label": 1,
+        "mz_peaks": [
+            {
+                "mz_value": 504.0913391113281,
+                "mode": "ES+",
+                "formula": "metal_(2)_carbonyl_(4)_amine_(2)",
+                "charge": "2",
+                "mz_expected": 504.11,
+                "time": 0.07703333333333333
+            }
+        ]
+    },
+    "134": {
+        "criteria1and2_pass": 0,
+        "criteria3_pass": 0,
+        "criteria1and2_number_of_hits": 0,
+        "criteria3_number_of_ions_hits": 0,
+        "label": 0,
+        "mz_peaks": []
+    },
+    "135": {
+        "criteria1and2_pass": 1,
+        "criteria3_pass": 1,
+        "criteria1and2_number_of_hits": 3,
+        "criteria3_number_of_ions_hits": 1,
+        "label": 1,
+        "mz_peaks": [
+            {
+                "mz_value": 474.2326965332031,
+                "mode": "ES+",
+                "formula": "metal_(2)_carbonyl_(4)_amine_(2)",
+                "charge": "2",
+                "mz_expected": 474.02,
+                "time": 0.07703333333333333
+            }
+        ]
+    },
+    "136": {
+        "criteria1and2_pass": 0,
+        "criteria3_pass": 0,
+        "criteria1and2_number_of_hits": 0,
+        "criteria3_number_of_ions_hits": 0,
+        "label": 0,
+        "mz_peaks": []
+    },
+    "137": {
+        "criteria1and2_pass": 0,
+        "criteria3_pass": 0,
+        "criteria1and2_number_of_hits": 0,
+        "criteria3_number_of_ions_hits": 0,
+        "label": 0,
+        "mz_peaks": []
+    },
+    "138": {
+        "criteria1and2_pass": 0,
+        "criteria3_pass": 0,
+        "criteria1and2_number_of_hits": 0,
+        "criteria3_number_of_ions_hits": 0,
+        "label": 0,
+        "mz_peaks": []
+    },
+    "139": {
+        "criteria1and2_pass": 1,
+        "criteria3_pass": 1,
+        "criteria1and2_number_of_hits": 3,
+        "criteria3_number_of_ions_hits": 1,
+        "label": 1,
+        "mz_peaks": [
+            {
+                "mz_value": 462.2294006347656,
+                "mode": "ES+",
+                "formula": "metal_(2)_carbonyl_(4)_amine_(2)",
+                "charge": "2",
+                "mz_expected": 462.0,
+                "time": 0.07703333333333333
+            }
+        ]
+    },
+    "140": {
+        "criteria1and2_pass": 1,
+        "criteria3_pass": 1,
+        "criteria1and2_number_of_hits": 4,
+        "criteria3_number_of_ions_hits": 2,
+        "label": 1,
+        "mz_peaks": [
+            {
+                "mz_value": 538.0015258789062,
+                "mode": "ES+",
+                "formula": "metal_(2)_carbonyl_(4)_amine_(2)",
+                "charge": "2",
+                "mz_expected": 538.03,
+                "time": 0.07703333333333333
+            },
+            {
+                "mz_value": 538.0015258789062,
+                "mode": "ES+",
+                "formula": "metal_(10)_carbonyl_(20)_amine_(10)",
+                "charge": "9",
+                "mz_expected": 537.87,
+                "time": 0.07703333333333333
+            }
+        ]
+    },
+    "141": {
+        "criteria1and2_pass": 0,
+        "criteria3_pass": 0,
+        "criteria1and2_number_of_hits": 0,
+        "criteria3_number_of_ions_hits": 0,
+        "label": 0,
+        "mz_peaks": []
+    },
+    "23batch3": {
+        "criteria1and2_pass": 1,
+        "criteria3_pass": 1,
+        "criteria1and2_number_of_hits": 6,
+        "criteria3_number_of_ions_hits": 3,
+        "label": 1,
+        "mz_peaks": [
+            {
+                "mz_value": 331.3227844238281,
+                "mode": "ES+",
+                "formula": "metal_(2)_carbonyl_(6)_amine_(3)",
+                "charge": "4",
+                "mz_expected": 331.12,
+                "time": 0.07703333333333333
+            },
+            {
+                "mz_value": 331.3227844238281,
+                "mode": "ES+",
+                "formula": "metal_(10)_carbonyl_(30)_amine_(15)",
+                "charge": "20",
+                "mz_expected": 331.17,
+                "time": 0.07703333333333333
+            },
+            {
+                "mz_value": 405.2895202636719,
+                "mode": "ES+",
+                "formula": "metal_(10)_carbonyl_(30)_amine_(15)",
+                "charge": "17",
+                "mz_expected": 404.96,
+                "time": 0.07703333333333333
+            }
+        ]
+    },
+    "96": {
+        "criteria1and2_pass": 0,
+        "criteria3_pass": 0,
+        "criteria1and2_number_of_hits": 0,
+        "criteria3_number_of_ions_hits": 0,
+        "label": 0,
+        "mz_peaks": []
+    },
+    "97": {
+        "criteria1and2_pass": 0,
+        "criteria3_pass": 0,
+        "criteria1and2_number_of_hits": 0,
+        "criteria3_number_of_ions_hits": 0,
+        "label": 0,
+        "mz_peaks": []
+    },
+    "98": {
+        "criteria1and2_pass": 0,
+        "criteria3_pass": 0,
+        "criteria1and2_number_of_hits": 0,
+        "criteria3_number_of_ions_hits": 0,
+        "label": 0,
+        "mz_peaks": []
+    },
+    "99": {
+        "criteria1and2_pass": 0,
+        "criteria3_pass": 0,
+        "criteria1and2_number_of_hits": 0,
+        "criteria3_number_of_ions_hits": 0,
+        "label": 0,
+        "mz_peaks": []
+    }
+}

@@ -1,0 +1,492 @@
+{
+    "batch2-01": {
+        "label": 0,
+        "decisionMakerNmrOutput": [
+            1,
+            2,
+            1,
+            1.0,
+            0
+        ]
+    },
+    "batch2-02": {
+        "label": 0,
+        "decisionMakerNmrOutput": [
+            0,
+            5,
+            0,
+            1.0,
+            0
+        ]
+    },
+    "batch2-03": {
+        "label": 0,
+        "decisionMakerNmrOutput": [
+            1,
+            1,
+            1,
+            1.0,
+            0
+        ]
+    },
+    "batch2-04": {
+        "label": 0,
+        "decisionMakerNmrOutput": [
+            1,
+            1,
+            1,
+            0.8571428571428571,
+            0
+        ]
+    },
+    "batch2-05": {
+        "label": 0,
+        "decisionMakerNmrOutput": [
+            1,
+            1,
+            1,
+            0.75,
+            0
+        ]
+    },
+    "batch2-06": {
+        "label": 0,
+        "decisionMakerNmrOutput": [
+            1,
+            0,
+            1,
+            1.0,
+            0
+        ]
+    },
+    "batch2-07": {
+        "label": 0,
+        "decisionMakerNmrOutput": [
+            1,
+            1,
+            1,
+            1.0,
+            0
+        ]
+    },
+    "batch2-08": {
+        "label": 0,
+        "decisionMakerNmrOutput": [
+            1,
+            1,
+            1,
+            1.0,
+            0
+        ]
+    },
+    "batch2-09": {
+        "label": 0,
+        "decisionMakerNmrOutput": [
+            1,
+            1,
+            1,
+            1.0,
+            0
+        ]
+    },
+    "batch2-10": {
+        "label": 0,
+        "decisionMakerNmrOutput": [
+            1,
+            2,
+            1,
+            1.0,
+            0
+        ]
+    },
+    "batch2-11": {
+        "label": 0,
+        "decisionMakerNmrOutput": [
+            1,
+            1,
+            1,
+            1.0,
+            0
+        ]
+    },
+    "batch2-12": {
+        "label": 0,
+        "decisionMakerNmrOutput": [
+            1,
+            1,
+            1,
+            1.0,
+            0
+        ]
+    },
+    "batch2-13": {
+        "label": 0,
+        "decisionMakerNmrOutput": [
+            1,
+            2,
+            1,
+            0.8666666666666667,
+            0
+        ]
+    },
+    "batch2-14": {
+        "label": 0,
+        "decisionMakerNmrOutput": [
+            1,
+            1,
+            1,
+            1.0,
+            0
+        ]
+    },
+    "batch2-15": {
+        "label": 0,
+        "decisionMakerNmrOutput": [
+            0,
+            11,
+            0,
+            0,
+            0
+        ]
+    },
+    "batch2-16": {
+        "label": 0,
+        "decisionMakerNmrOutput": [
+            0,
+            10,
+            0,
+            1.0,
+            0
+        ]
+    },
+    "batch2-17": {
+        "label": 0,
+        "decisionMakerNmrOutput": [
+            1,
+            2,
+            1,
+            1.0,
+            0
+        ]
+    },
+    "batch2-18": {
+        "label": 0,
+        "decisionMakerNmrOutput": [
+            0,
+            13,
+            0,
+            1.0,
+            0
+        ]
+    },
+    "batch2-19": {
+        "label": 0,
+        "decisionMakerNmrOutput": [
+            0,
+            12,
+            0,
+            1.0,
+            0
+        ]
+    },
+    "batch2-20": {
+        "label": 0,
+        "decisionMakerNmrOutput": [
+            0,
+            15,
+            1,
+            0.9565217391304348,
+            0
+        ]
+    },
+    "batch2-21": {
+        "label": 0,
+        "decisionMakerNmrOutput": [
+            1,
+            3,
+            1,
+            1.0,
+            0
+        ]
+    },
+    "batch2-22": {
+        "label": 0,
+        "decisionMakerNmrOutput": [
+            0,
+            6,
+            1,
+            1.0,
+            0
+        ]
+    },
+    "batch2-23": {
+        "label": 0,
+        "decisionMakerNmrOutput": [
+            1,
+            3,
+            1,
+            1.0,
+            0
+        ]
+    },
+    "batch2-24": {
+        "label": 0,
+        "decisionMakerNmrOutput": [
+            0,
+            6,
+            1,
+            1.0,
+            0
+        ]
+    },
+    "batch2-25": {
+        "label": 0,
+        "decisionMakerNmrOutput": [
+            0,
+            8,
+            0,
+            0,
+            0
+        ]
+    },
+    "batch2-26": {
+        "label": 0,
+        "decisionMakerNmrOutput": [
+            1,
+            2,
+            1,
+            1.0,
+            0
+        ]
+    },
+    "batch2-27": {
+        "label": 0,
+        "decisionMakerNmrOutput": [
+            0,
+            7,
+            1,
+            0.9230769230769231,
+            0
+        ]
+    },
+    "batch2-28": {
+        "label": 0,
+        "decisionMakerNmrOutput": [
+            1,
+            3,
+            1,
+            1.0,
+            0
+        ]
+    },
+    "batch2-29": {
+        "label": 0,
+        "decisionMakerNmrOutput": [
+            0,
+            10,
+            1,
+            1.0,
+            0
+        ]
+    },
+    "batch2-30": {
+        "label": 0,
+        "decisionMakerNmrOutput": [
+            1,
+            0,
+            1,
+            1.0,
+            0
+        ]
+    },
+    "batch2-31": {
+        "label": 0,
+        "decisionMakerNmrOutput": [
+            1,
+            3,
+            1,
+            1.0,
+            0
+        ]
+    },
+    "batch2-32": {
+        "label": 0,
+        "decisionMakerNmrOutput": [
+            1,
+            1,
+            1,
+            1.0,
+            0
+        ]
+    },
+    "batch2-33": {
+        "label": 0,
+        "decisionMakerNmrOutput": [
+            1,
+            1,
+            1,
+            0.7692307692307693,
+            0
+        ]
+    },
+    "batch2-34": {
+        "label": 0,
+        "decisionMakerNmrOutput": [
+            0,
+            13,
+            0,
+            0,
+            0
+        ]
+    },
+    "batch2-35": {
+        "label": 0,
+        "decisionMakerNmrOutput": [
+            0,
+            6,
+            1,
+            1.0,
+            0
+        ]
+    },
+    "batch2-36": {
+        "label": 0,
+        "decisionMakerNmrOutput": [
+            1,
+            3,
+            1,
+            1.0,
+            0
+        ]
+    },
+    "batch2-37": {
+        "label": 0,
+        "decisionMakerNmrOutput": [
+            0,
+            16,
+            1,
+            1.0,
+            0
+        ]
+    },
+    "batch2-38": {
+        "label": 0,
+        "decisionMakerNmrOutput": [
+            0,
+            8,
+            1,
+            1.0,
+            0
+        ]
+    },
+    "batch2-39": {
+        "label": 0,
+        "decisionMakerNmrOutput": [
+            1,
+            2,
+            1,
+            1.0,
+            0
+        ]
+    },
+    "batch2-40": {
+        "label": 0,
+        "decisionMakerNmrOutput": [
+            0,
+            8,
+            1,
+            1.0,
+            0
+        ]
+    },
+    "batch2-41": {
+        "label": 0,
+        "decisionMakerNmrOutput": [
+            1,
+            3,
+            1,
+            0.8,
+            0
+        ]
+    },
+    "batch2-42": {
+        "label": 0,
+        "decisionMakerNmrOutput": [
+            0,
+            6,
+            0,
+            0.8333333333333334,
+            0
+        ]
+    },
+    "batch2-43": {
+        "label": 0,
+        "decisionMakerNmrOutput": [
+            0,
+            4,
+            1,
+            1.0,
+            0
+        ]
+    },
+    "batch2-44": {
+        "label": 0,
+        "decisionMakerNmrOutput": [
+            1,
+            0,
+            1,
+            0.8571428571428571,
+            0
+        ]
+    },
+    "batch2-45": {
+        "label": 0,
+        "decisionMakerNmrOutput": [
+            0,
+            16,
+            0,
+            0,
+            0
+        ]
+    },
+    "batch2-46": {
+        "label": 0,
+        "decisionMakerNmrOutput": [
+            0,
+            11,
+            0,
+            0.75,
+            0
+        ]
+    },
+    "batch2-47": {
+        "label": 0,
+        "decisionMakerNmrOutput": [
+            0,
+            5,
+            1,
+            1.0,
+            0
+        ]
+    },
+    "batch2-48": {
+        "label": 0,
+        "decisionMakerNmrOutput": [
+            0,
+            14,
+            0,
+            1.0,
+            0
+        ]
+    },
+    "batch3-01": {
+        "label": 0,
+        "decisionMakerNmrOutput": [
+            1,
+            1,
+            1,
+            1.0,
+            0
+        ]
+    }
+}

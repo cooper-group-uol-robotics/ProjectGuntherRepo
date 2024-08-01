@@ -1,0 +1,128 @@
+;noesycpdcgpps1d
+;avance-version (12/01/11)
+;with shaped presaturation during relaxation delay and mixing time
+;composite pulse
+;optional decoupling on f2
+;and spoil gradient
+;
+;$CLASS=HighRes
+;$DIM=1D
+;$TYPE=
+;$SUBTYPE=
+;$COMMENT=
+;$RECOMMEND=y
+
+
+#include <Avance.incl>
+#include <Grad.incl>
+
+
+"l6 = d1/p18"
+"l7 = d8/p19"
+
+"d11 = 30m"
+"d12 = 20u"
+
+"acqt0 = -(p1*6/3.1416)-4u"
+
+
+1 ze
+#   ifdef FLAG_13C
+  d12 pl21:f2
+2 d11 cpd2:f2
+#   else
+  d12 
+2 d11 
+#   endif
+
+  4u BLKGRAD
+3 p18:sp6:f1 ph29
+  4u
+  lo to 3 times l6
+
+  4u UNBLKGRAD
+  p16:gp1
+  d16 pl1:f1
+  p1 ph1
+  4u
+  p1 ph2
+
+4 p19:sp9:f1 ph29
+  4u
+  lo to 4 times l7
+
+  p16:gp2
+  d16 pl1:f1
+
+#   ifdef FLAG_BLK
+  4u BLKGRAMP
+#   else
+  4u BLKGRAD
+#   endif /*FLAG_BLK*/
+
+  p1 ph3
+  4u
+  p1 ph4
+  4u
+  p1 ph5
+  4u
+  p1 ph6
+  go=2 ph31
+  d11 mc #0 to 2 F0(zd)
+
+  4u BLKGRAD
+  4u do:f2
+
+exit
+
+
+ph1=0 2 
+ph2={0}*16 {2}*16
+ph3={0 0 0 0}^2^1^3
+ph4={1 1 3 3}^2^1^3
+ph5={2 2 2 2}^2^1^3
+ph6={3 3 1 1}^2^1^3
+ph29=0
+ph31={{0 2 2 0}^2^1^3}^2
+
+
+;pl1: f1 channel - power level for pulse (default)
+;pl9: f1 channel - power level for presaturation
+;pl21:f2 channel - low power decoupling on f2
+;p1 : f1 channel -  90 degree high power pulse
+;p18: f1 channel - presaturation during d1 using shaped pulse
+;p19: f1 channel - presaturation during d8 using shaped pulse
+;d1 : relaxation delay; 1-5 * T1
+;d8 : mixing time
+;d11: delay for disk I/O
+;d12: delay for power switching
+;l6 : p18 * l6 = effective duration of presaturation/relaxation delay
+;l7 : p19 * l7 = effective duration of mixing time
+;p16: homospoil/gradient pulse
+;d16: delay for homospoil/gradient recovery
+;ns : 4 * n, total number of scans: NS * TD0
+;ds : 4
+
+
+;use gradient ratio:    gp 1 : gp 2
+;                         50 :  -10
+
+;for z-only gradients:
+;gpz1: 50%
+;gpz2: -10%
+
+;use gradient files:
+;gpnam1: SMSQ10.100
+;gpnam2: SMSQ10.100
+
+
+
+                                          ;preprocessor-flags-start
+;FLAG_BLK: for BLKGRAD before d1 rather than go
+;             option -DFLAG_BLK: (eda: ZGOPTNS)
+;FLAG_13C: for 13c decoupling
+;             option -DFLAG_13C: (eda: ZGOPTNS)
+                                          ;preprocessor-flags-end
+
+
+;$Id:$

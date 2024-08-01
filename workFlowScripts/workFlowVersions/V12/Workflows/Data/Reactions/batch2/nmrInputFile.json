@@ -1,0 +1,636 @@
+{
+    "batch2-02": {
+        "sample_info": {
+            "aldehyde": "4-Formyl-2-methylthiazole",
+            "amine": "2,2'-(Ethane-1,2-diyl)dianiline",
+            "metal": "Iron(II) tetrafluoroborate hexahydrate"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch2-03": {
+        "sample_info": {
+            "aldehyde": "4-Formyl-2-methylthiazole",
+            "metal": "Yittrium(III) trifluoromethanesulfonate",
+            "amine": "4,4'-Methylenedianiline"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch2-04": {
+        "sample_info": {
+            "aldehyde": "4-Formyl-2-methylthiazole",
+            "metal": "Yittrium(III) trifluoromethanesulfonate",
+            "amine": "2,2'-(Ethane-1,2-diylbis(oxy))diethanamine"
+        },
+        "solvent": [
+            "acetonitrile",
+            "dichloromethane"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch2-05": {
+        "sample_info": {
+            "aldehyde": "4-Formyl-2-methylthiazole",
+            "metal": "Yittrium(III) trifluoromethanesulfonate",
+            "amine": "4,4'-Oxydianiline"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch2-06": {
+        "sample_info": {
+            "aldehyde": "4-Formyl-2-methylthiazole",
+            "metal": "Yittrium(III) trifluoromethanesulfonate",
+            "amine": "Naphthalene-1,8-diamine"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch2-07": {
+        "sample_info": {
+            "aldehyde": "4-Formyl-2-methylthiazole",
+            "metal": "Yittrium(III) trifluoromethanesulfonate",
+            "amine": "4,4'-(9H-AdamantaeFlurene-9,9diyl)dianiline"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch2-08": {
+        "sample_info": {
+            "aldehyde": "4-Formyl-2-methylthiazole",
+            "metal": "Yittrium(III) trifluoromethanesulfonate",
+            "amine": "m-Xylylenediamine"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch2-09": {
+        "sample_info": {
+            "aldehyde": "4-Formyl-2-methylthiazole",
+            "metal": "Yittrium(III) trifluoromethanesulfonate",
+            "amine": "2,2'-(Ethane-1,2-diyl)dianiline"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch2-10": {
+        "sample_info": {
+            "metal": "Silver tetrafluoroborate",
+            "aldehyde": "6-Methylpyridine-2-carboxaldehyde",
+            "amine": "4,4'-Methylenedianiline"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch2-11": {
+        "sample_info": {
+            "metal": "Silver tetrafluoroborate",
+            "aldehyde": "6-Methylpyridine-2-carboxaldehyde",
+            "amine": "2,2'-(Ethane-1,2-diylbis(oxy))diethanamine"
+        },
+        "solvent": [
+            "acetonitrile",
+            "dichloromethane"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch2-12": {
+        "sample_info": {
+            "metal": "Silver tetrafluoroborate",
+            "aldehyde": "6-Methylpyridine-2-carboxaldehyde",
+            "amine": "4,4'-Oxydianiline"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch2-13": {
+        "sample_info": {
+            "metal": "Silver tetrafluoroborate",
+            "aldehyde": "6-Methoxypyridine-2-carbaldehyde",
+            "amine": "4,4'-Methylenedianiline"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch2-14": {
+        "sample_info": {
+            "metal": "Silver tetrafluoroborate",
+            "aldehyde": "6-Methoxypyridine-2-carbaldehyde",
+            "amine": "2,2'-(Ethane-1,2-diylbis(oxy))diethanamine"
+        },
+        "solvent": [
+            "acetonitrile",
+            "dichloromethane"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch2-15": {
+        "sample_info": {
+            "metal": "Silver tetrafluoroborate",
+            "aldehyde": "6-Methoxypyridine-2-carbaldehyde",
+            "amine": "4,4'-Oxydianiline"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch2-16": {
+        "sample_info": {
+            "metal": "Silver tetrafluoroborate",
+            "amine": "Naphthalene-1,8-diamine",
+            "aldehyde": "6-Methylpyridine-2-carboxaldehyde"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch2-17": {
+        "sample_info": {
+            "metal": "Silver tetrafluoroborate",
+            "amine": "4,4'-(9H-AdamantaeFlurene-9,9diyl)dianiline",
+            "aldehyde": "6-Methylpyridine-2-carboxaldehyde"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch2-18": {
+        "sample_info": {
+            "metal": "Silver tetrafluoroborate",
+            "amine": "Naphthalene-1,8-diamine",
+            "aldehyde": "6-Methoxypyridine-2-carbaldehyde"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch2-19": {
+        "sample_info": {
+            "metal": "Silver tetrafluoroborate",
+            "amine": "4,4'-(9H-AdamantaeFlurene-9,9diyl)dianiline",
+            "aldehyde": "6-Methoxypyridine-2-carbaldehyde"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch2-20": {
+        "sample_info": {
+            "metal": "Silver tetrafluoroborate",
+            "aldehyde": "5-Methylpicolinaldehyde",
+            "amine": "4,4'-Methylenedianiline"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch2-21": {
+        "sample_info": {
+            "metal": "Silver tetrafluoroborate",
+            "aldehyde": "5-Methylpicolinaldehyde",
+            "amine": "2,2'-(Ethane-1,2-diylbis(oxy))diethanamine"
+        },
+        "solvent": [
+            "acetonitrile",
+            "dichloromethane"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch2-22": {
+        "sample_info": {
+            "metal": "Silver tetrafluoroborate",
+            "aldehyde": "5-Methylpicolinaldehyde",
+            "amine": "4,4'-Oxydianiline"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch2-23": {
+        "sample_info": {
+            "metal": "Silver tetrafluoroborate",
+            "aldehyde": "5-Methylpicolinaldehyde",
+            "amine": "Naphthalene-1,8-diamine"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch2-24": {
+        "sample_info": {
+            "metal": "Silver tetrafluoroborate",
+            "aldehyde": "5-Methylpicolinaldehyde",
+            "amine": "4,4'-(9H-AdamantaeFlurene-9,9diyl)dianiline"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch2-25": {
+        "sample_info": {
+            "metal": "Silver tetrafluoroborate",
+            "amine": "m-Xylylenediamine",
+            "aldehyde": "6-Methylpyridine-2-carboxaldehyde"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch2-26": {
+        "sample_info": {
+            "metal": "Silver tetrafluoroborate",
+            "amine": "m-Xylylenediamine",
+            "aldehyde": "6-Methoxypyridine-2-carbaldehyde"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch2-27": {
+        "sample_info": {
+            "metal": "Silver tetrafluoroborate",
+            "amine": "m-Xylylenediamine",
+            "aldehyde": "5-Methylpicolinaldehyde"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch2-28": {
+        "sample_info": {
+            "metal": "Silver tetrafluoroborate",
+            "aldehyde": "1-Methyl-2-imidazolecarboxaldehyde",
+            "amine": "4,4'-Methylenedianiline"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch2-29": {
+        "sample_info": {
+            "metal": "Silver tetrafluoroborate",
+            "aldehyde": "1-Methyl-2-imidazolecarboxaldehyde",
+            "amine": "2,2'-(Ethane-1,2-diylbis(oxy))diethanamine"
+        },
+        "solvent": [
+            "acetonitrile",
+            "dichloromethane"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch2-30": {
+        "sample_info": {
+            "metal": "Silver tetrafluoroborate",
+            "aldehyde": "1-Methyl-2-imidazolecarboxaldehyde",
+            "amine": "4,4'-Oxydianiline"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch2-31": {
+        "sample_info": {
+            "metal": "Silver tetrafluoroborate",
+            "amine": "2,2'-(Ethane-1,2-diyl)dianiline",
+            "aldehyde": "6-Methylpyridine-2-carboxaldehyde"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch2-32": {
+        "sample_info": {
+            "metal": "Silver tetrafluoroborate",
+            "aldehyde": "1-Methyl-2-imidazolecarboxaldehyde",
+            "amine": "Naphthalene-1,8-diamine"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch2-33": {
+        "sample_info": {
+            "metal": "Silver tetrafluoroborate",
+            "aldehyde": "1-Methyl-2-imidazolecarboxaldehyde",
+            "amine": "4,4'-(9H-AdamantaeFlurene-9,9diyl)dianiline"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch2-34": {
+        "sample_info": {
+            "metal": "Silver tetrafluoroborate",
+            "amine": "2,2'-(Ethane-1,2-diyl)dianiline",
+            "aldehyde": "6-Methoxypyridine-2-carbaldehyde"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch2-35": {
+        "sample_info": {
+            "metal": "Silver tetrafluoroborate",
+            "amine": "2,2'-(Ethane-1,2-diyl)dianiline",
+            "aldehyde": "5-Methylpicolinaldehyde"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch2-36": {
+        "sample_info": {
+            "metal": "Silver tetrafluoroborate",
+            "aldehyde": "1-Methyl-2-imidazolecarboxaldehyde",
+            "amine": "m-Xylylenediamine"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch2-37": {
+        "sample_info": {
+            "metal": "Silver tetrafluoroborate",
+            "amine": "2,2'-(Ethane-1,2-diyl)dianiline",
+            "aldehyde": "1-Methyl-2-imidazolecarboxaldehyde"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch2-38": {
+        "sample_info": {
+            "metal": "Silver tetrafluoroborate",
+            "aldehyde": "4-Formyl-2-methylthiazole",
+            "amine": "4,4'-Methylenedianiline"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch2-39": {
+        "sample_info": {
+            "metal": "Silver tetrafluoroborate",
+            "aldehyde": "4-Formyl-2-methylthiazole",
+            "amine": "2,2'-(Ethane-1,2-diylbis(oxy))diethanamine"
+        },
+        "solvent": [
+            "acetonitrile",
+            "dichloromethane"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch2-40": {
+        "sample_info": {
+            "metal": "Silver tetrafluoroborate",
+            "aldehyde": "4-Formyl-2-methylthiazole",
+            "amine": "4,4'-Oxydianiline"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch2-41": {
+        "sample_info": {
+            "metal": "Silver tetrafluoroborate",
+            "aldehyde": "4-Formyl-2-methylthiazole",
+            "amine": "Naphthalene-1,8-diamine"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch2-42": {
+        "sample_info": {
+            "metal": "Silver tetrafluoroborate",
+            "aldehyde": "4-Formyl-2-methylthiazole",
+            "amine": "4,4'-(9H-AdamantaeFlurene-9,9diyl)dianiline"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch2-43": {
+        "sample_info": {
+            "metal": "Silver tetrafluoroborate",
+            "aldehyde": "4-Formyl-2-methylthiazole",
+            "amine": "m-Xylylenediamine"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch2-44": {
+        "sample_info": {
+            "metal": "Silver tetrafluoroborate",
+            "aldehyde": "4-Formyl-2-methylthiazole",
+            "amine": "2,2'-(Ethane-1,2-diyl)dianiline"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch2-45": {
+        "sample_info": {
+            "aldehyde": "2-Quinolinecarboxaldehyde",
+            "metal": "Zinc tetrafluoroborate",
+            "amine": "4,4'-Methylenedianiline"
+        },
+        "solvent": [
+            "dichloromethane",
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch2-46": {
+        "sample_info": {
+            "aldehyde": "2-Quinolinecarboxaldehyde",
+            "metal": "Zinc tetrafluoroborate",
+            "amine": "2,2'-(Ethane-1,2-diylbis(oxy))diethanamine"
+        },
+        "solvent": [
+            "dichloromethane",
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch2-47": {
+        "sample_info": {
+            "aldehyde": "2-Quinolinecarboxaldehyde",
+            "metal": "Zinc tetrafluoroborate",
+            "amine": "4,4'-Oxydianiline"
+        },
+        "solvent": [
+            "dichloromethane",
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch2-48": {
+        "sample_info": {
+            "aldehyde": "2-Quinolinecarboxaldehyde",
+            "metal": "Iron(II) tetrafluoroborate hexahydrate",
+            "amine": "4,4'-Methylenedianiline"
+        },
+        "solvent": [
+            "dichloromethane",
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch3-01": {
+        "sample_info": {
+            "aldehyde": "5-Methylpicolinaldehyde",
+            "metal": "Iron(II) tetrafluoroborate hexahydrate",
+            "amine": "4,4'-Methylenedianiline"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    }
+}
