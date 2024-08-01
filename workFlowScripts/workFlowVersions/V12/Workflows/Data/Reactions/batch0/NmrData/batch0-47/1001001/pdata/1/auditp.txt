@@ -1,0 +1,44 @@
+##TITLE= Audit trail, TopSpin 4.3.0
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ C:\NMRData\EB\projectGunther\2024-02-28-batch0-NMR/batch0-47/1001001/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2024-02-28T21:27:12.581+0000>,<4CE1161FJM\nmrsu>,<4CE1161FJM>,<go4>,<TopSpin 4.3.0>,
+      <acquisition in progress>)
+$$ C:/NMRData/EB/projectGunther/2024-02-28-batch0-NMR/batch0-47/1001001/audita.txt
+(   2,<2024-02-28T21:27:18.072+0000>,<4CE1161FJM\nmrsu>,<4CE1161FJM>,<go4>,<TopSpin 4.3.0>,
+      <created by zg on 'Fourier' (4CE1161FJM) by user '4CE1161FJM\nmrsu'
+       on data set with UUID '22cca65a-d680-11ee-830e-0000ad371d11'
+       started at 2024-02-28 21:27:12.581 +0000, POWCHK disabled, PULCHK disabled,
+       completed at 2024-02-28 21:27:18.064 +0000
+       configuration hash MD5:
+       63 31 42 D0 10 AE A8 AF 9C 7E E2 52 A7 E2 89 DB
+       double data hash MD5: 6450
+       B2 56 25 6E B3 33 93 4D E3 39 C0 92 AB 64 01 7F>)
+(   3,<2024-02-28T21:27:20.381+0000>,<nmrsu>,<4CE1161FJM>,<proc1d>,<TopSpin 4.3.0>,
+      <Start of raw data processing
+       efp LB = 0.3 FT_mod = 6 PKNL = 1 PHC0 = 0 PHC1 = 0 SI = 64K 
+       data hash MD5: 64K
+       49 29 6C 9F EA DA 9E 06 F0 54 77 53 5A BF 0A 96>)
+(   4,<2024-02-28T21:27:21.132+0000>,<nmrsu>,<4CE1161FJM>,<proc1d>,<TopSpin 4.3.0>,
+      <apk0 
+       data hash MD5: 64K
+       F4 F0 41 03 A6 C9 FD B1 F3 E5 12 67 10 03 5E 7E>)
+(   5,<2024-02-28T21:27:21.210+0000>,<nmrsu>,<4CE1161FJM>,<peak>,<TopSpin 4.3.0>,
+      <1D Peak picking
+       data hash MD5: 64K
+       F4 F0 41 03 A6 C9 FD B1 F3 E5 12 67 10 03 5E 7E>)
+$$ C:\Users\emanuele\Desktop\PlacementEssay\PlacementEssay\backup\ChemspeedPlatformAllVersions\V12\Workflows\Data\Reactions\batch0\NmrData/batch0-47/1001001//pdata/1/auditp.txt
+(   6,<2024-06-26T12:26:12.413+0100>,<LIVAD\emanuele>,<MWS-1048587>,<sref>,<TopSpin 4.4.0>,
+      <sref
+       data hash MD5: 64K
+       F4 F0 41 03 A6 C9 FD B1 F3 E5 12 67 10 03 5E 7E>)
+(   7,<2024-06-26T13:30:51.816+0100>,<LIVAD\emanuele>,<MWS-1048587>,<sref>,<TopSpin 4.4.0>,
+      <sref
+       data hash MD5: 64K
+       F4 F0 41 03 A6 C9 FD B1 F3 E5 12 67 10 03 5E 7E>)
+##END=
+
+$$ hash MD5
+$$ CD 27 73 6C FE DD 41 2D 36 33 D0 A6 60 28 C4 2B

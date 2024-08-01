@@ -1,0 +1,16 @@
+##TITLE= Parameter file, TopSpin 4.4.0
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 1	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH & Co. KG
+##OWNER= emanuele
+$$ 2024-06-28 10:43:55.004 +0100  LIVAD\emanuele@MWS-1048587
+$$ C:/Users/emanuele/Desktop/PlacementEssay/PlacementEssay/backup/ChemspeedPlatformAllVersions/V12/Workflows/Data/Reactions/batch0/NmrData/batch0-47/10/pdata/1/outd
+$$ process C:\Bruker\TopSpin4.4.0\prog\mod\dirdata.exe
+##$CURPLOT= <>
+##$CURPRIN= <$>
+##$DFORMAT= <normdp>
+##$LAYOUT= <+/1D_X+nopp.xwp>
+##$LFORMAT= <normlp>
+##$PFORMAT= <normpl>
+##END=

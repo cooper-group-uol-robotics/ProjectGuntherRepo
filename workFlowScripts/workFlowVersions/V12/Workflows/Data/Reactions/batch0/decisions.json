@@ -1,0 +1,1855 @@
+{
+    "1": {
+        "nmr_decision": {
+            "criteria1_pass": 0,
+            "criteria2_pass": 0,
+            "criteria1_peak_difference": 8,
+            "criteria2_percentage_shifted": 1.0,
+            "label": 0,
+            "peaks_ppm": [
+                0.070417
+            ],
+            "sample_info": {
+                "amine": "Zinc tetrafluoroborate",
+                "aldehyde": "6-Methylpyridine-2-carboxaldehyde",
+                "metal": "Zinc tetrafluoroborate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 0,
+            "criteria3_pass": 0,
+            "criteria1and2_number_of_hits": 0,
+            "criteria3_number_of_ions_hits": 0,
+            "label": 0,
+            "mz_peaks": []
+        },
+        "reaction_label": 0
+    },
+    "2": {
+        "nmr_decision": {
+            "criteria1_pass": 1,
+            "criteria2_pass": 1,
+            "criteria1_peak_difference": 1,
+            "criteria2_percentage_shifted": 1.0,
+            "label": 1,
+            "peaks_ppm": [
+                8.688214,
+                7.813877,
+                5.507651,
+                3.819909,
+                3.707076,
+                3.43974,
+                0.113892
+            ],
+            "sample_info": {
+                "amine": "Zinc tetrafluoroborate",
+                "aldehyde": "6-Methylpyridine-2-carboxaldehyde",
+                "metal": "Zinc tetrafluoroborate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 0,
+            "criteria3_pass": 0,
+            "criteria1and2_number_of_hits": 0,
+            "criteria3_number_of_ions_hits": 0,
+            "label": 0,
+            "mz_peaks": []
+        },
+        "reaction_label": 0
+    },
+    "3": {
+        "nmr_decision": {
+            "criteria1_pass": 0,
+            "criteria2_pass": 0,
+            "criteria1_peak_difference": 10,
+            "criteria2_percentage_shifted": 0,
+            "label": 0,
+            "peaks_ppm": [],
+            "sample_info": {
+                "amine": "Iron(II) tetrafluoroborate hexahydrate",
+                "aldehyde": "6-Methylpyridine-2-carboxaldehyde",
+                "metal": "Iron(II) tetrafluoroborate hexahydrate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 0,
+            "criteria3_pass": 0,
+            "criteria1and2_number_of_hits": 0,
+            "criteria3_number_of_ions_hits": 0,
+            "label": 0,
+            "mz_peaks": []
+        },
+        "reaction_label": 0
+    },
+    "4": {
+        "nmr_decision": {
+            "criteria1_pass": 0,
+            "criteria2_pass": 0,
+            "criteria1_peak_difference": 8,
+            "criteria2_percentage_shifted": 1.0,
+            "label": 0,
+            "peaks_ppm": [
+                0.030576
+            ],
+            "sample_info": {
+                "amine": "Iron(II) tetrafluoroborate hexahydrate",
+                "aldehyde": "6-Methylpyridine-2-carboxaldehyde",
+                "metal": "Iron(II) tetrafluoroborate hexahydrate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 1,
+            "criteria3_pass": 1,
+            "criteria1and2_number_of_hits": 1,
+            "criteria3_number_of_ions_hits": 1,
+            "label": 1,
+            "mz_peaks": [
+                {
+                    "mz_value": 405.064453125,
+                    "mode": "ES+",
+                    "formula": "metal_(10)_carbonyl_(30)_amine_(15)",
+                    "charge": "17",
+                    "mz_expected": 404.96,
+                    "time": 0.08603333333333334
+                }
+            ]
+        },
+        "reaction_label": 0
+    },
+    "5": {
+        "nmr_decision": {
+            "criteria1_pass": 0,
+            "criteria2_pass": 1,
+            "criteria1_peak_difference": 4,
+            "criteria2_percentage_shifted": 0.75,
+            "label": 0,
+            "peaks_ppm": [
+                9.951036,
+                8.381375,
+                7.85395,
+                7.764031,
+                7.521702,
+                7.417775,
+                5.46344,
+                3.781075,
+                3.665601,
+                3.543781,
+                3.144987,
+                0.075073
+            ],
+            "sample_info": {
+                "amine": "Iron(II) tetrafluoroborate hexahydrate",
+                "aldehyde": "6-Methylpyridine-2-carboxaldehyde",
+                "metal": "Iron(II) tetrafluoroborate hexahydrate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 0,
+            "criteria3_pass": 0,
+            "criteria1and2_number_of_hits": 0,
+            "criteria3_number_of_ions_hits": 0,
+            "label": 0,
+            "mz_peaks": []
+        },
+        "reaction_label": 0
+    },
+    "7": {
+        "nmr_decision": {
+            "criteria1_pass": 0,
+            "criteria2_pass": 0,
+            "criteria1_peak_difference": 9,
+            "criteria2_percentage_shifted": 1.0,
+            "label": 0,
+            "peaks_ppm": [
+                8.364585,
+                3.420643,
+                0.077431
+            ],
+            "sample_info": {
+                "amine": "Zinc tetrafluoroborate",
+                "aldehyde": "6-Methoxypyridine-2-carbaldehyde",
+                "metal": "Zinc tetrafluoroborate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 1,
+            "criteria3_pass": 1,
+            "criteria1and2_number_of_hits": 5,
+            "criteria3_number_of_ions_hits": 3,
+            "label": 1,
+            "mz_peaks": [
+                {
+                    "mz_value": 360.0539245605469,
+                    "mode": "ES+",
+                    "formula": "metal_(4)_carbonyl_(12)_amine_(6)",
+                    "charge": "8",
+                    "mz_expected": 359.98,
+                    "time": 0.07703333333333333
+                },
+                {
+                    "mz_value": 509.3428955078125,
+                    "mode": "ES+",
+                    "formula": "metal_(4)_carbonyl_(12)_amine_(6)",
+                    "charge": "6",
+                    "mz_expected": 508.98,
+                    "time": 0.07703333333333333
+                },
+                {
+                    "mz_value": 509.3428955078125,
+                    "mode": "ES+",
+                    "formula": "metal_(10)_carbonyl_(30)_amine_(15)",
+                    "charge": "13",
+                    "mz_expected": 509.22,
+                    "time": 0.07703333333333333
+                }
+            ]
+        },
+        "reaction_label": 0
+    },
+    "8": {
+        "nmr_decision": {
+            "criteria1_pass": 0,
+            "criteria2_pass": 1,
+            "criteria1_peak_difference": 4,
+            "criteria2_percentage_shifted": 0.8571428571428571,
+            "label": 0,
+            "peaks_ppm": [
+                8.308529,
+                7.533269,
+                5.468256,
+                3.981954,
+                3.835906,
+                3.415846,
+                0.075571
+            ],
+            "sample_info": {
+                "amine": "Zinc tetrafluoroborate",
+                "aldehyde": "6-Methoxypyridine-2-carbaldehyde",
+                "metal": "Zinc tetrafluoroborate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 0,
+            "criteria3_pass": 0,
+            "criteria1and2_number_of_hits": 0,
+            "criteria3_number_of_ions_hits": 0,
+            "label": 0,
+            "mz_peaks": []
+        },
+        "reaction_label": 0
+    },
+    "9": {
+        "nmr_decision": {
+            "criteria1_pass": 0,
+            "criteria2_pass": 1,
+            "criteria1_peak_difference": 4,
+            "criteria2_percentage_shifted": 1.0,
+            "label": 0,
+            "peaks_ppm": [
+                9.896218,
+                8.427898,
+                8.34781,
+                8.243856,
+                7.79141,
+                7.704139,
+                7.448114,
+                7.3415,
+                6.85449,
+                6.746637,
+                6.170633,
+                6.062518,
+                3.98046,
+                3.413408,
+                0.075409
+            ],
+            "sample_info": {
+                "amine": "Zinc tetrafluoroborate",
+                "aldehyde": "6-Methylpyridine-2-carboxaldehyde",
+                "metal": "Zinc tetrafluoroborate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 1,
+            "criteria3_pass": 0,
+            "criteria1and2_number_of_hits": 2,
+            "criteria3_number_of_ions_hits": 0,
+            "label": 0,
+            "mz_peaks": []
+        },
+        "reaction_label": 0
+    },
+    "10": {
+        "nmr_decision": {
+            "criteria1_pass": 0,
+            "criteria2_pass": 0,
+            "criteria1_peak_difference": 12,
+            "criteria2_percentage_shifted": 1.0,
+            "label": 0,
+            "peaks_ppm": [
+                7.659454,
+                3.173346,
+                0.074761
+            ],
+            "sample_info": {
+                "amine": "Zinc tetrafluoroborate",
+                "aldehyde": "6-Methylpyridine-2-carboxaldehyde",
+                "metal": "Zinc tetrafluoroborate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 0,
+            "criteria3_pass": 0,
+            "criteria1and2_number_of_hits": 0,
+            "criteria3_number_of_ions_hits": 0,
+            "label": 0,
+            "mz_peaks": []
+        },
+        "reaction_label": 0
+    },
+    "11": {
+        "nmr_decision": {
+            "criteria1_pass": 0,
+            "criteria2_pass": 1,
+            "criteria1_peak_difference": 4,
+            "criteria2_percentage_shifted": 1.0,
+            "label": 0,
+            "peaks_ppm": [
+                8.389231,
+                7.897316,
+                7.807983,
+                7.442745,
+                7.367763,
+                7.18056,
+                5.691744,
+                5.584794,
+                0.115118
+            ],
+            "sample_info": {
+                "amine": "Iron(II) tetrafluoroborate hexahydrate",
+                "aldehyde": "6-Methoxypyridine-2-carbaldehyde",
+                "metal": "Iron(II) tetrafluoroborate hexahydrate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 1,
+            "criteria3_pass": 1,
+            "criteria1and2_number_of_hits": 3,
+            "criteria3_number_of_ions_hits": 2,
+            "label": 1,
+            "mz_peaks": [
+                {
+                    "mz_value": 448.6507263183594,
+                    "mode": "ES+",
+                    "formula": "metal_(2)_carbonyl_(6)_amine_(3)",
+                    "charge": "4",
+                    "mz_expected": 448.4,
+                    "time": 0.08603333333333334
+                },
+                {
+                    "mz_value": 452.5517883300781,
+                    "mode": "ES+",
+                    "formula": "metal_(10)_carbonyl_(30)_amine_(15)",
+                    "charge": "19",
+                    "mz_expected": 452.39,
+                    "time": 0.08603333333333334
+                }
+            ]
+        },
+        "reaction_label": 0
+    },
+    "12": {
+        "nmr_decision": {
+            "criteria1_pass": 0,
+            "criteria2_pass": 1,
+            "criteria1_peak_difference": 5,
+            "criteria2_percentage_shifted": 1.0,
+            "label": 0,
+            "peaks_ppm": [
+                9.894907,
+                7.741368,
+                7.317571,
+                7.014293,
+                3.490349,
+                1.198273,
+                0.076835
+            ],
+            "sample_info": {
+                "amine": "Iron(II) tetrafluoroborate hexahydrate",
+                "aldehyde": "6-Methoxypyridine-2-carbaldehyde",
+                "metal": "Iron(II) tetrafluoroborate hexahydrate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 1,
+            "criteria3_pass": 1,
+            "criteria1and2_number_of_hits": 5,
+            "criteria3_number_of_ions_hits": 2,
+            "label": 1,
+            "mz_peaks": [
+                {
+                    "mz_value": 355.25286865234375,
+                    "mode": "ES+",
+                    "formula": "metal_(2)_carbonyl_(6)_amine_(3)",
+                    "charge": "4",
+                    "mz_expected": 355.11,
+                    "time": 0.07703333333333333
+                },
+                {
+                    "mz_value": 355.25286865234375,
+                    "mode": "ES+",
+                    "formula": "metal_(10)_carbonyl_(30)_amine_(15)",
+                    "charge": "20",
+                    "mz_expected": 355.16,
+                    "time": 0.07703333333333333
+                }
+            ]
+        },
+        "reaction_label": 0
+    },
+    "13": {
+        "nmr_decision": {
+            "criteria1_pass": 0,
+            "criteria2_pass": 1,
+            "criteria1_peak_difference": 4,
+            "criteria2_percentage_shifted": 0.6666666666666666,
+            "label": 0,
+            "peaks_ppm": [
+                9.89764,
+                8.324056,
+                7.848387,
+                7.749916,
+                7.583817,
+                7.494518,
+                7.084786,
+                6.984257,
+                5.45391,
+                3.981738,
+                3.927858,
+                3.780447,
+                3.632885,
+                3.184381,
+                0.075327
+            ],
+            "sample_info": {
+                "amine": "Iron(II) tetrafluoroborate hexahydrate",
+                "aldehyde": "6-Methoxypyridine-2-carbaldehyde",
+                "metal": "Iron(II) tetrafluoroborate hexahydrate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 0,
+            "criteria3_pass": 0,
+            "criteria1and2_number_of_hits": 0,
+            "criteria3_number_of_ions_hits": 0,
+            "label": 0,
+            "mz_peaks": []
+        },
+        "reaction_label": 0
+    },
+    "14": {
+        "nmr_decision": {
+            "criteria1_pass": 0,
+            "criteria2_pass": 0,
+            "criteria1_peak_difference": 7,
+            "criteria2_percentage_shifted": 1.0,
+            "label": 0,
+            "peaks_ppm": [
+                7.082659,
+                5.715018,
+                3.982937,
+                0.075493
+            ],
+            "sample_info": {
+                "amine": "Iron(II) tetrafluoroborate hexahydrate",
+                "aldehyde": "6-Methylpyridine-2-carboxaldehyde",
+                "metal": "Iron(II) tetrafluoroborate hexahydrate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 1,
+            "criteria3_pass": 1,
+            "criteria1and2_number_of_hits": 5,
+            "criteria3_number_of_ions_hits": 2,
+            "label": 1,
+            "mz_peaks": [
+                {
+                    "mz_value": 356.67816162109375,
+                    "mode": "ES+",
+                    "formula": "metal_(2)_carbonyl_(6)_amine_(3)",
+                    "charge": "4",
+                    "mz_expected": 356.59,
+                    "time": 0.07703333333333333
+                },
+                {
+                    "mz_value": 356.67816162109375,
+                    "mode": "ES+",
+                    "formula": "metal_(10)_carbonyl_(30)_amine_(15)",
+                    "charge": "20",
+                    "mz_expected": 356.64,
+                    "time": 0.07703333333333333
+                }
+            ]
+        },
+        "reaction_label": 0
+    },
+    "15": {
+        "nmr_decision": {
+            "criteria1_pass": 0,
+            "criteria2_pass": 1,
+            "criteria1_peak_difference": 6,
+            "criteria2_percentage_shifted": 1.0,
+            "label": 0,
+            "peaks_ppm": [
+                8.05403,
+                7.799189,
+                5.442235,
+                4.011073,
+                3.285936,
+                1.285014,
+                1.197637,
+                1.110737,
+                0.075041
+            ],
+            "sample_info": {
+                "amine": "Iron(II) tetrafluoroborate hexahydrate",
+                "aldehyde": "6-Methylpyridine-2-carboxaldehyde",
+                "metal": "Iron(II) tetrafluoroborate hexahydrate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 0,
+            "criteria3_pass": 0,
+            "criteria1and2_number_of_hits": 0,
+            "criteria3_number_of_ions_hits": 0,
+            "label": 0,
+            "mz_peaks": []
+        },
+        "reaction_label": 0
+    },
+    "16": {
+        "nmr_decision": {
+            "criteria1_pass": 0,
+            "criteria2_pass": 0,
+            "criteria1_peak_difference": 9,
+            "criteria2_percentage_shifted": 1.0,
+            "label": 0,
+            "peaks_ppm": [
+                8.319398,
+                7.77269,
+                7.533572,
+                4.009507,
+                0.072554
+            ],
+            "sample_info": {
+                "amine": "Zinc tetrafluoroborate",
+                "aldehyde": "6-Methoxypyridine-2-carbaldehyde",
+                "metal": "Zinc tetrafluoroborate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 1,
+            "criteria3_pass": 1,
+            "criteria1and2_number_of_hits": 5,
+            "criteria3_number_of_ions_hits": 2,
+            "label": 1,
+            "mz_peaks": [
+                {
+                    "mz_value": 443.47430419921875,
+                    "mode": "ES+",
+                    "formula": "metal_(10)_carbonyl_(30)_amine_(15)",
+                    "charge": "20",
+                    "mz_expected": 443.7,
+                    "time": 0.08603333333333334
+                },
+                {
+                    "mz_value": 444.29949951171875,
+                    "mode": "ES+",
+                    "formula": "metal_(2)_carbonyl_(6)_amine_(3)",
+                    "charge": "4",
+                    "mz_expected": 443.9,
+                    "time": 0.08603333333333334
+                }
+            ]
+        },
+        "reaction_label": 0
+    },
+    "17": {
+        "nmr_decision": {
+            "criteria1_pass": 0,
+            "criteria2_pass": 0,
+            "criteria1_peak_difference": 13,
+            "criteria2_percentage_shifted": 0.6,
+            "label": 0,
+            "peaks_ppm": [
+                9.896933,
+                7.248074,
+                3.979394,
+                3.70162,
+                0.077742
+            ],
+            "sample_info": {
+                "amine": "Zinc tetrafluoroborate",
+                "aldehyde": "6-Methoxypyridine-2-carbaldehyde",
+                "metal": "Zinc tetrafluoroborate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 0,
+            "criteria3_pass": 0,
+            "criteria1and2_number_of_hits": 0,
+            "criteria3_number_of_ions_hits": 0,
+            "label": 0,
+            "mz_peaks": []
+        },
+        "reaction_label": 0
+    },
+    "18": {
+        "nmr_decision": {
+            "criteria1_pass": 0,
+            "criteria2_pass": 0,
+            "criteria1_peak_difference": 13,
+            "criteria2_percentage_shifted": 1.0,
+            "label": 0,
+            "peaks_ppm": [
+                3.372931
+            ],
+            "sample_info": {
+                "amine": "Iron(II) tetrafluoroborate hexahydrate",
+                "aldehyde": "6-Methoxypyridine-2-carbaldehyde",
+                "metal": "Iron(II) tetrafluoroborate hexahydrate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 1,
+            "criteria3_pass": 1,
+            "criteria1and2_number_of_hits": 4,
+            "criteria3_number_of_ions_hits": 4,
+            "label": 1,
+            "mz_peaks": [
+                {
+                    "mz_value": 472.7322692871094,
+                    "mode": "ES+",
+                    "formula": "metal_(2)_carbonyl_(6)_amine_(3)",
+                    "charge": "4",
+                    "mz_expected": 472.39,
+                    "time": 0.07703333333333333
+                },
+                {
+                    "mz_value": 472.7322692871094,
+                    "mode": "ES+",
+                    "formula": "metal_(4)_carbonyl_(12)_amine_(6)",
+                    "charge": "8",
+                    "mz_expected": 472.52,
+                    "time": 0.07703333333333333
+                },
+                {
+                    "mz_value": 658.49169921875,
+                    "mode": "ES+",
+                    "formula": "metal_(2)_carbonyl_(6)_amine_(3)",
+                    "charge": "3",
+                    "mz_expected": 658.86,
+                    "time": 0.07703333333333333
+                },
+                {
+                    "mz_value": 659.3169555664062,
+                    "mode": "ES+",
+                    "formula": "metal_(4)_carbonyl_(12)_amine_(6)",
+                    "charge": "6",
+                    "mz_expected": 659.02,
+                    "time": 0.07703333333333333
+                }
+            ]
+        },
+        "reaction_label": 0
+    },
+    "19": {
+        "nmr_decision": {
+            "criteria1_pass": 0,
+            "criteria2_pass": 0,
+            "criteria1_peak_difference": 10,
+            "criteria2_percentage_shifted": 1.0,
+            "label": 0,
+            "peaks_ppm": [
+                7.83857,
+                7.743722,
+                7.632195,
+                7.157982,
+                3.963301,
+                3.268415,
+                1.190064,
+                0.071419
+            ],
+            "sample_info": {
+                "amine": "Iron(II) tetrafluoroborate hexahydrate",
+                "aldehyde": "6-Methoxypyridine-2-carbaldehyde",
+                "metal": "Iron(II) tetrafluoroborate hexahydrate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 0,
+            "criteria3_pass": 0,
+            "criteria1and2_number_of_hits": 0,
+            "criteria3_number_of_ions_hits": 0,
+            "label": 0,
+            "mz_peaks": []
+        },
+        "reaction_label": 0
+    },
+    "20": {
+        "nmr_decision": {
+            "criteria1_pass": 0,
+            "criteria2_pass": 1,
+            "criteria1_peak_difference": 5,
+            "criteria2_percentage_shifted": 1.0,
+            "label": 0,
+            "peaks_ppm": [
+                9.904668,
+                8.32131,
+                8.230474,
+                7.851696,
+                7.498617,
+                7.406658,
+                7.201584,
+                7.102407,
+                4.441019,
+                3.983708,
+                3.464163,
+                3.372313,
+                0.075788
+            ],
+            "sample_info": {
+                "amine": "Zinc tetrafluoroborate",
+                "aldehyde": "5-Methylpicolinaldehyde",
+                "metal": "Zinc tetrafluoroborate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 1,
+            "criteria3_pass": 1,
+            "criteria1and2_number_of_hits": 9,
+            "criteria3_number_of_ions_hits": 9,
+            "label": 1,
+            "mz_peaks": [
+                {
+                    "mz_value": 467.9309997558594,
+                    "mode": "ES+",
+                    "formula": "metal_(2)_carbonyl_(6)_amine_(3)",
+                    "charge": "4",
+                    "mz_expected": 467.9,
+                    "time": 0.07703333333333333
+                },
+                {
+                    "mz_value": 467.9309997558594,
+                    "mode": "ES+",
+                    "formula": "metal_(4)_carbonyl_(12)_amine_(6)",
+                    "charge": "8",
+                    "mz_expected": 467.77,
+                    "time": 0.07703333333333333
+                },
+                {
+                    "mz_value": 467.9309997558594,
+                    "mode": "ES+",
+                    "formula": "metal_(6)_carbonyl_(18)_amine_(9)",
+                    "charge": "12",
+                    "mz_expected": 467.73,
+                    "time": 0.07703333333333333
+                },
+                {
+                    "mz_value": 467.9309997558594,
+                    "mode": "ES+",
+                    "formula": "metal_(8)_carbonyl_(24)_amine_(12)",
+                    "charge": "16",
+                    "mz_expected": 467.71,
+                    "time": 0.07703333333333333
+                },
+                {
+                    "mz_value": 467.9309997558594,
+                    "mode": "ES+",
+                    "formula": "metal_(10)_carbonyl_(30)_amine_(15)",
+                    "charge": "20",
+                    "mz_expected": 467.7,
+                    "time": 0.07703333333333333
+                },
+                {
+                    "mz_value": 652.7896728515625,
+                    "mode": "ES+",
+                    "formula": "metal_(2)_carbonyl_(6)_amine_(3)",
+                    "charge": "3",
+                    "mz_expected": 652.86,
+                    "time": 0.07703333333333333
+                },
+                {
+                    "mz_value": 652.7896728515625,
+                    "mode": "ES+",
+                    "formula": "metal_(4)_carbonyl_(12)_amine_(6)",
+                    "charge": "6",
+                    "mz_expected": 652.7,
+                    "time": 0.07703333333333333
+                },
+                {
+                    "mz_value": 652.7896728515625,
+                    "mode": "ES+",
+                    "formula": "metal_(6)_carbonyl_(18)_amine_(9)",
+                    "charge": "9",
+                    "mz_expected": 652.64,
+                    "time": 0.07703333333333333
+                },
+                {
+                    "mz_value": 652.7896728515625,
+                    "mode": "ES+",
+                    "formula": "metal_(8)_carbonyl_(24)_amine_(12)",
+                    "charge": "12",
+                    "mz_expected": 652.61,
+                    "time": 0.07703333333333333
+                }
+            ]
+        },
+        "reaction_label": 0
+    },
+    "21": {
+        "nmr_decision": {
+            "criteria1_pass": 0,
+            "criteria2_pass": 1,
+            "criteria1_peak_difference": 9,
+            "criteria2_percentage_shifted": 0.9375,
+            "label": 0,
+            "peaks_ppm": [
+                9.960265,
+                8.488924,
+                8.294007,
+                8.191071,
+                8.136789,
+                8.038797,
+                7.996684,
+                7.725255,
+                7.238084,
+                6.985145,
+                6.88421,
+                6.606204,
+                6.170626,
+                4.001052,
+                3.829143,
+                0.077383
+            ],
+            "sample_info": {
+                "amine": "Zinc tetrafluoroborate",
+                "aldehyde": "5-Methylpicolinaldehyde",
+                "metal": "Zinc tetrafluoroborate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 1,
+            "criteria3_pass": 0,
+            "criteria1and2_number_of_hits": 1,
+            "criteria3_number_of_ions_hits": 0,
+            "label": 0,
+            "mz_peaks": []
+        },
+        "reaction_label": 0
+    },
+    "23": {
+        "nmr_decision": {
+            "criteria1_pass": 1,
+            "criteria2_pass": 1,
+            "criteria1_peak_difference": 0,
+            "criteria2_percentage_shifted": 1.0,
+            "label": 1,
+            "peaks_ppm": [
+                8.537015,
+                8.148152,
+                7.66739,
+                6.862868,
+                6.760295,
+                6.279407,
+                6.175472,
+                0.073364
+            ],
+            "sample_info": {
+                "amine": "Iron(II) tetrafluoroborate hexahydrate",
+                "aldehyde": "5-Methylpicolinaldehyde",
+                "metal": "Iron(II) tetrafluoroborate hexahydrate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 1,
+            "criteria3_pass": 0,
+            "criteria1and2_number_of_hits": 1,
+            "criteria3_number_of_ions_hits": 0,
+            "label": 0,
+            "mz_peaks": []
+        },
+        "reaction_label": 0
+    },
+    "24": {
+        "nmr_decision": {
+            "criteria1_pass": 1,
+            "criteria2_pass": 1,
+            "criteria1_peak_difference": 3,
+            "criteria2_percentage_shifted": 1.0,
+            "label": 1,
+            "peaks_ppm": [
+                8.898852,
+                8.484893,
+                8.386021,
+                8.188964,
+                7.132992,
+                6.960876,
+                6.864536,
+                5.528411,
+                4.00449,
+                0.07689
+            ],
+            "sample_info": {
+                "amine": "Iron(II) tetrafluoroborate hexahydrate",
+                "aldehyde": "5-Methylpicolinaldehyde",
+                "metal": "Iron(II) tetrafluoroborate hexahydrate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 1,
+            "criteria3_pass": 1,
+            "criteria1and2_number_of_hits": 6,
+            "criteria3_number_of_ions_hits": 3,
+            "label": 1,
+            "mz_peaks": [
+                {
+                    "mz_value": 331.3227844238281,
+                    "mode": "ES+",
+                    "formula": "metal_(2)_carbonyl_(6)_amine_(3)",
+                    "charge": "4",
+                    "mz_expected": 331.12,
+                    "time": 0.07703333333333333
+                },
+                {
+                    "mz_value": 331.3227844238281,
+                    "mode": "ES+",
+                    "formula": "metal_(10)_carbonyl_(30)_amine_(15)",
+                    "charge": "20",
+                    "mz_expected": 331.17,
+                    "time": 0.07703333333333333
+                },
+                {
+                    "mz_value": 405.2895202636719,
+                    "mode": "ES+",
+                    "formula": "metal_(10)_carbonyl_(30)_amine_(15)",
+                    "charge": "17",
+                    "mz_expected": 404.96,
+                    "time": 0.07703333333333333
+                }
+            ]
+        },
+        "reaction_label": 1
+    },
+    "26": {
+        "nmr_decision": {
+            "criteria1_pass": 1,
+            "criteria2_pass": 1,
+            "criteria1_peak_difference": 1,
+            "criteria2_percentage_shifted": 1.0,
+            "label": 1,
+            "peaks_ppm": [
+                9.544775,
+                8.702397,
+                8.603959,
+                8.202608,
+                8.105776,
+                7.597395,
+                6.879179,
+                5.698751,
+                3.29801,
+                0.103384
+            ],
+            "sample_info": {
+                "amine": "Zinc tetrafluoroborate",
+                "aldehyde": "5-Methylpicolinaldehyde",
+                "metal": "Zinc tetrafluoroborate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 1,
+            "criteria3_pass": 1,
+            "criteria1and2_number_of_hits": 5,
+            "criteria3_number_of_ions_hits": 2,
+            "label": 1,
+            "mz_peaks": [
+                {
+                    "mz_value": 332.7481384277344,
+                    "mode": "ES+",
+                    "formula": "metal_(2)_carbonyl_(6)_amine_(3)",
+                    "charge": "4",
+                    "mz_expected": 332.6,
+                    "time": 0.07703333333333333
+                },
+                {
+                    "mz_value": 332.7481384277344,
+                    "mode": "ES+",
+                    "formula": "metal_(10)_carbonyl_(30)_amine_(15)",
+                    "charge": "20",
+                    "mz_expected": 332.65,
+                    "time": 0.07703333333333333
+                }
+            ]
+        },
+        "reaction_label": 1
+    },
+    "27": {
+        "nmr_decision": {
+            "criteria1_pass": 0,
+            "criteria2_pass": 0,
+            "criteria1_peak_difference": 7,
+            "criteria2_percentage_shifted": 1.0,
+            "label": 0,
+            "peaks_ppm": [
+                8.486961,
+                7.83808,
+                7.531471,
+                7.323657,
+                3.53767,
+                0.126743
+            ],
+            "sample_info": {
+                "amine": "Zinc tetrafluoroborate",
+                "aldehyde": "5-Methylpicolinaldehyde",
+                "metal": "Zinc tetrafluoroborate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 0,
+            "criteria3_pass": 0,
+            "criteria1and2_number_of_hits": 0,
+            "criteria3_number_of_ions_hits": 0,
+            "label": 0,
+            "mz_peaks": []
+        },
+        "reaction_label": 0
+    },
+    "28": {
+        "nmr_decision": {
+            "criteria1_pass": 1,
+            "criteria2_pass": 1,
+            "criteria1_peak_difference": 1,
+            "criteria2_percentage_shifted": 0.9,
+            "label": 1,
+            "peaks_ppm": [
+                8.312134,
+                8.091283,
+                8.012895,
+                7.803852,
+                7.41734,
+                7.285453,
+                7.178382,
+                5.829658,
+                5.727052,
+                0.076423
+            ],
+            "sample_info": {
+                "amine": "Iron(II) tetrafluoroborate hexahydrate",
+                "aldehyde": "5-Methylpicolinaldehyde",
+                "metal": "Iron(II) tetrafluoroborate hexahydrate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 1,
+            "criteria3_pass": 1,
+            "criteria1and2_number_of_hits": 4,
+            "criteria3_number_of_ions_hits": 3,
+            "label": 1,
+            "mz_peaks": [
+                {
+                    "mz_value": 448.7257385253906,
+                    "mode": "ES+",
+                    "formula": "metal_(2)_carbonyl_(6)_amine_(3)",
+                    "charge": "4",
+                    "mz_expected": 448.4,
+                    "time": 0.07703333333333333
+                },
+                {
+                    "mz_value": 448.7257385253906,
+                    "mode": "ES+",
+                    "formula": "metal_(4)_carbonyl_(12)_amine_(6)",
+                    "charge": "8",
+                    "mz_expected": 448.52,
+                    "time": 0.07703333333333333
+                },
+                {
+                    "mz_value": 627.4307861328125,
+                    "mode": "ES+",
+                    "formula": "metal_(4)_carbonyl_(12)_amine_(6)",
+                    "charge": "6",
+                    "mz_expected": 627.03,
+                    "time": 0.07703333333333333
+                }
+            ]
+        },
+        "reaction_label": 1
+    },
+    "29": {
+        "nmr_decision": {
+            "criteria1_pass": 0,
+            "criteria2_pass": 0,
+            "criteria1_peak_difference": 12,
+            "criteria2_percentage_shifted": 1.0,
+            "label": 0,
+            "peaks_ppm": [
+                0.07502
+            ],
+            "sample_info": {
+                "amine": "Iron(II) tetrafluoroborate hexahydrate",
+                "aldehyde": "5-Methylpicolinaldehyde",
+                "metal": "Iron(II) tetrafluoroborate hexahydrate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 0,
+            "criteria3_pass": 0,
+            "criteria1and2_number_of_hits": 0,
+            "criteria3_number_of_ions_hits": 0,
+            "label": 0,
+            "mz_peaks": []
+        },
+        "reaction_label": 0
+    },
+    "30": {
+        "nmr_decision": {
+            "criteria1_pass": 0,
+            "criteria2_pass": 1,
+            "criteria1_peak_difference": 6,
+            "criteria2_percentage_shifted": 1.0,
+            "label": 0,
+            "peaks_ppm": [
+                8.609621,
+                8.295914,
+                8.198267,
+                8.068133,
+                7.831694,
+                7.49837,
+                6.930202,
+                6.7776,
+                6.673842,
+                5.519946,
+                5.415822,
+                5.255835,
+                3.486568,
+                0.076402
+            ],
+            "sample_info": {
+                "amine": "Zinc tetrafluoroborate",
+                "aldehyde": "6-Methylpyridine-2-carboxaldehyde",
+                "metal": "Zinc tetrafluoroborate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 1,
+            "criteria3_pass": 1,
+            "criteria1and2_number_of_hits": 10,
+            "criteria3_number_of_ions_hits": 10,
+            "label": 1,
+            "mz_peaks": [
+                {
+                    "mz_value": 443.9244384765625,
+                    "mode": "ES+",
+                    "formula": "metal_(2)_carbonyl_(6)_amine_(3)",
+                    "charge": "4",
+                    "mz_expected": 443.9,
+                    "time": 0.07703333333333333
+                },
+                {
+                    "mz_value": 443.9244384765625,
+                    "mode": "ES+",
+                    "formula": "metal_(4)_carbonyl_(12)_amine_(6)",
+                    "charge": "8",
+                    "mz_expected": 443.78,
+                    "time": 0.07703333333333333
+                },
+                {
+                    "mz_value": 443.9244384765625,
+                    "mode": "ES+",
+                    "formula": "metal_(6)_carbonyl_(18)_amine_(9)",
+                    "charge": "12",
+                    "mz_expected": 443.74,
+                    "time": 0.07703333333333333
+                },
+                {
+                    "mz_value": 443.9244384765625,
+                    "mode": "ES+",
+                    "formula": "metal_(8)_carbonyl_(24)_amine_(12)",
+                    "charge": "16",
+                    "mz_expected": 443.72,
+                    "time": 0.07703333333333333
+                },
+                {
+                    "mz_value": 443.9244384765625,
+                    "mode": "ES+",
+                    "formula": "metal_(10)_carbonyl_(30)_amine_(15)",
+                    "charge": "20",
+                    "mz_expected": 443.7,
+                    "time": 0.07703333333333333
+                },
+                {
+                    "mz_value": 598.2459716796875,
+                    "mode": "ES+",
+                    "formula": "metal_(10)_carbonyl_(30)_amine_(15)",
+                    "charge": "14",
+                    "mz_expected": 598.55,
+                    "time": 0.07703333333333333
+                },
+                {
+                    "mz_value": 620.6034545898438,
+                    "mode": "ES+",
+                    "formula": "metal_(2)_carbonyl_(6)_amine_(3)",
+                    "charge": "3",
+                    "mz_expected": 620.87,
+                    "time": 0.07703333333333333
+                },
+                {
+                    "mz_value": 620.6034545898438,
+                    "mode": "ES+",
+                    "formula": "metal_(4)_carbonyl_(12)_amine_(6)",
+                    "charge": "6",
+                    "mz_expected": 620.71,
+                    "time": 0.07703333333333333
+                },
+                {
+                    "mz_value": 620.6034545898438,
+                    "mode": "ES+",
+                    "formula": "metal_(6)_carbonyl_(18)_amine_(9)",
+                    "charge": "9",
+                    "mz_expected": 620.65,
+                    "time": 0.07703333333333333
+                },
+                {
+                    "mz_value": 620.6034545898438,
+                    "mode": "ES+",
+                    "formula": "metal_(8)_carbonyl_(24)_amine_(12)",
+                    "charge": "12",
+                    "mz_expected": 620.62,
+                    "time": 0.07703333333333333
+                }
+            ]
+        },
+        "reaction_label": 0
+    },
+    "31": {
+        "nmr_decision": {
+            "criteria1_pass": 1,
+            "criteria2_pass": 1,
+            "criteria1_peak_difference": 1,
+            "criteria2_percentage_shifted": 1.0,
+            "label": 1,
+            "peaks_ppm": [
+                7.652068,
+                7.395548,
+                6.981505,
+                4.894234,
+                4.400518,
+                4.009753,
+                0.076056
+            ],
+            "sample_info": {
+                "amine": "Iron(II) tetrafluoroborate hexahydrate",
+                "aldehyde": "6-Methylpyridine-2-carboxaldehyde",
+                "metal": "Iron(II) tetrafluoroborate hexahydrate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 0,
+            "criteria3_pass": 0,
+            "criteria1and2_number_of_hits": 0,
+            "criteria3_number_of_ions_hits": 0,
+            "label": 0,
+            "mz_peaks": []
+        },
+        "reaction_label": 0
+    },
+    "32": {
+        "nmr_decision": {
+            "criteria1_pass": 1,
+            "criteria2_pass": 1,
+            "criteria1_peak_difference": 2,
+            "criteria2_percentage_shifted": 1.0,
+            "label": 1,
+            "peaks_ppm": [
+                9.950559,
+                8.442403,
+                7.770213,
+                7.414234,
+                5.379822,
+                4.853096,
+                4.131895,
+                3.489734,
+                0.076959
+            ],
+            "sample_info": {
+                "amine": "Zinc tetrafluoroborate",
+                "aldehyde": "6-Methoxypyridine-2-carbaldehyde",
+                "metal": "Zinc tetrafluoroborate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 0,
+            "criteria3_pass": 0,
+            "criteria1and2_number_of_hits": 0,
+            "criteria3_number_of_ions_hits": 0,
+            "label": 0,
+            "mz_peaks": []
+        },
+        "reaction_label": 0
+    },
+    "33": {
+        "nmr_decision": {
+            "criteria1_pass": 0,
+            "criteria2_pass": 1,
+            "criteria1_peak_difference": 5,
+            "criteria2_percentage_shifted": 1.0,
+            "label": 0,
+            "peaks_ppm": [
+                9.916492,
+                7.598203,
+                4.829066,
+                3.986494,
+                3.528804,
+                0.076912
+            ],
+            "sample_info": {
+                "amine": "Iron(II) tetrafluoroborate hexahydrate",
+                "aldehyde": "6-Methoxypyridine-2-carbaldehyde",
+                "metal": "Iron(II) tetrafluoroborate hexahydrate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 0,
+            "criteria3_pass": 0,
+            "criteria1and2_number_of_hits": 0,
+            "criteria3_number_of_ions_hits": 0,
+            "label": 0,
+            "mz_peaks": []
+        },
+        "reaction_label": 0
+    },
+    "34": {
+        "nmr_decision": {
+            "criteria1_pass": 0,
+            "criteria2_pass": 1,
+            "criteria1_peak_difference": 9,
+            "criteria2_percentage_shifted": 1.0,
+            "label": 0,
+            "peaks_ppm": [
+                9.897566,
+                8.424354,
+                7.849647,
+                7.753647,
+                7.581659,
+                7.490786,
+                7.42306,
+                7.088409,
+                6.986367,
+                4.871724,
+                4.144041,
+                3.98156,
+                3.936211,
+                3.485605,
+                0.076208
+            ],
+            "sample_info": {
+                "amine": "Zinc tetrafluoroborate",
+                "aldehyde": "5-Methylpicolinaldehyde",
+                "metal": "Zinc tetrafluoroborate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 0,
+            "criteria3_pass": 0,
+            "criteria1and2_number_of_hits": 0,
+            "criteria3_number_of_ions_hits": 0,
+            "label": 0,
+            "mz_peaks": []
+        },
+        "reaction_label": 0
+    },
+    "35": {
+        "nmr_decision": {
+            "criteria1_pass": 1,
+            "criteria2_pass": 1,
+            "criteria1_peak_difference": 3,
+            "criteria2_percentage_shifted": 1.0,
+            "label": 1,
+            "peaks_ppm": [
+                7.834291,
+                4.620279,
+                0.097361
+            ],
+            "sample_info": {
+                "amine": "Iron(II) tetrafluoroborate hexahydrate",
+                "aldehyde": "5-Methylpicolinaldehyde",
+                "metal": "Iron(II) tetrafluoroborate hexahydrate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 1,
+            "criteria3_pass": 1,
+            "criteria1and2_number_of_hits": 1,
+            "criteria3_number_of_ions_hits": 1,
+            "label": 1,
+            "mz_peaks": [
+                {
+                    "mz_value": 434.39691162109375,
+                    "mode": "ES+",
+                    "formula": "metal_(10)_carbonyl_(30)_amine_(15)",
+                    "charge": "12",
+                    "mz_expected": 434.15,
+                    "time": 0.08603333333333334
+                }
+            ]
+        },
+        "reaction_label": 1
+    },
+    "36": {
+        "nmr_decision": {
+            "criteria1_pass": 1,
+            "criteria2_pass": 1,
+            "criteria1_peak_difference": 2,
+            "criteria2_percentage_shifted": 1.0,
+            "label": 1,
+            "peaks_ppm": [
+                9.963472,
+                8.622712,
+                7.800254,
+                5.681925,
+                4.101386,
+                3.493347,
+                0.075736
+            ],
+            "sample_info": {
+                "amine": "Zinc tetrafluoroborate",
+                "aldehyde": "1-Methyl-2-imidazolecarboxaldehyde",
+                "metal": "Zinc tetrafluoroborate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 0,
+            "criteria3_pass": 0,
+            "criteria1and2_number_of_hits": 0,
+            "criteria3_number_of_ions_hits": 0,
+            "label": 0,
+            "mz_peaks": []
+        },
+        "reaction_label": 0
+    },
+    "37": {
+        "nmr_decision": {
+            "criteria1_pass": 0,
+            "criteria2_pass": 1,
+            "criteria1_peak_difference": 5,
+            "criteria2_percentage_shifted": 0.9230769230769231,
+            "label": 0,
+            "peaks_ppm": [
+                9.698923,
+                8.346912,
+                7.516734,
+                7.171088,
+                6.995925,
+                6.893064,
+                6.809032,
+                6.584323,
+                6.380321,
+                3.990824,
+                3.815787,
+                3.642339,
+                0.077094
+            ],
+            "sample_info": {
+                "amine": "Zinc tetrafluoroborate",
+                "aldehyde": "1-Methyl-2-imidazolecarboxaldehyde",
+                "metal": "Zinc tetrafluoroborate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 1,
+            "criteria3_pass": 1,
+            "criteria1and2_number_of_hits": 4,
+            "criteria3_number_of_ions_hits": 3,
+            "label": 1,
+            "mz_peaks": [
+                {
+                    "mz_value": 319.5454406738281,
+                    "mode": "ES+",
+                    "formula": "metal_(4)_carbonyl_(12)_amine_(6)",
+                    "charge": "8",
+                    "mz_expected": 319.48,
+                    "time": 0.07703333333333333
+                },
+                {
+                    "mz_value": 454.50225830078125,
+                    "mode": "ES+",
+                    "formula": "metal_(2)_carbonyl_(6)_amine_(3)",
+                    "charge": "3",
+                    "mz_expected": 454.48,
+                    "time": 0.07703333333333333
+                },
+                {
+                    "mz_value": 455.3275146484375,
+                    "mode": "ES+",
+                    "formula": "metal_(4)_carbonyl_(12)_amine_(6)",
+                    "charge": "6",
+                    "mz_expected": 454.98,
+                    "time": 0.07703333333333333
+                }
+            ]
+        },
+        "reaction_label": 0
+    },
+    "38": {
+        "nmr_decision": {
+            "criteria1_pass": 1,
+            "criteria2_pass": 1,
+            "criteria1_peak_difference": 2,
+            "criteria2_percentage_shifted": 1.0,
+            "label": 1,
+            "peaks_ppm": [
+                8.359522,
+                7.229827,
+                6.891816,
+                5.452815,
+                3.874541,
+                3.666818,
+                3.601907,
+                3.443936,
+                0.074382
+            ],
+            "sample_info": {
+                "amine": "Zinc tetrafluoroborate",
+                "aldehyde": "1-Methyl-2-imidazolecarboxaldehyde",
+                "metal": "Zinc tetrafluoroborate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 0,
+            "criteria3_pass": 0,
+            "criteria1and2_number_of_hits": 0,
+            "criteria3_number_of_ions_hits": 0,
+            "label": 0,
+            "mz_peaks": []
+        },
+        "reaction_label": 0
+    },
+    "39": {
+        "nmr_decision": {
+            "criteria1_pass": 0,
+            "criteria2_pass": 0,
+            "criteria1_peak_difference": 8,
+            "criteria2_percentage_shifted": 1.0,
+            "label": 0,
+            "peaks_ppm": [
+                4.058032,
+                0.137708
+            ],
+            "sample_info": {
+                "amine": "Zinc tetrafluoroborate",
+                "aldehyde": "6-Methylpyridine-2-carboxaldehyde",
+                "metal": "Zinc tetrafluoroborate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 1,
+            "criteria3_pass": 1,
+            "criteria1and2_number_of_hits": 2,
+            "criteria3_number_of_ions_hits": 1,
+            "label": 1,
+            "mz_peaks": [
+                {
+                    "mz_value": 320.89569091796875,
+                    "mode": "ES+",
+                    "formula": "metal_(2)_carbonyl_(6)_amine_(3)",
+                    "charge": "4",
+                    "mz_expected": 320.59,
+                    "time": 0.07703333333333333
+                }
+            ]
+        },
+        "reaction_label": 0
+    },
+    "40": {
+        "nmr_decision": {
+            "criteria1_pass": 1,
+            "criteria2_pass": 1,
+            "criteria1_peak_difference": 2,
+            "criteria2_percentage_shifted": 1.0,
+            "label": 1,
+            "peaks_ppm": [
+                10.001623,
+                8.064272,
+                7.976538,
+                7.825307,
+                7.438084,
+                3.105177,
+                0.132133
+            ],
+            "sample_info": {
+                "amine": "Iron(II) tetrafluoroborate hexahydrate",
+                "aldehyde": "1-Methyl-2-imidazolecarboxaldehyde",
+                "metal": "Iron(II) tetrafluoroborate hexahydrate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 1,
+            "criteria3_pass": 1,
+            "criteria1and2_number_of_hits": 2,
+            "criteria3_number_of_ions_hits": 1,
+            "label": 1,
+            "mz_peaks": [
+                {
+                    "mz_value": 529.1488647460938,
+                    "mode": "ES+",
+                    "formula": "metal_(10)_carbonyl_(30)_amine_(15)",
+                    "charge": "12",
+                    "mz_expected": 529.19,
+                    "time": 0.07703333333333333
+                }
+            ]
+        },
+        "reaction_label": 1
+    },
+    "41": {
+        "nmr_decision": {
+            "criteria1_pass": 0,
+            "criteria2_pass": 0,
+            "criteria1_peak_difference": 6,
+            "criteria2_percentage_shifted": 1.0,
+            "label": 0,
+            "peaks_ppm": [
+                7.473578,
+                0.074759
+            ],
+            "sample_info": {
+                "amine": "Iron(II) tetrafluoroborate hexahydrate",
+                "aldehyde": "1-Methyl-2-imidazolecarboxaldehyde",
+                "metal": "Iron(II) tetrafluoroborate hexahydrate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 1,
+            "criteria3_pass": 1,
+            "criteria1and2_number_of_hits": 5,
+            "criteria3_number_of_ions_hits": 2,
+            "label": 1,
+            "mz_peaks": [
+                {
+                    "mz_value": 314.6694641113281,
+                    "mode": "ES+",
+                    "formula": "metal_(2)_carbonyl_(6)_amine_(3)",
+                    "charge": "4",
+                    "mz_expected": 314.61,
+                    "time": 0.07703333333333333
+                },
+                {
+                    "mz_value": 314.6694641113281,
+                    "mode": "ES+",
+                    "formula": "metal_(10)_carbonyl_(30)_amine_(15)",
+                    "charge": "20",
+                    "mz_expected": 314.66,
+                    "time": 0.07703333333333333
+                }
+            ]
+        },
+        "reaction_label": 0
+    },
+    "42": {
+        "nmr_decision": {
+            "criteria1_pass": 0,
+            "criteria2_pass": 1,
+            "criteria1_peak_difference": 9,
+            "criteria2_percentage_shifted": 1.0,
+            "label": 0,
+            "peaks_ppm": [
+                9.740289,
+                8.407337,
+                7.304457,
+                7.233824,
+                7.166422,
+                5.515641,
+                5.444927,
+                3.98231,
+                3.867997,
+                3.79007,
+                3.661862,
+                3.190314,
+                1.325278,
+                1.234878,
+                1.146581,
+                0.113166
+            ],
+            "sample_info": {
+                "amine": "Iron(II) tetrafluoroborate hexahydrate",
+                "aldehyde": "1-Methyl-2-imidazolecarboxaldehyde",
+                "metal": "Iron(II) tetrafluoroborate hexahydrate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 0,
+            "criteria3_pass": 0,
+            "criteria1and2_number_of_hits": 0,
+            "criteria3_number_of_ions_hits": 0,
+            "label": 0,
+            "mz_peaks": []
+        },
+        "reaction_label": 0
+    },
+    "44": {
+        "nmr_decision": {
+            "criteria1_pass": 0,
+            "criteria2_pass": 1,
+            "criteria1_peak_difference": 4,
+            "criteria2_percentage_shifted": 1.0,
+            "label": 0,
+            "peaks_ppm": [
+                9.989781,
+                7.958898,
+                7.789866,
+                7.077914,
+                3.617586,
+                0.093857
+            ],
+            "sample_info": {
+                "amine": "Zinc tetrafluoroborate",
+                "aldehyde": "1-Methyl-2-imidazolecarboxaldehyde",
+                "metal": "Zinc tetrafluoroborate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 0,
+            "criteria3_pass": 0,
+            "criteria1and2_number_of_hits": 0,
+            "criteria3_number_of_ions_hits": 0,
+            "label": 0,
+            "mz_peaks": []
+        },
+        "reaction_label": 0
+    },
+    "45": {
+        "nmr_decision": {
+            "criteria1_pass": 0,
+            "criteria2_pass": 0,
+            "criteria1_peak_difference": 11,
+            "criteria2_percentage_shifted": 1.0,
+            "label": 0,
+            "peaks_ppm": [
+                7.251262,
+                4.008446,
+                0.143923
+            ],
+            "sample_info": {
+                "amine": "Zinc tetrafluoroborate",
+                "aldehyde": "1-Methyl-2-imidazolecarboxaldehyde",
+                "metal": "Zinc tetrafluoroborate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 0,
+            "criteria3_pass": 0,
+            "criteria1and2_number_of_hits": 0,
+            "criteria3_number_of_ions_hits": 0,
+            "label": 0,
+            "mz_peaks": []
+        },
+        "reaction_label": 0
+    },
+    "47": {
+        "nmr_decision": {
+            "criteria1_pass": 0,
+            "criteria2_pass": 0,
+            "criteria1_peak_difference": 7,
+            "criteria2_percentage_shifted": 1.0,
+            "label": 0,
+            "peaks_ppm": [
+                7.22326,
+                4.050104,
+                0.145905
+            ],
+            "sample_info": {
+                "amine": "Iron(II) tetrafluoroborate hexahydrate",
+                "aldehyde": "1-Methyl-2-imidazolecarboxaldehyde",
+                "metal": "Iron(II) tetrafluoroborate hexahydrate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 1,
+            "criteria3_pass": 1,
+            "criteria1and2_number_of_hits": 1,
+            "criteria3_number_of_ions_hits": 1,
+            "label": 1,
+            "mz_peaks": [
+                {
+                    "mz_value": 452.3266906738281,
+                    "mode": "ES+",
+                    "formula": "metal_(10)_carbonyl_(30)_amine_(15)",
+                    "charge": "16",
+                    "mz_expected": 452.0,
+                    "time": 0.07703333333333333
+                }
+            ]
+        },
+        "reaction_label": 0
+    },
+    "23batch3": {
+        "nmr_decision": {
+            "criteria1_pass": 0,
+            "criteria2_pass": 1,
+            "criteria1_peak_difference": 4,
+            "criteria2_percentage_shifted": 1.0,
+            "label": 0,
+            "peaks_ppm": [
+                8.901332,
+                8.488189,
+                8.388828,
+                8.19228,
+                7.349117,
+                7.137553,
+                6.963553,
+                6.864733,
+                5.532537,
+                5.436166,
+                4.000216,
+                0.076454
+            ],
+            "sample_info": {
+                "amine": "Iron(II) tetrafluoroborate hexahydrate",
+                "aldehyde": "5-Methylpicolinaldehyde",
+                "metal": "Iron(II) tetrafluoroborate hexahydrate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 1,
+            "criteria3_pass": 1,
+            "criteria1and2_number_of_hits": 6,
+            "criteria3_number_of_ions_hits": 3,
+            "label": 1,
+            "mz_peaks": [
+                {
+                    "mz_value": 331.3227844238281,
+                    "mode": "ES+",
+                    "formula": "metal_(2)_carbonyl_(6)_amine_(3)",
+                    "charge": "4",
+                    "mz_expected": 331.12,
+                    "time": 0.07703333333333333
+                },
+                {
+                    "mz_value": 331.3227844238281,
+                    "mode": "ES+",
+                    "formula": "metal_(10)_carbonyl_(30)_amine_(15)",
+                    "charge": "20",
+                    "mz_expected": 331.17,
+                    "time": 0.07703333333333333
+                },
+                {
+                    "mz_value": 405.2895202636719,
+                    "mode": "ES+",
+                    "formula": "metal_(10)_carbonyl_(30)_amine_(15)",
+                    "charge": "17",
+                    "mz_expected": 404.96,
+                    "time": 0.07703333333333333
+                }
+            ]
+        },
+        "reaction_label": 0
+    }
+}

@@ -1,0 +1,582 @@
+{
+    "batch0-02": {
+        "sample_info": {
+            "aldehyde": "6-Methylpyridine-2-carboxaldehyde",
+            "metal": "Zinc tetrafluoroborate",
+            "amine": "2,2'-(Ethane-1,2-diylbis(oxy))diethanamine"
+        },
+        "solvent": [
+            "acetonitrile",
+            "dichloromethane"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch0-03": {
+        "sample_info": {
+            "aldehyde": "6-Methylpyridine-2-carboxaldehyde",
+            "metal": "Zinc tetrafluoroborate",
+            "amine": "4,4'-Oxydianiline"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch0-04": {
+        "sample_info": {
+            "metal": "Iron(II) tetrafluoroborate hexahydrate",
+            "aldehyde": "6-Methylpyridine-2-carboxaldehyde",
+            "amine": "4,4'-Methylenedianiline"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch0-05": {
+        "sample_info": {
+            "metal": "Iron(II) tetrafluoroborate hexahydrate",
+            "aldehyde": "6-Methylpyridine-2-carboxaldehyde",
+            "amine": "2,2'-(Ethane-1,2-diylbis(oxy))diethanamine"
+        },
+        "solvent": [
+            "acetonitrile",
+            "dichloromethane"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch0-06": {
+        "sample_info": {
+            "metal": "Iron(II) tetrafluoroborate hexahydrate",
+            "aldehyde": "6-Methylpyridine-2-carboxaldehyde",
+            "amine": "4,4'-Oxydianiline"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch0-08": {
+        "sample_info": {
+            "aldehyde": "6-Methoxypyridine-2-carbaldehyde",
+            "metal": "Zinc tetrafluoroborate",
+            "amine": "2,2'-(Ethane-1,2-diylbis(oxy))diethanamine"
+        },
+        "solvent": [
+            "acetonitrile",
+            "dichloromethane"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch0-09": {
+        "sample_info": {
+            "aldehyde": "6-Methoxypyridine-2-carbaldehyde",
+            "metal": "Zinc tetrafluoroborate",
+            "amine": "4,4'-Oxydianiline"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch0-10": {
+        "sample_info": {
+            "amine": "Naphthalene-1,8-diamine",
+            "aldehyde": "6-Methylpyridine-2-carboxaldehyde",
+            "metal": "Zinc tetrafluoroborate"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch0-11": {
+        "sample_info": {
+            "amine": "4,4'-(9H-AdamantaeFlurene-9,9diyl)dianiline",
+            "aldehyde": "6-Methylpyridine-2-carboxaldehyde",
+            "metal": "Zinc tetrafluoroborate"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch0-12": {
+        "sample_info": {
+            "aldehyde": "6-Methoxypyridine-2-carbaldehyde",
+            "metal": "Iron(II) tetrafluoroborate hexahydrate",
+            "amine": "4,4'-Methylenedianiline"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch0-13": {
+        "sample_info": {
+            "aldehyde": "6-Methoxypyridine-2-carbaldehyde",
+            "metal": "Iron(II) tetrafluoroborate hexahydrate",
+            "amine": "2,2'-(Ethane-1,2-diylbis(oxy))diethanamine"
+        },
+        "solvent": [
+            "acetonitrile",
+            "dichloromethane"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch0-14": {
+        "sample_info": {
+            "aldehyde": "6-Methoxypyridine-2-carbaldehyde",
+            "metal": "Iron(II) tetrafluoroborate hexahydrate",
+            "amine": "4,4'-Oxydianiline"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch0-15": {
+        "sample_info": {
+            "amine": "Naphthalene-1,8-diamine",
+            "metal": "Iron(II) tetrafluoroborate hexahydrate",
+            "aldehyde": "6-Methylpyridine-2-carboxaldehyde"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch0-16": {
+        "sample_info": {
+            "amine": "4,4'-(9H-AdamantaeFlurene-9,9diyl)dianiline",
+            "metal": "Iron(II) tetrafluoroborate hexahydrate",
+            "aldehyde": "6-Methylpyridine-2-carboxaldehyde"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch0-17": {
+        "sample_info": {
+            "amine": "Naphthalene-1,8-diamine",
+            "aldehyde": "6-Methoxypyridine-2-carbaldehyde",
+            "metal": "Zinc tetrafluoroborate"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch0-18": {
+        "sample_info": {
+            "amine": "4,4'-(9H-AdamantaeFlurene-9,9diyl)dianiline",
+            "aldehyde": "6-Methoxypyridine-2-carbaldehyde",
+            "metal": "Zinc tetrafluoroborate"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch0-19": {
+        "sample_info": {
+            "amine": "Naphthalene-1,8-diamine",
+            "aldehyde": "6-Methoxypyridine-2-carbaldehyde",
+            "metal": "Iron(II) tetrafluoroborate hexahydrate"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch0-20": {
+        "sample_info": {
+            "amine": "4,4'-(9H-AdamantaeFlurene-9,9diyl)dianiline",
+            "aldehyde": "6-Methoxypyridine-2-carbaldehyde",
+            "metal": "Iron(II) tetrafluoroborate hexahydrate"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch0-21": {
+        "sample_info": {
+            "aldehyde": "5-Methylpicolinaldehyde",
+            "metal": "Zinc tetrafluoroborate",
+            "amine": "4,4'-Methylenedianiline"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch0-22": {
+        "sample_info": {
+            "aldehyde": "5-Methylpicolinaldehyde",
+            "metal": "Zinc tetrafluoroborate",
+            "amine": "2,2'-(Ethane-1,2-diylbis(oxy))diethanamine"
+        },
+        "solvent": [
+            "acetonitrile",
+            "dichloromethane"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch0-24": {
+        "sample_info": {
+            "aldehyde": "5-Methylpicolinaldehyde",
+            "metal": "Iron(II) tetrafluoroborate hexahydrate",
+            "amine": "4,4'-Methylenedianiline"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch0-25": {
+        "sample_info": {
+            "aldehyde": "5-Methylpicolinaldehyde",
+            "metal": "Iron(II) tetrafluoroborate hexahydrate",
+            "amine": "2,2'-(Ethane-1,2-diylbis(oxy))diethanamine"
+        },
+        "solvent": [
+            "acetonitrile",
+            "dichloromethane"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch0-27": {
+        "sample_info": {
+            "aldehyde": "5-Methylpicolinaldehyde",
+            "amine": "Naphthalene-1,8-diamine",
+            "metal": "Zinc tetrafluoroborate"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch0-28": {
+        "sample_info": {
+            "aldehyde": "5-Methylpicolinaldehyde",
+            "amine": "4,4'-(9H-AdamantaeFlurene-9,9diyl)dianiline",
+            "metal": "Zinc tetrafluoroborate"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch0-29": {
+        "sample_info": {
+            "aldehyde": "5-Methylpicolinaldehyde",
+            "amine": "Naphthalene-1,8-diamine",
+            "metal": "Iron(II) tetrafluoroborate hexahydrate"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch0-30": {
+        "sample_info": {
+            "aldehyde": "5-Methylpicolinaldehyde",
+            "amine": "4,4'-(9H-AdamantaeFlurene-9,9diyl)dianiline",
+            "metal": "Iron(II) tetrafluoroborate hexahydrate"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch0-31": {
+        "sample_info": {
+            "amine": "m-Xylylenediamine",
+            "aldehyde": "6-Methylpyridine-2-carboxaldehyde",
+            "metal": "Zinc tetrafluoroborate"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch0-32": {
+        "sample_info": {
+            "amine": "m-Xylylenediamine",
+            "metal": "Iron(II) tetrafluoroborate hexahydrate",
+            "aldehyde": "6-Methylpyridine-2-carboxaldehyde"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch0-33": {
+        "sample_info": {
+            "amine": "m-Xylylenediamine",
+            "aldehyde": "6-Methoxypyridine-2-carbaldehyde",
+            "metal": "Zinc tetrafluoroborate"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch0-34": {
+        "sample_info": {
+            "amine": "m-Xylylenediamine",
+            "aldehyde": "6-Methoxypyridine-2-carbaldehyde",
+            "metal": "Iron(II) tetrafluoroborate hexahydrate"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch0-35": {
+        "sample_info": {
+            "amine": "m-Xylylenediamine",
+            "aldehyde": "5-Methylpicolinaldehyde",
+            "metal": "Zinc tetrafluoroborate"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch0-36": {
+        "sample_info": {
+            "amine": "m-Xylylenediamine",
+            "aldehyde": "5-Methylpicolinaldehyde",
+            "metal": "Iron(II) tetrafluoroborate hexahydrate"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch0-37": {
+        "sample_info": {
+            "aldehyde": "1-Methyl-2-imidazolecarboxaldehyde",
+            "metal": "Zinc tetrafluoroborate",
+            "amine": "4,4'-Methylenedianiline"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch0-38": {
+        "sample_info": {
+            "aldehyde": "1-Methyl-2-imidazolecarboxaldehyde",
+            "metal": "Zinc tetrafluoroborate",
+            "amine": "2,2'-(Ethane-1,2-diylbis(oxy))diethanamine"
+        },
+        "solvent": [
+            "acetonitrile",
+            "dichloromethane"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch0-39": {
+        "sample_info": {
+            "aldehyde": "1-Methyl-2-imidazolecarboxaldehyde",
+            "metal": "Zinc tetrafluoroborate",
+            "amine": "4,4'-Oxydianiline"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch0-40": {
+        "sample_info": {
+            "amine": "2,2'-(Ethane-1,2-diyl)dianiline",
+            "aldehyde": "6-Methylpyridine-2-carboxaldehyde",
+            "metal": "Zinc tetrafluoroborate"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch0-41": {
+        "sample_info": {
+            "aldehyde": "1-Methyl-2-imidazolecarboxaldehyde",
+            "metal": "Iron(II) tetrafluoroborate hexahydrate",
+            "amine": "4,4'-Methylenedianiline"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch0-42": {
+        "sample_info": {
+            "aldehyde": "1-Methyl-2-imidazolecarboxaldehyde",
+            "metal": "Iron(II) tetrafluoroborate hexahydrate",
+            "amine": "2,2'-(Ethane-1,2-diylbis(oxy))diethanamine"
+        },
+        "solvent": [
+            "acetonitrile",
+            "dichloromethane"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch0-43": {
+        "sample_info": {
+            "aldehyde": "1-Methyl-2-imidazolecarboxaldehyde",
+            "metal": "Iron(II) tetrafluoroborate hexahydrate",
+            "amine": "4,4'-Oxydianiline"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch0-45": {
+        "sample_info": {
+            "aldehyde": "1-Methyl-2-imidazolecarboxaldehyde",
+            "amine": "Naphthalene-1,8-diamine",
+            "metal": "Zinc tetrafluoroborate"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch0-46": {
+        "sample_info": {
+            "aldehyde": "1-Methyl-2-imidazolecarboxaldehyde",
+            "amine": "4,4'-(9H-AdamantaeFlurene-9,9diyl)dianiline",
+            "metal": "Zinc tetrafluoroborate"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch0-47": {
+        "sample_info": {
+            "amine": "2,2'-(Ethane-1,2-diyl)dianiline",
+            "aldehyde": "6-Methoxypyridine-2-carbaldehyde",
+            "metal": "Zinc tetrafluoroborate"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch0-48": {
+        "sample_info": {
+            "aldehyde": "1-Methyl-2-imidazolecarboxaldehyde",
+            "amine": "Naphthalene-1,8-diamine",
+            "metal": "Iron(II) tetrafluoroborate hexahydrate"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "batch3-01": {
+        "sample_info": {
+            "aldehyde": "5-Methylpicolinaldehyde",
+            "metal": "Iron(II) tetrafluoroborate hexahydrate",
+            "amine": "4,4'-Methylenedianiline"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    }
+}
