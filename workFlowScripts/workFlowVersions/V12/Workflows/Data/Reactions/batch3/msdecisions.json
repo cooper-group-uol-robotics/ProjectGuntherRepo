@@ -1,0 +1,420 @@
+{
+    "142": {
+        "criteria1and2_pass": 1,
+        "criteria3_pass": 0,
+        "criteria1and2_number_of_hits": 1,
+        "criteria3_number_of_ions_hits": 0,
+        "label": 0,
+        "mz_peaks": []
+    },
+    "143": {
+        "criteria1and2_pass": 0,
+        "criteria3_pass": 0,
+        "criteria1and2_number_of_hits": 0,
+        "criteria3_number_of_ions_hits": 0,
+        "label": 0,
+        "mz_peaks": []
+    },
+    "144": {
+        "criteria1and2_pass": 0,
+        "criteria3_pass": 0,
+        "criteria1and2_number_of_hits": 0,
+        "criteria3_number_of_ions_hits": 0,
+        "label": 0,
+        "mz_peaks": []
+    },
+    "145": {
+        "criteria1and2_pass": 0,
+        "criteria3_pass": 0,
+        "criteria1and2_number_of_hits": 0,
+        "criteria3_number_of_ions_hits": 0,
+        "label": 0,
+        "mz_peaks": []
+    },
+    "146": {
+        "criteria1and2_pass": 0,
+        "criteria3_pass": 0,
+        "criteria1and2_number_of_hits": 0,
+        "criteria3_number_of_ions_hits": 0,
+        "label": 0,
+        "mz_peaks": []
+    },
+    "147": {
+        "criteria1and2_pass": 0,
+        "criteria3_pass": 0,
+        "criteria1and2_number_of_hits": 0,
+        "criteria3_number_of_ions_hits": 0,
+        "label": 0,
+        "mz_peaks": []
+    },
+    "148": {
+        "criteria1and2_pass": 0,
+        "criteria3_pass": 0,
+        "criteria1and2_number_of_hits": 0,
+        "criteria3_number_of_ions_hits": 0,
+        "label": 0,
+        "mz_peaks": []
+    },
+    "149": {
+        "criteria1and2_pass": 0,
+        "criteria3_pass": 0,
+        "criteria1and2_number_of_hits": 0,
+        "criteria3_number_of_ions_hits": 0,
+        "label": 0,
+        "mz_peaks": []
+    },
+    "150": {
+        "criteria1and2_pass": 0,
+        "criteria3_pass": 0,
+        "criteria1and2_number_of_hits": 0,
+        "criteria3_number_of_ions_hits": 0,
+        "label": 0,
+        "mz_peaks": []
+    },
+    "151": {
+        "criteria1and2_pass": 0,
+        "criteria3_pass": 0,
+        "criteria1and2_number_of_hits": 0,
+        "criteria3_number_of_ions_hits": 0,
+        "label": 0,
+        "mz_peaks": []
+    },
+    "152": {
+        "criteria1and2_pass": 0,
+        "criteria3_pass": 0,
+        "criteria1and2_number_of_hits": 0,
+        "criteria3_number_of_ions_hits": 0,
+        "label": 0,
+        "mz_peaks": []
+    },
+    "153": {
+        "criteria1and2_pass": 0,
+        "criteria3_pass": 0,
+        "criteria1and2_number_of_hits": 0,
+        "criteria3_number_of_ions_hits": 0,
+        "label": 0,
+        "mz_peaks": []
+    },
+    "154": {
+        "criteria1and2_pass": 0,
+        "criteria3_pass": 0,
+        "criteria1and2_number_of_hits": 0,
+        "criteria3_number_of_ions_hits": 0,
+        "label": 0,
+        "mz_peaks": []
+    },
+    "155": {
+        "criteria1and2_pass": 0,
+        "criteria3_pass": 0,
+        "criteria1and2_number_of_hits": 0,
+        "criteria3_number_of_ions_hits": 0,
+        "label": 0,
+        "mz_peaks": []
+    },
+    "156": {
+        "criteria1and2_pass": 0,
+        "criteria3_pass": 0,
+        "criteria1and2_number_of_hits": 0,
+        "criteria3_number_of_ions_hits": 0,
+        "label": 0,
+        "mz_peaks": []
+    },
+    "157": {
+        "criteria1and2_pass": 0,
+        "criteria3_pass": 0,
+        "criteria1and2_number_of_hits": 0,
+        "criteria3_number_of_ions_hits": 0,
+        "label": 0,
+        "mz_peaks": []
+    },
+    "158": {
+        "criteria1and2_pass": 0,
+        "criteria3_pass": 0,
+        "criteria1and2_number_of_hits": 0,
+        "criteria3_number_of_ions_hits": 0,
+        "label": 0,
+        "mz_peaks": []
+    },
+    "159": {
+        "criteria1and2_pass": 0,
+        "criteria3_pass": 0,
+        "criteria1and2_number_of_hits": 0,
+        "criteria3_number_of_ions_hits": 0,
+        "label": 0,
+        "mz_peaks": []
+    },
+    "160": {
+        "criteria1and2_pass": 0,
+        "criteria3_pass": 0,
+        "criteria1and2_number_of_hits": 0,
+        "criteria3_number_of_ions_hits": 0,
+        "label": 0,
+        "mz_peaks": []
+    },
+    "161": {
+        "criteria1and2_pass": 0,
+        "criteria3_pass": 0,
+        "criteria1and2_number_of_hits": 0,
+        "criteria3_number_of_ions_hits": 0,
+        "label": 0,
+        "mz_peaks": []
+    },
+    "162": {
+        "criteria1and2_pass": 0,
+        "criteria3_pass": 0,
+        "criteria1and2_number_of_hits": 0,
+        "criteria3_number_of_ions_hits": 0,
+        "label": 0,
+        "mz_peaks": []
+    },
+    "163": {
+        "criteria1and2_pass": 0,
+        "criteria3_pass": 0,
+        "criteria1and2_number_of_hits": 0,
+        "criteria3_number_of_ions_hits": 0,
+        "label": 0,
+        "mz_peaks": []
+    },
+    "164": {
+        "criteria1and2_pass": 0,
+        "criteria3_pass": 0,
+        "criteria1and2_number_of_hits": 0,
+        "criteria3_number_of_ions_hits": 0,
+        "label": 0,
+        "mz_peaks": []
+    },
+    "165": {
+        "criteria1and2_pass": 0,
+        "criteria3_pass": 0,
+        "criteria1and2_number_of_hits": 0,
+        "criteria3_number_of_ions_hits": 0,
+        "label": 0,
+        "mz_peaks": []
+    },
+    "166": {
+        "criteria1and2_pass": 0,
+        "criteria3_pass": 0,
+        "criteria1and2_number_of_hits": 0,
+        "criteria3_number_of_ions_hits": 0,
+        "label": 0,
+        "mz_peaks": []
+    },
+    "167": {
+        "criteria1and2_pass": 0,
+        "criteria3_pass": 0,
+        "criteria1and2_number_of_hits": 0,
+        "criteria3_number_of_ions_hits": 0,
+        "label": 0,
+        "mz_peaks": []
+    },
+    "168": {
+        "criteria1and2_pass": 0,
+        "criteria3_pass": 0,
+        "criteria1and2_number_of_hits": 0,
+        "criteria3_number_of_ions_hits": 0,
+        "label": 0,
+        "mz_peaks": []
+    },
+    "169": {
+        "criteria1and2_pass": 0,
+        "criteria3_pass": 0,
+        "criteria1and2_number_of_hits": 0,
+        "criteria3_number_of_ions_hits": 0,
+        "label": 0,
+        "mz_peaks": []
+    },
+    "170": {
+        "criteria1and2_pass": 0,
+        "criteria3_pass": 0,
+        "criteria1and2_number_of_hits": 0,
+        "criteria3_number_of_ions_hits": 0,
+        "label": 0,
+        "mz_peaks": []
+    },
+    "171": {
+        "criteria1and2_pass": 0,
+        "criteria3_pass": 0,
+        "criteria1and2_number_of_hits": 0,
+        "criteria3_number_of_ions_hits": 0,
+        "label": 0,
+        "mz_peaks": []
+    },
+    "172": {
+        "criteria1and2_pass": 0,
+        "criteria3_pass": 0,
+        "criteria1and2_number_of_hits": 0,
+        "criteria3_number_of_ions_hits": 0,
+        "label": 0,
+        "mz_peaks": []
+    },
+    "173": {
+        "criteria1and2_pass": 0,
+        "criteria3_pass": 0,
+        "criteria1and2_number_of_hits": 0,
+        "criteria3_number_of_ions_hits": 0,
+        "label": 0,
+        "mz_peaks": []
+    },
+    "174": {
+        "criteria1and2_pass": 0,
+        "criteria3_pass": 0,
+        "criteria1and2_number_of_hits": 0,
+        "criteria3_number_of_ions_hits": 0,
+        "label": 0,
+        "mz_peaks": []
+    },
+    "175": {
+        "criteria1and2_pass": 0,
+        "criteria3_pass": 0,
+        "criteria1and2_number_of_hits": 0,
+        "criteria3_number_of_ions_hits": 0,
+        "label": 0,
+        "mz_peaks": []
+    },
+    "176": {
+        "criteria1and2_pass": 0,
+        "criteria3_pass": 0,
+        "criteria1and2_number_of_hits": 0,
+        "criteria3_number_of_ions_hits": 0,
+        "label": 0,
+        "mz_peaks": []
+    },
+    "177": {
+        "criteria1and2_pass": 0,
+        "criteria3_pass": 0,
+        "criteria1and2_number_of_hits": 0,
+        "criteria3_number_of_ions_hits": 0,
+        "label": 0,
+        "mz_peaks": []
+    },
+    "178": {
+        "criteria1and2_pass": 1,
+        "criteria3_pass": 0,
+        "criteria1and2_number_of_hits": 1,
+        "criteria3_number_of_ions_hits": 0,
+        "label": 0,
+        "mz_peaks": []
+    },
+    "179": {
+        "criteria1and2_pass": 0,
+        "criteria3_pass": 0,
+        "criteria1and2_number_of_hits": 0,
+        "criteria3_number_of_ions_hits": 0,
+        "label": 0,
+        "mz_peaks": []
+    },
+    "180": {
+        "criteria1and2_pass": 0,
+        "criteria3_pass": 0,
+        "criteria1and2_number_of_hits": 0,
+        "criteria3_number_of_ions_hits": 0,
+        "label": 0,
+        "mz_peaks": []
+    },
+    "181": {
+        "criteria1and2_pass": 0,
+        "criteria3_pass": 0,
+        "criteria1and2_number_of_hits": 0,
+        "criteria3_number_of_ions_hits": 0,
+        "label": 0,
+        "mz_peaks": []
+    },
+    "182": {
+        "criteria1and2_pass": 0,
+        "criteria3_pass": 0,
+        "criteria1and2_number_of_hits": 0,
+        "criteria3_number_of_ions_hits": 0,
+        "label": 0,
+        "mz_peaks": []
+    },
+    "183": {
+        "criteria1and2_pass": 0,
+        "criteria3_pass": 0,
+        "criteria1and2_number_of_hits": 0,
+        "criteria3_number_of_ions_hits": 0,
+        "label": 0,
+        "mz_peaks": []
+    },
+    "184": {
+        "criteria1and2_pass": 0,
+        "criteria3_pass": 0,
+        "criteria1and2_number_of_hits": 0,
+        "criteria3_number_of_ions_hits": 0,
+        "label": 0,
+        "mz_peaks": []
+    },
+    "185": {
+        "criteria1and2_pass": 0,
+        "criteria3_pass": 0,
+        "criteria1and2_number_of_hits": 0,
+        "criteria3_number_of_ions_hits": 0,
+        "label": 0,
+        "mz_peaks": []
+    },
+    "186": {
+        "criteria1and2_pass": 0,
+        "criteria3_pass": 0,
+        "criteria1and2_number_of_hits": 0,
+        "criteria3_number_of_ions_hits": 0,
+        "label": 0,
+        "mz_peaks": []
+    },
+    "187": {
+        "criteria1and2_pass": 0,
+        "criteria3_pass": 0,
+        "criteria1and2_number_of_hits": 0,
+        "criteria3_number_of_ions_hits": 0,
+        "label": 0,
+        "mz_peaks": []
+    },
+    "188": {
+        "criteria1and2_pass": 1,
+        "criteria3_pass": 1,
+        "criteria1and2_number_of_hits": 1,
+        "criteria3_number_of_ions_hits": 1,
+        "label": 1,
+        "mz_peaks": [
+            {
+                "mz_value": 311.3688049316406,
+                "mode": "ES+",
+                "formula": "metal_(10)_carbonyl_(30)_amine_(15)",
+                "charge": "17",
+                "mz_expected": 311.01,
+                "time": 0.07703333333333333
+            }
+        ]
+    },
+    "23batch3": {
+        "criteria1and2_pass": 1,
+        "criteria3_pass": 1,
+        "criteria1and2_number_of_hits": 6,
+        "criteria3_number_of_ions_hits": 3,
+        "label": 1,
+        "mz_peaks": [
+            {
+                "mz_value": 331.3227844238281,
+                "mode": "ES+",
+                "formula": "metal_(2)_carbonyl_(6)_amine_(3)",
+                "charge": "4",
+                "mz_expected": 331.12,
+                "time": 0.07703333333333333
+            },
+            {
+                "mz_value": 331.3227844238281,
+                "mode": "ES+",
+                "formula": "metal_(10)_carbonyl_(30)_amine_(15)",
+                "charge": "20",
+                "mz_expected": 331.17,
+                "time": 0.07703333333333333
+            },
+            {
+                "mz_value": 405.2895202636719,
+                "mode": "ES+",
+                "formula": "metal_(10)_carbonyl_(30)_amine_(15)",
+                "charge": "17",
+                "mz_expected": 404.96,
+                "time": 0.07703333333333333
+            }
+        ]
+    }
+}

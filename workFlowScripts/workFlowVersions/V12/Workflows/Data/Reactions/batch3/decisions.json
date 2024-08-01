@@ -1,0 +1,1150 @@
+{
+    "23batch3": {
+        "nmr_decision": {
+            "criteria1_pass": 1,
+            "criteria2_pass": 1,
+            "criteria1_peak_difference": 1,
+            "criteria2_percentage_shifted": 1.0,
+            "label": 1,
+            "peaks_ppm": [
+                8.817464,
+                8.303394,
+                8.113342,
+                7.054674,
+                6.784805,
+                5.44902,
+                3.914686
+            ],
+            "sample_info": {
+                "amine": "Iron(II) tetrafluoroborate hexahydrate",
+                "aldehyde": "5-Methylpicolinaldehyde",
+                "metal": "Iron(II) tetrafluoroborate hexahydrate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 1,
+            "criteria3_pass": 1,
+            "criteria1and2_number_of_hits": 6,
+            "criteria3_number_of_ions_hits": 3,
+            "label": 1,
+            "mz_peaks": [
+                {
+                    "mz_value": 331.3227844238281,
+                    "mode": "ES+",
+                    "formula": "metal_(2)_carbonyl_(6)_amine_(3)",
+                    "charge": "4",
+                    "mz_expected": 331.12,
+                    "time": 0.07703333333333333
+                },
+                {
+                    "mz_value": 331.3227844238281,
+                    "mode": "ES+",
+                    "formula": "metal_(10)_carbonyl_(30)_amine_(15)",
+                    "charge": "20",
+                    "mz_expected": 331.17,
+                    "time": 0.07703333333333333
+                },
+                {
+                    "mz_value": 405.2895202636719,
+                    "mode": "ES+",
+                    "formula": "metal_(10)_carbonyl_(30)_amine_(15)",
+                    "charge": "17",
+                    "mz_expected": 404.96,
+                    "time": 0.07703333333333333
+                }
+            ]
+        },
+        "reaction_label": 1
+    },
+    "142": {
+        "nmr_decision": {
+            "criteria1_pass": 0,
+            "criteria2_pass": 0,
+            "criteria1_peak_difference": 10,
+            "criteria2_percentage_shifted": 1.0,
+            "label": 0,
+            "peaks_ppm": [
+                8.401978,
+                7.946226,
+                7.590352,
+                3.506189
+            ],
+            "sample_info": {
+                "amine": "Iron(II) tetrafluoroborate hexahydrate",
+                "aldehyde": "2-Quinolinecarboxaldehyde",
+                "metal": "Iron(II) tetrafluoroborate hexahydrate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 1,
+            "criteria3_pass": 0,
+            "criteria1and2_number_of_hits": 1,
+            "criteria3_number_of_ions_hits": 0,
+            "label": 0,
+            "mz_peaks": []
+        },
+        "reaction_label": 0
+    },
+    "144": {
+        "nmr_decision": {
+            "criteria1_pass": 0,
+            "criteria2_pass": 0,
+            "criteria1_peak_difference": 18,
+            "criteria2_percentage_shifted": 1.0,
+            "label": 0,
+            "peaks_ppm": [
+                10.054903,
+                8.321478,
+                7.947934
+            ],
+            "sample_info": {
+                "amine": "Zinc tetrafluoroborate",
+                "aldehyde": "2-Quinolinecarboxaldehyde",
+                "metal": "Zinc tetrafluoroborate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 0,
+            "criteria3_pass": 0,
+            "criteria1and2_number_of_hits": 0,
+            "criteria3_number_of_ions_hits": 0,
+            "label": 0,
+            "mz_peaks": []
+        },
+        "reaction_label": 0
+    },
+    "145": {
+        "nmr_decision": {
+            "criteria1_pass": 0,
+            "criteria2_pass": 0,
+            "criteria1_peak_difference": 13,
+            "criteria2_percentage_shifted": 0.75,
+            "label": 0,
+            "peaks_ppm": [
+                10.045234,
+                8.32015,
+                7.944872,
+                3.513487
+            ],
+            "sample_info": {
+                "amine": "Iron(II) tetrafluoroborate hexahydrate",
+                "aldehyde": "2-Quinolinecarboxaldehyde",
+                "metal": "Iron(II) tetrafluoroborate hexahydrate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 0,
+            "criteria3_pass": 0,
+            "criteria1and2_number_of_hits": 0,
+            "criteria3_number_of_ions_hits": 0,
+            "label": 0,
+            "mz_peaks": []
+        },
+        "reaction_label": 0
+    },
+    "146": {
+        "nmr_decision": {
+            "criteria1_pass": 0,
+            "criteria2_pass": 0,
+            "criteria1_peak_difference": 19,
+            "criteria2_percentage_shifted": 1.0,
+            "label": 0,
+            "peaks_ppm": [
+                10.07334,
+                7.959364
+            ],
+            "sample_info": {
+                "amine": "Iron(II) tetrafluoroborate hexahydrate",
+                "aldehyde": "2-Quinolinecarboxaldehyde",
+                "metal": "Iron(II) tetrafluoroborate hexahydrate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 0,
+            "criteria3_pass": 0,
+            "criteria1and2_number_of_hits": 0,
+            "criteria3_number_of_ions_hits": 0,
+            "label": 0,
+            "mz_peaks": []
+        },
+        "reaction_label": 0
+    },
+    "147": {
+        "nmr_decision": {
+            "criteria1_pass": 0,
+            "criteria2_pass": 0,
+            "criteria1_peak_difference": 14,
+            "criteria2_percentage_shifted": 0,
+            "label": 0,
+            "peaks_ppm": [],
+            "sample_info": {
+                "amine": "Zinc tetrafluoroborate",
+                "aldehyde": "2-Quinolinecarboxaldehyde",
+                "metal": "Zinc tetrafluoroborate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 0,
+            "criteria3_pass": 0,
+            "criteria1and2_number_of_hits": 0,
+            "criteria3_number_of_ions_hits": 0,
+            "label": 0,
+            "mz_peaks": []
+        },
+        "reaction_label": 0
+    },
+    "148": {
+        "nmr_decision": {
+            "criteria1_pass": 0,
+            "criteria2_pass": 0,
+            "criteria1_peak_difference": 9,
+            "criteria2_percentage_shifted": 1.0,
+            "label": 0,
+            "peaks_ppm": [
+                10.071785,
+                7.961319,
+                7.721974,
+                7.254916,
+                0.000167
+            ],
+            "sample_info": {
+                "amine": "Iron(II) tetrafluoroborate hexahydrate",
+                "aldehyde": "2-Quinolinecarboxaldehyde",
+                "metal": "Iron(II) tetrafluoroborate hexahydrate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 0,
+            "criteria3_pass": 0,
+            "criteria1and2_number_of_hits": 0,
+            "criteria3_number_of_ions_hits": 0,
+            "label": 0,
+            "mz_peaks": []
+        },
+        "reaction_label": 0
+    },
+    "149": {
+        "nmr_decision": {
+            "criteria1_pass": 0,
+            "criteria2_pass": 0,
+            "criteria1_peak_difference": 14,
+            "criteria2_percentage_shifted": 0.5,
+            "label": 0,
+            "peaks_ppm": [
+                7.943029,
+                0.024463
+            ],
+            "sample_info": {
+                "amine": "Zinc tetrafluoroborate",
+                "aldehyde": "2-Quinolinecarboxaldehyde",
+                "metal": "Zinc tetrafluoroborate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 0,
+            "criteria3_pass": 0,
+            "criteria1and2_number_of_hits": 0,
+            "criteria3_number_of_ions_hits": 0,
+            "label": 0,
+            "mz_peaks": []
+        },
+        "reaction_label": 0
+    },
+    "150": {
+        "nmr_decision": {
+            "criteria1_pass": 0,
+            "criteria2_pass": 0,
+            "criteria1_peak_difference": 15,
+            "criteria2_percentage_shifted": 1.0,
+            "label": 0,
+            "peaks_ppm": [
+                10.032553
+            ],
+            "sample_info": {
+                "amine": "Iron(II) tetrafluoroborate hexahydrate",
+                "aldehyde": "2-Quinolinecarboxaldehyde",
+                "metal": "Iron(II) tetrafluoroborate hexahydrate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 0,
+            "criteria3_pass": 0,
+            "criteria1and2_number_of_hits": 0,
+            "criteria3_number_of_ions_hits": 0,
+            "label": 0,
+            "mz_peaks": []
+        },
+        "reaction_label": 0
+    },
+    "151": {
+        "nmr_decision": {
+            "criteria1_pass": 0,
+            "criteria2_pass": 0,
+            "criteria1_peak_difference": 12,
+            "criteria2_percentage_shifted": 1.0,
+            "label": 0,
+            "peaks_ppm": [
+                10.101495,
+                8.361218,
+                7.992033,
+                0.027042
+            ],
+            "sample_info": {
+                "amine": "Yittrium(III) trifluoromethanesulfonate",
+                "aldehyde": "2-Quinolinecarboxaldehyde",
+                "metal": "Yittrium(III) trifluoromethanesulfonate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 0,
+            "criteria3_pass": 0,
+            "criteria1and2_number_of_hits": 0,
+            "criteria3_number_of_ions_hits": 0,
+            "label": 0,
+            "mz_peaks": []
+        },
+        "reaction_label": 0
+    },
+    "152": {
+        "nmr_decision": {
+            "criteria1_pass": 0,
+            "criteria2_pass": 0,
+            "criteria1_peak_difference": 10,
+            "criteria2_percentage_shifted": 1.0,
+            "label": 0,
+            "peaks_ppm": [
+                10.071213,
+                8.438218,
+                8.330592,
+                7.96288,
+                7.54998
+            ],
+            "sample_info": {
+                "amine": "Yittrium(III) trifluoromethanesulfonate",
+                "aldehyde": "2-Quinolinecarboxaldehyde",
+                "metal": "Yittrium(III) trifluoromethanesulfonate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 0,
+            "criteria3_pass": 0,
+            "criteria1and2_number_of_hits": 0,
+            "criteria3_number_of_ions_hits": 0,
+            "label": 0,
+            "mz_peaks": []
+        },
+        "reaction_label": 0
+    },
+    "153": {
+        "nmr_decision": {
+            "criteria1_pass": 0,
+            "criteria2_pass": 0,
+            "criteria1_peak_difference": 12,
+            "criteria2_percentage_shifted": 1.0,
+            "label": 0,
+            "peaks_ppm": [
+                10.125094,
+                0.053718
+            ],
+            "sample_info": {
+                "amine": "Yittrium(III) trifluoromethanesulfonate",
+                "aldehyde": "2-Quinolinecarboxaldehyde",
+                "metal": "Yittrium(III) trifluoromethanesulfonate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 0,
+            "criteria3_pass": 0,
+            "criteria1and2_number_of_hits": 0,
+            "criteria3_number_of_ions_hits": 0,
+            "label": 0,
+            "mz_peaks": []
+        },
+        "reaction_label": 0
+    },
+    "156": {
+        "nmr_decision": {
+            "criteria1_pass": 0,
+            "criteria2_pass": 0,
+            "criteria1_peak_difference": 10,
+            "criteria2_percentage_shifted": 0.75,
+            "label": 0,
+            "peaks_ppm": [
+                8.502788,
+                7.895068,
+                3.585318,
+                0.001201
+            ],
+            "sample_info": {
+                "amine": "Yittrium(III) trifluoromethanesulfonate",
+                "aldehyde": "2-Quinolinecarboxaldehyde",
+                "metal": "Yittrium(III) trifluoromethanesulfonate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 0,
+            "criteria3_pass": 0,
+            "criteria1and2_number_of_hits": 0,
+            "criteria3_number_of_ions_hits": 0,
+            "label": 0,
+            "mz_peaks": []
+        },
+        "reaction_label": 0
+    },
+    "157": {
+        "nmr_decision": {
+            "criteria1_pass": 0,
+            "criteria2_pass": 0,
+            "criteria1_peak_difference": 14,
+            "criteria2_percentage_shifted": 1.0,
+            "label": 0,
+            "peaks_ppm": [
+                6.851449,
+                6.832994
+            ],
+            "sample_info": {
+                "amine": "Yittrium(III) trifluoromethanesulfonate",
+                "aldehyde": "2-Quinolinecarboxaldehyde",
+                "metal": "Yittrium(III) trifluoromethanesulfonate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 0,
+            "criteria3_pass": 0,
+            "criteria1and2_number_of_hits": 0,
+            "criteria3_number_of_ions_hits": 0,
+            "label": 0,
+            "mz_peaks": []
+        },
+        "reaction_label": 0
+    },
+    "158": {
+        "nmr_decision": {
+            "criteria1_pass": 0,
+            "criteria2_pass": 0,
+            "criteria1_peak_difference": 16,
+            "criteria2_percentage_shifted": 0,
+            "label": 0,
+            "peaks_ppm": [],
+            "sample_info": {
+                "amine": "Silver tetrafluoroborate",
+                "aldehyde": "2-Quinolinecarboxaldehyde",
+                "metal": "Silver tetrafluoroborate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 0,
+            "criteria3_pass": 0,
+            "criteria1and2_number_of_hits": 0,
+            "criteria3_number_of_ions_hits": 0,
+            "label": 0,
+            "mz_peaks": []
+        },
+        "reaction_label": 0
+    },
+    "159": {
+        "nmr_decision": {
+            "criteria1_pass": 0,
+            "criteria2_pass": 0,
+            "criteria1_peak_difference": 13,
+            "criteria2_percentage_shifted": 1.0,
+            "label": 0,
+            "peaks_ppm": [
+                7.255816,
+                6.940243
+            ],
+            "sample_info": {
+                "amine": "Silver tetrafluoroborate",
+                "aldehyde": "2-Quinolinecarboxaldehyde",
+                "metal": "Silver tetrafluoroborate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 0,
+            "criteria3_pass": 0,
+            "criteria1and2_number_of_hits": 0,
+            "criteria3_number_of_ions_hits": 0,
+            "label": 0,
+            "mz_peaks": []
+        },
+        "reaction_label": 0
+    },
+    "160": {
+        "nmr_decision": {
+            "criteria1_pass": 0,
+            "criteria2_pass": 0,
+            "criteria1_peak_difference": 13,
+            "criteria2_percentage_shifted": 1.0,
+            "label": 0,
+            "peaks_ppm": [
+                7.412386
+            ],
+            "sample_info": {
+                "amine": "Silver tetrafluoroborate",
+                "aldehyde": "2-Quinolinecarboxaldehyde",
+                "metal": "Silver tetrafluoroborate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 0,
+            "criteria3_pass": 0,
+            "criteria1and2_number_of_hits": 0,
+            "criteria3_number_of_ions_hits": 0,
+            "label": 0,
+            "mz_peaks": []
+        },
+        "reaction_label": 0
+    },
+    "163": {
+        "nmr_decision": {
+            "criteria1_pass": 0,
+            "criteria2_pass": 0,
+            "criteria1_peak_difference": 11,
+            "criteria2_percentage_shifted": 1.0,
+            "label": 0,
+            "peaks_ppm": [
+                3.499465,
+                3.42242,
+                3.356273
+            ],
+            "sample_info": {
+                "amine": "Silver tetrafluoroborate",
+                "aldehyde": "2-Quinolinecarboxaldehyde",
+                "metal": "Silver tetrafluoroborate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 0,
+            "criteria3_pass": 0,
+            "criteria1and2_number_of_hits": 0,
+            "criteria3_number_of_ions_hits": 0,
+            "label": 0,
+            "mz_peaks": []
+        },
+        "reaction_label": 0
+    },
+    "164": {
+        "nmr_decision": {
+            "criteria1_pass": 0,
+            "criteria2_pass": 0,
+            "criteria1_peak_difference": 14,
+            "criteria2_percentage_shifted": 1.0,
+            "label": 0,
+            "peaks_ppm": [
+                6.62167,
+                0.032029
+            ],
+            "sample_info": {
+                "amine": "Silver tetrafluoroborate",
+                "aldehyde": "2-Quinolinecarboxaldehyde",
+                "metal": "Silver tetrafluoroborate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 0,
+            "criteria3_pass": 0,
+            "criteria1and2_number_of_hits": 0,
+            "criteria3_number_of_ions_hits": 0,
+            "label": 0,
+            "mz_peaks": []
+        },
+        "reaction_label": 0
+    },
+    "165": {
+        "nmr_decision": {
+            "criteria1_pass": 0,
+            "criteria2_pass": 0,
+            "criteria1_peak_difference": 15,
+            "criteria2_percentage_shifted": 1.0,
+            "label": 0,
+            "peaks_ppm": [
+                7.212317
+            ],
+            "sample_info": {
+                "amine": "Silver tetrafluoroborate",
+                "aldehyde": "2-Quinolinecarboxaldehyde",
+                "metal": "Silver tetrafluoroborate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 0,
+            "criteria3_pass": 0,
+            "criteria1and2_number_of_hits": 0,
+            "criteria3_number_of_ions_hits": 0,
+            "label": 0,
+            "mz_peaks": []
+        },
+        "reaction_label": 0
+    },
+    "166": {
+        "nmr_decision": {
+            "criteria1_pass": 0,
+            "criteria2_pass": 1,
+            "criteria1_peak_difference": 7,
+            "criteria2_percentage_shifted": 1.0,
+            "label": 0,
+            "peaks_ppm": [
+                7.66987,
+                7.247185,
+                7.224812,
+                7.195696,
+                6.822534,
+                6.713121,
+                6.443953,
+                6.334485
+            ],
+            "sample_info": {
+                "amine": "Silver tetrafluoroborate",
+                "aldehyde": "2-Quinolinecarboxaldehyde",
+                "metal": "Silver tetrafluoroborate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 0,
+            "criteria3_pass": 0,
+            "criteria1and2_number_of_hits": 0,
+            "criteria3_number_of_ions_hits": 0,
+            "label": 0,
+            "mz_peaks": []
+        },
+        "reaction_label": 0
+    },
+    "167": {
+        "nmr_decision": {
+            "criteria1_pass": 0,
+            "criteria2_pass": 0,
+            "criteria1_peak_difference": 12,
+            "criteria2_percentage_shifted": 1.0,
+            "label": 0,
+            "peaks_ppm": [
+                7.160583,
+                3.661818
+            ],
+            "sample_info": {
+                "amine": "Silver tetrafluoroborate",
+                "aldehyde": "2-Quinolinecarboxaldehyde",
+                "metal": "Silver tetrafluoroborate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 0,
+            "criteria3_pass": 0,
+            "criteria1and2_number_of_hits": 0,
+            "criteria3_number_of_ions_hits": 0,
+            "label": 0,
+            "mz_peaks": []
+        },
+        "reaction_label": 0
+    },
+    "168": {
+        "nmr_decision": {
+            "criteria1_pass": 0,
+            "criteria2_pass": 0,
+            "criteria1_peak_difference": 12,
+            "criteria2_percentage_shifted": 0.8,
+            "label": 0,
+            "peaks_ppm": [
+                6.96481,
+                6.885487,
+                6.862656,
+                6.796008,
+                6.602895
+            ],
+            "sample_info": {
+                "amine": "Silver tetrafluoroborate",
+                "aldehyde": "2-Quinolinecarboxaldehyde",
+                "metal": "Silver tetrafluoroborate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 0,
+            "criteria3_pass": 0,
+            "criteria1and2_number_of_hits": 0,
+            "criteria3_number_of_ions_hits": 0,
+            "label": 0,
+            "mz_peaks": []
+        },
+        "reaction_label": 0
+    },
+    "169": {
+        "nmr_decision": {
+            "criteria1_pass": 0,
+            "criteria2_pass": 0,
+            "criteria1_peak_difference": 17,
+            "criteria2_percentage_shifted": 1.0,
+            "label": 0,
+            "peaks_ppm": [
+                6.768143,
+                6.513857,
+                3.572326,
+                0.000396
+            ],
+            "sample_info": {
+                "amine": "Silver tetrafluoroborate",
+                "aldehyde": "2-Quinolinecarboxaldehyde",
+                "metal": "Silver tetrafluoroborate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 0,
+            "criteria3_pass": 0,
+            "criteria1and2_number_of_hits": 0,
+            "criteria3_number_of_ions_hits": 0,
+            "label": 0,
+            "mz_peaks": []
+        },
+        "reaction_label": 0
+    },
+    "170": {
+        "nmr_decision": {
+            "criteria1_pass": 0,
+            "criteria2_pass": 0,
+            "criteria1_peak_difference": 14,
+            "criteria2_percentage_shifted": 0,
+            "label": 0,
+            "peaks_ppm": [],
+            "sample_info": {
+                "amine": "Silver tetrafluoroborate",
+                "aldehyde": "2-Quinolinecarboxaldehyde",
+                "metal": "Silver tetrafluoroborate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 0,
+            "criteria3_pass": 0,
+            "criteria1and2_number_of_hits": 0,
+            "criteria3_number_of_ions_hits": 0,
+            "label": 0,
+            "mz_peaks": []
+        },
+        "reaction_label": 0
+    },
+    "171": {
+        "nmr_decision": {
+            "criteria1_pass": 0,
+            "criteria2_pass": 0,
+            "criteria1_peak_difference": 16,
+            "criteria2_percentage_shifted": 0,
+            "label": 0,
+            "peaks_ppm": [],
+            "sample_info": {
+                "amine": "Silver tetrafluoroborate",
+                "aldehyde": "2-Quinolinecarboxaldehyde",
+                "metal": "Silver tetrafluoroborate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 0,
+            "criteria3_pass": 0,
+            "criteria1and2_number_of_hits": 0,
+            "criteria3_number_of_ions_hits": 0,
+            "label": 0,
+            "mz_peaks": []
+        },
+        "reaction_label": 0
+    },
+    "172": {
+        "nmr_decision": {
+            "criteria1_pass": 0,
+            "criteria2_pass": 0,
+            "criteria1_peak_difference": 7,
+            "criteria2_percentage_shifted": 1.0,
+            "label": 0,
+            "peaks_ppm": [
+                5.343333
+            ],
+            "sample_info": {
+                "amine": "Zinc tetrafluoroborate",
+                "aldehyde": "6-Methylpyridine-2-carboxaldehyde",
+                "metal": "Zinc tetrafluoroborate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 0,
+            "criteria3_pass": 0,
+            "criteria1and2_number_of_hits": 0,
+            "criteria3_number_of_ions_hits": 0,
+            "label": 0,
+            "mz_peaks": []
+        },
+        "reaction_label": 0
+    },
+    "174": {
+        "nmr_decision": {
+            "criteria1_pass": 0,
+            "criteria2_pass": 0,
+            "criteria1_peak_difference": 9,
+            "criteria2_percentage_shifted": 1.0,
+            "label": 0,
+            "peaks_ppm": [
+                7.203915,
+                3.650891
+            ],
+            "sample_info": {
+                "amine": "Zinc tetrafluoroborate",
+                "aldehyde": "6-Methoxypyridine-2-carbaldehyde",
+                "metal": "Zinc tetrafluoroborate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 0,
+            "criteria3_pass": 0,
+            "criteria1and2_number_of_hits": 0,
+            "criteria3_number_of_ions_hits": 0,
+            "label": 0,
+            "mz_peaks": []
+        },
+        "reaction_label": 0
+    },
+    "176": {
+        "nmr_decision": {
+            "criteria1_pass": 1,
+            "criteria2_pass": 1,
+            "criteria1_peak_difference": 0,
+            "criteria2_percentage_shifted": 0.6666666666666666,
+            "label": 1,
+            "peaks_ppm": [
+                6.114908,
+                6.050381,
+                6.045213,
+                6.042932,
+                6.042384,
+                6.018896
+            ],
+            "sample_info": {
+                "amine": "Zinc tetrafluoroborate",
+                "aldehyde": "5-Methylpicolinaldehyde",
+                "metal": "Zinc tetrafluoroborate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 0,
+            "criteria3_pass": 0,
+            "criteria1and2_number_of_hits": 0,
+            "criteria3_number_of_ions_hits": 0,
+            "label": 0,
+            "mz_peaks": []
+        },
+        "reaction_label": 0
+    },
+    "177": {
+        "nmr_decision": {
+            "criteria1_pass": 0,
+            "criteria2_pass": 0,
+            "criteria1_peak_difference": 4,
+            "criteria2_percentage_shifted": 1.0,
+            "label": 0,
+            "peaks_ppm": [
+                7.513495,
+                3.646454
+            ],
+            "sample_info": {
+                "amine": "Iron(II) tetrafluoroborate hexahydrate",
+                "aldehyde": "5-Methylpicolinaldehyde",
+                "metal": "Iron(II) tetrafluoroborate hexahydrate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 0,
+            "criteria3_pass": 0,
+            "criteria1and2_number_of_hits": 0,
+            "criteria3_number_of_ions_hits": 0,
+            "label": 0,
+            "mz_peaks": []
+        },
+        "reaction_label": 0
+    },
+    "178": {
+        "nmr_decision": {
+            "criteria1_pass": 0,
+            "criteria2_pass": 0,
+            "criteria1_peak_difference": 5,
+            "criteria2_percentage_shifted": 1.0,
+            "label": 0,
+            "peaks_ppm": [
+                3.901316,
+                3.444901
+            ],
+            "sample_info": {
+                "amine": "Zinc tetrafluoroborate",
+                "aldehyde": "1-Methyl-2-imidazolecarboxaldehyde",
+                "metal": "Zinc tetrafluoroborate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 1,
+            "criteria3_pass": 0,
+            "criteria1and2_number_of_hits": 1,
+            "criteria3_number_of_ions_hits": 0,
+            "label": 0,
+            "mz_peaks": []
+        },
+        "reaction_label": 0
+    },
+    "179": {
+        "nmr_decision": {
+            "criteria1_pass": 0,
+            "criteria2_pass": 0,
+            "criteria1_peak_difference": 4,
+            "criteria2_percentage_shifted": 1.0,
+            "label": 0,
+            "peaks_ppm": [
+                9.811297,
+                3.898951,
+                3.840246
+            ],
+            "sample_info": {
+                "amine": "Iron(II) tetrafluoroborate hexahydrate",
+                "aldehyde": "1-Methyl-2-imidazolecarboxaldehyde",
+                "metal": "Iron(II) tetrafluoroborate hexahydrate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 0,
+            "criteria3_pass": 0,
+            "criteria1and2_number_of_hits": 0,
+            "criteria3_number_of_ions_hits": 0,
+            "label": 0,
+            "mz_peaks": []
+        },
+        "reaction_label": 0
+    },
+    "180": {
+        "nmr_decision": {
+            "criteria1_pass": 0,
+            "criteria2_pass": 0,
+            "criteria1_peak_difference": 8,
+            "criteria2_percentage_shifted": 0,
+            "label": 0,
+            "peaks_ppm": [],
+            "sample_info": {
+                "amine": "Yittrium(III) trifluoromethanesulfonate",
+                "aldehyde": "6-Methylpyridine-2-carboxaldehyde",
+                "metal": "Yittrium(III) trifluoromethanesulfonate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 0,
+            "criteria3_pass": 0,
+            "criteria1and2_number_of_hits": 0,
+            "criteria3_number_of_ions_hits": 0,
+            "label": 0,
+            "mz_peaks": []
+        },
+        "reaction_label": 0
+    },
+    "181": {
+        "nmr_decision": {
+            "criteria1_pass": 0,
+            "criteria2_pass": 0,
+            "criteria1_peak_difference": 11,
+            "criteria2_percentage_shifted": 0,
+            "label": 0,
+            "peaks_ppm": [],
+            "sample_info": {
+                "amine": "Yittrium(III) trifluoromethanesulfonate",
+                "aldehyde": "6-Methoxypyridine-2-carbaldehyde",
+                "metal": "Yittrium(III) trifluoromethanesulfonate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 0,
+            "criteria3_pass": 0,
+            "criteria1and2_number_of_hits": 0,
+            "criteria3_number_of_ions_hits": 0,
+            "label": 0,
+            "mz_peaks": []
+        },
+        "reaction_label": 0
+    },
+    "182": {
+        "nmr_decision": {
+            "criteria1_pass": 0,
+            "criteria2_pass": 0,
+            "criteria1_peak_difference": 6,
+            "criteria2_percentage_shifted": 0,
+            "label": 0,
+            "peaks_ppm": [],
+            "sample_info": {
+                "amine": "Yittrium(III) trifluoromethanesulfonate",
+                "aldehyde": "5-Methylpicolinaldehyde",
+                "metal": "Yittrium(III) trifluoromethanesulfonate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 0,
+            "criteria3_pass": 0,
+            "criteria1and2_number_of_hits": 0,
+            "criteria3_number_of_ions_hits": 0,
+            "label": 0,
+            "mz_peaks": []
+        },
+        "reaction_label": 0
+    },
+    "183": {
+        "nmr_decision": {
+            "criteria1_pass": 0,
+            "criteria2_pass": 0,
+            "criteria1_peak_difference": 7,
+            "criteria2_percentage_shifted": 0,
+            "label": 0,
+            "peaks_ppm": [],
+            "sample_info": {
+                "amine": "Yittrium(III) trifluoromethanesulfonate",
+                "aldehyde": "1-Methyl-2-imidazolecarboxaldehyde",
+                "metal": "Yittrium(III) trifluoromethanesulfonate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 0,
+            "criteria3_pass": 0,
+            "criteria1and2_number_of_hits": 0,
+            "criteria3_number_of_ions_hits": 0,
+            "label": 0,
+            "mz_peaks": []
+        },
+        "reaction_label": 0
+    },
+    "184": {
+        "nmr_decision": {
+            "criteria1_pass": 0,
+            "criteria2_pass": 0,
+            "criteria1_peak_difference": 4,
+            "criteria2_percentage_shifted": 1.0,
+            "label": 0,
+            "peaks_ppm": [
+                8.042287
+            ],
+            "sample_info": {
+                "amine": "Zinc tetrafluoroborate",
+                "aldehyde": "4-Formyl-2-methylthiazole",
+                "metal": "Zinc tetrafluoroborate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 0,
+            "criteria3_pass": 0,
+            "criteria1and2_number_of_hits": 0,
+            "criteria3_number_of_ions_hits": 0,
+            "label": 0,
+            "mz_peaks": []
+        },
+        "reaction_label": 0
+    },
+    "185": {
+        "nmr_decision": {
+            "criteria1_pass": 1,
+            "criteria2_pass": 1,
+            "criteria1_peak_difference": 2,
+            "criteria2_percentage_shifted": 1.0,
+            "label": 1,
+            "peaks_ppm": [
+                9.796527,
+                3.884553,
+                3.82781
+            ],
+            "sample_info": {
+                "amine": "Iron(II) tetrafluoroborate hexahydrate",
+                "aldehyde": "4-Formyl-2-methylthiazole",
+                "metal": "Iron(II) tetrafluoroborate hexahydrate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 0,
+            "criteria3_pass": 0,
+            "criteria1and2_number_of_hits": 0,
+            "criteria3_number_of_ions_hits": 0,
+            "label": 0,
+            "mz_peaks": []
+        },
+        "reaction_label": 0
+    },
+    "186": {
+        "nmr_decision": {
+            "criteria1_pass": 1,
+            "criteria2_pass": 0,
+            "criteria1_peak_difference": 3,
+            "criteria2_percentage_shifted": 1.0,
+            "label": 0,
+            "peaks_ppm": [
+                7.718322,
+                3.590371
+            ],
+            "sample_info": {
+                "amine": "Yittrium(III) trifluoromethanesulfonate",
+                "aldehyde": "4-Formyl-2-methylthiazole",
+                "metal": "Yittrium(III) trifluoromethanesulfonate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 0,
+            "criteria3_pass": 0,
+            "criteria1and2_number_of_hits": 0,
+            "criteria3_number_of_ions_hits": 0,
+            "label": 0,
+            "mz_peaks": []
+        },
+        "reaction_label": 0
+    },
+    "187": {
+        "nmr_decision": {
+            "criteria1_pass": 0,
+            "criteria2_pass": 0,
+            "criteria1_peak_difference": 5,
+            "criteria2_percentage_shifted": 1.0,
+            "label": 0,
+            "peaks_ppm": [
+                7.036648,
+                6.727944,
+                3.669757
+            ],
+            "sample_info": {
+                "amine": "Silver tetrafluoroborate",
+                "aldehyde": "6-Methylpyridine-2-carboxaldehyde",
+                "metal": "Silver tetrafluoroborate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 0,
+            "criteria3_pass": 0,
+            "criteria1and2_number_of_hits": 0,
+            "criteria3_number_of_ions_hits": 0,
+            "label": 0,
+            "mz_peaks": []
+        },
+        "reaction_label": 0
+    },
+    "188": {
+        "nmr_decision": {
+            "criteria1_pass": 0,
+            "criteria2_pass": 0,
+            "criteria1_peak_difference": 11,
+            "criteria2_percentage_shifted": 0,
+            "label": 0,
+            "peaks_ppm": [],
+            "sample_info": {
+                "amine": "Silver tetrafluoroborate",
+                "aldehyde": "6-Methoxypyridine-2-carbaldehyde",
+                "metal": "Silver tetrafluoroborate"
+            }
+        },
+        "ms_decision": {
+            "criteria1and2_pass": 1,
+            "criteria3_pass": 1,
+            "criteria1and2_number_of_hits": 1,
+            "criteria3_number_of_ions_hits": 1,
+            "label": 1,
+            "mz_peaks": [
+                {
+                    "mz_value": 311.3688049316406,
+                    "mode": "ES+",
+                    "formula": "metal_(10)_carbonyl_(30)_amine_(15)",
+                    "charge": "17",
+                    "mz_expected": 311.01,
+                    "time": 0.07703333333333333
+                }
+            ]
+        },
+        "reaction_label": 0
+    }
+}

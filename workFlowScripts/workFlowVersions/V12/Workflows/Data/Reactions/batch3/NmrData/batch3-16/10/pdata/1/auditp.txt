@@ -1,0 +1,199 @@
+##TITLE= Audit trail, TopSpin 4.4.0
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH & Co. KG
+##OWNER= emanuele
+$$ C:\Users\emanuele\Desktop\PlacementEssay\PlacementEssay\backup\ChemspeedPlatformAllVersions\V12\Workflows\Data\Reactions\batch3\NmrData/batch3-16/10/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2024-05-21T14:33:59.460+0100>,<nmrsu>,<4CE1161FJM>,<cprserver>,<TopSpin 4.3.0>,
+      <changed parameter F1 SOLVENT to CH3CN>)
+(   2,<2024-05-21T14:34:00.772+0100>,<nmrsu>,<4CE1161FJM>,<cprserver>,<TopSpin 4.3.0>,
+      <changed parameter F1 NS to 8>)
+(   3,<2024-05-21T13:34:34.474+0000>,<4CE1161FJM\nmrsu>,<4CE1161FJM>,<go4>,<TopSpin 4.3.0>,
+      <acquisition in progress>)
+(   4,<2024-05-21T13:35:58.625+0000>,<4CE1161FJM\nmrsu>,<4CE1161FJM>,<go4>,<TopSpin 4.3.0>,
+      <created by zg on 'Fourier' (4CE1161FJM) by user '4CE1161FJM\nmrsu'
+       on data set with UUID 'd8815932-1776-11ef-853b-0000ad371d11'
+       started at 2024-05-21 13:34:34.474 +0000, POWCHK disabled, PULCHK disabled,
+       completed at 2024-05-21 13:35:58.617 +0000
+       configuration hash MD5:
+       63 31 42 D0 10 AE A8 AF 9C 7E E2 52 A7 E2 89 DB
+       double data hash MD5: 8K
+       CD AA 0C 36 1B 40 9B 5F 96 F8 44 DC 49 98 D8 32>)
+(   5,<2024-06-26T14:46:25.998+0100>,<LIVAD\emanuele>,<MWS-1048587>,<proc1d>,<TopSpin 4.4.0>,
+      <Start of raw data processing
+       em LB = 0.3 SI = 32K 
+       data hash MD5: 32K
+       AD E8 2D CB 73 A9 B9 E1 F1 BF C2 3D EB 5A 20 A2>)
+(   6,<2024-06-26T14:46:26.029+0100>,<LIVAD\emanuele>,<MWS-1048587>,<cprserver>,<TopSpin 4.4.0>,
+      <changed parameter F1 CY to 2>)
+(   7,<2024-06-26T14:46:26.226+0100>,<LIVAD\emanuele>,<MWS-1048587>,<proc1d>,<TopSpin 4.4.0>,
+      <em LB = 0.3 
+       data hash MD5: 32K
+       98 3F F7 0D 7A 43 3F 17 42 02 67 A5 16 48 1F 30>)
+(   8,<2024-06-26T14:46:26.494+0100>,<LIVAD\emanuele>,<MWS-1048587>,<cprserver>,<TopSpin 4.4.0>,
+      <changed parameter F1 MI to 0.005>)
+(   9,<2024-06-26T14:46:26.532+0100>,<LIVAD\emanuele>,<MWS-1048587>,<proc1d>,<TopSpin 4.4.0>,
+      <em LB = 0.3 
+       data hash MD5: 32K
+       97 10 EA F8 0C BD 56 96 78 70 45 F8 98 17 26 BB>)
+(  10,<2024-06-26T14:46:26.579+0100>,<LIVAD\emanuele>,<MWS-1048587>,<cprserver>,<TopSpin 4.4.0>,
+      <changed parameter F1 PC to 10.00>)
+(  11,<2024-06-26T14:46:26.753+0100>,<LIVAD\emanuele>,<MWS-1048587>,<proc1d>,<TopSpin 4.4.0>,
+      <ft FT_mod = 6 PKNL = 1 SI = 32K 
+       data hash MD5: 32K
+       27 E6 22 8B 02 DD 6D C9 08 E0 C8 95 CD DF 83 2A>)
+(  12,<2024-06-26T14:46:27.078+0100>,<LIVAD\emanuele>,<MWS-1048587>,<proc1d>,<TopSpin 4.4.0>,
+      <Start of raw data processing
+       ft FT_mod = 6 PKNL = 1 SI = 32K 
+       data hash MD5: 32K
+       75 37 2F F3 63 2A 0B 40 EE E8 9C 84 38 78 A5 58>)
+(  13,<2024-06-26T14:46:27.288+0100>,<LIVAD\emanuele>,<MWS-1048587>,<proc1d>,<TopSpin 4.4.0>,
+      <Start of raw data processing
+       ft FT_mod = 6 PKNL = 1 SI = 32K 
+       data hash MD5: 32K
+       75 37 2F F3 63 2A 0B 40 EE E8 9C 84 38 78 A5 58>)
+(  14,<2024-06-26T14:46:27.493+0100>,<LIVAD\emanuele>,<MWS-1048587>,<proc1d>,<TopSpin 4.4.0>,
+      <apk 
+       data hash MD5: 32K
+       BA C6 44 B2 F7 F0 E5 3E B7 D0 A9 05 B3 D1 BA 30>)
+(  15,<2024-06-26T14:46:27.717+0100>,<LIVAD\emanuele>,<MWS-1048587>,<proc1d>,<TopSpin 4.4.0>,
+      <apk 
+       data hash MD5: 32K
+       C1 20 D7 03 C0 D6 46 E3 F3 15 20 5E A9 21 BE C6>)
+(  16,<2024-06-26T14:46:27.924+0100>,<LIVAD\emanuele>,<MWS-1048587>,<proc1d>,<TopSpin 4.4.0>,
+      <apk 
+       data hash MD5: 32K
+       F3 F8 C6 D0 FA 05 D2 53 A8 28 A2 14 51 3C 19 8B>)
+(  17,<2024-06-26T14:46:28.136+0100>,<LIVAD\emanuele>,<MWS-1048587>,<proc1d>,<TopSpin 4.4.0>,
+      <abs n ABSG = 5 
+       data hash MD5: 32K
+       5E 73 03 91 73 D2 F4 AE 60 7C 35 12 5B B2 78 EB>)
+(  18,<2024-06-26T14:46:28.247+0100>,<LIVAD\emanuele>,<MWS-1048587>,<proc1d>,<TopSpin 4.4.0>,
+      <abs n ABSG = 5 
+       data hash MD5: 32K
+       C0 52 3B 4C 1F 4E 4B 9F 15 83 AE AA 4D E5 31 4E>)
+(  19,<2024-06-26T14:46:28.438+0100>,<LIVAD\emanuele>,<MWS-1048587>,<proc1d>,<TopSpin 4.4.0>,
+      <abs n ABSG = 5 
+       data hash MD5: 32K
+       F8 9C 59 6A EC 99 2D 7C D1 2C 10 88 46 79 03 13>)
+(  20,<2024-06-26T14:46:28.519+0100>,<LIVAD\emanuele>,<MWS-1048587>,<proc1d>,<TopSpin 4.4.0>,
+      <Start of raw data processing
+       em LB = 0.3 SI = 32K 
+       data hash MD5: 32K
+       AD E8 2D CB 73 A9 B9 E1 F1 BF C2 3D EB 5A 20 A2>)
+(  21,<2024-06-26T14:46:28.728+0100>,<LIVAD\emanuele>,<MWS-1048587>,<proc1d>,<TopSpin 4.4.0>,
+      <ft FT_mod = 6 PKNL = 1 SI = 32K 
+       data hash MD5: 32K
+       30 50 2A D2 60 51 EC 1D BA FC 25 A1 F1 C4 38 F1>)
+(  22,<2024-06-26T14:46:29.090+0100>,<LIVAD\emanuele>,<MWS-1048587>,<proc1d>,<TopSpin 4.4.0>,
+      <apk 
+       data hash MD5: 32K
+       73 3F B0 A9 30 D8 9A 6F 68 5A 5A 0C A0 0B 45 FB>)
+(  23,<2024-06-26T14:46:29.329+0100>,<LIVAD\emanuele>,<MWS-1048587>,<proc1d>,<TopSpin 4.4.0>,
+      <abs n ABSG = 5 
+       data hash MD5: 32K
+       72 D9 37 7B 4D D0 7E D4 D5 47 BE BD 8D B9 B8 63>)
+(  24,<2024-06-26T15:01:08.247+0100>,<LIVAD\emanuele>,<MWS-1048587>,<peak>,<TopSpin 4.4.0>,
+      <1D Peak picking
+       data hash MD5: 32K
+       72 D9 37 7B 4D D0 7E D4 D5 47 BE BD 8D B9 B8 63>)
+(  25,<2024-06-28T12:43:08.156+0100>,<LIVAD\emanuele>,<MWS-1048587>,<cprserver>,<TopSpin 4.4.0>,
+      <changed parameter F1 PC to 5.00>)
+(  26,<2024-06-28T12:43:09.070+0100>,<LIVAD\emanuele>,<MWS-1048587>,<peak>,<TopSpin 4.4.0>,
+      <1D Peak picking
+       data hash MD5: 32K
+       72 D9 37 7B 4D D0 7E D4 D5 47 BE BD 8D B9 B8 63>)
+(  27,<2024-06-28T12:43:37.136+0100>,<LIVAD\emanuele>,<MWS-1048587>,<peak>,<TopSpin 4.4.0>,
+      <1D Peak picking
+       data hash MD5: 32K
+       72 D9 37 7B 4D D0 7E D4 D5 47 BE BD 8D B9 B8 63>)
+(  28,<2024-06-28T12:44:05.254+0100>,<LIVAD\emanuele>,<MWS-1048587>,<peak>,<TopSpin 4.4.0>,
+      <1D Peak picking
+       data hash MD5: 32K
+       72 D9 37 7B 4D D0 7E D4 D5 47 BE BD 8D B9 B8 63>)
+(  29,<2024-06-28T12:44:29.758+0100>,<LIVAD\emanuele>,<MWS-1048587>,<peak>,<TopSpin 4.4.0>,
+      <1D Peak picking
+       data hash MD5: 32K
+       72 D9 37 7B 4D D0 7E D4 D5 47 BE BD 8D B9 B8 63>)
+(  30,<2024-06-28T12:44:57.354+0100>,<LIVAD\emanuele>,<MWS-1048587>,<peak>,<TopSpin 4.4.0>,
+      <1D Peak picking
+       data hash MD5: 32K
+       72 D9 37 7B 4D D0 7E D4 D5 47 BE BD 8D B9 B8 63>)
+(  31,<2024-06-28T12:45:22.148+0100>,<LIVAD\emanuele>,<MWS-1048587>,<peak>,<TopSpin 4.4.0>,
+      <1D Peak picking
+       data hash MD5: 32K
+       72 D9 37 7B 4D D0 7E D4 D5 47 BE BD 8D B9 B8 63>)
+(  32,<2024-06-28T12:45:45.624+0100>,<LIVAD\emanuele>,<MWS-1048587>,<peak>,<TopSpin 4.4.0>,
+      <1D Peak picking
+       data hash MD5: 32K
+       72 D9 37 7B 4D D0 7E D4 D5 47 BE BD 8D B9 B8 63>)
+(  33,<2024-06-28T12:46:06.034+0100>,<LIVAD\emanuele>,<MWS-1048587>,<peak>,<TopSpin 4.4.0>,
+      <1D Peak picking
+       data hash MD5: 32K
+       72 D9 37 7B 4D D0 7E D4 D5 47 BE BD 8D B9 B8 63>)
+(  34,<2024-06-28T12:46:55.775+0100>,<LIVAD\emanuele>,<MWS-1048587>,<peak>,<TopSpin 4.4.0>,
+      <1D Peak picking
+       data hash MD5: 32K
+       72 D9 37 7B 4D D0 7E D4 D5 47 BE BD 8D B9 B8 63>)
+(  35,<2024-06-28T12:47:34.226+0100>,<LIVAD\emanuele>,<MWS-1048587>,<peak>,<TopSpin 4.4.0>,
+      <1D Peak picking
+       data hash MD5: 32K
+       72 D9 37 7B 4D D0 7E D4 D5 47 BE BD 8D B9 B8 63>)
+(  36,<2024-06-28T12:48:19.916+0100>,<LIVAD\emanuele>,<MWS-1048587>,<peak>,<TopSpin 4.4.0>,
+      <1D Peak picking
+       data hash MD5: 32K
+       72 D9 37 7B 4D D0 7E D4 D5 47 BE BD 8D B9 B8 63>)
+(  37,<2024-06-28T12:48:54.528+0100>,<LIVAD\emanuele>,<MWS-1048587>,<peak>,<TopSpin 4.4.0>,
+      <1D Peak picking
+       data hash MD5: 32K
+       72 D9 37 7B 4D D0 7E D4 D5 47 BE BD 8D B9 B8 63>)
+(  38,<2024-06-28T12:49:34.410+0100>,<LIVAD\emanuele>,<MWS-1048587>,<peak>,<TopSpin 4.4.0>,
+      <1D Peak picking
+       data hash MD5: 32K
+       72 D9 37 7B 4D D0 7E D4 D5 47 BE BD 8D B9 B8 63>)
+(  39,<2024-06-28T12:50:13.731+0100>,<LIVAD\emanuele>,<MWS-1048587>,<peak>,<TopSpin 4.4.0>,
+      <1D Peak picking
+       data hash MD5: 32K
+       72 D9 37 7B 4D D0 7E D4 D5 47 BE BD 8D B9 B8 63>)
+(  40,<2024-06-28T12:50:55.672+0100>,<LIVAD\emanuele>,<MWS-1048587>,<peak>,<TopSpin 4.4.0>,
+      <1D Peak picking
+       data hash MD5: 32K
+       72 D9 37 7B 4D D0 7E D4 D5 47 BE BD 8D B9 B8 63>)
+(  41,<2024-06-28T12:51:39.377+0100>,<LIVAD\emanuele>,<MWS-1048587>,<peak>,<TopSpin 4.4.0>,
+      <1D Peak picking
+       data hash MD5: 32K
+       72 D9 37 7B 4D D0 7E D4 D5 47 BE BD 8D B9 B8 63>)
+(  42,<2024-06-28T12:52:24.688+0100>,<LIVAD\emanuele>,<MWS-1048587>,<peak>,<TopSpin 4.4.0>,
+      <1D Peak picking
+       data hash MD5: 32K
+       72 D9 37 7B 4D D0 7E D4 D5 47 BE BD 8D B9 B8 63>)
+(  43,<2024-06-28T12:53:10.301+0100>,<LIVAD\emanuele>,<MWS-1048587>,<peak>,<TopSpin 4.4.0>,
+      <1D Peak picking
+       data hash MD5: 32K
+       72 D9 37 7B 4D D0 7E D4 D5 47 BE BD 8D B9 B8 63>)
+(  44,<2024-06-28T12:53:50.750+0100>,<LIVAD\emanuele>,<MWS-1048587>,<peak>,<TopSpin 4.4.0>,
+      <1D Peak picking
+       data hash MD5: 32K
+       72 D9 37 7B 4D D0 7E D4 D5 47 BE BD 8D B9 B8 63>)
+(  45,<2024-06-28T12:54:34.612+0100>,<LIVAD\emanuele>,<MWS-1048587>,<peak>,<TopSpin 4.4.0>,
+      <1D Peak picking
+       data hash MD5: 32K
+       72 D9 37 7B 4D D0 7E D4 D5 47 BE BD 8D B9 B8 63>)
+(  46,<2024-06-28T12:55:21.054+0100>,<LIVAD\emanuele>,<MWS-1048587>,<peak>,<TopSpin 4.4.0>,
+      <1D Peak picking
+       data hash MD5: 32K
+       72 D9 37 7B 4D D0 7E D4 D5 47 BE BD 8D B9 B8 63>)
+(  47,<2024-06-28T12:56:08.212+0100>,<LIVAD\emanuele>,<MWS-1048587>,<peak>,<TopSpin 4.4.0>,
+      <1D Peak picking
+       data hash MD5: 32K
+       72 D9 37 7B 4D D0 7E D4 D5 47 BE BD 8D B9 B8 63>)
+(  48,<2024-07-23T21:58:15.145+0100>,<LIVAD\emanuele>,<MWS-1048587>,<cprserver>,<TopSpin 4.4.0>,
+      <changed parameter F1 CY to 200>)
+(  49,<2024-07-23T21:58:15.466+0100>,<LIVAD\emanuele>,<MWS-1048587>,<peak>,<TopSpin 4.4.0>,
+      <1D Peak picking
+       data hash MD5: 32K
+       72 D9 37 7B 4D D0 7E D4 D5 47 BE BD 8D B9 B8 63>)
+##END=
+
+$$ hash MD5
+$$ FE F3 9F 45 94 54 D0 22 4B 0A 5D EC 3F 26 26 67
