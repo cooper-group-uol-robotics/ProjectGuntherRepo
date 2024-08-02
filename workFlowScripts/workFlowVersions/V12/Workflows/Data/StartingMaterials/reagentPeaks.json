@@ -1,0 +1,241 @@
+{
+    "Iron(II) tetrafluoroborate hexahydrate": {
+        "peaks_ppm": []
+    },
+    "Zinc tetrafluoroborate": {
+        "peaks_ppm": []
+    },
+    "Yittrium(III) trifluoromethanesulfonate": {
+        "peaks_ppm": [
+            3.1971
+        ]
+    },
+    "Tetrakis(acetonitrile)copper(I) tetrafluoroborate": {
+        "peaks_ppm": []
+    },
+    "Silver tetrafluoroborate": {
+        "peaks_ppm": []
+    },
+    "2,2'-(Ethane-1,2-diyl)dianiline": {
+        "peaks_ppm": [
+            7.130651,
+            7.050477,
+            6.962407,
+            6.768284,
+            6.673982
+        ]
+    },
+    "2,2'-(Ethane-1,2-diylbis(oxy))diethanamine": {
+        "peaks_ppm": [
+            3.632919,
+            3.566975,
+            3.498111,
+            3.430027
+        ]
+    },
+    "2,2'-Oxydiethanamine": {
+        "peaks_ppm": [
+            3.545405,
+            3.477445,
+            3.409501
+        ]
+    },
+    "4,4'-Methylenedianiline": {
+        "peaks_ppm": [
+            6.943884,
+            6.840566,
+            6.581521,
+            6.477571,
+            3.646264
+        ]
+    },
+    "m-Xylylenediamine": {
+        "peaks_ppm": [
+            7.351312,
+            7.289293,
+            3.855662
+        ]
+    },
+    "Adamantane-1,3-diamine": {
+        "peaks_ppm": [
+            1.371715
+        ]
+    },
+    "4,4'-(9H-AdamantaeFlurene-9,9diyl)dianiline": {
+        "peaks_ppm": [
+            7.9293,
+            7.861901,
+            7.439054,
+            7.418132,
+            7.388256,
+            7.011484,
+            6.904661,
+            6.630497,
+            6.523346,
+            4.118418
+        ]
+    },
+    "Naphthalene-1,8-diamine": {
+        "peaks_ppm": [
+            7.198914,
+            7.148126,
+            6.709398,
+            6.656886,
+            6.602339,
+            4.913752
+        ]
+    },
+    "4,4'-Oxydianiline": {
+        "peaks_ppm": [
+            6.661228,
+            6.6197,
+            6.506083
+        ]
+    },
+    "(R)-(+)-1,1'-Binaphthyl-2,2'-diamine": {
+        "peaks_ppm": [
+            7.939374,
+            7.891858,
+            7.832025,
+            7.331285,
+            7.308336,
+            7.265868,
+            7.223704,
+            7.187535,
+            7.001259,
+            4.096329
+        ]
+    },
+    "6-Methylpyridine-2-carboxaldehyde": {
+        "peaks_ppm": [
+            9.949243,
+            7.85223,
+            7.767063,
+            7.518829,
+            7.434538
+        ]
+    },
+    "6-Phenylpicolinaldehyde": {
+        "peaks_ppm": [
+            10.090572,
+            8.163518,
+            8.110981,
+            8.029447,
+            7.922805,
+            7.887185,
+            7.844008,
+            7.569806,
+            7.515315,
+            7.487213
+        ]
+    },
+    "[2,2'-Bipyridine]-6-carbaldehyde": {
+        "peaks_ppm": [
+            10.108761,
+            8.726666,
+            8.637154,
+            8.613144,
+            8.494427,
+            8.103729,
+            8.006245,
+            7.982443,
+            7.864499,
+            7.508893,
+            7.448201
+        ]
+    },
+    "2-Quinolinecarboxaldehyde": {
+        "peaks_ppm": [
+            10.146071,
+            8.517738,
+            8.412258,
+            8.266352,
+            8.173539,
+            8.041499,
+            7.979959,
+            7.93597,
+            7.897827,
+            7.803311,
+            7.734699
+        ]
+    },
+    "5-Methylpicolinaldehyde": {
+        "peaks_ppm": [
+            9.960553,
+            8.619857,
+            7.795714
+        ]
+    },
+    "8-methoxyquinoline-2-carbaldehyde": {
+        "peaks_ppm": [
+            10.127041,
+            8.45709,
+            8.351633,
+            8.043946,
+            7.937987,
+            7.688895,
+            7.598603,
+            7.493495,
+            7.307118,
+            7.220885,
+            4.071243
+        ]
+    },
+    "[1,8]Naphthyridine-2-carbaldehyde": {
+        "peaks_ppm": [
+            10.308611,
+            9.329622,
+            8.712218,
+            8.610747,
+            8.517025,
+            8.235478,
+            8.131663,
+            7.869572
+        ]
+    },
+    "4-Formyl-2-methylthiazole": {
+        "peaks_ppm": [
+            9.873164,
+            8.201577
+        ]
+    },
+    "6-Methoxypyridine-2-carbaldehyde": {
+        "peaks_ppm": [
+            9.898196,
+            7.849483,
+            7.752316,
+            7.580753,
+            7.497423,
+            7.090105,
+            6.988108,
+            3.981751
+        ]
+    },
+    "1-Methyl-2-imidazolecarboxaldehyde": {
+        "peaks_ppm": [
+            9.698055,
+            7.263221,
+            7.192994,
+            3.942259
+        ]
+    },
+    "1-Methyl-1H-benzimidazole-2-carbaldehyde": {
+        "peaks_ppm": [
+            10.027985,
+            7.910206,
+            7.828486,
+            7.574137,
+            7.510892,
+            7.466028,
+            7.425131,
+            7.371102,
+            4.103916
+        ]
+    },
+    "4-Methyl-1,3-thiazole-2-carbaldehyde": {
+        "peaks_ppm": [
+            9.884019,
+            7.541848
+        ]
+    }
+}

@@ -1,0 +1,6 @@
+INDEX,FILE_NAME,FILE_TEXT,MS_FILE,MS_TUNE_FILE,INLET_FILE,SAMPLE_LOCATION,INJ_VOL
+1,23batch16,23batch16,SupraChemCage,SupraChemCage,SupraChemCage,1:1,1
+2,1,1,SupraChemCage,SupraChemCage,SupraChemCage,1:2,1
+3,2,2,SupraChemCage,SupraChemCage,SupraChemCage,1:3,1
+4,3,3,SupraChemCage,SupraChemCage,SupraChemCage,1:4,1
+5,4,4,SupraChemCage,SupraChemCage,SupraChemCage,1:5,1

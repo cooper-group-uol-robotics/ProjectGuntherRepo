@@ -1,0 +1,61 @@
+{
+    "Ald1": {
+        "data_path": "SUPRAMOL-SM-ALD1.dx",
+        "peaks_ppm": [
+            10.006612,
+            8.814492,
+            8.76069,
+            7.918519,
+            7.680775,
+            7.622468,
+            7.57278,
+            7.513551
+        ]
+    },
+    "Ald2": {
+        "data_path": "SUPRAMOL-SM-ALD2.dx",
+        "peaks_ppm": [
+            9.952653,
+            7.853925,
+            7.767965,
+            7.680943,
+            7.519485,
+            7.435004
+        ]
+    },
+    "Ket": {
+        "data_path": "SUPRAMOL-SM-KET.dx",
+        "peaks_ppm": [
+            8.704582,
+            8.650008,
+            7.960011,
+            7.902871,
+            7.802306,
+            7.625581,
+            7.565903,
+            7.457895
+        ]
+    },
+    "Di": {
+        "data_path": "SUPRAMOL-SM-DI.dx",
+        "peaks_ppm": [
+            6.946163,
+            6.844178,
+            6.583801,
+            6.480917
+        ]
+    },
+    "Tris": {
+        "data_path": "SUPRAMOL-SM-TRIS.dx",
+        "peaks_ppm": [
+            7.573934,
+            7.460752,
+            6.780432,
+            6.675391
+        ]
+    },
+    "Tren": {
+        "data_path": "SUPRAMOL-SM-TREN.dx",
+        "peaks_ppm": []
+    }
+}

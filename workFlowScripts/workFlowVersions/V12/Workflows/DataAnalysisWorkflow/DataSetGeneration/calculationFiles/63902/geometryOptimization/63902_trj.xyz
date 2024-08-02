@@ -1,0 +1,126 @@
+16
+Coordinates from ORCA-job C:/Users/emanuele/Desktop/PlacementEssay/PlacementEssay/backup/ChemspeedPlatformAllVersions/V12/Workflows/DataAnalysisWorkflow/FeatureGeneration/calculationFiles/63902/geometryOptimization/63902 E -400.737883470507
+  C      -2.230136     -1.144924      0.230692
+  C      -0.986514     -0.324130      0.059803
+  C      -1.082644      1.030051     -0.255443
+  C       0.085064      1.773827     -0.409665
+  C       1.315622      1.149602     -0.245955
+  C       1.319884     -0.201804      0.067222
+  N       0.201203     -0.952926      0.223907
+  C       2.595897     -0.923775      0.254283
+  O       3.689140     -0.379724      0.145181
+  H      -2.841245     -0.740414      1.043483
+  H      -2.814286     -1.143164     -0.694769
+  H      -1.981331     -2.182668      0.474994
+  H      -2.052101      1.503317     -0.380127
+  H       0.034937      2.831130     -0.655412
+  H       2.243965      1.700019     -0.359089
+  H       2.502544     -1.994418      0.500896
+16
+Coordinates from ORCA-job C:/Users/emanuele/Desktop/PlacementEssay/PlacementEssay/backup/ChemspeedPlatformAllVersions/V12/Workflows/DataAnalysisWorkflow/FeatureGeneration/calculationFiles/63902/geometryOptimization/63902 E -400.739066406901
+  C      -2.216537     -1.149493      0.232075
+  C      -0.981015     -0.320435      0.058681
+  C      -1.075412      1.034998     -0.256829
+  C       0.083573      1.780656     -0.411294
+  C       1.309464      1.157731     -0.247777
+  C       1.313370     -0.193982      0.065083
+  N       0.199555     -0.934922      0.219356
+  C       2.585165     -0.924713      0.254101
+  O       3.682136     -0.405690      0.151559
+  H      -2.834355     -0.753465      1.037825
+  H      -2.807713     -1.153640     -0.683540
+  H      -1.955100     -2.175104      0.474509
+  H      -2.043916      1.501438     -0.379742
+  H       0.030847      2.833495     -0.655760
+  H       2.238118      1.697992     -0.358120
+  H       2.471818     -1.994867      0.499873
+16
+Coordinates from ORCA-job C:/Users/emanuele/Desktop/PlacementEssay/PlacementEssay/backup/ChemspeedPlatformAllVersions/V12/Workflows/DataAnalysisWorkflow/FeatureGeneration/calculationFiles/63902/geometryOptimization/63902 E -400.739347924054
+  C      -2.209479     -1.153529      0.233243
+  C      -0.979483     -0.318578      0.058200
+  C      -1.071774      1.039229     -0.257976
+  C       0.082293      1.786533     -0.412615
+  C       1.307270      1.164539     -0.249068
+  C       1.312147     -0.188008      0.063781
+  N       0.199383     -0.920428      0.215925
+  C       2.582632     -0.924764      0.254249
+  O       3.684264     -0.426179      0.156392
+  H      -2.836162     -0.762894      1.034014
+  H      -2.808987     -1.162384     -0.676254
+  H      -1.935605     -2.173674      0.475780
+  H      -2.042546      1.500497     -0.379910
+  H       0.026799      2.838381     -0.656857
+  H       2.240532      1.696506     -0.357035
+  H       2.448715     -1.995251      0.498132
+16
+Coordinates from ORCA-job C:/Users/emanuele/Desktop/PlacementEssay/PlacementEssay/backup/ChemspeedPlatformAllVersions/V12/Workflows/DataAnalysisWorkflow/FeatureGeneration/calculationFiles/63902/geometryOptimization/63902 E -400.739371360468
+  C      -2.209041     -1.154215      0.233388
+  C      -0.980167     -0.318764      0.058052
+  C      -1.071836      1.040207     -0.257837
+  C       0.081996      1.787762     -0.412716
+  C       1.307689      1.165819     -0.249876
+  C       1.313301     -0.187255      0.062561
+  N       0.200033     -0.918608      0.214628
+  C       2.584038     -0.924921      0.252073
+  O       3.687108     -0.428743      0.159041
+  H      -2.838405     -0.764278      1.033113
+  H      -2.811161     -1.163818     -0.675006
+  H      -1.932064     -2.174234      0.476255
+  H      -2.043795      1.500293     -0.379034
+  H       0.025602      2.839989     -0.656697
+  H       2.243206      1.695133     -0.357388
+  H       2.443494     -1.994369      0.499442
+16
+Coordinates from ORCA-job C:/Users/emanuele/Desktop/PlacementEssay/PlacementEssay/backup/ChemspeedPlatformAllVersions/V12/Workflows/DataAnalysisWorkflow/FeatureGeneration/calculationFiles/63902/geometryOptimization/63902 E -400.739336876221
+  C      -2.208480     -1.154777      0.233841
+  C      -0.981067     -0.318855      0.059072
+  C      -1.072001      1.040931     -0.259110
+  C       0.081744      1.789009     -0.413306
+  C       1.308312      1.167985     -0.247766
+  C       1.314762     -0.185225      0.066503
+  N       0.200972     -0.916316      0.217552
+  C       2.585656     -0.922485      0.260413
+  O       3.690576     -0.432974      0.152235
+  H      -2.843038     -0.764080      1.030065
+  H      -2.811743     -1.167424     -0.674622
+  H      -1.928066     -2.174178      0.479975
+  H      -2.045477      1.498745     -0.382163
+  H       0.024154      2.841331     -0.658833
+  H       2.246931      1.693832     -0.353158
+  H       2.436765     -1.995518      0.489301
+16
+Coordinates from ORCA-job C:/Users/emanuele/Desktop/PlacementEssay/PlacementEssay/backup/ChemspeedPlatformAllVersions/V12/Workflows/DataAnalysisWorkflow/FeatureGeneration/calculationFiles/63902/geometryOptimization/63902 E -400.739379466229
+  C      -2.208663     -1.154289      0.233505
+  C      -0.980518     -0.318917      0.058297
+  C      -1.071970      1.040504     -0.257981
+  C       0.081958      1.788250     -0.412793
+  C       1.308027      1.166568     -0.249567
+  C       1.313962     -0.186703      0.063131
+  N       0.200615     -0.918629      0.215143
+  C       2.584697     -0.924289      0.253428
+  O       3.688359     -0.429122      0.157937
+  H      -2.840179     -0.763785      1.031712
+  H      -2.811243     -1.165202     -0.674977
+  H      -1.930511     -2.174137      0.477892
+  H      -2.044678      1.499545     -0.379311
+  H       0.024905      2.840635     -0.657029
+  H       2.245217      1.693770     -0.356288
+  H       2.440021     -1.994202      0.496902
+16
+Coordinates from ORCA-job C:/Users/emanuele/Desktop/PlacementEssay/PlacementEssay/backup/ChemspeedPlatformAllVersions/V12/Workflows/DataAnalysisWorkflow/FeatureGeneration/calculationFiles/63902/geometryOptimization/63902 E -400.739379937598
+  C      -2.208513     -1.154236      0.233479
+  C      -0.980396     -0.318850      0.058359
+  C      -1.071890      1.040485     -0.257868
+  C       0.082009      1.788280     -0.412700
+  C       1.307982      1.166618     -0.249530
+  C       1.313866     -0.186638      0.063148
+  N       0.200659     -0.918868      0.215251
+  C       2.584561     -0.924278      0.253309
+  O       3.688072     -0.428853      0.157599
+  H      -2.840346     -0.763408      1.031226
+  H      -2.810653     -1.165639     -0.675253
+  H      -1.930580     -2.173932      0.478432
+  H      -2.044629      1.499368     -0.379139
+  H       0.024844      2.840639     -0.656915
+  H       2.245342      1.693423     -0.356179
+  H       2.439672     -1.994112      0.496783

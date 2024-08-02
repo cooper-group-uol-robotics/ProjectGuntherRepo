@@ -1,0 +1,62 @@
+{
+    "1": {
+        "sample_info": "23batch16: [5-Methylpicolinaldehyde, Iron(II) tetrafluoroborate hexahydrate, 4,4'-Methylenedianiline] : [25, 1, 11]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "2": {
+        "sample_info": "1: [6-Methylpyridine-2-carboxaldehyde, Zinc tetrafluoroborate, 4,4'-Methylenedianiline] : [21, 2, 11]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "3": {
+        "sample_info": "2: [6-Methylpyridine-2-carboxaldehyde, Zinc tetrafluoroborate, 2,2'-(Ethane-1,2-diylbis(oxy))diethanamine] : [21, 2, 9]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "4": {
+        "sample_info": "3: [6-Methylpyridine-2-carboxaldehyde, Zinc tetrafluoroborate, 4,4'-Oxydianiline] : [21, 2, 18]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "5": {
+        "sample_info": "4: [Iron(II) tetrafluoroborate hexahydrate, 6-Methylpyridine-2-carboxaldehyde, 4,4'-Methylenedianiline] : [1, 21, 11]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    }
+}

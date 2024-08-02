@@ -1,0 +1,301 @@
+{
+    "reagentAnalysis-01": {
+        "sample_info": {
+            "Metal": "Iron(II) tetrafluoroborate hexahydrate"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "reagentAnalysis-02": {
+        "sample_info": {
+            "Metal": "Zinc tetrafluoroborate"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "reagentAnalysis-03": {
+        "sample_info": {
+            "Metal": "Yittrium(III) trifluoromethanesulfonate"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "reagentAnalysis-04": {
+        "sample_info": {
+            "Metal": "Tetrakis(acetonitrile)copper(I) tetrafluoroborate"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "reagentAnalysis-05": {
+        "sample_info": {
+            "Metal": "Silver tetrafluoroborate"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "reagentAnalysis-08": {
+        "sample_info": {
+            "Amine": "2,2'-(Ethane-1,2-diyl)dianiline"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "reagentAnalysis-09": {
+        "sample_info": {
+            "Amine": "2,2'-(Ethane-1,2-diylbis(oxy))diethanamine"
+        },
+        "solvent": [
+            "dichloromethane",
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "reagentAnalysis-10": {
+        "sample_info": {
+            "Amine": "2,2'-Oxydiethanamine"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "reagentAnalysis-11": {
+        "sample_info": {
+            "Amine": "4,4'-Methylenedianiline"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "reagentAnalysis-12": {
+        "sample_info": {
+            "Amine": "m-Xylylenediamine"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "reagentAnalysis-13": {
+        "sample_info": {
+            "Amine": "Adamantane-1,3-diamine"
+        },
+        "solvent": [
+            "dichloromethane"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "reagentAnalysis-14": {
+        "sample_info": {
+            "Amine": "4,4'-(9H-AdamantaeFlurene-9,9diyl)dianiline"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "reagentAnalysis-17": {
+        "sample_info": {
+            "Amine": "Naphthalene-1,8-diamine"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "reagentAnalysis-18": {
+        "sample_info": {
+            "Amine": "4,4'-Oxydianiline"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "reagentAnalysis-20": {
+        "sample_info": {
+            "Amine": "(R)-(+)-1,1'-Binaphthyl-2,2'-diamine"
+        },
+        "solvent": [
+            "dichloromethane"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "reagentAnalysis-21": {
+        "sample_info": {
+            "Aldehdye": "6-Methylpyridine-2-carboxaldehyde"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "reagentAnalysis-22": {
+        "sample_info": {
+            "Aldehdye": "6-Phenylpicolinaldehyde"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "reagentAnalysis-23": {
+        "sample_info": {
+            "Aldehdye": "[2,2'-Bipyridine]-6-carbaldehyde"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "reagentAnalysis-24": {
+        "sample_info": {
+            "Aldehdye": "2-Quinolinecarboxaldehyde"
+        },
+        "solvent": [
+            "dichloromethane"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "reagentAnalysis-25": {
+        "sample_info": {
+            "Aldehdye": "5-Methylpicolinaldehyde"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "reagentAnalysis-26": {
+        "sample_info": {
+            "Aldehdye": "8-methoxyquinoline-2-carbaldehyde"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "reagentAnalysis-27": {
+        "sample_info": {
+            "Aldehdye": "[1,8]Naphthyridine-2-carbaldehyde"
+        },
+        "solvent": [
+            "dichloromethane",
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "reagentAnalysis-28": {
+        "sample_info": {
+            "Aldehdye": "4-Formyl-2-methylthiazole"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "reagentAnalysis-29": {
+        "sample_info": {
+            "Aldehdye": "6-Methoxypyridine-2-carbaldehyde"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "reagentAnalysis-30": {
+        "sample_info": {
+            "Aldehdye": "1-Methyl-2-imidazolecarboxaldehyde"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "reagentAnalysis-31": {
+        "sample_info": {
+            "Aldehdye": "1-Methyl-1H-benzimidazole-2-carbaldehyde"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    },
+    "reagentAnalysis-32": {
+        "sample_info": {
+            "Aldehdye": "4-Methyl-1,3-thiazole-2-carbaldehyde"
+        },
+        "solvent": [
+            "acetonitrile"
+        ],
+        "nmr_experiments": [
+            "MULTISUPPDC_f"
+        ]
+    }
+}

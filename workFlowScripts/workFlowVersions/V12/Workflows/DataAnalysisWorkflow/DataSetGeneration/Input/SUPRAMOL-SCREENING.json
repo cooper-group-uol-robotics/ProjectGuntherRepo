@@ -1,0 +1,200 @@
+{
+    "1": {
+        "sample_info": {
+            "amine": "Tris",
+            "carbonyl": "Ald1",
+            "metal": "ZnNTf"
+        },
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            "MULTISUPPDC70_f"
+        ]
+    },
+    "2": {
+        "sample_info": {
+            "amine": "Tris",
+            "carbonyl": "Ket",
+            "metal": "ZnNTf"
+        },
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            "MULTISUPPDC70_f"
+        ]
+    },
+    "3": {
+        "sample_info": {
+            "amine": "Tris",
+            "carbonyl": "Ald2",
+            "metal": "ZnNTf"
+        },
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            "MULTISUPPDC70_f"
+        ]
+    },
+    "4": {
+        "sample_info": {
+            "amine": "Tren",
+            "carbonyl": "Ald1",
+            "metal": "ZnNTf"
+        },
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            "MULTISUPPDC70_f"
+        ]
+    },
+    "5": {
+        "sample_info": {
+            "amine": "Tren",
+            "carbonyl": "Ket",
+            "metal": "ZnNTf"
+        },
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            "MULTISUPPDC70_f"
+        ]
+    },
+    "6": {
+        "sample_info": {
+            "amine": "Tren",
+            "carbonyl": "Ald2",
+            "metal": "ZnNTf"
+        },
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            "MULTISUPPDC70_f"
+        ]
+    },
+    "7": {
+        "sample_info": {
+            "amine": "Di",
+            "carbonyl": "Ald1",
+            "metal": "ZnNTf"
+        },
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            "MULTISUPPDC70_f"
+        ]
+    },
+    "8": {
+        "sample_info": {
+            "amine": "Di",
+            "carbonyl": "Ket",
+            "metal": "ZnNTf"
+        },
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            "MULTISUPPDC70_f"
+        ]
+    },
+    "9": {
+        "sample_info": {
+            "amine": "Di",
+            "carbonyl": "Ald2",
+            "metal": "ZnNTf"
+        },
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            "MULTISUPPDC70_f"
+        ]
+    },
+    "10": {
+        "sample_info": {
+            "amine": "Tris",
+            "carbonyl": "Ald1",
+            "metal": "CuBF4"
+        },
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            "MULTISUPPDC70_f"
+        ]
+    },
+    "11": {
+        "sample_info": {
+            "amine": "Tris",
+            "carbonyl": "Ket",
+            "metal": "CuBF4"
+        },
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            "MULTISUPPDC70_f"
+        ]
+    },
+    "12": {
+        "sample_info": {
+            "amine": "Tris",
+            "carbonyl": "Ald2",
+            "metal": "CuBF4"
+        },
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            "MULTISUPPDC70_f"
+        ]
+    },
+    "13": {
+        "sample_info": {
+            "amine": "Tren",
+            "carbonyl": "Ald1",
+            "metal": "CuBF4"
+        },
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            "MULTISUPPDC70_f"
+        ]
+    },
+    "14": {
+        "sample_info": {
+            "amine": "Tren",
+            "carbonyl": "Ket",
+            "metal": "CuBF4"
+        },
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            "MULTISUPPDC70_f"
+        ]
+    },
+    "15": {
+        "sample_info": {
+            "amine": "Tren",
+            "carbonyl": "Ald2",
+            "metal": "CuBF4"
+        },
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            "MULTISUPPDC70_f"
+        ]
+    },
+    "16": {
+        "sample_info": {
+            "amine": "Di",
+            "carbonyl": "Ald1",
+            "metal": "CuBF4"
+        },
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            "MULTISUPPDC70_f"
+        ]
+    },
+    "17": {
+        "sample_info": {
+            "amine": "Di",
+            "carbonyl": "Ket",
+            "metal": "CuBF4"
+        },
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            "MULTISUPPDC70_f"
+        ]
+    },
+    "18": {
+        "sample_info": {
+            "amine": "Di",
+            "carbonyl": "Ald2",
+            "metal": "CuBF4"
+        },
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            "MULTISUPPDC70_f"
+        ]
+    }
+}

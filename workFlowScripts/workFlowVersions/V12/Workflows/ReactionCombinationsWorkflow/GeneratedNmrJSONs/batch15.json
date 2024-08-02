@@ -1,0 +1,194 @@
+{
+    "1": {
+        "sample_info": "23batch15: [5-Methylpicolinaldehyde, Iron(II) tetrafluoroborate hexahydrate, 4,4'-Methylenedianiline] : [25, 1, 11]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "2": {
+        "sample_info": "706: [[2,2'-Bipyridine]-6-carbaldehyde, (R)-(+)-1,1'-Binaphthyl-2,2'-diamine, Silver tetrafluoroborate] : [23, 20, 5]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "3": {
+        "sample_info": "707: [[1,8]Naphthyridine-2-carbaldehyde, (R)-(+)-1,1'-Binaphthyl-2,2'-diamine, Tetrakis(acetonitrile)copper(I) tetrafluoroborate] : [27, 20, 4]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "4": {
+        "sample_info": "708: [[2,2'-Bipyridine]-6-carbaldehyde, (R)-(+)-1,1'-Binaphthyl-2,2'-diamine, Tetrakis(acetonitrile)copper(I) tetrafluoroborate] : [23, 20, 4]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "5": {
+        "sample_info": "709: [[1,8]Naphthyridine-2-carbaldehyde, Adamantane-1,3-diamine, Zinc tetrafluoroborate] : [27, 13, 2]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "6": {
+        "sample_info": "710: [[2,2'-Bipyridine]-6-carbaldehyde, Adamantane-1,3-diamine, Zinc tetrafluoroborate] : [23, 13, 2]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "7": {
+        "sample_info": "711: [[1,8]Naphthyridine-2-carbaldehyde, Adamantane-1,3-diamine, Iron(II) tetrafluoroborate hexahydrate] : [27, 13, 1]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "8": {
+        "sample_info": "712: [[2,2'-Bipyridine]-6-carbaldehyde, Adamantane-1,3-diamine, Iron(II) tetrafluoroborate hexahydrate] : [23, 13, 1]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "9": {
+        "sample_info": "713: [[1,8]Naphthyridine-2-carbaldehyde, Adamantane-1,3-diamine, Yittrium(III) trifluoromethanesulfonate] : [27, 13, 3]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "10": {
+        "sample_info": "714: [[2,2'-Bipyridine]-6-carbaldehyde, Adamantane-1,3-diamine, Yittrium(III) trifluoromethanesulfonate] : [23, 13, 3]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "11": {
+        "sample_info": "715: [[1,8]Naphthyridine-2-carbaldehyde, Adamantane-1,3-diamine, Silver tetrafluoroborate] : [27, 13, 5]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "12": {
+        "sample_info": "716: [[2,2'-Bipyridine]-6-carbaldehyde, Adamantane-1,3-diamine, Silver tetrafluoroborate] : [23, 13, 5]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "13": {
+        "sample_info": "717: [[1,8]Naphthyridine-2-carbaldehyde, Adamantane-1,3-diamine, Silver tetrafluoroborate] : [27, 13, 5]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "14": {
+        "sample_info": "718: [[2,2'-Bipyridine]-6-carbaldehyde, Adamantane-1,3-diamine, Silver tetrafluoroborate] : [23, 13, 5]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "15": {
+        "sample_info": "719: [[1,8]Naphthyridine-2-carbaldehyde, Adamantane-1,3-diamine, Tetrakis(acetonitrile)copper(I) tetrafluoroborate] : [27, 13, 4]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "16": {
+        "sample_info": "720: [[2,2'-Bipyridine]-6-carbaldehyde, Adamantane-1,3-diamine, Tetrakis(acetonitrile)copper(I) tetrafluoroborate] : [23, 13, 4]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    }
+}

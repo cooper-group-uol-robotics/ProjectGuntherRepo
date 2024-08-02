@@ -1,0 +1,142 @@
+{
+    "1": {
+        "MS_PASS": true,
+        "mz_peaks": [
+            {
+                "mz_value": 548.4912719726562,
+                "mode": "ES+",
+                "formula": "ZnNTf_(2)_Ald1_(6)_Tris_(2)",
+                "charge": "3",
+                "mz_expected": 548.76,
+                "time": 0.08603333333333334
+            },
+            {
+                "mz_value": 549.5963134765625,
+                "mode": "ES+",
+                "formula": "ZnNTf_(4)_Ald1_(12)_Tris_(4)",
+                "charge": "6",
+                "mz_expected": 549.26,
+                "time": 0.08603333333333334
+            },
+            {
+                "mz_value": 715.2073974609375,
+                "mode": "ES+",
+                "formula": "ZnNTf_(4)_Ald1_(12)_Tris_(4)",
+                "charge": "5",
+                "mz_expected": 715.1,
+                "time": 0.08603333333333334
+            }
+        ]
+    },
+    "10": {
+        "MS_PASS": false,
+        "mz_peaks": []
+    },
+    "11": {
+        "MS_PASS": false,
+        "mz_peaks": []
+    },
+    "12": {
+        "MS_PASS": false,
+        "mz_peaks": []
+    },
+    "13": {
+        "MS_PASS": false,
+        "mz_peaks": []
+    },
+    "14": {
+        "MS_PASS": false,
+        "mz_peaks": []
+    },
+    "15": {
+        "MS_PASS": false,
+        "mz_peaks": []
+    },
+    "16": {
+        "MS_PASS": false,
+        "mz_peaks": []
+    },
+    "17": {
+        "MS_PASS": false,
+        "mz_peaks": []
+    },
+    "18": {
+        "MS_PASS": true,
+        "mz_peaks": [
+            {
+                "mz_value": 467.309326171875,
+                "mode": "ES+",
+                "formula": "CuBF4_(2)_Ald2_(4)_Di_(2)",
+                "charge": "2",
+                "mz_expected": 467.13,
+                "time": 0.08603333333333334
+            }
+        ]
+    },
+    "2": {
+        "MS_PASS": false,
+        "mz_peaks": []
+    },
+    "3": {
+        "MS_PASS": false,
+        "mz_peaks": []
+    },
+    "4": {
+        "MS_PASS": false,
+        "mz_peaks": []
+    },
+    "5": {
+        "MS_PASS": false,
+        "mz_peaks": []
+    },
+    "6": {
+        "MS_PASS": false,
+        "mz_peaks": []
+    },
+    "7": {
+        "MS_PASS": true,
+        "mz_peaks": [
+            {
+                "mz_value": 314.9945983886719,
+                "mode": "ES+",
+                "formula": "ZnNTf_(4)_Ald1_(12)_Di_(6)",
+                "charge": "8",
+                "mz_expected": 314.97,
+                "time": 0.08603333333333334
+            },
+            {
+                "mz_value": 512.9573974609375,
+                "mode": "ES+",
+                "formula": "ZnNTf_(2)_Ald1_(6)_Di_(3)",
+                "charge": "3",
+                "mz_expected": 512.76,
+                "time": 0.08603333333333334
+            },
+            {
+                "mz_value": 512.9573974609375,
+                "mode": "ES+",
+                "formula": "ZnNTf_(4)_Ald1_(12)_Di_(6)",
+                "charge": "6",
+                "mz_expected": 513.26,
+                "time": 0.08603333333333334
+            }
+        ]
+    },
+    "8": {
+        "MS_PASS": true,
+        "mz_peaks": [
+            {
+                "mz_value": 335.8172912597656,
+                "mode": "ES+",
+                "formula": "ZnNTf_(2)_Ket_(6)_Di_(3)",
+                "charge": "4",
+                "mz_expected": 335.61,
+                "time": 0.08603333333333334
+            }
+        ]
+    },
+    "9": {
+        "MS_PASS": false,
+        "mz_peaks": []
+    }
+}

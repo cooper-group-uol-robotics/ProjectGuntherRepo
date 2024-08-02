@@ -1,0 +1,578 @@
+{
+    "1": {
+        "sample_info": "23batch14: [5-Methylpicolinaldehyde, Iron(II) tetrafluoroborate hexahydrate, 4,4'-Methylenedianiline] : [25, 1, 11]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "2": {
+        "sample_info": "659: [[1,8]Naphthyridine-2-carbaldehyde, 2,2'-Oxydiethanamine, Iron(II) tetrafluoroborate hexahydrate] : [27, 10, 1]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "3": {
+        "sample_info": "660: [[2,2'-Bipyridine]-6-carbaldehyde, 2,2'-Oxydiethanamine, Iron(II) tetrafluoroborate hexahydrate] : [23, 10, 1]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "4": {
+        "sample_info": "661: [[1,8]Naphthyridine-2-carbaldehyde, 2,2'-Oxydiethanamine, Yittrium(III) trifluoromethanesulfonate] : [27, 10, 3]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "5": {
+        "sample_info": "662: [[2,2'-Bipyridine]-6-carbaldehyde, 2,2'-Oxydiethanamine, Yittrium(III) trifluoromethanesulfonate] : [23, 10, 3]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "6": {
+        "sample_info": "663: [[1,8]Naphthyridine-2-carbaldehyde, 2,2'-Oxydiethanamine, Silver tetrafluoroborate] : [27, 10, 5]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "7": {
+        "sample_info": "664: [[2,2'-Bipyridine]-6-carbaldehyde, 2,2'-Oxydiethanamine, Silver tetrafluoroborate] : [23, 10, 5]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "8": {
+        "sample_info": "665: [[1,8]Naphthyridine-2-carbaldehyde, 2,2'-Oxydiethanamine, Silver tetrafluoroborate] : [27, 10, 5]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "9": {
+        "sample_info": "666: [[2,2'-Bipyridine]-6-carbaldehyde, 2,2'-Oxydiethanamine, Silver tetrafluoroborate] : [23, 10, 5]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "10": {
+        "sample_info": "667: [[1,8]Naphthyridine-2-carbaldehyde, 2,2'-Oxydiethanamine, Tetrakis(acetonitrile)copper(I) tetrafluoroborate] : [27, 10, 4]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "11": {
+        "sample_info": "668: [[2,2'-Bipyridine]-6-carbaldehyde, 2,2'-Oxydiethanamine, Tetrakis(acetonitrile)copper(I) tetrafluoroborate] : [23, 10, 4]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "12": {
+        "sample_info": "669: [[1,8]Naphthyridine-2-carbaldehyde, Silver tetrafluoroborate, 4,4'-Methylenedianiline] : [27, 5, 11]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "13": {
+        "sample_info": "670: [[2,2'-Bipyridine]-6-carbaldehyde, Silver tetrafluoroborate, 4,4'-Methylenedianiline] : [23, 5, 11]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "14": {
+        "sample_info": "671: [[1,8]Naphthyridine-2-carbaldehyde, Silver tetrafluoroborate, 2,2'-(Ethane-1,2-diylbis(oxy))diethanamine] : [27, 5, 9]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "15": {
+        "sample_info": "672: [[2,2'-Bipyridine]-6-carbaldehyde, Silver tetrafluoroborate, 2,2'-(Ethane-1,2-diylbis(oxy))diethanamine] : [23, 5, 9]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "16": {
+        "sample_info": "673: [[1,8]Naphthyridine-2-carbaldehyde, Silver tetrafluoroborate, 4,4'-Oxydianiline] : [27, 5, 18]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "17": {
+        "sample_info": "674: [[2,2'-Bipyridine]-6-carbaldehyde, Silver tetrafluoroborate, 4,4'-Oxydianiline] : [23, 5, 18]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "18": {
+        "sample_info": "675: [[1,8]Naphthyridine-2-carbaldehyde, Silver tetrafluoroborate, Naphthalene-1,8-diamine] : [27, 5, 17]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "19": {
+        "sample_info": "676: [[1,8]Naphthyridine-2-carbaldehyde, Silver tetrafluoroborate, 4,4'-(9H-AdamantaeFlurene-9,9diyl)dianiline] : [27, 5, 14]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "20": {
+        "sample_info": "677: [[2,2'-Bipyridine]-6-carbaldehyde, Silver tetrafluoroborate, Naphthalene-1,8-diamine] : [23, 5, 17]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "21": {
+        "sample_info": "678: [[2,2'-Bipyridine]-6-carbaldehyde, Silver tetrafluoroborate, 4,4'-(9H-AdamantaeFlurene-9,9diyl)dianiline] : [23, 5, 14]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "22": {
+        "sample_info": "679: [[1,8]Naphthyridine-2-carbaldehyde, Silver tetrafluoroborate, m-Xylylenediamine] : [27, 5, 12]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "23": {
+        "sample_info": "680: [[2,2'-Bipyridine]-6-carbaldehyde, Silver tetrafluoroborate, m-Xylylenediamine] : [23, 5, 12]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "24": {
+        "sample_info": "681: [[1,8]Naphthyridine-2-carbaldehyde, Silver tetrafluoroborate, 2,2'-(Ethane-1,2-diyl)dianiline] : [27, 5, 8]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "25": {
+        "sample_info": "682: [[2,2'-Bipyridine]-6-carbaldehyde, Silver tetrafluoroborate, 2,2'-(Ethane-1,2-diyl)dianiline] : [23, 5, 8]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "26": {
+        "sample_info": "683: [[1,8]Naphthyridine-2-carbaldehyde, Tetrakis(acetonitrile)copper(I) tetrafluoroborate, 4,4'-Methylenedianiline] : [27, 4, 11]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "27": {
+        "sample_info": "684: [[2,2'-Bipyridine]-6-carbaldehyde, Tetrakis(acetonitrile)copper(I) tetrafluoroborate, 4,4'-Methylenedianiline] : [23, 4, 11]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "28": {
+        "sample_info": "685: [[1,8]Naphthyridine-2-carbaldehyde, Tetrakis(acetonitrile)copper(I) tetrafluoroborate, 2,2'-(Ethane-1,2-diylbis(oxy))diethanamine] : [27, 4, 9]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "29": {
+        "sample_info": "686: [[2,2'-Bipyridine]-6-carbaldehyde, Tetrakis(acetonitrile)copper(I) tetrafluoroborate, 2,2'-(Ethane-1,2-diylbis(oxy))diethanamine] : [23, 4, 9]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "30": {
+        "sample_info": "687: [[1,8]Naphthyridine-2-carbaldehyde, Tetrakis(acetonitrile)copper(I) tetrafluoroborate, 4,4'-Oxydianiline] : [27, 4, 18]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "31": {
+        "sample_info": "688: [[2,2'-Bipyridine]-6-carbaldehyde, Tetrakis(acetonitrile)copper(I) tetrafluoroborate, 4,4'-Oxydianiline] : [23, 4, 18]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "32": {
+        "sample_info": "689: [[1,8]Naphthyridine-2-carbaldehyde, Tetrakis(acetonitrile)copper(I) tetrafluoroborate, Naphthalene-1,8-diamine] : [27, 4, 17]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "33": {
+        "sample_info": "690: [[1,8]Naphthyridine-2-carbaldehyde, Tetrakis(acetonitrile)copper(I) tetrafluoroborate, 4,4'-(9H-AdamantaeFlurene-9,9diyl)dianiline] : [27, 4, 14]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "34": {
+        "sample_info": "691: [[2,2'-Bipyridine]-6-carbaldehyde, Tetrakis(acetonitrile)copper(I) tetrafluoroborate, Naphthalene-1,8-diamine] : [23, 4, 17]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "35": {
+        "sample_info": "692: [[2,2'-Bipyridine]-6-carbaldehyde, Tetrakis(acetonitrile)copper(I) tetrafluoroborate, 4,4'-(9H-AdamantaeFlurene-9,9diyl)dianiline] : [23, 4, 14]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "36": {
+        "sample_info": "693: [[1,8]Naphthyridine-2-carbaldehyde, Tetrakis(acetonitrile)copper(I) tetrafluoroborate, m-Xylylenediamine] : [27, 4, 12]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "37": {
+        "sample_info": "694: [[2,2'-Bipyridine]-6-carbaldehyde, Tetrakis(acetonitrile)copper(I) tetrafluoroborate, m-Xylylenediamine] : [23, 4, 12]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "38": {
+        "sample_info": "695: [[1,8]Naphthyridine-2-carbaldehyde, Tetrakis(acetonitrile)copper(I) tetrafluoroborate, 2,2'-(Ethane-1,2-diyl)dianiline] : [27, 4, 8]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "39": {
+        "sample_info": "696: [[2,2'-Bipyridine]-6-carbaldehyde, Tetrakis(acetonitrile)copper(I) tetrafluoroborate, 2,2'-(Ethane-1,2-diyl)dianiline] : [23, 4, 8]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "40": {
+        "sample_info": "697: [[1,8]Naphthyridine-2-carbaldehyde, (R)-(+)-1,1'-Binaphthyl-2,2'-diamine, Zinc tetrafluoroborate] : [27, 20, 2]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "41": {
+        "sample_info": "698: [[2,2'-Bipyridine]-6-carbaldehyde, (R)-(+)-1,1'-Binaphthyl-2,2'-diamine, Zinc tetrafluoroborate] : [23, 20, 2]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "42": {
+        "sample_info": "699: [[1,8]Naphthyridine-2-carbaldehyde, (R)-(+)-1,1'-Binaphthyl-2,2'-diamine, Iron(II) tetrafluoroborate hexahydrate] : [27, 20, 1]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "43": {
+        "sample_info": "700: [[2,2'-Bipyridine]-6-carbaldehyde, (R)-(+)-1,1'-Binaphthyl-2,2'-diamine, Iron(II) tetrafluoroborate hexahydrate] : [23, 20, 1]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "44": {
+        "sample_info": "701: [[1,8]Naphthyridine-2-carbaldehyde, (R)-(+)-1,1'-Binaphthyl-2,2'-diamine, Yittrium(III) trifluoromethanesulfonate] : [27, 20, 3]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "45": {
+        "sample_info": "702: [[2,2'-Bipyridine]-6-carbaldehyde, (R)-(+)-1,1'-Binaphthyl-2,2'-diamine, Yittrium(III) trifluoromethanesulfonate] : [23, 20, 3]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "46": {
+        "sample_info": "703: [[1,8]Naphthyridine-2-carbaldehyde, (R)-(+)-1,1'-Binaphthyl-2,2'-diamine, Silver tetrafluoroborate] : [27, 20, 5]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "47": {
+        "sample_info": "704: [[2,2'-Bipyridine]-6-carbaldehyde, (R)-(+)-1,1'-Binaphthyl-2,2'-diamine, Silver tetrafluoroborate] : [23, 20, 5]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "48": {
+        "sample_info": "705: [[1,8]Naphthyridine-2-carbaldehyde, (R)-(+)-1,1'-Binaphthyl-2,2'-diamine, Silver tetrafluoroborate] : [27, 20, 5]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    }
+}

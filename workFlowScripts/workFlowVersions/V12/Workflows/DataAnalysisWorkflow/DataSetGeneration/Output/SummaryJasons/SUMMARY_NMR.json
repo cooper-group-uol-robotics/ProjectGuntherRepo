@@ -1,0 +1,540 @@
+{
+    "1": {
+        "sample_info": {
+            "amine": "Tris",
+            "carbonyl": "Ald1",
+            "metal": "ZnNTf"
+        },
+        "amine": "Tris",
+        "carbonyl": "Ald1",
+        "metal": "ZnNTf",
+        "peaks_ppm": [
+            8.668305,
+            8.428887,
+            8.375382,
+            8.272721,
+            8.179783,
+            7.843845,
+            7.797106,
+            7.448236,
+            7.284154,
+            7.182554,
+            6.431464,
+            6.329697
+        ],
+        "NMR_PASS": true,
+        "MS_PASS": true,
+        "REPLICATION": true,
+        "mz_peaks": [
+            {
+                "mz_value": 548.4912719726562,
+                "mode": "ES+",
+                "formula": "ZnNTf_(2)_Ald1_(6)_Tris_(2)",
+                "charge": "3",
+                "mz_expected": 548.76,
+                "time": 0.08603333333333334
+            },
+            {
+                "mz_value": 549.5963134765625,
+                "mode": "ES+",
+                "formula": "ZnNTf_(4)_Ald1_(12)_Tris_(4)",
+                "charge": "6",
+                "mz_expected": 549.26,
+                "time": 0.08603333333333334
+            },
+            {
+                "mz_value": 715.2073974609375,
+                "mode": "ES+",
+                "formula": "ZnNTf_(4)_Ald1_(12)_Tris_(4)",
+                "charge": "5",
+                "mz_expected": 715.1,
+                "time": 0.08603333333333334
+            }
+        ]
+    },
+    "2": {
+        "sample_info": {
+            "amine": "Tris",
+            "carbonyl": "Ket",
+            "metal": "ZnNTf"
+        },
+        "amine": "Tris",
+        "carbonyl": "Ket",
+        "metal": "ZnNTf",
+        "peaks_ppm": [
+            8.712941,
+            8.654822,
+            8.445381,
+            8.394288,
+            8.315177,
+            8.24447,
+            8.146934,
+            7.923262,
+            7.892379,
+            7.862716,
+            7.838653,
+            7.78138,
+            7.749826,
+            7.694715,
+            7.574848,
+            7.482185,
+            7.461452,
+            6.786816,
+            6.681399
+        ],
+        "NMR_PASS": false,
+        "MS_PASS": false,
+        "REPLICATION": false
+    },
+    "3": {
+        "sample_info": {
+            "amine": "Tris",
+            "carbonyl": "Ald2",
+            "metal": "ZnNTf"
+        },
+        "amine": "Tris",
+        "carbonyl": "Ald2",
+        "metal": "ZnNTf",
+        "peaks_ppm": [
+            9.948214,
+            8.977806,
+            8.840367,
+            8.505616,
+            8.342833,
+            8.255059,
+            8.106406,
+            8.021527,
+            7.81704,
+            7.770892,
+            7.574348,
+            7.474817,
+            7.04516,
+            6.775761,
+            6.675538
+        ],
+        "NMR_PASS": false,
+        "MS_PASS": false,
+        "REPLICATION": false
+    },
+    "4": {
+        "sample_info": {
+            "amine": "Tren",
+            "carbonyl": "Ald1",
+            "metal": "ZnNTf"
+        },
+        "amine": "Tren",
+        "carbonyl": "Ald1",
+        "metal": "ZnNTf",
+        "peaks_ppm": [
+            10.005293,
+            8.728683,
+            8.606167,
+            8.314137,
+            8.219448,
+            8.125433,
+            7.993055,
+            7.908618,
+            7.645651,
+            7.580886,
+            7.506281,
+            7.315215,
+            7.261227
+        ],
+        "NMR_PASS": false,
+        "MS_PASS": false,
+        "REPLICATION": false
+    },
+    "5": {
+        "sample_info": {
+            "amine": "Tren",
+            "carbonyl": "Ket",
+            "metal": "ZnNTf"
+        },
+        "amine": "Tren",
+        "carbonyl": "Ket",
+        "metal": "ZnNTf",
+        "peaks_ppm": [
+            8.704837,
+            8.647015,
+            7.977952,
+            7.964268,
+            7.942063,
+            7.90704,
+            7.888582,
+            7.809744,
+            7.630908,
+            7.592243,
+            7.571111,
+            7.538532,
+            7.496085,
+            7.460853
+        ],
+        "NMR_PASS": false,
+        "MS_PASS": false,
+        "REPLICATION": false
+    },
+    "6": {
+        "sample_info": {
+            "amine": "Tren",
+            "carbonyl": "Ald2",
+            "metal": "ZnNTf"
+        },
+        "amine": "Tren",
+        "carbonyl": "Ald2",
+        "metal": "ZnNTf",
+        "peaks_ppm": [
+            9.882402,
+            8.628768,
+            8.522135,
+            8.193037,
+            8.098734,
+            8.023792,
+            7.928981,
+            7.750715,
+            7.697013,
+            7.604651,
+            7.520439,
+            7.426419
+        ],
+        "NMR_PASS": false,
+        "MS_PASS": false,
+        "REPLICATION": false
+    },
+    "7": {
+        "sample_info": {
+            "amine": "Di",
+            "carbonyl": "Ald1",
+            "metal": "ZnNTf"
+        },
+        "amine": "Di",
+        "carbonyl": "Ald1",
+        "metal": "ZnNTf",
+        "peaks_ppm": [
+            8.555961,
+            8.466874,
+            8.416968,
+            8.353818,
+            8.266571,
+            8.173982,
+            7.887442,
+            7.834907,
+            7.005669,
+            6.902642,
+            6.234371,
+            6.131607
+        ],
+        "NMR_PASS": true,
+        "MS_PASS": true,
+        "REPLICATION": true,
+        "mz_peaks": [
+            {
+                "mz_value": 314.9945983886719,
+                "mode": "ES+",
+                "formula": "ZnNTf_(4)_Ald1_(12)_Di_(6)",
+                "charge": "8",
+                "mz_expected": 314.97,
+                "time": 0.08603333333333334
+            },
+            {
+                "mz_value": 512.9573974609375,
+                "mode": "ES+",
+                "formula": "ZnNTf_(2)_Ald1_(6)_Di_(3)",
+                "charge": "3",
+                "mz_expected": 512.76,
+                "time": 0.08603333333333334
+            },
+            {
+                "mz_value": 512.9573974609375,
+                "mode": "ES+",
+                "formula": "ZnNTf_(4)_Ald1_(12)_Di_(6)",
+                "charge": "6",
+                "mz_expected": 513.26,
+                "time": 0.08603333333333334
+            }
+        ]
+    },
+    "8": {
+        "sample_info": {
+            "amine": "Di",
+            "carbonyl": "Ket",
+            "metal": "ZnNTf"
+        },
+        "amine": "Di",
+        "carbonyl": "Ket",
+        "metal": "ZnNTf",
+        "peaks_ppm": [
+            8.572563,
+            8.510676,
+            8.28648,
+            8.139983,
+            8.071724,
+            7.952131,
+            7.739869,
+            7.654975,
+            7.039606,
+            6.936603,
+            6.881215,
+            6.778613,
+            6.585387,
+            6.529852,
+            6.493822,
+            6.42513,
+            6.310168,
+            6.209204
+        ],
+        "NMR_PASS": false,
+        "MS_PASS": true,
+        "REPLICATION": false
+    },
+    "9": {
+        "sample_info": {
+            "amine": "Di",
+            "carbonyl": "Ald2",
+            "metal": "ZnNTf"
+        },
+        "amine": "Di",
+        "carbonyl": "Ald2",
+        "metal": "ZnNTf",
+        "peaks_ppm": [
+            9.949595,
+            8.477523,
+            8.322513,
+            8.228201,
+            8.077838,
+            7.994602,
+            7.841268,
+            7.75093,
+            7.017298,
+            6.92338
+        ],
+        "NMR_PASS": true,
+        "MS_PASS": false,
+        "REPLICATION": false
+    },
+    "10": {
+        "sample_info": {
+            "amine": "Tris",
+            "carbonyl": "Ald1",
+            "metal": "CuBF4"
+        },
+        "amine": "Tris",
+        "carbonyl": "Ald1",
+        "metal": "CuBF4",
+        "peaks_ppm": [
+            10.006197,
+            9.072709,
+            8.755703,
+            8.639641,
+            8.102107,
+            7.919577,
+            7.740086,
+            7.57253,
+            6.771117,
+            6.667022
+        ],
+        "NMR_PASS": true,
+        "MS_PASS": false,
+        "REPLICATION": false
+    },
+    "11": {
+        "sample_info": {
+            "amine": "Tris",
+            "carbonyl": "Ket",
+            "metal": "CuBF4"
+        },
+        "amine": "Tris",
+        "carbonyl": "Ket",
+        "metal": "CuBF4",
+        "peaks_ppm": [
+            8.705249,
+            8.648582,
+            7.959462,
+            7.937289,
+            7.901603,
+            7.882691,
+            7.570282,
+            7.457139,
+            6.777836,
+            6.672195
+        ],
+        "NMR_PASS": false,
+        "MS_PASS": false,
+        "REPLICATION": false
+    },
+    "12": {
+        "sample_info": {
+            "amine": "Tris",
+            "carbonyl": "Ald2",
+            "metal": "CuBF4"
+        },
+        "amine": "Tris",
+        "carbonyl": "Ald2",
+        "metal": "CuBF4",
+        "peaks_ppm": [
+            9.952333,
+            9.1324,
+            8.098065,
+            8.004745,
+            7.945766,
+            7.767702,
+            7.706885,
+            7.618389,
+            7.521676,
+            6.772003,
+            6.667682
+        ],
+        "NMR_PASS": true,
+        "MS_PASS": false,
+        "REPLICATION": false
+    },
+    "13": {
+        "sample_info": {
+            "amine": "Tren",
+            "carbonyl": "Ald1",
+            "metal": "CuBF4"
+        },
+        "amine": "Tren",
+        "carbonyl": "Ald1",
+        "metal": "CuBF4",
+        "peaks_ppm": [
+            7.906485
+        ],
+        "NMR_PASS": false,
+        "MS_PASS": false,
+        "REPLICATION": false
+    },
+    "14": {
+        "sample_info": {
+            "amine": "Tren",
+            "carbonyl": "Ket",
+            "metal": "CuBF4"
+        },
+        "amine": "Tren",
+        "carbonyl": "Ket",
+        "metal": "CuBF4",
+        "peaks_ppm": [
+            8.64719,
+            7.960832,
+            7.903309,
+            7.785923,
+            7.627063,
+            7.567576
+        ],
+        "NMR_PASS": false,
+        "MS_PASS": false,
+        "REPLICATION": false
+    },
+    "15": {
+        "sample_info": {
+            "amine": "Tren",
+            "carbonyl": "Ald2",
+            "metal": "CuBF4"
+        },
+        "amine": "Tren",
+        "carbonyl": "Ald2",
+        "metal": "CuBF4",
+        "peaks_ppm": [
+            9.951923,
+            7.856727,
+            7.768687,
+            7.680872,
+            7.497623,
+            7.409814
+        ],
+        "NMR_PASS": true,
+        "MS_PASS": false,
+        "REPLICATION": false
+    },
+    "16": {
+        "sample_info": {
+            "amine": "Di",
+            "carbonyl": "Ald1",
+            "metal": "CuBF4"
+        },
+        "amine": "Di",
+        "carbonyl": "Ald1",
+        "metal": "CuBF4",
+        "peaks_ppm": [
+            9.183105,
+            8.5701,
+            8.510948,
+            8.186734,
+            8.08765,
+            8.001852,
+            7.922723,
+            7.783716,
+            7.697896,
+            7.638781,
+            7.426369,
+            7.320174,
+            7.212256,
+            7.105485
+        ],
+        "NMR_PASS": true,
+        "MS_PASS": false,
+        "REPLICATION": false
+    },
+    "17": {
+        "sample_info": {
+            "amine": "Di",
+            "carbonyl": "Ket",
+            "metal": "CuBF4"
+        },
+        "amine": "Di",
+        "carbonyl": "Ket",
+        "metal": "CuBF4",
+        "peaks_ppm": [
+            8.632069,
+            8.578039,
+            7.899596,
+            7.885906,
+            7.828561,
+            7.553432,
+            7.493252,
+            7.38435,
+            6.870035,
+            6.767189,
+            6.508322,
+            6.403835
+        ],
+        "NMR_PASS": true,
+        "MS_PASS": false,
+        "REPLICATION": false
+    },
+    "18": {
+        "sample_info": {
+            "amine": "Di",
+            "carbonyl": "Ald2",
+            "metal": "CuBF4"
+        },
+        "amine": "Di",
+        "carbonyl": "Ald2",
+        "metal": "CuBF4",
+        "peaks_ppm": [
+            9.876298,
+            9.099644,
+            8.816344,
+            8.097828,
+            8.004293,
+            7.910772,
+            7.847044,
+            7.757177,
+            7.694458,
+            7.585772,
+            7.494686,
+            7.42115,
+            7.349027,
+            7.242023,
+            7.135238,
+            7.030412,
+            6.868682,
+            6.81228,
+            6.764547,
+            6.506677,
+            6.425526
+        ],
+        "NMR_PASS": false,
+        "MS_PASS": true,
+        "REPLICATION": false
+    }
+}

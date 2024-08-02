@@ -1,0 +1,55 @@
+\documentclass{article}
+\usepackage{graphicx}
+\usepackage[a4paper, total={7in, 8in}]{geometry}
+\usepackage{caption}
+\usepackage{newfloat}
+\usepackage{textcomp}
+
+\DeclareFloatingEnvironment[fileext=lop]{scheme}
+
+\captionsetup{justification=raggedright,singlelinecheck=false}
+
+% \newcommand{\generateScheme}{
+%     \begin{scheme}
+%         \begin{minipage}{0.5\textwidth}
+%             \includegraphics[width=0.4\textwidth]{chemicalDrawings/8-methoxyquinoline-2-carbaldehyde.png}
+%             \includegraphics[width=0.4\textwidth]{chemicalDrawings/(R)-(+)-1,1'-Binaphthyl-2,2'-diamine.png}
+%             \includegraphics[width=0.1\textwidth]{chemicalDrawings/Yittrium(III) trifluoromethanesulfonate.png}
+%         \end{minipage}
+%         \begin{minipage}{0.5\textwidth}
+%             \begin{center}
+%                 \noindent
+%                 \includegraphics[height=1.1cm]{nonChemicalDrawings/nmrFail.png}
+%                 \\[0.5cm]
+%                 \noindent
+%                 \includegraphics[height=1.1cm]{nonChemicalDrawings/msSuccess.png}
+%             \end{center}
+%         \end{minipage}
+%         \caption{Self-assembly of components X, y, with Z in a 2:1:1 molar ratio in CH$_3$CN at 60\textdegree C for 40h.}
+%     \end{scheme}
+%     }
+
+% Function is responsible for the generation of the scheme with the reagents that form the supramolecular complex.
+\newcommand{\generateScheme}[8]{
+    \begin{scheme}
+        \begin{minipage}{0.5\textwidth} %The section with reagent images.
+            \includegraphics[width=0.4\textwidth]{#1} %This is the path to the aldhdye image.
+            \includegraphics[width=0.4\textwidth]{#2} %This is the path to the amine image.
+            \includegraphics[width=0.1\textwidth]{#3} %This is the path to the metal image.
+        \end{minipage}
+        \begin{minipage}{0.5\textwidth} %The section with sucessful or not MS.
+            \begin{center}
+                \noindent
+                \includegraphics[height=1.1cm]{#4} %Path to image of sucessful or not NMR.
+                \\[0.5cm]
+                \noindent
+                \includegraphics[height=1.1cm]{#5} %Path to image of sucessful or not MS.
+            \end{center}
+        \end{minipage}
+        \caption{Self-assembly of components #6, #7, with #8 in a 2:1:1 molar ratio in CH$_3$CN at 60\textdegree C for 40h.} %#6 is the aldehyde number, #7 is the amine number, #8 is the metal chemical formula.
+    \end{scheme}
+    }
+
+\begin{document}
+\generateScheme{chemicalDrawings/8-methoxyquinoline-2-carbaldehyde.png}{chemicalDrawings/(R)-(+)-1,1'-Binaphthyl-2,2'-diamine.png}{chemicalDrawings/Yittrium(III) trifluoromethanesulfonate.png}{nonChemicalDrawings/nmrFail.png}{nonChemicalDrawings/msSuccess.png}{7}{14}{Y(CF$_3$SO$_3$)$_3$}
+\end{document}

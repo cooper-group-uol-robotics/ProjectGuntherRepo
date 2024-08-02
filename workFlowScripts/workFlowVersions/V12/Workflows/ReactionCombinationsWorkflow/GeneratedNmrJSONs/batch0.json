@@ -1,0 +1,578 @@
+{
+    "1": {
+        "sample_info": "23batch0: [5-Methylpicolinaldehyde, Iron(II) tetrafluoroborate hexahydrate, 4,4'-Methylenedianiline] : [25, 1, 11]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "2": {
+        "sample_info": "1: [6-Methylpyridine-2-carboxaldehyde, Zinc tetrafluoroborate, 4,4'-Methylenedianiline] : [21, 2, 11]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "3": {
+        "sample_info": "2: [6-Methylpyridine-2-carboxaldehyde, Zinc tetrafluoroborate, 2,2'-(Ethane-1,2-diylbis(oxy))diethanamine] : [21, 2, 9]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "4": {
+        "sample_info": "3: [6-Methylpyridine-2-carboxaldehyde, Zinc tetrafluoroborate, 4,4'-Oxydianiline] : [21, 2, 18]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "5": {
+        "sample_info": "4: [Iron(II) tetrafluoroborate hexahydrate, 6-Methylpyridine-2-carboxaldehyde, 4,4'-Methylenedianiline] : [1, 21, 11]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "6": {
+        "sample_info": "5: [Iron(II) tetrafluoroborate hexahydrate, 6-Methylpyridine-2-carboxaldehyde, 2,2'-(Ethane-1,2-diylbis(oxy))diethanamine] : [1, 21, 9]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "7": {
+        "sample_info": "6: [Iron(II) tetrafluoroborate hexahydrate, 6-Methylpyridine-2-carboxaldehyde, 4,4'-Oxydianiline] : [1, 21, 18]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "8": {
+        "sample_info": "7: [6-Methoxypyridine-2-carbaldehyde, Zinc tetrafluoroborate, 4,4'-Methylenedianiline] : [29, 2, 11]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "9": {
+        "sample_info": "8: [6-Methoxypyridine-2-carbaldehyde, Zinc tetrafluoroborate, 2,2'-(Ethane-1,2-diylbis(oxy))diethanamine] : [29, 2, 9]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "10": {
+        "sample_info": "9: [6-Methoxypyridine-2-carbaldehyde, Zinc tetrafluoroborate, 4,4'-Oxydianiline] : [29, 2, 18]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "11": {
+        "sample_info": "10: [Naphthalene-1,8-diamine, 6-Methylpyridine-2-carboxaldehyde, Zinc tetrafluoroborate] : [17, 21, 2]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "12": {
+        "sample_info": "11: [4,4'-(9H-AdamantaeFlurene-9,9diyl)dianiline, 6-Methylpyridine-2-carboxaldehyde, Zinc tetrafluoroborate] : [14, 21, 2]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "13": {
+        "sample_info": "12: [6-Methoxypyridine-2-carbaldehyde, Iron(II) tetrafluoroborate hexahydrate, 4,4'-Methylenedianiline] : [29, 1, 11]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "14": {
+        "sample_info": "13: [6-Methoxypyridine-2-carbaldehyde, Iron(II) tetrafluoroborate hexahydrate, 2,2'-(Ethane-1,2-diylbis(oxy))diethanamine] : [29, 1, 9]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "15": {
+        "sample_info": "14: [6-Methoxypyridine-2-carbaldehyde, Iron(II) tetrafluoroborate hexahydrate, 4,4'-Oxydianiline] : [29, 1, 18]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "16": {
+        "sample_info": "15: [Naphthalene-1,8-diamine, Iron(II) tetrafluoroborate hexahydrate, 6-Methylpyridine-2-carboxaldehyde] : [17, 1, 21]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "17": {
+        "sample_info": "16: [4,4'-(9H-AdamantaeFlurene-9,9diyl)dianiline, Iron(II) tetrafluoroborate hexahydrate, 6-Methylpyridine-2-carboxaldehyde] : [14, 1, 21]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "18": {
+        "sample_info": "17: [Naphthalene-1,8-diamine, 6-Methoxypyridine-2-carbaldehyde, Zinc tetrafluoroborate] : [17, 29, 2]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "19": {
+        "sample_info": "18: [4,4'-(9H-AdamantaeFlurene-9,9diyl)dianiline, 6-Methoxypyridine-2-carbaldehyde, Zinc tetrafluoroborate] : [14, 29, 2]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "20": {
+        "sample_info": "19: [Naphthalene-1,8-diamine, 6-Methoxypyridine-2-carbaldehyde, Iron(II) tetrafluoroborate hexahydrate] : [17, 29, 1]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "21": {
+        "sample_info": "20: [4,4'-(9H-AdamantaeFlurene-9,9diyl)dianiline, 6-Methoxypyridine-2-carbaldehyde, Iron(II) tetrafluoroborate hexahydrate] : [14, 29, 1]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "22": {
+        "sample_info": "21: [5-Methylpicolinaldehyde, Zinc tetrafluoroborate, 4,4'-Methylenedianiline] : [25, 2, 11]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "23": {
+        "sample_info": "22: [5-Methylpicolinaldehyde, Zinc tetrafluoroborate, 2,2'-(Ethane-1,2-diylbis(oxy))diethanamine] : [25, 2, 9]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "24": {
+        "sample_info": "23: [5-Methylpicolinaldehyde, Zinc tetrafluoroborate, 4,4'-Oxydianiline] : [25, 2, 18]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "25": {
+        "sample_info": "24: [5-Methylpicolinaldehyde, Iron(II) tetrafluoroborate hexahydrate, 4,4'-Methylenedianiline] : [25, 1, 11]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "26": {
+        "sample_info": "25: [5-Methylpicolinaldehyde, Iron(II) tetrafluoroborate hexahydrate, 2,2'-(Ethane-1,2-diylbis(oxy))diethanamine] : [25, 1, 9]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "27": {
+        "sample_info": "26: [5-Methylpicolinaldehyde, Iron(II) tetrafluoroborate hexahydrate, 4,4'-Oxydianiline] : [25, 1, 18]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "28": {
+        "sample_info": "27: [5-Methylpicolinaldehyde, Naphthalene-1,8-diamine, Zinc tetrafluoroborate] : [25, 17, 2]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "29": {
+        "sample_info": "28: [5-Methylpicolinaldehyde, 4,4'-(9H-AdamantaeFlurene-9,9diyl)dianiline, Zinc tetrafluoroborate] : [25, 14, 2]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "30": {
+        "sample_info": "29: [5-Methylpicolinaldehyde, Naphthalene-1,8-diamine, Iron(II) tetrafluoroborate hexahydrate] : [25, 17, 1]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "31": {
+        "sample_info": "30: [5-Methylpicolinaldehyde, 4,4'-(9H-AdamantaeFlurene-9,9diyl)dianiline, Iron(II) tetrafluoroborate hexahydrate] : [25, 14, 1]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "32": {
+        "sample_info": "31: [m-Xylylenediamine, 6-Methylpyridine-2-carboxaldehyde, Zinc tetrafluoroborate] : [12, 21, 2]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "33": {
+        "sample_info": "32: [m-Xylylenediamine, Iron(II) tetrafluoroborate hexahydrate, 6-Methylpyridine-2-carboxaldehyde] : [12, 1, 21]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "34": {
+        "sample_info": "33: [m-Xylylenediamine, 6-Methoxypyridine-2-carbaldehyde, Zinc tetrafluoroborate] : [12, 29, 2]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "35": {
+        "sample_info": "34: [m-Xylylenediamine, 6-Methoxypyridine-2-carbaldehyde, Iron(II) tetrafluoroborate hexahydrate] : [12, 29, 1]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "36": {
+        "sample_info": "35: [m-Xylylenediamine, 5-Methylpicolinaldehyde, Zinc tetrafluoroborate] : [12, 25, 2]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "37": {
+        "sample_info": "36: [m-Xylylenediamine, 5-Methylpicolinaldehyde, Iron(II) tetrafluoroborate hexahydrate] : [12, 25, 1]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "38": {
+        "sample_info": "37: [1-Methyl-2-imidazolecarboxaldehyde, Zinc tetrafluoroborate, 4,4'-Methylenedianiline] : [30, 2, 11]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "39": {
+        "sample_info": "38: [1-Methyl-2-imidazolecarboxaldehyde, Zinc tetrafluoroborate, 2,2'-(Ethane-1,2-diylbis(oxy))diethanamine] : [30, 2, 9]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "40": {
+        "sample_info": "39: [1-Methyl-2-imidazolecarboxaldehyde, Zinc tetrafluoroborate, 4,4'-Oxydianiline] : [30, 2, 18]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "41": {
+        "sample_info": "40: [2,2'-(Ethane-1,2-diyl)dianiline, 6-Methylpyridine-2-carboxaldehyde, Zinc tetrafluoroborate] : [8, 21, 2]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "42": {
+        "sample_info": "41: [1-Methyl-2-imidazolecarboxaldehyde, Iron(II) tetrafluoroborate hexahydrate, 4,4'-Methylenedianiline] : [30, 1, 11]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "43": {
+        "sample_info": "42: [1-Methyl-2-imidazolecarboxaldehyde, Iron(II) tetrafluoroborate hexahydrate, 2,2'-(Ethane-1,2-diylbis(oxy))diethanamine] : [30, 1, 9]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "44": {
+        "sample_info": "43: [1-Methyl-2-imidazolecarboxaldehyde, Iron(II) tetrafluoroborate hexahydrate, 4,4'-Oxydianiline] : [30, 1, 18]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "45": {
+        "sample_info": "44: [2,2'-(Ethane-1,2-diyl)dianiline, Iron(II) tetrafluoroborate hexahydrate, 6-Methylpyridine-2-carboxaldehyde] : [8, 1, 21]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "46": {
+        "sample_info": "45: [1-Methyl-2-imidazolecarboxaldehyde, Naphthalene-1,8-diamine, Zinc tetrafluoroborate] : [30, 17, 2]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "47": {
+        "sample_info": "46: [1-Methyl-2-imidazolecarboxaldehyde, 4,4'-(9H-AdamantaeFlurene-9,9diyl)dianiline, Zinc tetrafluoroborate] : [30, 14, 2]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "48": {
+        "sample_info": "47: [2,2'-(Ethane-1,2-diyl)dianiline, 6-Methoxypyridine-2-carbaldehyde, Zinc tetrafluoroborate] : [8, 29, 2]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    }
+}

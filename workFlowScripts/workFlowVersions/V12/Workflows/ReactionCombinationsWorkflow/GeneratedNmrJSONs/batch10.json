@@ -1,0 +1,578 @@
+{
+    "1": {
+        "sample_info": "23batch10: [5-Methylpicolinaldehyde, Iron(II) tetrafluoroborate hexahydrate, 4,4'-Methylenedianiline] : [25, 1, 11]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "2": {
+        "sample_info": "471: [(R)-(+)-1,1'-Binaphthyl-2,2'-diamine, 4-Methyl-1,3-thiazole-2-carbaldehyde, Yittrium(III) trifluoromethanesulfonate] : [20, 32, 3]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "3": {
+        "sample_info": "472: [(R)-(+)-1,1'-Binaphthyl-2,2'-diamine, 4-Methyl-1,3-thiazole-2-carbaldehyde, Silver tetrafluoroborate] : [20, 32, 5]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "4": {
+        "sample_info": "473: [(R)-(+)-1,1'-Binaphthyl-2,2'-diamine, 4-Methyl-1,3-thiazole-2-carbaldehyde, Silver tetrafluoroborate] : [20, 32, 5]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "5": {
+        "sample_info": "474: [(R)-(+)-1,1'-Binaphthyl-2,2'-diamine, 4-Methyl-1,3-thiazole-2-carbaldehyde, Tetrakis(acetonitrile)copper(I) tetrafluoroborate] : [20, 32, 4]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "6": {
+        "sample_info": "475: [(R)-(+)-1,1'-Binaphthyl-2,2'-diamine, 1-Methyl-1H-benzimidazole-2-carbaldehyde, Zinc tetrafluoroborate] : [20, 31, 2]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "7": {
+        "sample_info": "476: [(R)-(+)-1,1'-Binaphthyl-2,2'-diamine, 1-Methyl-1H-benzimidazole-2-carbaldehyde, Iron(II) tetrafluoroborate hexahydrate] : [20, 31, 1]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "8": {
+        "sample_info": "477: [(R)-(+)-1,1'-Binaphthyl-2,2'-diamine, 1-Methyl-1H-benzimidazole-2-carbaldehyde, Yittrium(III) trifluoromethanesulfonate] : [20, 31, 3]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "9": {
+        "sample_info": "478: [(R)-(+)-1,1'-Binaphthyl-2,2'-diamine, 1-Methyl-1H-benzimidazole-2-carbaldehyde, Silver tetrafluoroborate] : [20, 31, 5]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "10": {
+        "sample_info": "479: [(R)-(+)-1,1'-Binaphthyl-2,2'-diamine, 1-Methyl-1H-benzimidazole-2-carbaldehyde, Silver tetrafluoroborate] : [20, 31, 5]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "11": {
+        "sample_info": "480: [(R)-(+)-1,1'-Binaphthyl-2,2'-diamine, 1-Methyl-1H-benzimidazole-2-carbaldehyde, Tetrakis(acetonitrile)copper(I) tetrafluoroborate] : [20, 31, 4]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "12": {
+        "sample_info": "481: [(R)-(+)-1,1'-Binaphthyl-2,2'-diamine, 8-methoxyquinoline-2-carbaldehyde, Zinc tetrafluoroborate] : [20, 26, 2]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "13": {
+        "sample_info": "482: [(R)-(+)-1,1'-Binaphthyl-2,2'-diamine, 8-methoxyquinoline-2-carbaldehyde, Iron(II) tetrafluoroborate hexahydrate] : [20, 26, 1]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "14": {
+        "sample_info": "483: [(R)-(+)-1,1'-Binaphthyl-2,2'-diamine, 8-methoxyquinoline-2-carbaldehyde, Yittrium(III) trifluoromethanesulfonate] : [20, 26, 3]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "15": {
+        "sample_info": "484: [(R)-(+)-1,1'-Binaphthyl-2,2'-diamine, 8-methoxyquinoline-2-carbaldehyde, Silver tetrafluoroborate] : [20, 26, 5]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "16": {
+        "sample_info": "485: [(R)-(+)-1,1'-Binaphthyl-2,2'-diamine, 8-methoxyquinoline-2-carbaldehyde, Silver tetrafluoroborate] : [20, 26, 5]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "17": {
+        "sample_info": "486: [(R)-(+)-1,1'-Binaphthyl-2,2'-diamine, 8-methoxyquinoline-2-carbaldehyde, Tetrakis(acetonitrile)copper(I) tetrafluoroborate] : [20, 26, 4]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "18": {
+        "sample_info": "487: [Adamantane-1,3-diamine, 6-Methylpyridine-2-carboxaldehyde, Zinc tetrafluoroborate] : [13, 21, 2]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "19": {
+        "sample_info": "488: [Adamantane-1,3-diamine, Iron(II) tetrafluoroborate hexahydrate, 6-Methylpyridine-2-carboxaldehyde] : [13, 1, 21]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "20": {
+        "sample_info": "489: [Adamantane-1,3-diamine, 6-Methoxypyridine-2-carbaldehyde, Zinc tetrafluoroborate] : [13, 29, 2]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "21": {
+        "sample_info": "490: [Adamantane-1,3-diamine, 6-Methoxypyridine-2-carbaldehyde, Iron(II) tetrafluoroborate hexahydrate] : [13, 29, 1]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "22": {
+        "sample_info": "491: [Adamantane-1,3-diamine, 5-Methylpicolinaldehyde, Zinc tetrafluoroborate] : [13, 25, 2]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "23": {
+        "sample_info": "492: [Adamantane-1,3-diamine, 5-Methylpicolinaldehyde, Iron(II) tetrafluoroborate hexahydrate] : [13, 25, 1]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "24": {
+        "sample_info": "493: [Adamantane-1,3-diamine, 1-Methyl-2-imidazolecarboxaldehyde, Zinc tetrafluoroborate] : [13, 30, 2]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "25": {
+        "sample_info": "494: [Adamantane-1,3-diamine, 1-Methyl-2-imidazolecarboxaldehyde, Iron(II) tetrafluoroborate hexahydrate] : [13, 30, 1]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "26": {
+        "sample_info": "495: [Adamantane-1,3-diamine, Yittrium(III) trifluoromethanesulfonate, 6-Methylpyridine-2-carboxaldehyde] : [13, 3, 21]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "27": {
+        "sample_info": "496: [Adamantane-1,3-diamine, Yittrium(III) trifluoromethanesulfonate, 6-Methoxypyridine-2-carbaldehyde] : [13, 3, 29]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "28": {
+        "sample_info": "497: [Adamantane-1,3-diamine, Yittrium(III) trifluoromethanesulfonate, 5-Methylpicolinaldehyde] : [13, 3, 25]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "29": {
+        "sample_info": "498: [Adamantane-1,3-diamine, Yittrium(III) trifluoromethanesulfonate, 1-Methyl-2-imidazolecarboxaldehyde] : [13, 3, 30]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "30": {
+        "sample_info": "499: [Adamantane-1,3-diamine, 4-Formyl-2-methylthiazole, Zinc tetrafluoroborate] : [13, 28, 2]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "31": {
+        "sample_info": "500: [Adamantane-1,3-diamine, 4-Formyl-2-methylthiazole, Iron(II) tetrafluoroborate hexahydrate] : [13, 28, 1]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "32": {
+        "sample_info": "501: [Adamantane-1,3-diamine, 4-Formyl-2-methylthiazole, Yittrium(III) trifluoromethanesulfonate] : [13, 28, 3]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "33": {
+        "sample_info": "502: [Adamantane-1,3-diamine, Silver tetrafluoroborate, 6-Methylpyridine-2-carboxaldehyde] : [13, 5, 21]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "34": {
+        "sample_info": "503: [Adamantane-1,3-diamine, Silver tetrafluoroborate, 6-Methoxypyridine-2-carbaldehyde] : [13, 5, 29]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "35": {
+        "sample_info": "504: [Adamantane-1,3-diamine, Silver tetrafluoroborate, 5-Methylpicolinaldehyde] : [13, 5, 25]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "36": {
+        "sample_info": "505: [Adamantane-1,3-diamine, Silver tetrafluoroborate, 1-Methyl-2-imidazolecarboxaldehyde] : [13, 5, 30]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "37": {
+        "sample_info": "506: [Adamantane-1,3-diamine, Silver tetrafluoroborate, 4-Formyl-2-methylthiazole] : [13, 5, 28]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "38": {
+        "sample_info": "507: [Adamantane-1,3-diamine, 2-Quinolinecarboxaldehyde, Zinc tetrafluoroborate] : [13, 24, 2]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "39": {
+        "sample_info": "508: [Adamantane-1,3-diamine, 2-Quinolinecarboxaldehyde, Iron(II) tetrafluoroborate hexahydrate] : [13, 24, 1]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "40": {
+        "sample_info": "509: [Adamantane-1,3-diamine, 2-Quinolinecarboxaldehyde, Yittrium(III) trifluoromethanesulfonate] : [13, 24, 3]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "41": {
+        "sample_info": "510: [Adamantane-1,3-diamine, 2-Quinolinecarboxaldehyde, Silver tetrafluoroborate] : [13, 24, 5]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "42": {
+        "sample_info": "511: [Adamantane-1,3-diamine, 2-Quinolinecarboxaldehyde, Silver tetrafluoroborate] : [13, 24, 5]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "43": {
+        "sample_info": "512: [Adamantane-1,3-diamine, Silver tetrafluoroborate, 6-Methylpyridine-2-carboxaldehyde] : [13, 5, 21]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "44": {
+        "sample_info": "513: [Adamantane-1,3-diamine, Silver tetrafluoroborate, 6-Methoxypyridine-2-carbaldehyde] : [13, 5, 29]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "45": {
+        "sample_info": "514: [Adamantane-1,3-diamine, Silver tetrafluoroborate, 5-Methylpicolinaldehyde] : [13, 5, 25]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "46": {
+        "sample_info": "515: [Adamantane-1,3-diamine, Silver tetrafluoroborate, 1-Methyl-2-imidazolecarboxaldehyde] : [13, 5, 30]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "47": {
+        "sample_info": "516: [Adamantane-1,3-diamine, Silver tetrafluoroborate, 4-Formyl-2-methylthiazole] : [13, 5, 28]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "48": {
+        "sample_info": "517: [Adamantane-1,3-diamine, Tetrakis(acetonitrile)copper(I) tetrafluoroborate, 6-Methylpyridine-2-carboxaldehyde] : [13, 4, 21]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    }
+}

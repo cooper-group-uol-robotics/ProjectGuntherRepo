@@ -1,0 +1,6 @@
+numpy
+matplotlib
+adjustText
+jupyterlab
+jupyter 
+pandas

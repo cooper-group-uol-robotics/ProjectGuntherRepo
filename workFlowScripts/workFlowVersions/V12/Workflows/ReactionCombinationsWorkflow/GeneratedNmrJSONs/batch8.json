@@ -1,0 +1,578 @@
+{
+    "1": {
+        "sample_info": "23batch8: [5-Methylpicolinaldehyde, Iron(II) tetrafluoroborate hexahydrate, 4,4'-Methylenedianiline] : [25, 1, 11]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "2": {
+        "sample_info": "377: [1-Methyl-1H-benzimidazole-2-carbaldehyde, Silver tetrafluoroborate, 2,2'-(Ethane-1,2-diyl)dianiline] : [31, 5, 8]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "3": {
+        "sample_info": "378: [1-Methyl-1H-benzimidazole-2-carbaldehyde, Tetrakis(acetonitrile)copper(I) tetrafluoroborate, 4,4'-Methylenedianiline] : [31, 4, 11]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "4": {
+        "sample_info": "379: [1-Methyl-1H-benzimidazole-2-carbaldehyde, Tetrakis(acetonitrile)copper(I) tetrafluoroborate, 2,2'-(Ethane-1,2-diylbis(oxy))diethanamine] : [31, 4, 9]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "5": {
+        "sample_info": "380: [1-Methyl-1H-benzimidazole-2-carbaldehyde, Tetrakis(acetonitrile)copper(I) tetrafluoroborate, 4,4'-Oxydianiline] : [31, 4, 18]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "6": {
+        "sample_info": "381: [1-Methyl-1H-benzimidazole-2-carbaldehyde, Tetrakis(acetonitrile)copper(I) tetrafluoroborate, Naphthalene-1,8-diamine] : [31, 4, 17]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "7": {
+        "sample_info": "382: [1-Methyl-1H-benzimidazole-2-carbaldehyde, Tetrakis(acetonitrile)copper(I) tetrafluoroborate, 4,4'-(9H-AdamantaeFlurene-9,9diyl)dianiline] : [31, 4, 14]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "8": {
+        "sample_info": "383: [1-Methyl-1H-benzimidazole-2-carbaldehyde, Tetrakis(acetonitrile)copper(I) tetrafluoroborate, m-Xylylenediamine] : [31, 4, 12]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "9": {
+        "sample_info": "384: [1-Methyl-1H-benzimidazole-2-carbaldehyde, Tetrakis(acetonitrile)copper(I) tetrafluoroborate, 2,2'-(Ethane-1,2-diyl)dianiline] : [31, 4, 8]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "10": {
+        "sample_info": "385: [8-methoxyquinoline-2-carbaldehyde, Zinc tetrafluoroborate, 4,4'-Methylenedianiline] : [26, 2, 11]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "11": {
+        "sample_info": "386: [8-methoxyquinoline-2-carbaldehyde, Zinc tetrafluoroborate, 2,2'-(Ethane-1,2-diylbis(oxy))diethanamine] : [26, 2, 9]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "12": {
+        "sample_info": "387: [8-methoxyquinoline-2-carbaldehyde, Zinc tetrafluoroborate, 4,4'-Oxydianiline] : [26, 2, 18]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "13": {
+        "sample_info": "388: [8-methoxyquinoline-2-carbaldehyde, Iron(II) tetrafluoroborate hexahydrate, 4,4'-Methylenedianiline] : [26, 1, 11]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "14": {
+        "sample_info": "389: [8-methoxyquinoline-2-carbaldehyde, Iron(II) tetrafluoroborate hexahydrate, 2,2'-(Ethane-1,2-diylbis(oxy))diethanamine] : [26, 1, 9]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "15": {
+        "sample_info": "390: [8-methoxyquinoline-2-carbaldehyde, Iron(II) tetrafluoroborate hexahydrate, 4,4'-Oxydianiline] : [26, 1, 18]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "16": {
+        "sample_info": "391: [8-methoxyquinoline-2-carbaldehyde, Naphthalene-1,8-diamine, Zinc tetrafluoroborate] : [26, 17, 2]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "17": {
+        "sample_info": "392: [8-methoxyquinoline-2-carbaldehyde, 4,4'-(9H-AdamantaeFlurene-9,9diyl)dianiline, Zinc tetrafluoroborate] : [26, 14, 2]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "18": {
+        "sample_info": "393: [8-methoxyquinoline-2-carbaldehyde, Naphthalene-1,8-diamine, Iron(II) tetrafluoroborate hexahydrate] : [26, 17, 1]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "19": {
+        "sample_info": "394: [8-methoxyquinoline-2-carbaldehyde, 4,4'-(9H-AdamantaeFlurene-9,9diyl)dianiline, Iron(II) tetrafluoroborate hexahydrate] : [26, 14, 1]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "20": {
+        "sample_info": "395: [8-methoxyquinoline-2-carbaldehyde, m-Xylylenediamine, Zinc tetrafluoroborate] : [26, 12, 2]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "21": {
+        "sample_info": "396: [8-methoxyquinoline-2-carbaldehyde, m-Xylylenediamine, Iron(II) tetrafluoroborate hexahydrate] : [26, 12, 1]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "22": {
+        "sample_info": "397: [8-methoxyquinoline-2-carbaldehyde, 2,2'-(Ethane-1,2-diyl)dianiline, Zinc tetrafluoroborate] : [26, 8, 2]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "23": {
+        "sample_info": "398: [8-methoxyquinoline-2-carbaldehyde, 2,2'-(Ethane-1,2-diyl)dianiline, Iron(II) tetrafluoroborate hexahydrate] : [26, 8, 1]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "24": {
+        "sample_info": "399: [8-methoxyquinoline-2-carbaldehyde, Yittrium(III) trifluoromethanesulfonate, 4,4'-Methylenedianiline] : [26, 3, 11]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "25": {
+        "sample_info": "400: [8-methoxyquinoline-2-carbaldehyde, Yittrium(III) trifluoromethanesulfonate, 2,2'-(Ethane-1,2-diylbis(oxy))diethanamine] : [26, 3, 9]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "26": {
+        "sample_info": "401: [8-methoxyquinoline-2-carbaldehyde, Yittrium(III) trifluoromethanesulfonate, 4,4'-Oxydianiline] : [26, 3, 18]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "27": {
+        "sample_info": "402: [8-methoxyquinoline-2-carbaldehyde, Yittrium(III) trifluoromethanesulfonate, Naphthalene-1,8-diamine] : [26, 3, 17]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "28": {
+        "sample_info": "403: [8-methoxyquinoline-2-carbaldehyde, Yittrium(III) trifluoromethanesulfonate, 4,4'-(9H-AdamantaeFlurene-9,9diyl)dianiline] : [26, 3, 14]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "29": {
+        "sample_info": "404: [8-methoxyquinoline-2-carbaldehyde, Yittrium(III) trifluoromethanesulfonate, m-Xylylenediamine] : [26, 3, 12]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "30": {
+        "sample_info": "405: [8-methoxyquinoline-2-carbaldehyde, Yittrium(III) trifluoromethanesulfonate, 2,2'-(Ethane-1,2-diyl)dianiline] : [26, 3, 8]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "31": {
+        "sample_info": "406: [8-methoxyquinoline-2-carbaldehyde, Silver tetrafluoroborate, 4,4'-Methylenedianiline] : [26, 5, 11]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "32": {
+        "sample_info": "407: [8-methoxyquinoline-2-carbaldehyde, Silver tetrafluoroborate, 2,2'-(Ethane-1,2-diylbis(oxy))diethanamine] : [26, 5, 9]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "33": {
+        "sample_info": "408: [8-methoxyquinoline-2-carbaldehyde, Silver tetrafluoroborate, 4,4'-Oxydianiline] : [26, 5, 18]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "34": {
+        "sample_info": "409: [8-methoxyquinoline-2-carbaldehyde, Silver tetrafluoroborate, Naphthalene-1,8-diamine] : [26, 5, 17]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "35": {
+        "sample_info": "410: [8-methoxyquinoline-2-carbaldehyde, Silver tetrafluoroborate, 4,4'-(9H-AdamantaeFlurene-9,9diyl)dianiline] : [26, 5, 14]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "36": {
+        "sample_info": "411: [8-methoxyquinoline-2-carbaldehyde, Silver tetrafluoroborate, m-Xylylenediamine] : [26, 5, 12]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "37": {
+        "sample_info": "412: [8-methoxyquinoline-2-carbaldehyde, Silver tetrafluoroborate, 2,2'-(Ethane-1,2-diyl)dianiline] : [26, 5, 8]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "38": {
+        "sample_info": "413: [8-methoxyquinoline-2-carbaldehyde, 2,2'-Oxydiethanamine, Zinc tetrafluoroborate] : [26, 10, 2]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "39": {
+        "sample_info": "414: [8-methoxyquinoline-2-carbaldehyde, 2,2'-Oxydiethanamine, Iron(II) tetrafluoroborate hexahydrate] : [26, 10, 1]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "40": {
+        "sample_info": "415: [8-methoxyquinoline-2-carbaldehyde, 2,2'-Oxydiethanamine, Yittrium(III) trifluoromethanesulfonate] : [26, 10, 3]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "41": {
+        "sample_info": "416: [8-methoxyquinoline-2-carbaldehyde, 2,2'-Oxydiethanamine, Silver tetrafluoroborate] : [26, 10, 5]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "42": {
+        "sample_info": "417: [8-methoxyquinoline-2-carbaldehyde, 2,2'-Oxydiethanamine, Silver tetrafluoroborate] : [26, 10, 5]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "43": {
+        "sample_info": "418: [8-methoxyquinoline-2-carbaldehyde, 2,2'-Oxydiethanamine, Tetrakis(acetonitrile)copper(I) tetrafluoroborate] : [26, 10, 4]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "44": {
+        "sample_info": "419: [8-methoxyquinoline-2-carbaldehyde, Silver tetrafluoroborate, 4,4'-Methylenedianiline] : [26, 5, 11]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "45": {
+        "sample_info": "420: [8-methoxyquinoline-2-carbaldehyde, Silver tetrafluoroborate, 2,2'-(Ethane-1,2-diylbis(oxy))diethanamine] : [26, 5, 9]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "46": {
+        "sample_info": "421: [8-methoxyquinoline-2-carbaldehyde, Silver tetrafluoroborate, 4,4'-Oxydianiline] : [26, 5, 18]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "47": {
+        "sample_info": "422: [8-methoxyquinoline-2-carbaldehyde, Silver tetrafluoroborate, Naphthalene-1,8-diamine] : [26, 5, 17]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "48": {
+        "sample_info": "423: [8-methoxyquinoline-2-carbaldehyde, Silver tetrafluoroborate, 4,4'-(9H-AdamantaeFlurene-9,9diyl)dianiline] : [26, 5, 14]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    }
+}

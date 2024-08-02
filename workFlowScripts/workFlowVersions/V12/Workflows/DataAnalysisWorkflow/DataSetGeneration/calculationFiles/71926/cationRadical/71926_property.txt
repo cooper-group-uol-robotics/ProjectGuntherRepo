@@ -1,0 +1,168 @@
+-------------------------------------------------------------
+----------------------- !PROPERTIES! ------------------------
+-------------------------------------------------------------
+# -----------------------------------------------------------
+$ PAL_Flags
+   description: The PAL Flags
+   geom. index: 1
+   prop. index: 1
+        Diskflag:     2
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 1
+   prop. index: 1
+        SCF Energy:     -514.2660134974
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 1
+   prop. index: 1
+   Number of Alpha Electrons                 40.9999949329 
+   Number of Beta  Electrons                 39.9999946279 
+   Total number of  Electrons                80.9999895608 
+   Exchange energy                          -34.6816981479 
+   Correlation energy                        -2.1427057849 
+   Correlation energy NL                      0.0000000000 
+   Exchange-Correlation energy              -36.8244039328 
+   Embedding correction                       0.0000000000 
+   Total DFT Energy (No VdW correction)    -514.2660134974 
+# -----------------------------------------------------------
+$ Mayer_Pop
+   description: The Mayer population analysis
+   geom. index: 1
+   prop. index: 1
+     Number of atoms                     : 19
+     Threshold for printing              : 0.1000000
+     Number of bond orders printed       : 20
+  NA   - Mulliken gross atomic population
+  ZA   - Total nuclear charge
+  QA   - Mulliken gross atomic charge
+  VA   - Mayer's total valence
+  BVA  - Mayer's bonded valence
+  FA   - Mayer's free valence
+  ATOM       NA         ZA         QA         VA         BVA        FA
+  0   0     6.0764     6.0000    -0.0764     3.9498     3.9422     0.0076
+  1   0     6.0250     6.0000    -0.0250     3.8848     3.8796     0.0052
+  2   0     6.1216     6.0000    -0.1216     3.9261     3.8098     0.1163
+  3   0     5.7682     6.0000     0.2318     3.9570     3.9525     0.0045
+  4   0     5.9372     6.0000     0.0628     3.8326     3.8302     0.0024
+  5   0     6.0410     6.0000    -0.0410     3.8428     3.7376     0.1052
+  6   0     6.0642     6.0000    -0.0642     3.8793     3.8656     0.0137
+  7   0     6.1360     6.0000    -0.1360     3.9351     3.9256     0.0095
+  8   0     5.7758     6.0000     0.2242     3.7119     3.7088     0.0031
+  9   0     7.2024     7.0000    -0.2024     3.0159     2.9874     0.0285
+ 10   0     5.8903     6.0000     0.1097     3.9850     3.9849     0.0001
+ 11   0     8.2672     8.0000    -0.2672     2.1489     2.1488     0.0001
+ 12   0     0.8076     1.0000     0.1924     0.9569     0.9569     0.0000
+ 13   0     0.8077     1.0000     0.1923     0.9568     0.9568     0.0000
+ 14   0     0.8037     1.0000     0.1963     0.9717     0.9714     0.0003
+ 15   0     0.8055     1.0000     0.1945     0.9547     0.9544     0.0003
+ 16   0     0.8157     1.0000     0.1843     0.9590     0.9590     0.0000
+ 17   0     0.7930     1.0000     0.2070     0.9654     0.9654     0.0000
+ 18   0     0.8614     1.0000     0.1386     0.9685     0.9685     0.0000
+      Bond orders larger than 0.1000000
+           Atom A     A.N. of A          Atom B    A.N. of B              Bond order
+                0             6               1            6                1.441922
+                0             6               5            6                1.356599
+                0             6              12            1                0.947037
+                1             6               2            6                1.342316
+                1             6              13            1                0.947606
+                2             6               3            6                1.246861
+                2             6              14            1                0.943092
+                3             6               4            6                1.226299
+                3             6               9            7                1.367111
+                4             6               5            6                1.205300
+                4             6               6            6                1.253341
+                5             6              15            1                0.935064
+                6             6               7            6                1.413070
+                6             6              16            1                0.951754
+                7             6               8            6                1.339250
+                7             6              17            1                0.931742
+                8             6               9            7                1.418843
+                8             6              10            6                0.896942
+               10             6              11            8                2.069011
+               10             6              18            1                0.991528
+# -----------------------------------------------------------
+$ MP2_Energies
+   description: The MP2 energies
+   geom. index: 1
+   prop. index: 1
+        Reference Energy:       -514.2660134974
+        Correlation Energy:       -0.4715123700
+        Total MP2 Energy:       -514.7375258674
+# -----------------------------------------------------------
+$ VdW_Correction
+   description: The Van der Waals Correction
+   geom. index: 1
+   prop. index: 1
+        Van der Waals Correction:       -0.0091270584
+# -----------------------------------------------------------
+$ Calculation_Info
+   description: Details of the calculation
+   geom. index: 1
+   prop. index: 1
+     Multiplicity:                          2
+     Charge:                                1
+     number of atoms:                       19
+     number of electrons:                   0
+     number of frozen core electrons:       1
+     number of correlated electrons:        0
+     number of basis functions:             414
+     number of aux C basis functions:       1017
+     number of aux J basis functions:       0
+     number of aux JK basis functions:      1030
+     number of aux CABS basis functions:    0
+     Total Energy                           -514.746653
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 1
+   prop. index: 1
+       Filename                          : C:/Users/emanuele/Desktop/PlacementEssay/PlacementEssay/backup/ChemspeedPlatformAllVersions/V12/Workflows/DataAnalysisWorkflow/FeatureGeneration/calculationFiles/71926//cationRadical/71926.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        8.3545219984
+        Electronic Contribution:
+                  0    
+      0       1.575871
+      1       2.471275
+      2       1.074700
+        Nuclear Contribution:
+                  0    
+      0      -3.419884
+      1      -4.948545
+      2      -2.199942
+        Total Dipole moment:
+                  0    
+      0      -1.844013
+      1      -2.477270
+      2      -1.125242
+# -------------------------------------------------------------
+----------------------- !GEOMETRIES! ------------------------
+# -------------------------------------------------------------
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    19 
+    Geometry Index:     1 
+    Coordinates:
+               0 C     -1.823185000000   -2.014116000000   -1.098586000000
+               1 C     -2.591212000000   -0.856975000000   -0.869576000000
+               2 C     -2.003599000000    0.286390000000   -0.398130000000
+               3 C     -0.617776000000    0.319522000000   -0.135203000000
+               4 C      0.162211000000   -0.856510000000   -0.368018000000
+               5 C     -0.474808000000   -2.014789000000   -0.853223000000
+               6 C      1.543865000000   -0.787904000000   -0.094448000000
+               7 C      2.081395000000    0.375448000000    0.374365000000
+               8 C      1.228701000000    1.482604000000    0.571908000000
+               9 N     -0.070738000000    1.467619000000    0.330391000000
+              10 C      1.764115000000    2.767561000000    1.078881000000
+              11 O      2.929896000000    2.962917000000    1.353325000000
+              12 H     -2.304516000000   -2.908233000000   -1.471248000000
+              13 H     -3.654121000000   -0.875618000000   -1.068983000000
+              14 H     -2.573556000000    1.186246000000   -0.215142000000
+              15 H      0.115617000000   -2.905086000000   -1.029467000000
+              16 H      2.162571000000   -1.661131000000   -0.260006000000
+              17 H      3.132959000000    0.479482000000    0.599099000000
+              18 H      0.992179000000    3.552571000000    1.188360000000

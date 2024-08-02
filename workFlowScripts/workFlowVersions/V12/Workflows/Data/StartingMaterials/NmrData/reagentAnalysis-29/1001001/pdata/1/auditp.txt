@@ -1,0 +1,40 @@
+##TITLE= Audit trail, TopSpin 4.3.0
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ C:\NMRData\EB\projectGunther\FullRuns\FullRun2\2024-06-06-reagentAnalysis-NMR/reagentAnalysis-29/1001001/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2024-06-06T21:04:06.595+0000>,<4CE1161FJM\nmrsu>,<4CE1161FJM>,<go4>,<TopSpin 4.3.0>,
+      <acquisition in progress>)
+$$ C:/NMRData/EB/projectGunther/FullRuns/FullRun2/2024-06-06-reagentAnalysis-NMR/reagentAnalysis-29/1001001/audita.txt
+(   2,<2024-06-06T21:04:12.584+0000>,<4CE1161FJM\nmrsu>,<4CE1161FJM>,<go4>,<TopSpin 4.3.0>,
+      <created by zg on 'Fourier' (4CE1161FJM) by user '4CE1161FJM\nmrsu'
+       on data set with UUID '4f85119e-2448-11ef-af9f-0000ad371d11'
+       started at 2024-06-06 21:04:06.595 +0000, POWCHK disabled, PULCHK disabled,
+       completed at 2024-06-06 21:04:12.576 +0000
+       configuration hash MD5:
+       63 31 42 D0 10 AE A8 AF 9C 7E E2 52 A7 E2 89 DB
+       double data hash MD5: 6450
+       71 D5 4A 81 BC 48 28 01 D3 A8 62 86 45 E2 A5 16>)
+(   3,<2024-06-06T22:04:09.250+0100>,<nmrsu>,<4CE1161FJM>,<proc1d>,<TopSpin 4.3.0>,
+      <Start of raw data processing
+       efp LB = 0.3 FT_mod = 6 PKNL = 1 PHC0 = 0 PHC1 = 0 SI = 64K 
+       data hash MD5: 64K
+       BB 5B B3 78 F9 BA 8D BD 71 81 E9 EF 52 7E EB 77>)
+(   4,<2024-06-06T22:04:10.000+0100>,<nmrsu>,<4CE1161FJM>,<proc1d>,<TopSpin 4.3.0>,
+      <apk0 
+       data hash MD5: 64K
+       9C B1 11 8A 60 33 2F 90 72 7A 77 58 77 BB 9F AC>)
+(   5,<2024-06-06T22:04:10.109+0100>,<nmrsu>,<4CE1161FJM>,<peak>,<TopSpin 4.3.0>,
+      <1D Peak picking
+       data hash MD5: 64K
+       9C B1 11 8A 60 33 2F 90 72 7A 77 58 77 BB 9F AC>)
+$$ C:\Users\emanuele\Desktop\PlacementEssay\PlacementEssay\backup\ChemspeedPlatformAllVersions\V12\Workflows\Data\StartingMaterials\NmrData/reagentAnalysis-29/1001001//pdata/1/auditp.txt
+(   6,<2024-06-26T11:19:56.063+0100>,<LIVAD\emanuele>,<MWS-1048587>,<sref>,<TopSpin 4.4.0>,
+      <sref
+       data hash MD5: 64K
+       9C B1 11 8A 60 33 2F 90 72 7A 77 58 77 BB 9F AC>)
+##END=
+
+$$ hash MD5
+$$ 81 C6 B6 F4 FF 2D A3 BA 88 4B 03 FE 8C DB 16 87

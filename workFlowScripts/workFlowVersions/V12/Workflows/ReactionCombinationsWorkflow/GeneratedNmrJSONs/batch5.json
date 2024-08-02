@@ -1,0 +1,578 @@
+{
+    "1": {
+        "sample_info": "23batch5: [5-Methylpicolinaldehyde, Iron(II) tetrafluoroborate hexahydrate, 4,4'-Methylenedianiline] : [25, 1, 11]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "2": {
+        "sample_info": "236: [Silver tetrafluoroborate, 2,2'-(Ethane-1,2-diyl)dianiline, 6-Methoxypyridine-2-carbaldehyde] : [5, 8, 29]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "3": {
+        "sample_info": "237: [Silver tetrafluoroborate, 2,2'-(Ethane-1,2-diyl)dianiline, 5-Methylpicolinaldehyde] : [5, 8, 25]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "4": {
+        "sample_info": "238: [Silver tetrafluoroborate, 1-Methyl-2-imidazolecarboxaldehyde, m-Xylylenediamine] : [5, 30, 12]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "5": {
+        "sample_info": "239: [Silver tetrafluoroborate, 2,2'-(Ethane-1,2-diyl)dianiline, 1-Methyl-2-imidazolecarboxaldehyde] : [5, 8, 30]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "6": {
+        "sample_info": "240: [Silver tetrafluoroborate, 4-Formyl-2-methylthiazole, 4,4'-Methylenedianiline] : [5, 28, 11]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "7": {
+        "sample_info": "241: [Silver tetrafluoroborate, 4-Formyl-2-methylthiazole, 2,2'-(Ethane-1,2-diylbis(oxy))diethanamine] : [5, 28, 9]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "8": {
+        "sample_info": "242: [Silver tetrafluoroborate, 4-Formyl-2-methylthiazole, 4,4'-Oxydianiline] : [5, 28, 18]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "9": {
+        "sample_info": "243: [Silver tetrafluoroborate, 4-Formyl-2-methylthiazole, Naphthalene-1,8-diamine] : [5, 28, 17]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "10": {
+        "sample_info": "244: [Silver tetrafluoroborate, 4-Formyl-2-methylthiazole, 4,4'-(9H-AdamantaeFlurene-9,9diyl)dianiline] : [5, 28, 14]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "11": {
+        "sample_info": "245: [Silver tetrafluoroborate, 4-Formyl-2-methylthiazole, m-Xylylenediamine] : [5, 28, 12]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "12": {
+        "sample_info": "246: [Silver tetrafluoroborate, 4-Formyl-2-methylthiazole, 2,2'-(Ethane-1,2-diyl)dianiline] : [5, 28, 8]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "13": {
+        "sample_info": "247: [Tetrakis(acetonitrile)copper(I) tetrafluoroborate, 6-Methylpyridine-2-carboxaldehyde, 4,4'-Methylenedianiline] : [4, 21, 11]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "14": {
+        "sample_info": "248: [Tetrakis(acetonitrile)copper(I) tetrafluoroborate, 6-Methylpyridine-2-carboxaldehyde, 2,2'-(Ethane-1,2-diylbis(oxy))diethanamine] : [4, 21, 9]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "15": {
+        "sample_info": "249: [Tetrakis(acetonitrile)copper(I) tetrafluoroborate, 6-Methylpyridine-2-carboxaldehyde, 4,4'-Oxydianiline] : [4, 21, 18]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "16": {
+        "sample_info": "250: [Tetrakis(acetonitrile)copper(I) tetrafluoroborate, 6-Methoxypyridine-2-carbaldehyde, 4,4'-Methylenedianiline] : [4, 29, 11]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "17": {
+        "sample_info": "251: [Tetrakis(acetonitrile)copper(I) tetrafluoroborate, 6-Methoxypyridine-2-carbaldehyde, 2,2'-(Ethane-1,2-diylbis(oxy))diethanamine] : [4, 29, 9]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "18": {
+        "sample_info": "252: [Tetrakis(acetonitrile)copper(I) tetrafluoroborate, 6-Methoxypyridine-2-carbaldehyde, 4,4'-Oxydianiline] : [4, 29, 18]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "19": {
+        "sample_info": "253: [Tetrakis(acetonitrile)copper(I) tetrafluoroborate, Naphthalene-1,8-diamine, 6-Methylpyridine-2-carboxaldehyde] : [4, 17, 21]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "20": {
+        "sample_info": "254: [Tetrakis(acetonitrile)copper(I) tetrafluoroborate, 4,4'-(9H-AdamantaeFlurene-9,9diyl)dianiline, 6-Methylpyridine-2-carboxaldehyde] : [4, 14, 21]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "21": {
+        "sample_info": "255: [Tetrakis(acetonitrile)copper(I) tetrafluoroborate, Naphthalene-1,8-diamine, 6-Methoxypyridine-2-carbaldehyde] : [4, 17, 29]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "22": {
+        "sample_info": "256: [Tetrakis(acetonitrile)copper(I) tetrafluoroborate, 4,4'-(9H-AdamantaeFlurene-9,9diyl)dianiline, 6-Methoxypyridine-2-carbaldehyde] : [4, 14, 29]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "23": {
+        "sample_info": "257: [Tetrakis(acetonitrile)copper(I) tetrafluoroborate, 5-Methylpicolinaldehyde, 4,4'-Methylenedianiline] : [4, 25, 11]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "24": {
+        "sample_info": "258: [Tetrakis(acetonitrile)copper(I) tetrafluoroborate, 5-Methylpicolinaldehyde, 2,2'-(Ethane-1,2-diylbis(oxy))diethanamine] : [4, 25, 9]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "25": {
+        "sample_info": "259: [Tetrakis(acetonitrile)copper(I) tetrafluoroborate, 5-Methylpicolinaldehyde, 4,4'-Oxydianiline] : [4, 25, 18]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "26": {
+        "sample_info": "260: [Tetrakis(acetonitrile)copper(I) tetrafluoroborate, 5-Methylpicolinaldehyde, Naphthalene-1,8-diamine] : [4, 25, 17]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "27": {
+        "sample_info": "261: [Tetrakis(acetonitrile)copper(I) tetrafluoroborate, 5-Methylpicolinaldehyde, 4,4'-(9H-AdamantaeFlurene-9,9diyl)dianiline] : [4, 25, 14]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "28": {
+        "sample_info": "262: [Tetrakis(acetonitrile)copper(I) tetrafluoroborate, m-Xylylenediamine, 6-Methylpyridine-2-carboxaldehyde] : [4, 12, 21]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "29": {
+        "sample_info": "263: [Tetrakis(acetonitrile)copper(I) tetrafluoroborate, m-Xylylenediamine, 6-Methoxypyridine-2-carbaldehyde] : [4, 12, 29]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "30": {
+        "sample_info": "264: [Tetrakis(acetonitrile)copper(I) tetrafluoroborate, m-Xylylenediamine, 5-Methylpicolinaldehyde] : [4, 12, 25]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "31": {
+        "sample_info": "265: [Tetrakis(acetonitrile)copper(I) tetrafluoroborate, 1-Methyl-2-imidazolecarboxaldehyde, 4,4'-Methylenedianiline] : [4, 30, 11]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "32": {
+        "sample_info": "266: [Tetrakis(acetonitrile)copper(I) tetrafluoroborate, 1-Methyl-2-imidazolecarboxaldehyde, 2,2'-(Ethane-1,2-diylbis(oxy))diethanamine] : [4, 30, 9]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "33": {
+        "sample_info": "267: [Tetrakis(acetonitrile)copper(I) tetrafluoroborate, 1-Methyl-2-imidazolecarboxaldehyde, 4,4'-Oxydianiline] : [4, 30, 18]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "34": {
+        "sample_info": "268: [Tetrakis(acetonitrile)copper(I) tetrafluoroborate, 2,2'-(Ethane-1,2-diyl)dianiline, 6-Methylpyridine-2-carboxaldehyde] : [4, 8, 21]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "35": {
+        "sample_info": "269: [Tetrakis(acetonitrile)copper(I) tetrafluoroborate, 1-Methyl-2-imidazolecarboxaldehyde, Naphthalene-1,8-diamine] : [4, 30, 17]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "36": {
+        "sample_info": "270: [Tetrakis(acetonitrile)copper(I) tetrafluoroborate, 1-Methyl-2-imidazolecarboxaldehyde, 4,4'-(9H-AdamantaeFlurene-9,9diyl)dianiline] : [4, 30, 14]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "37": {
+        "sample_info": "271: [Tetrakis(acetonitrile)copper(I) tetrafluoroborate, 2,2'-(Ethane-1,2-diyl)dianiline, 6-Methoxypyridine-2-carbaldehyde] : [4, 8, 29]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "38": {
+        "sample_info": "272: [Tetrakis(acetonitrile)copper(I) tetrafluoroborate, 2,2'-(Ethane-1,2-diyl)dianiline, 5-Methylpicolinaldehyde] : [4, 8, 25]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "39": {
+        "sample_info": "273: [Tetrakis(acetonitrile)copper(I) tetrafluoroborate, 1-Methyl-2-imidazolecarboxaldehyde, m-Xylylenediamine] : [4, 30, 12]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "40": {
+        "sample_info": "274: [Tetrakis(acetonitrile)copper(I) tetrafluoroborate, 2,2'-(Ethane-1,2-diyl)dianiline, 1-Methyl-2-imidazolecarboxaldehyde] : [4, 8, 30]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "41": {
+        "sample_info": "275: [Tetrakis(acetonitrile)copper(I) tetrafluoroborate, 4-Formyl-2-methylthiazole, 4,4'-Methylenedianiline] : [4, 28, 11]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "42": {
+        "sample_info": "276: [Tetrakis(acetonitrile)copper(I) tetrafluoroborate, 4-Formyl-2-methylthiazole, 2,2'-(Ethane-1,2-diylbis(oxy))diethanamine] : [4, 28, 9]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "43": {
+        "sample_info": "277: [Tetrakis(acetonitrile)copper(I) tetrafluoroborate, 4-Formyl-2-methylthiazole, 4,4'-Oxydianiline] : [4, 28, 18]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "44": {
+        "sample_info": "278: [Tetrakis(acetonitrile)copper(I) tetrafluoroborate, 4-Formyl-2-methylthiazole, Naphthalene-1,8-diamine] : [4, 28, 17]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "45": {
+        "sample_info": "279: [Tetrakis(acetonitrile)copper(I) tetrafluoroborate, 4-Formyl-2-methylthiazole, 4,4'-(9H-AdamantaeFlurene-9,9diyl)dianiline] : [4, 28, 14]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "46": {
+        "sample_info": "280: [Tetrakis(acetonitrile)copper(I) tetrafluoroborate, 4-Formyl-2-methylthiazole, m-Xylylenediamine] : [4, 28, 12]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "47": {
+        "sample_info": "281: [Tetrakis(acetonitrile)copper(I) tetrafluoroborate, 4-Formyl-2-methylthiazole, 2,2'-(Ethane-1,2-diyl)dianiline] : [4, 28, 8]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    },
+    "48": {
+        "sample_info": "282: [Tetrakis(acetonitrile)copper(I) tetrafluoroborate, 2-Quinolinecarboxaldehyde, 4,4'-Methylenedianiline] : [4, 24, 11]",
+        "solvent": "CH3CN",
+        "nmr_experiments": [
+            {
+                "parameters": "MULTISUPPDC_f",
+                "num_scans": 64,
+                "pp_threshold": 0.008,
+                "field_presat": 10
+            }
+        ]
+    }
+}

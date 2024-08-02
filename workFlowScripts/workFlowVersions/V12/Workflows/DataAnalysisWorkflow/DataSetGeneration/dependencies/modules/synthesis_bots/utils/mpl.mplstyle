@@ -1,0 +1,42 @@
+### FIGURE
+figure.facecolor: white
+figure.dpi: 100
+figure.titlesize: 14
+figure.titleweight: bold
+figure.constrained_layout.use: True
+figure.figsize: 16.5, 3.5
+
+### LINES
+lines.linewidth: 2
+
+### LEGEND
+legend.fontsize: 12
+
+### FONTS
+font.family: sans-serif
+font.sans-serif: Arial, Helvetica, sans-serif
+font.weight: bold
+font.size: 18
+
+### AXES
+axes.grid: False
+axes.facecolor: white
+axes.linewidth: 2.0
+axes.titlesize: 16
+axes.titleweight: bold
+axes.labelsize: 18
+axes.labelweight: bold
+axes.spines.top: True
+axes.spines.right: True
+axes.prop_cycle: cycler('color', ['D55E00','0072B2','009E73','CC79A7','E69F00','56B4E9','000000','F0E442'])
+xtick.major.width:   2.0
+xtick.major.size:    8
+xtick.labelsize:     18
+xtick.major.pad:     5
+ytick.major.width:   2.0
+ytick.major.size:    8
+ytick.labelsize:     18
+ytick.major.pad:     5
+
+### SCATTER
+scatter.marker: .
