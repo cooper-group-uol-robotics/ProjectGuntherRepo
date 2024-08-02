@@ -1,0 +1,116 @@
+
+Parameters for D:\Projects\Gunther.PRO\ACQUDB\SupraChemCage.EXP
+
+Data Processing:
+SIR / MRM Chromatogram Spike Removal	ON
+SIR / MRM Smoothing		OFF
+Smoothing window size (scans)	3
+Number of smooths		2
+
+
+Prescan Statistics:
+Initial Average Intensity	93.5010
+Initial Average Std Dev		12.5165
+Bunch Zero Level		0.0002
+Bunch Std Dev			0.0055
+Bunch Threshold			0.0439
+Spike Removal Std Dev		12.5161
+
+
+Method Events:
+Initial Stop Flow:	No Change
+Initial Switch 2:	No Change
+Initial Switch 3:	No Change
+Initial Switch 4:	No Change
+Initial Infusion:	No Change
+Initial Flow State:	LC
+Initial Flow Rate:	5
+Initial Reservoir:	No Action
+API Probe Delay Temp:	20
+Initial Refill:		No Action
+Timed Events Enabled
+Event	Time(Sec)	Name		Action
+
+
+Source Information:
+Type - ESI
+Status - Option Connector Disconnected
+
+Ion Count Threshold:	30.0000
+
+Instrument Parameters - Function 1:
+Parameter File - D:\Projects\Gunther.PRO\ACQUDB\SupraChemCage.IPR
+Polarity	ES+
+Calibration	Dynamic 1
+Capillary (kV)	3.37
+Cone (V)	20.00
+RF (V)	2.50
+Extractor (V)	3.00
+Source Temperature (°C)	150
+Desolvation Temperature (°C)	200
+Cone Gas Flow (L/Hr)	0
+Desolvation Gas Flow (L/Hr)	650
+LM 1 Resolution	11.55
+HM 1 Resolution	14.36
+Ion Energy 1	0.80
+Gain	1.00
+Active Reservoir	Unknown
+Cone Energy Ramp :Disabled
+Probe Temperature Ramp :Disabled
+Collision Energy Ramp :Disabled
+
+Instrument Parameters - Function 2:
+Parameter File - D:\Projects\Gunther.PRO\ACQUDB\SupraChemCage.IPR
+Polarity	ES-
+Calibration	Dynamic 1
+Capillary (kV)	2.00
+Cone (V)	77.00
+RF (V)	2.50
+Extractor (V)	3.00
+Source Temperature (°C)	150
+Desolvation Temperature (°C)	200
+Cone Gas Flow (L/Hr)	0
+Desolvation Gas Flow (L/Hr)	650
+LM 1 Resolution	13.00
+HM 1 Resolution	14.26
+Ion Energy 1	0.70
+Gain	1.00
+Active Reservoir	Unknown
+Cone Energy Ramp :Disabled
+Probe Temperature Ramp :Disabled
+Collision Energy Ramp :Disabled
+
+
+Engineers Settings:
+Low Mass Position       	517
+High Mass Position      	475
+Low Mass Resolution     	516
+High Mass Resolution    	2070
+Resolution Linearity    	724
+High Mass DC Balance    	-0.45
+DC Polarity             	Negative
+HM RF Lens Correction + 	0.00
+HM RF Lens Correction - 	0.00
+
+
+   Instrument Readbacks   
+Capillary (kV)	0.09
+Cone (V)	9.04
+Extractor (V)	3.17
+Source Temperature (°C)	148
+Desolvation Temperature (°C)	200
+Cone Gas Flow (L/Hr)	1
+Desolvation Gas Flow (L/Hr)	649
+
+
+Inter-scan delays:
+Automatic Mode
+MS Delay Table
+         R     delay
+<=   1.000     0.003
+<=   1.500     0.004
+<=   3.000     0.005
+<=   7.000     0.007
+<=  11.000     0.009
+<=  30.000     0.010
+>   30.000     0.011
