@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList>
+  <PeakList1D>
+    <PeakList1DHeader creator="nmrsu" date="2024-05-28T10:38:21.396+01:00" expNo="1001001" name="batch7-06" owner="" procNo="1" source="C:\NMRData\EB\projectGunther\FullRuns\FullRun2\2024-05-28-batch7-NMR">
+      <PeakPickDetails>F1=1000.000000ppm, F2=-1000.000000ppm, MI=0.01cm, MAXI=1.50cm, PC=5.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="2.914057" intensity="1.013514e-02" type="0"/>
+    <Peak1D F1="2.266691" intensity="1.019478e-02" type="0"/>
+    <Peak1D F1="2.125677" intensity="5.559104e-02" type="0"/>
+    <Peak1D F1="2.068711" intensity="1.000000e+00" type="0"/>
+    <Peak1D F1="2.004022" intensity="3.146618e-02" type="0"/>
+    <Peak1D F1="1.213790" intensity="9.842954e-03" type="0"/>
+  </PeakList1D>
+</PeakList>
