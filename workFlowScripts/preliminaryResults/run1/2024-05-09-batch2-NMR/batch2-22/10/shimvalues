@@ -1,0 +1,92 @@
+# Thu May  9 12:37:52 2024
+#$$PROBEIDENTIFIER=Z181180_000046
+#$$PROBENAME=PHF-DUL80B-H/C/F-5.0-Z
+#$$SHIMID=bfss1b
+#
+# Active Shim Gradients
+#
+Z           		-2493           
+Z2          		-10799          
+Z3          		3086            
+Z4          		-2466           
+Z5          		6002            
+Z6          		17587           
+X           		3810            
+XZ          		3639            
+XZ2         		569             
+XZ3         		-362            
+XZ4         		-3405           
+XZ5         		-13083          
+Y           		-554            
+YZ          		-56             
+YZ2         		579             
+YZ3         		1607            
+YZ4         		13699           
+YZ5         		-55397          
+XY          		-1784           
+XYZ         		4184            
+XYZ2        		-208            
+XYZ3        		-1194           
+XYZ4        		3098            
+XYZ5        		9045            
+(X2-Y2)     		-3340           
+(X2-Y2)Z    		2634            
+(X2-Y2)Z2   		-2743           
+(X2-Y2)Z3   		-2859           
+(X2-Y2)Z4   		18706           
+(X2-Y2)Z5   		-44325          
+X3          		13587           
+X3Z         		-4949           
+Y3          		1434            
+Y3Z         		-1290           
+#
+# Lock Parameter
+#
+FIELD		   0.000
+LOCKPHASE		   0.000
+LOCKPOWER		 -10.000
+LOCKGAIN		   0.000
+LOCKDC		   0.000
+LOCKSHIFT		   0.000
+LOOPGAIN		 -10.000
+LOOPTIME		   0.400
+LOOPFILTER		 100.000
+#
+IEEE64_VERSION_CODE 1
+#
+# Shim currents 
+#
+SHIM_SETTING [ 1]       -0.35412200
+SHIM_SETTING [ 2]        0.22969700
+SHIM_SETTING [ 3]        0.18549900
+SHIM_SETTING [ 4]       -0.94827700
+SHIM_SETTING [ 5]        0.29310400
+SHIM_SETTING [ 6]       -0.03871600
+SHIM_SETTING [ 7]        0.48147700
+SHIM_SETTING [ 8]       -0.18881800
+SHIM_SETTING [ 9]        0.17158600
+SHIM_SETTING [10]       -0.10778200
+SHIM_SETTING [11]       -0.14891800
+SHIM_SETTING [12]        0.08540000
+SHIM_SETTING [13]       -0.00511600
+SHIM_SETTING [14]        0.05221200
+SHIM_SETTING [15]       -0.02182100
+SHIM_SETTING [16]        0.04456700
+SHIM_SETTING [17]        0.05606700
+SHIM_SETTING [18]        0.16360900
+SHIM_SETTING [19]        0.02605200
+SHIM_SETTING [20]       -0.84883600
+SHIM_SETTING [21]       -0.09797800
+SHIM_SETTING [22]        0.21186800
+SHIM_SETTING [23]       -0.06905100
+SHIM_SETTING [24]        0.16227000
+SHIM_SETTING [25]        0.15811000
+SHIM_SETTING [26]       -0.03555200
+SHIM_SETTING [27]        0.08909500
+SHIM_SETTING [28]        0.24122000
+SHIM_SETTING [29]       -0.03652200
+SHIM_SETTING [30]        0.00072600
+SHIM_SETTING [31]       -0.09942300
+SHIM_SETTING [32]       -0.08488200
+SHIM_SETTING [33]       -0.06981700
+SHIM_SETTING [34]        0.03637900

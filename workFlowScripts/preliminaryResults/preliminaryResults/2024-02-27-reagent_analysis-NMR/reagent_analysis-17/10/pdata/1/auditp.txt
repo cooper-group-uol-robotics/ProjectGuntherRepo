@@ -1,0 +1,46 @@
+##TITLE= Audit trail, TopSpin 4.3.0
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ C:\NMRData\EB\projectGunther\2024-02-27-reagent_analysis-NMR/reagent_analysis-17/10/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2024-02-27T18:02:25.447+0000>,<nmrsu>,<4CE1161FJM>,<cprserver>,<TopSpin 4.3.0>,
+      <changed parameter F1 SOLVENT to CH3CN>)
+(   2,<2024-02-27T18:02:33.991+0000>,<nmrsu>,<4CE1161FJM>,<cprserver>,<TopSpin 4.3.0>,
+      <changed parameter F1 NS to 64>)
+(   3,<2024-02-27T18:03:04.921+0000>,<4CE1161FJM\nmrsu>,<4CE1161FJM>,<go4>,<TopSpin 4.3.0>,
+      <acquisition in progress>)
+(   4,<2024-02-27T18:10:29.246+0000>,<4CE1161FJM\nmrsu>,<4CE1161FJM>,<go4>,<TopSpin 4.3.0>,
+      <created by zg on 'Fourier' (4CE1161FJM) by user '4CE1161FJM\nmrsu'
+       on data set with UUID '70523e1c-d59a-11ee-8e82-0000ad371d11'
+       started at 2024-02-27 18:03:04.921 +0000, POWCHK disabled, PULCHK disabled,
+       completed at 2024-02-27 18:10:29.238 +0000
+       configuration hash MD5:
+       63 31 42 D0 10 AE A8 AF 9C 7E E2 52 A7 E2 89 DB
+       double data hash MD5: 8K
+       5B 39 C9 BD C4 98 AB BC 11 87 CE 5E 5E 2E D3 CD>)
+(   5,<2024-02-28T08:52:32.850+0000>,<nmrsu>,<4CE1161FJM>,<proc1d>,<TopSpin 4.3.0>,
+      <Start of raw data processing
+       efp LB = 0.3 FT_mod = 6 PKNL = 1 PHC0 = 216.14 PHC1 = 0 SI = 32K 
+       data hash MD5: 32K
+       71 29 F4 99 11 D3 BF C2 9C 58 B4 3E EA 76 18 08>)
+(   6,<2024-02-28T08:52:39.375+0000>,<nmrsu>,<4CE1161FJM>,<proc1d>,<TopSpin 4.3.0>,
+      <apk 
+       data hash MD5: 32K
+       2E 1B FE 65 A2 4E 8D 98 C0 D2 99 A4 82 27 BE C6>)
+(   7,<2024-02-28T08:53:45.129+0000>,<nmrsu>,<4CE1161FJM>,<proc1d>,<TopSpin 4.3.0>,
+      <pk fgphup PHC0 = -90 PHC1 = 0 
+       data hash MD5: 32K
+       A3 9A 2F E1 77 37 EA EA 97 0E EF 29 B6 4F 00 FC>)
+(   8,<2024-02-28T08:54:54.596+0000>,<nmrsu>,<4CE1161FJM>,<proc1d>,<TopSpin 4.3.0>,
+      <pk fgphup PHC0 = 90 PHC1 = 0 
+       data hash MD5: 32K
+       F4 57 E3 02 53 44 2E DB 9E 81 FA 26 BB 20 44 1F>)
+(   9,<2024-02-28T09:26:24.269+0000>,<nmrsu>,<4CE1161FJM>,<proc1d>,<TopSpin 4.3.0>,
+      <apk 
+       data hash MD5: 32K
+       61 98 8F 53 8A 8D 89 B9 44 F9 63 81 B6 50 E1 58>)
+##END=
+
+$$ hash MD5
+$$ 4D 70 2F 66 FA 37 AE D5 08 83 75 08 57 2C 13 75

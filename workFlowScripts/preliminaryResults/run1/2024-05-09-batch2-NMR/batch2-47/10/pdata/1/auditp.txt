@@ -1,0 +1,44 @@
+##TITLE= Audit trail, TopSpin 4.3.0
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ C:\NMRData\EB\projectGunther\FullRun\2024-05-09-batch2-NMR/batch2-47/10/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2024-05-09T15:47:49.371+0100>,<nmrsu>,<4CE1161FJM>,<cprserver>,<TopSpin 4.3.0>,
+      <changed parameter F1 SOLVENT to CH3CN>)
+(   2,<2024-05-09T15:47:50.766+0100>,<nmrsu>,<4CE1161FJM>,<cprserver>,<TopSpin 4.3.0>,
+      <changed parameter F1 NS to 8>)
+(   3,<2024-05-09T14:48:19.774+0000>,<4CE1161FJM\nmrsu>,<4CE1161FJM>,<go4>,<TopSpin 4.3.0>,
+      <acquisition in progress>)
+(   4,<2024-05-09T14:49:45.272+0000>,<4CE1161FJM\nmrsu>,<4CE1161FJM>,<go4>,<TopSpin 4.3.0>,
+      <created by zg on 'Fourier' (4CE1161FJM) by user '4CE1161FJM\nmrsu'
+       on data set with UUID '294c4ec0-0e13-11ef-813d-0000ad371d11'
+       started at 2024-05-09 14:48:19.774 +0000, POWCHK disabled, PULCHK disabled,
+       completed at 2024-05-09 14:49:45.264 +0000
+       configuration hash MD5:
+       63 31 42 D0 10 AE A8 AF 9C 7E E2 52 A7 E2 89 DB
+       double data hash MD5: 8K
+       4D AD F1 F9 58 2D 0F BF C1 0A CA 71 67 CA 1B 16>)
+(   5,<2024-05-09T16:10:33.703+0100>,<nmrsu>,<4CE1161FJM>,<proc1d>,<TopSpin 4.3.0>,
+      <Start of raw data processing
+       efp LB = 0.3 FT_mod = 6 PKNL = 1 PHC0 = 216.14 PHC1 = 0 SI = 32K 
+       data hash MD5: 32K
+       D1 06 B2 45 09 F6 F2 64 70 8F B8 AE 9C 31 2B 0D>)
+(   6,<2024-05-09T16:10:34.250+0100>,<nmrsu>,<4CE1161FJM>,<proc1d>,<TopSpin 4.3.0>,
+      <apk 
+       data hash MD5: 32K
+       4E 7A 7D EB FD 7C AB F4 3A A7 D3 2D 5E CE 22 44>)
+$$ C:/NMRData/EB/projectGunther/FullRuns/FullRun1/2024-05-09-batch2-NMR/batch2-47/10/pdata/1/auditp.txt
+(   7,<2024-05-13T12:40:55.872+0100>,<nmrsu>,<4CE1161FJM>,<proc1d>,<TopSpin 4.3.0>,
+      <Start of raw data processing
+       efp LB = 0.3 FT_mod = 6 PKNL = 1 PHC0 = 106.409 PHC1 = 5.382476 SI = 32K 
+       data hash MD5: 32K
+       A9 DD B1 71 B2 E3 92 C5 37 16 01 FB B8 EC 60 BA>)
+(   8,<2024-05-13T12:40:56.466+0100>,<nmrsu>,<4CE1161FJM>,<proc1d>,<TopSpin 4.3.0>,
+      <apk 
+       data hash MD5: 32K
+       A9 DD B1 71 B2 E3 92 C5 37 16 01 FB B8 EC 60 BA>)
+##END=
+
+$$ hash MD5
+$$ 54 91 5C 2D 6E E2 80 82 E4 4F 87 3A B8 44 FC C5

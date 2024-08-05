@@ -1,0 +1,22 @@
+##TITLE= Audit trail, TopSpin 4.3.0
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= root
+$$ /root/.topspin-BladeEpu/local_acqu/reagent_analysis-13/1001001/audita.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2024-02-27T17:17:37.319+0000>,<4CE1161FJM\nmrsu>,<4CE1161FJM>,<go4>,<TopSpin 4.3.0>,
+      <acquisition in progress>)
+$$ C:/NMRData/EB/projectGunther/2024-02-27-reagent_analysis-NMR/reagent_analysis-13/1001001/audita.txt
+(   2,<2024-02-27T17:17:43.500+0000>,<4CE1161FJM\nmrsu>,<4CE1161FJM>,<go4>,<TopSpin 4.3.0>,
+      <created by zg on 'Fourier' (4CE1161FJM) by user '4CE1161FJM\nmrsu'
+       on data set with UUID '1a732f3e-d594-11ee-8903-0000ad371d11'
+       started at 2024-02-27 17:17:37.319 +0000, POWCHK disabled, PULCHK disabled,
+       completed at 2024-02-27 17:17:43.492 +0000
+       configuration hash MD5:
+       63 31 42 D0 10 AE A8 AF 9C 7E E2 52 A7 E2 89 DB
+       double data hash MD5: 6450
+       09 86 12 86 A2 28 FF 8F 63 35 B9 92 34 AE 5C 6B>)
+##END=
+
+$$ hash MD5
+$$ F1 49 FB 69 A0 66 39 53 A8 1F DF B5 75 AD EC BF

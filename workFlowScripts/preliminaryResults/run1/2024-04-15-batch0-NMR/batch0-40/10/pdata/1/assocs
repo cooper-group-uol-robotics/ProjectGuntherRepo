@@ -1,0 +1,11 @@
+##TITLE= Parameter file, TopSpin 4.3.0
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 1	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ 2024-05-13 15:12:11.865 +0100  nmrsu@4CE1161FJM
+$$ C:/NMRData/EB/projectGunther/FullRuns/FullRun1/2024-04-15-batch0-NMR/batch0-40/10/pdata/1/assocs
+$$ process C:\Bruker\TopSpin4.3.0\prog\mod\dataserver.exe
+##$MULTDISP= <C:/NMRData/EB/projectGunther/PriliminaryResults/2024-02-28-batch0-NMR/batch0-40/10/pdata/1>
+##END=
